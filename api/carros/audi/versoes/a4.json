@@ -1,0 +1,1244 @@
+{
+    "1995": [
+      {
+        "id": 810,
+        "idUrl": "a4-avant-28-v6-12v-1995",
+        "nome": "A4 Avant 2.8 V6 12V",
+        "ano": 1995
+      },
+      {
+        "id": 944,
+        "idUrl": "a4-28-v6-12v-1995",
+        "nome": "A4 2.8 V6 12V",
+        "ano": 1995
+      },
+      {
+        "id": 635,
+        "idUrl": "a4-18-20v-turbo-1995",
+        "nome": "A4 1.8 20V Turbo",
+        "ano": 1995
+      },
+      {
+        "id": 681,
+        "idUrl": "a4-18-20v-1995",
+        "nome": "A4 1.8 20V",
+        "ano": 1995
+      }
+    ],
+    "1996": [
+      {
+        "id": 1004,
+        "idUrl": "a4-avant-18-20v-turbo-tiptronic-1996",
+        "nome": "A4 Avant 1.8 20V Turbo (tiptronic)",
+        "ano": 1996
+      },
+      {
+        "id": 995,
+        "idUrl": "a4-avant-18-20v-turbo-1996",
+        "nome": "A4 Avant 1.8 20V Turbo",
+        "ano": 1996
+      },
+      {
+        "id": 636,
+        "idUrl": "a4-18-20v-turbo-1996",
+        "nome": "A4 1.8 20V Turbo",
+        "ano": 1996
+      },
+      {
+        "id": 682,
+        "idUrl": "a4-18-20v-1996",
+        "nome": "A4 1.8 20V",
+        "ano": 1996
+      }
+    ],
+    "1997": [
+      {
+        "id": 817,
+        "idUrl": "a4-avant-28-v6-30v-tiptronic-1997",
+        "nome": "A4 Avant 2.8 V6 30V (tiptronic)",
+        "ano": 1997
+      },
+      {
+        "id": 811,
+        "idUrl": "a4-avant-28-v6-12v-tiptronic-1997",
+        "nome": "A4 Avant 2.8 V6 12V (tiptronic)",
+        "ano": 1997
+      },
+      {
+        "id": 1003,
+        "idUrl": "a4-avant-18-20v-turbo-tiptronic-1997",
+        "nome": "A4 Avant 1.8 20V Turbo (tiptronic)",
+        "ano": 1997
+      },
+      {
+        "id": 994,
+        "idUrl": "a4-avant-18-20v-turbo-1997",
+        "nome": "A4 Avant 1.8 20V Turbo",
+        "ano": 1997
+      },
+      {
+        "id": 993,
+        "idUrl": "a4-avant-18-20v-aut-1997",
+        "nome": "A4 Avant 1.8 20V (aut)",
+        "ano": 1997
+      },
+      {
+        "id": 633,
+        "idUrl": "a4-18-20v-aut-1997",
+        "nome": "A4 1.8 20V (aut)",
+        "ano": 1997
+      },
+      {
+        "id": 988,
+        "idUrl": "a4-avant-18-20v-1997",
+        "nome": "A4 Avant 1.8 20V",
+        "ano": 1997
+      },
+      {
+        "id": 945,
+        "idUrl": "a4-28-v6-12v-tiptronic-1997",
+        "nome": "A4 2.8 V6 12V (tiptronic)",
+        "ano": 1997
+      },
+      {
+        "id": 1009,
+        "idUrl": "a4-28-v6-30v-tiptronic-1997",
+        "nome": "A4 2.8 V6 30V (tiptronic)",
+        "ano": 1997
+      },
+      {
+        "id": 946,
+        "idUrl": "a4-28-v6-30v-1997",
+        "nome": "A4 2.8 V6 30V",
+        "ano": 1997
+      },
+      {
+        "id": 654,
+        "idUrl": "a4-18-20v-turbo-tiptronic-1997",
+        "nome": "A4 1.8 20V Turbo (tiptronic)",
+        "ano": 1997
+      },
+      {
+        "id": 683,
+        "idUrl": "a4-18-20v-1997",
+        "nome": "A4 1.8 20V",
+        "ano": 1997
+      },
+      {
+        "id": 637,
+        "idUrl": "a4-18-20v-turbo-1997",
+        "nome": "A4 1.8 20V Turbo",
+        "ano": 1997
+      }
+    ],
+    "1998": [
+      {
+        "id": 816,
+        "idUrl": "a4-avant-28-v6-30v-tiptronic-1998",
+        "nome": "A4 Avant 2.8 V6 30V (tiptronic)",
+        "ano": 1998
+      },
+      {
+        "id": 921,
+        "idUrl": "a4-avant-18-20v-turbo-tiptronic-1998",
+        "nome": "A4 Avant 1.8 20V Turbo (tiptronic)",
+        "ano": 1998
+      },
+      {
+        "id": 860,
+        "idUrl": "a4-avant-24-v6-30v-tiptronic-1998",
+        "nome": "A4 Avant 2.4 V6 30V (tiptronic)",
+        "ano": 1998
+      },
+      {
+        "id": 858,
+        "idUrl": "a4-avant-24-v6-30v-1998",
+        "nome": "A4 Avant 2.4 V6 30V",
+        "ano": 1998
+      },
+      {
+        "id": 1010,
+        "idUrl": "a4-28-v6-30v-tiptronic-1998",
+        "nome": "A4 2.8 V6 30V (tiptronic)",
+        "ano": 1998
+      },
+      {
+        "id": 812,
+        "idUrl": "a4-avant-28-v6-30v-1998",
+        "nome": "A4 Avant 2.8 V6 30V",
+        "ano": 1998
+      },
+      {
+        "id": 996,
+        "idUrl": "a4-avant-18-20v-turbo-1998",
+        "nome": "A4 Avant 1.8 20V Turbo",
+        "ano": 1998
+      },
+      {
+        "id": 948,
+        "idUrl": "a4-28-v6-30v-1998",
+        "nome": "A4 2.8 V6 30V",
+        "ano": 1998
+      },
+      {
+        "id": 937,
+        "idUrl": "a4-24-v6-30v-tiptronic-1998",
+        "nome": "A4 2.4 V6 30V (tiptronic)",
+        "ano": 1998
+      },
+      {
+        "id": 632,
+        "idUrl": "a4-18-20v-aut-1998",
+        "nome": "A4 1.8 20V (aut)",
+        "ano": 1998
+      },
+      {
+        "id": 985,
+        "idUrl": "a4-avant-18-20v-1998",
+        "nome": "A4 Avant 1.8 20V",
+        "ano": 1998
+      },
+      {
+        "id": 638,
+        "idUrl": "a4-18-20v-turbo-1998",
+        "nome": "A4 1.8 20V Turbo",
+        "ano": 1998
+      },
+      {
+        "id": 646,
+        "idUrl": "a4-18-20v-turbo-avr-210hp-1998",
+        "nome": "A4 1.8 20V Turbo (AVR 210hp)",
+        "ano": 1998
+      },
+      {
+        "id": 647,
+        "idUrl": "a4-18-20v-turbo-avr-240hp-1998",
+        "nome": "A4 1.8 20V Turbo (AVR 240hp)",
+        "ano": 1998
+      },
+      {
+        "id": 932,
+        "idUrl": "a4-24-v6-30v-1998",
+        "nome": "A4 2.4 V6 30V",
+        "ano": 1998
+      },
+      {
+        "id": 653,
+        "idUrl": "a4-18-20v-turbo-tiptronic-1998",
+        "nome": "A4 1.8 20V Turbo (tiptronic)",
+        "ano": 1998
+      },
+      {
+        "id": 684,
+        "idUrl": "a4-18-20v-1998",
+        "nome": "A4 1.8 20V",
+        "ano": 1998
+      }
+    ],
+    "1999": [
+      {
+        "id": 818,
+        "idUrl": "a4-avant-28-v6-30v-tiptronic-1999",
+        "nome": "A4 Avant 2.8 V6 30V (tiptronic)",
+        "ano": 1999
+      },
+      {
+        "id": 833,
+        "idUrl": "a4-avant-24-v6-30v-tiptronic-1999",
+        "nome": "A4 Avant 2.4 V6 30V (tiptronic)",
+        "ano": 1999
+      },
+      {
+        "id": 977,
+        "idUrl": "a4-avant-18-20v-turbo-tiptronic-1999",
+        "nome": "A4 Avant 1.8 20V Turbo (tiptronic)",
+        "ano": 1999
+      },
+      {
+        "id": 813,
+        "idUrl": "a4-avant-28-v6-30v-1999",
+        "nome": "A4 Avant 2.8 V6 30V",
+        "ano": 1999
+      },
+      {
+        "id": 1011,
+        "idUrl": "a4-28-v6-30v-tiptronic-1999",
+        "nome": "A4 2.8 V6 30V (tiptronic)",
+        "ano": 1999
+      },
+      {
+        "id": 857,
+        "idUrl": "a4-avant-24-v6-30v-1999",
+        "nome": "A4 Avant 2.4 V6 30V",
+        "ano": 1999
+      },
+      {
+        "id": 938,
+        "idUrl": "a4-24-v6-30v-tiptronic-1999",
+        "nome": "A4 2.4 V6 30V (tiptronic)",
+        "ano": 1999
+      },
+      {
+        "id": 997,
+        "idUrl": "a4-avant-18-20v-turbo-1999",
+        "nome": "A4 Avant 1.8 20V Turbo",
+        "ano": 1999
+      },
+      {
+        "id": 978,
+        "idUrl": "a4-28-v6-30v-1999",
+        "nome": "A4 2.8 V6 30V",
+        "ano": 1999
+      },
+      {
+        "id": 991,
+        "idUrl": "a4-avant-18-20v-aut-1999",
+        "nome": "A4 Avant 1.8 20V (aut)",
+        "ano": 1999
+      },
+      {
+        "id": 986,
+        "idUrl": "a4-avant-18-20v-1999",
+        "nome": "A4 Avant 1.8 20V",
+        "ano": 1999
+      },
+      {
+        "id": 657,
+        "idUrl": "a4-18-20v-aut-1999",
+        "nome": "A4 1.8 20V (aut)",
+        "ano": 1999
+      },
+      {
+        "id": 655,
+        "idUrl": "a4-18-20v-turbo-tiptronic-1999",
+        "nome": "A4 1.8 20V Turbo (tiptronic)",
+        "ano": 1999
+      },
+      {
+        "id": 931,
+        "idUrl": "a4-24-v6-30v-1999",
+        "nome": "A4 2.4 V6 30V",
+        "ano": 1999
+      },
+      {
+        "id": 639,
+        "idUrl": "a4-18-20v-turbo-1999",
+        "nome": "A4 1.8 20V Turbo",
+        "ano": 1999
+      },
+      {
+        "id": 685,
+        "idUrl": "a4-18-20v-1999",
+        "nome": "A4 1.8 20V",
+        "ano": 1999
+      }
+    ],
+    "2000": [
+      {
+        "id": 831,
+        "idUrl": "a4-avant-24-v6-30v-tiptronic-2000",
+        "nome": "A4 Avant 2.4 V6 30V (tiptronic)",
+        "ano": 2000
+      },
+      {
+        "id": 819,
+        "idUrl": "a4-avant-28-v6-30v-tiptronic-2000",
+        "nome": "A4 Avant 2.8 V6 30V (tiptronic)",
+        "ano": 2000
+      },
+      {
+        "id": 1012,
+        "idUrl": "a4-28-v6-30v-tiptronic-2000",
+        "nome": "A4 2.8 V6 30V (tiptronic)",
+        "ano": 2000
+      },
+      {
+        "id": 814,
+        "idUrl": "a4-avant-28-v6-30v-2000",
+        "nome": "A4 Avant 2.8 V6 30V",
+        "ano": 2000
+      },
+      {
+        "id": 1006,
+        "idUrl": "a4-28-v6-30v-2000",
+        "nome": "A4 2.8 V6 30V",
+        "ano": 2000
+      },
+      {
+        "id": 920,
+        "idUrl": "a4-avant-18-20v-turbo-tiptronic-2000",
+        "nome": "A4 Avant 1.8 20V Turbo (tiptronic)",
+        "ano": 2000
+      },
+      {
+        "id": 856,
+        "idUrl": "a4-avant-24-v6-30v-2000",
+        "nome": "A4 Avant 2.4 V6 30V",
+        "ano": 2000
+      },
+      {
+        "id": 990,
+        "idUrl": "a4-avant-18-20v-aut-2000",
+        "nome": "A4 Avant 1.8 20V (aut)",
+        "ano": 2000
+      },
+      {
+        "id": 939,
+        "idUrl": "a4-24-v6-30v-tiptronic-2000",
+        "nome": "A4 2.4 V6 30V (tiptronic)",
+        "ano": 2000
+      },
+      {
+        "id": 998,
+        "idUrl": "a4-avant-18-20v-turbo-2000",
+        "nome": "A4 Avant 1.8 20V Turbo",
+        "ano": 2000
+      },
+      {
+        "id": 984,
+        "idUrl": "a4-avant-18-20v-2000",
+        "nome": "A4 Avant 1.8 20V",
+        "ano": 2000
+      },
+      {
+        "id": 656,
+        "idUrl": "a4-18-20v-turbo-tiptronic-2000",
+        "nome": "A4 1.8 20V Turbo (tiptronic)",
+        "ano": 2000
+      },
+      {
+        "id": 930,
+        "idUrl": "a4-24-v6-30v-2000",
+        "nome": "A4 2.4 V6 30V",
+        "ano": 2000
+      },
+      {
+        "id": 640,
+        "idUrl": "a4-18-20v-turbo-2000",
+        "nome": "A4 1.8 20V Turbo",
+        "ano": 2000
+      },
+      {
+        "id": 659,
+        "idUrl": "a4-18-20v-aut-2000",
+        "nome": "A4 1.8 20V (aut)",
+        "ano": 2000
+      },
+      {
+        "id": 660,
+        "idUrl": "a4-18-20v-2000",
+        "nome": "A4 1.8 20V",
+        "ano": 2000
+      }
+    ],
+    "2001": [
+      {
+        "id": 823,
+        "idUrl": "a4-avant-28-v6-30v-quattro-tiptronic-2001",
+        "nome": "A4 Avant 2.8 V6 30V Quattro (tiptronic)",
+        "ano": 2001
+      },
+      {
+        "id": 806,
+        "idUrl": "a4-avant-24-v6-30v-tiptronic-2001",
+        "nome": "A4 Avant 2.4 V6 30V (tiptronic)",
+        "ano": 2001
+      },
+      {
+        "id": 943,
+        "idUrl": "a4-24-v6-30v-quattro-tiptronic-2001",
+        "nome": "A4 2.4 V6 30V Quattro (tiptronic)",
+        "ano": 2001
+      },
+      {
+        "id": 807,
+        "idUrl": "a4-avant-24-v6-30v-quattro-tiptronic-2001",
+        "nome": "A4 Avant 2.4 V6 30V Quattro (tiptronic)",
+        "ano": 2001
+      },
+      {
+        "id": 821,
+        "idUrl": "a4-avant-28-v6-30v-quattro-2001",
+        "nome": "A4 Avant 2.8 V6 30V Quattro",
+        "ano": 2001
+      },
+      {
+        "id": 820,
+        "idUrl": "a4-avant-28-v6-30v-tiptronic-2001",
+        "nome": "A4 Avant 2.8 V6 30V (tiptronic)",
+        "ano": 2001
+      },
+      {
+        "id": 941,
+        "idUrl": "a4-24-v6-30v-quattro-2001",
+        "nome": "A4 2.4 V6 30V Quattro",
+        "ano": 2001
+      },
+      {
+        "id": 808,
+        "idUrl": "a4-avant-24-v6-30v-quattro-2001",
+        "nome": "A4 Avant 2.4 V6 30v Quattro",
+        "ano": 2001
+      },
+      {
+        "id": 1016,
+        "idUrl": "a4-28-v6-30v-quattro-tiptronic-2001",
+        "nome": "A4 2.8 V6 30V Quattro (tiptronic)",
+        "ano": 2001
+      },
+      {
+        "id": 855,
+        "idUrl": "a4-avant-24-v6-30v-2001",
+        "nome": "A4 Avant 2.4 V6 30V",
+        "ano": 2001
+      },
+      {
+        "id": 815,
+        "idUrl": "a4-avant-28-v6-30v-2001",
+        "nome": "A4 Avant 2.8 V6 30V",
+        "ano": 2001
+      },
+      {
+        "id": 1013,
+        "idUrl": "a4-28-v6-30v-tiptronic-2001",
+        "nome": "A4 2.8 V6 30V (tiptronic)",
+        "ano": 2001
+      },
+      {
+        "id": 940,
+        "idUrl": "a4-24-v6-30v-tiptronic-2001",
+        "nome": "A4 2.4 V6 30V (tiptronic)",
+        "ano": 2001
+      },
+      {
+        "id": 1014,
+        "idUrl": "a4-28-v6-30v-quattro-2001",
+        "nome": "A4 2.8 V6 30V Quattro",
+        "ano": 2001
+      },
+      {
+        "id": 979,
+        "idUrl": "a4-28-v6-30v-2001",
+        "nome": "A4 2.8 V6 30V",
+        "ano": 2001
+      },
+      {
+        "id": 989,
+        "idUrl": "a4-avant-18-20v-aut-2001",
+        "nome": "A4 Avant 1.8 20V (aut)",
+        "ano": 2001
+      },
+      {
+        "id": 861,
+        "idUrl": "a4-avant-18-20v-turbo-tiptronic-2001",
+        "nome": "A4 Avant 1.8 20V Turbo (tiptronic)",
+        "ano": 2001
+      },
+      {
+        "id": 999,
+        "idUrl": "a4-avant-18-20v-turbo-2001",
+        "nome": "A4 Avant 1.8 20V Turbo",
+        "ano": 2001
+      },
+      {
+        "id": 987,
+        "idUrl": "a4-avant-18-20v-2001",
+        "nome": "A4 Avant 1.8 20V",
+        "ano": 2001
+      },
+      {
+        "id": 651,
+        "idUrl": "a4-18-20v-turbo-multitronic-2001",
+        "nome": "A4 1.8 20V Turbo (multitronic)",
+        "ano": 2001
+      },
+      {
+        "id": 745,
+        "idUrl": "a4-18-20v-turbo-tiptronic-2001",
+        "nome": "A4 1.8 20V Turbo (tiptronic)",
+        "ano": 2001
+      },
+      {
+        "id": 634,
+        "idUrl": "a4-18-20v-turbo-2001",
+        "nome": "A4 1.8 20V Turbo",
+        "ano": 2001
+      },
+      {
+        "id": 929,
+        "idUrl": "a4-24-v6-30v-2001",
+        "nome": "A4 2.4 V6 30V",
+        "ano": 2001
+      },
+      {
+        "id": 686,
+        "idUrl": "a4-18-20v-aut-2001",
+        "nome": "A4 1.8 20V (aut)",
+        "ano": 2001
+      },
+      {
+        "id": 680,
+        "idUrl": "a4-18-20v-2001",
+        "nome": "A4 1.8 20V",
+        "ano": 2001
+      }
+    ],
+    "2002": [
+      {
+        "id": 834,
+        "idUrl": "a4-avant-24-v6-30v-multitronic-2002",
+        "nome": "A4 Avant 2.4 V6 30V (multitronic)",
+        "ano": 2002
+      },
+      {
+        "id": 828,
+        "idUrl": "a4-avant-30-v6-30v-multitronic-2002",
+        "nome": "A4 Avant 3.0 V6 30V (multitronic)",
+        "ano": 2002
+      },
+      {
+        "id": 1023,
+        "idUrl": "a4-30-v6-30v-multitronic-2002",
+        "nome": "A4 3.0 V6 30V (multitronic)",
+        "ano": 2002
+      },
+      {
+        "id": 933,
+        "idUrl": "a4-24-v6-30v-multitronic-2002",
+        "nome": "A4 2.4 V6 30V (multitronic)",
+        "ano": 2002
+      },
+      {
+        "id": 839,
+        "idUrl": "a4-avant-18-20v-turbo-sport-multitronic-2002",
+        "nome": "A4 Avant 1.8 20V Turbo Sport (multitronic)",
+        "ano": 2002
+      },
+      {
+        "id": 803,
+        "idUrl": "a4-18-20v-turbo-tiptronic-2002",
+        "nome": "A4 1.8 20V Turbo (tiptronic)",
+        "ano": 2002
+      },
+      {
+        "id": 643,
+        "idUrl": "a4-18-20v-turbo-163hp-multitronic-2002",
+        "nome": "A4 1.8 20V Turbo (163hp) (multitronic)",
+        "ano": 2002
+      },
+      {
+        "id": 652,
+        "idUrl": "a4-18-20v-turbo-multitronic-2002",
+        "nome": "A4 1.8 20V Turbo (multitronic)",
+        "ano": 2002
+      },
+      {
+        "id": 961,
+        "idUrl": "a4-20-20v-multitronic-2002",
+        "nome": "A4 2.0 20V (multitronic)",
+        "ano": 2002
+      }
+    ],
+    "2003": [
+      {
+        "id": 898,
+        "idUrl": "a4-cabriolet-30-v6-30v-multitronic-2003",
+        "nome": "A4 Cabriolet 3.0 V6 30V (multitronic)",
+        "ano": 2003
+      },
+      {
+        "id": 832,
+        "idUrl": "a4-avant-30-v6-30v-quattro-tiptronic-2003",
+        "nome": "A4 Avant 3.0 V6 30V Quattro (tiptronic)",
+        "ano": 2003
+      },
+      {
+        "id": 1024,
+        "idUrl": "a4-30-v6-30v-quattro-tiptronic-2003",
+        "nome": "A4 3.0 V6 30V Quattro (tiptronic)",
+        "ano": 2003
+      },
+      {
+        "id": 829,
+        "idUrl": "a4-avant-30-v6-30v-multitronic-2003",
+        "nome": "A4 Avant 3.0 V6 30V (multitronic)",
+        "ano": 2003
+      },
+      {
+        "id": 1021,
+        "idUrl": "a4-30-v6-30v-multitronic-2003",
+        "nome": "A4 3.0 V6 30V (multitronic)",
+        "ano": 2003
+      },
+      {
+        "id": 859,
+        "idUrl": "a4-avant-24-v6-30v-multitronic-2003",
+        "nome": "A4 Avant 2.4 V6 30V (multitronic)",
+        "ano": 2003
+      },
+      {
+        "id": 934,
+        "idUrl": "a4-24-v6-30v-multitronic-2003",
+        "nome": "A4 2.4 V6 30V (multitronic)",
+        "ano": 2003
+      },
+      {
+        "id": 804,
+        "idUrl": "a4-18-20v-turbo-tiptronic-2003",
+        "nome": "A4 1.8 20V Turbo (tiptronic)",
+        "ano": 2003
+      },
+      {
+        "id": 644,
+        "idUrl": "a4-18-20v-turbo-163hp-multitronic-2003",
+        "nome": "A4 1.8 20V Turbo (163hp) (multitronic)",
+        "ano": 2003
+      },
+      {
+        "id": 648,
+        "idUrl": "a4-18-20v-turbo-multitronic-2003",
+        "nome": "A4 1.8 20V Turbo (multitronic)",
+        "ano": 2003
+      },
+      {
+        "id": 838,
+        "idUrl": "a4-avant-18-20v-turbo-sport-multitronic-2003",
+        "nome": "A4 Avant 1.8 20V Turbo Sport (multitronic)",
+        "ano": 2003
+      },
+      {
+        "id": 843,
+        "idUrl": "a4-avant-18-turbo-multitronic-2003",
+        "nome": "A4 Avant 1.8 Turbo Multitronic",
+        "ano": 2003
+      },
+      {
+        "id": 955,
+        "idUrl": "a4-18-20v-turbo-sport-multitronic-2003",
+        "nome": "A4 1.8 20V Turbo Sport (multitronic)",
+        "ano": 2003
+      },
+      {
+        "id": 963,
+        "idUrl": "a4-20-20v-multitronic-2003",
+        "nome": "A4 2.0 20V (multitronic)",
+        "ano": 2003
+      }
+    ],
+    "2004": [
+      {
+        "id": 899,
+        "idUrl": "a4-cabriolet-30-v6-30v-multitronic-2004",
+        "nome": "A4 Cabriolet 3.0 V6 30V (multitronic)",
+        "ano": 2004
+      },
+      {
+        "id": 830,
+        "idUrl": "a4-avant-30-v6-30v-multitronic-2004",
+        "nome": "A4 Avant 3.0 V6 30V (multitronic)",
+        "ano": 2004
+      },
+      {
+        "id": 935,
+        "idUrl": "a4-24-v6-30v-multitronic-2004",
+        "nome": "A4 2.4 V6 30V (multitronic)",
+        "ano": 2004
+      },
+      {
+        "id": 837,
+        "idUrl": "a4-avant-18-20v-turbo-exclusive-multitronic-2004",
+        "nome": "A4 Avant 1.8 20V Turbo Exclusive (multitronic)",
+        "ano": 2004
+      },
+      {
+        "id": 840,
+        "idUrl": "a4-avant-18-20v-turbo-sport-multitronic-2004",
+        "nome": "A4 Avant 1.8 20V Turbo Sport (multitronic)",
+        "ano": 2004
+      },
+      {
+        "id": 953,
+        "idUrl": "a4-18-20v-turbo-exclusive-multitronic-2004",
+        "nome": "A4 1.8 20V Turbo Exclusive (multitronic)",
+        "ano": 2004
+      },
+      {
+        "id": 956,
+        "idUrl": "a4-18-20v-turbo-sport-multitronic-2004",
+        "nome": "A4 1.8 20V Turbo Sport (multitronic)",
+        "ano": 2004
+      },
+      {
+        "id": 805,
+        "idUrl": "a4-18-20v-turbo-tiptronic-2004",
+        "nome": "A4 1.8 20V Turbo (tiptronic)",
+        "ano": 2004
+      },
+      {
+        "id": 645,
+        "idUrl": "a4-18-20v-turbo-163hp-multitronic-2004",
+        "nome": "A4 1.8 20V Turbo (163hp) (multitronic)",
+        "ano": 2004
+      }
+    ],
+    "2005": [
+      {
+        "id": 826,
+        "idUrl": "a4-avant-30-v6-30v-multitronic-2005",
+        "nome": "A4 Avant 3.0 V6 30V (multitronic)",
+        "ano": 2005
+      },
+      {
+        "id": 1018,
+        "idUrl": "a4-30-30v-multitronic-2005",
+        "nome": "A4 3.0 30V (multitronic)",
+        "ano": 2005
+      },
+      {
+        "id": 641,
+        "idUrl": "a4-18-20v-turbo-163hp-multitronic-2005",
+        "nome": "A4 1.8 20V Turbo (163hp) (multitronic)",
+        "ano": 2005
+      },
+      {
+        "id": 835,
+        "idUrl": "a4-avant-18-20v-turbo-exclusive-multitronic-2005",
+        "nome": "A4 Avant 1.8 20V Turbo Exclusive (multitronic)",
+        "ano": 2005
+      },
+      {
+        "id": 841,
+        "idUrl": "a4-avant-18-20v-turbo-sport-multitronic-2005",
+        "nome": "A4 Avant 1.8 20V Turbo Sport (multitronic)",
+        "ano": 2005
+      },
+      {
+        "id": 842,
+        "idUrl": "a4-avant-18-turbo-multitronic-2005",
+        "nome": "A4 Avant 1.8 Turbo Multitronic",
+        "ano": 2005
+      },
+      {
+        "id": 951,
+        "idUrl": "a4-18-20v-turbo-exclusive-multitronic-2005",
+        "nome": "A4 1.8 20V Turbo Exclusive (multitronic)",
+        "ano": 2005
+      },
+      {
+        "id": 954,
+        "idUrl": "a4-18-20v-turbo-sport-multitronic-2005",
+        "nome": "A4 1.8 20V Turbo Sport (multitronic)",
+        "ano": 2005
+      }
+    ],
+    "2006": [
+      {
+        "id": 827,
+        "idUrl": "a4-avant-30-v6-30v-multitronic-2006",
+        "nome": "A4 Avant 3.0 V6 30V (multitronic)",
+        "ano": 2006
+      },
+      {
+        "id": 1019,
+        "idUrl": "a4-30-30v-multitronic-2006",
+        "nome": "A4 3.0 30V (multitronic)",
+        "ano": 2006
+      },
+      {
+        "id": 836,
+        "idUrl": "a4-avant-18-20v-turbo-exclusive-multitronic-2006",
+        "nome": "A4 Avant 1.8 20V Turbo Exclusive (multitronic)",
+        "ano": 2006
+      },
+      {
+        "id": 952,
+        "idUrl": "a4-18-20v-turbo-exclusive-multitronic-2006",
+        "nome": "A4 1.8 20V Turbo Exclusive (multitronic)",
+        "ano": 2006
+      },
+      {
+        "id": 1000,
+        "idUrl": "a4-avant-18-20v-turbo-multitronic-2006",
+        "nome": "A4 Avant 1.8 20V Turbo (multitronic)",
+        "ano": 2006
+      },
+      {
+        "id": 642,
+        "idUrl": "a4-18-20v-turbo-163hp-multitronic-2006",
+        "nome": "A4 1.8 20V Turbo (163hp) (multitronic)",
+        "ano": 2006
+      }
+    ],
+    "2007": [
+      {
+        "id": 900,
+        "idUrl": "a4-cabriolet-32-fsi-v6-multitronic-2007",
+        "nome": "A4 Cabriolet 3.2 FSI V6 (multitronic)",
+        "ano": 2007
+      },
+      {
+        "id": 862,
+        "idUrl": "a4-avant-32-fsi-v6-multitronic-2007",
+        "nome": "A4 Avant 3.2 FSI V6 (multitronic)",
+        "ano": 2007
+      },
+      {
+        "id": 1026,
+        "idUrl": "a4-32-fsi-v6-multitronic-2007",
+        "nome": "A4 3.2 FSI V6 (multitronic)",
+        "ano": 2007
+      },
+      {
+        "id": 845,
+        "idUrl": "a4-avant-20-fsi-turbo-multitronic-2007",
+        "nome": "A4 Avant 2.0 FSI Turbo (multitronic)",
+        "ano": 2007
+      },
+      {
+        "id": 966,
+        "idUrl": "a4-20-fsi-turbo-multitronic-2007",
+        "nome": "A4 2.0 FSI Turbo (multitronic)",
+        "ano": 2007
+      },
+      {
+        "id": 1001,
+        "idUrl": "a4-avant-18-20v-turbo-multitronic-2007",
+        "nome": "A4 Avant 1.8 20V Turbo (multitronic)",
+        "ano": 2007
+      },
+      {
+        "id": 649,
+        "idUrl": "a4-18-20v-turbo-multitronic-2007",
+        "nome": "A4 1.8 20V Turbo (multitronic)",
+        "ano": 2007
+      }
+    ],
+    "2008": [
+      {
+        "id": 1027,
+        "idUrl": "a4-32-fsi-v6-multitronic-2008",
+        "nome": "A4 3.2 FSI V6 (multitronic)",
+        "ano": 2008
+      },
+      {
+        "id": 901,
+        "idUrl": "a4-cabriolet-32-fsi-v6-multitronic-2008",
+        "nome": "A4 Cabriolet 3.2 FSI V6 (multitronic)",
+        "ano": 2008
+      },
+      {
+        "id": 847,
+        "idUrl": "a4-avant-20-fsi-turbo-multitronic-2008",
+        "nome": "A4 Avant 2.0 FSI Turbo (multitronic)",
+        "ano": 2008
+      },
+      {
+        "id": 967,
+        "idUrl": "a4-20-fsi-turbo-multitronic-2008",
+        "nome": "A4 2.0 FSI Turbo (multitronic)",
+        "ano": 2008
+      },
+      {
+        "id": 1002,
+        "idUrl": "a4-avant-18-20v-turbo-multitronic-2008",
+        "nome": "A4 Avant 1.8 20V Turbo (multitronic)",
+        "ano": 2008
+      },
+      {
+        "id": 650,
+        "idUrl": "a4-18-20v-turbo-multitronic-2008",
+        "nome": "A4 1.8 20V Turbo (multitronic)",
+        "ano": 2008
+      }
+    ],
+    "2009": [
+      {
+        "id": 844,
+        "idUrl": "a4-avant-20-20v-turbo-multitronic-2009",
+        "nome": "A4 Avant 2.0 20V Turbo (multitronic)",
+        "ano": 2009
+      },
+      {
+        "id": 846,
+        "idUrl": "a4-avant-20-fsi-turbo-multitronic-2009",
+        "nome": "A4 Avant 2.0 FSI Turbo (multitronic)",
+        "ano": 2009
+      },
+      {
+        "id": 964,
+        "idUrl": "a4-20-fsi-turbo-183cv-multitronic-2009",
+        "nome": "A4 2.0 FSI Turbo (183cv) (multitronic)",
+        "ano": 2009
+      },
+      {
+        "id": 965,
+        "idUrl": "a4-20-fsi-turbo-214cv-multitronic-2009",
+        "nome": "A4 2.0 FSI Turbo (214cv) (multitronic)",
+        "ano": 2009
+      }
+    ],
+    "2010": [
+      {
+        "id": 851,
+        "idUrl": "a4-avant-20-tfsi-multitronic-ambiente-2010",
+        "nome": "A4 Avant 2.0 TFSi Multitronic Ambiente",
+        "ano": 2010
+      },
+      {
+        "id": 893,
+        "idUrl": "a4-avant-32-fsi-tiptronic-quattro-ambition-2010",
+        "nome": "A4 Avant 3.2 FSi Tiptronic Quattro  Ambition",
+        "ano": 2010
+      },
+      {
+        "id": 926,
+        "idUrl": "a4-20-tfsi-multitronic-sport-2010",
+        "nome": "A4 2.0 TFSi Multitronic Sport",
+        "ano": 2010
+      },
+      {
+        "id": 947,
+        "idUrl": "a4-20-tfsi-multitronic-ambiente-2010",
+        "nome": "A4 2.0 TFSi Multitronic Ambiente",
+        "ano": 2010
+      }
+    ],
+    "2011": [
+      {
+        "id": 894,
+        "idUrl": "a4-avant-32-fsi-tiptronic-quattro-ambition-2011",
+        "nome": "A4 Avant 3.2 FSi Tiptronic Quattro  Ambition",
+        "ano": 2011
+      },
+      {
+        "id": 1030,
+        "idUrl": "a4-32-fsi-tiptronic-quattro-ambition-2011",
+        "nome": "A4 3.2 FSi Tiptronic Quattro Ambition",
+        "ano": 2011
+      },
+      {
+        "id": 853,
+        "idUrl": "a4-avant-20-tfsi-multitronic-sport-2011",
+        "nome": "A4 Avant 2.0 TFSi Multitronic Sport",
+        "ano": 2011
+      },
+      {
+        "id": 849,
+        "idUrl": "a4-avant-20-tfsi-multitronic-ambiente-2011",
+        "nome": "A4 Avant 2.0 TFSi Multitronic  Ambiente",
+        "ano": 2011
+      },
+      {
+        "id": 927,
+        "idUrl": "a4-20-tfsi-multitronic-sport-2011",
+        "nome": "A4 2.0 TFSi Multitronic Sport",
+        "ano": 2011
+      },
+      {
+        "id": 922,
+        "idUrl": "a4-20-tfsi-multitronic-ambiente-2011",
+        "nome": "A4 2.0 TFSi Multitronic Ambiente",
+        "ano": 2011
+      }
+    ],
+    "2012": [
+      {
+        "id": 895,
+        "idUrl": "a4-avant-32-fsi-tiptronic-quattro-ambition-2012",
+        "nome": "A4 Avant 3.2 FSi Tiptronic Quattro  Ambition",
+        "ano": 2012
+      },
+      {
+        "id": 1031,
+        "idUrl": "a4-32-fsi-tiptronic-quattro-ambition-2012",
+        "nome": "A4 3.2 FSi Tiptronic Quattro Ambition",
+        "ano": 2012
+      },
+      {
+        "id": 850,
+        "idUrl": "a4-avant-20-tfsi-multitronic-ambiente-2012",
+        "nome": "A4 Avant 2.0 TFSi Multitronic  Ambiente",
+        "ano": 2012
+      },
+      {
+        "id": 923,
+        "idUrl": "a4-20-tfsi-multitronic-ambiente-2012",
+        "nome": "A4 2.0 TFSi Multitronic Ambiente",
+        "ano": 2012
+      }
+    ],
+    "2013": [
+      {
+        "id": 1034,
+        "idUrl": "a4-20-tfsi-avant-ambition-s-tronic-quattro-2013",
+        "nome": "A4 2.0 TFSI Avant Ambition S tronic quattro",
+        "ano": 2013
+      },
+      {
+        "id": 982,
+        "idUrl": "a4-20-tfsi-avant-ambiente-multitronic-2013",
+        "nome": "A4 2.0 TFSi Avant Ambiente Multitronic",
+        "ano": 2013
+      },
+      {
+        "id": 1005,
+        "idUrl": "a4-20-tfsi-avant-attraction-multitronic-2013",
+        "nome": "A4 2.0 TFSI Avant Attraction Multitronic",
+        "ano": 2013
+      },
+      {
+        "id": 976,
+        "idUrl": "a4-20-tfsi-s-tronic-quattro-ambition-2013",
+        "nome": "A4 2.0 TFSI S tronic quattro Ambition",
+        "ano": 2013
+      },
+      {
+        "id": 924,
+        "idUrl": "a4-20-tfsi-multitronic-ambiente-2013",
+        "nome": "A4 2.0 TFSi Multitronic Ambiente",
+        "ano": 2013
+      },
+      {
+        "id": 970,
+        "idUrl": "a4-20-tfsi-attraction-multitronic-2013",
+        "nome": "A4 2.0 TFSI Attraction Multitronic",
+        "ano": 2013
+      }
+    ],
+    "2014": [
+      {
+        "id": 1007,
+        "idUrl": "a4-20-tfsi-avant-ambition-s-tronic-quattro-2014",
+        "nome": "A4 2.0 TFSI Avant Ambition S tronic quattro",
+        "ano": 2014
+      },
+      {
+        "id": 980,
+        "idUrl": "a4-20-tfsi-avant-attraction-multitronic-2014",
+        "nome": "A4 2.0 TFSI Avant Attraction Multitronic",
+        "ano": 2014
+      },
+      {
+        "id": 983,
+        "idUrl": "a4-20-tfsi-avant-ambiente-multitronic-2014",
+        "nome": "A4 2.0 TFSi Avant Ambiente Multitronic",
+        "ano": 2014
+      },
+      {
+        "id": 949,
+        "idUrl": "a4-20-tfsi-s-tronic-quattro-ambition-2014",
+        "nome": "A4 2.0 TFSI S tronic quattro Ambition",
+        "ano": 2014
+      },
+      {
+        "id": 925,
+        "idUrl": "a4-20-tfsi-multitronic-ambiente-2014",
+        "nome": "A4 2.0 TFSi Multitronic Ambiente",
+        "ano": 2014
+      },
+      {
+        "id": 971,
+        "idUrl": "a4-20-tfsi-attraction-multitronic-2014",
+        "nome": "A4 2.0 TFSI Attraction Multitronic",
+        "ano": 2014
+      }
+    ],
+    "2015": [
+      {
+        "id": 1032,
+        "idUrl": "a4-18-tfsi-avant-ambiente-multitronic-2015",
+        "nome": "A4 1.8 TFSI Avant Ambiente Multitronic",
+        "ano": 2015
+      },
+      {
+        "id": 957,
+        "idUrl": "a4-18-tfsi-ambiente-multitronic-2015",
+        "nome": "A4 1.8 TFSI Ambiente Multitronic",
+        "ano": 2015
+      },
+      {
+        "id": 959,
+        "idUrl": "a4-18-tfsi-attraction-multitronic-2015",
+        "nome": "A4 1.8 TFSI Attraction Multitronic",
+        "ano": 2015
+      }
+    ],
+    "2016": [
+      {
+        "id": 950,
+        "idUrl": "a4-20-tfsi-launch-edition-stronic-2016",
+        "nome": "A4 2.0 TFSI Launch Edition S-Tronic",
+        "ano": 2016
+      },
+      {
+        "id": 973,
+        "idUrl": "a4-20-tfsi-launch-edition-plus-stronic-2016",
+        "nome": "A4 2.0 TFSI Launch Edition Plus S-Tronic",
+        "ano": 2016
+      },
+      {
+        "id": 1033,
+        "idUrl": "a4-18-tfsi-avant-ambiente-multitronic-2016",
+        "nome": "A4 1.8 TFSI Avant Ambiente Multitronic",
+        "ano": 2016
+      },
+      {
+        "id": 958,
+        "idUrl": "a4-18-tfsi-ambiente-multitronic-2016",
+        "nome": "A4 1.8 TFSI Ambiente Multitronic",
+        "ano": 2016
+      },
+      {
+        "id": 960,
+        "idUrl": "a4-18-tfsi-attraction-multitronic-2016",
+        "nome": "A4 1.8 TFSI Attraction Multitronic",
+        "ano": 2016
+      }
+    ],
+    "2017": [
+      {
+        "id": 969,
+        "idUrl": "a4-20-tfsi-ambition-stronic-2017",
+        "nome": "A4 2.0 TFSI Ambition S-Tronic",
+        "ano": 2017
+      },
+      {
+        "id": 1008,
+        "idUrl": "a4-20-tfsi-avant-ambiente-stronic-2017",
+        "nome": "A4 2.0 TFSI Avant Ambiente S-Tronic",
+        "ano": 2017
+      },
+      {
+        "id": 968,
+        "idUrl": "a4-20-tfsi-ambiente-stronic-2017",
+        "nome": "A4 2.0 TFSI Ambiente S-Tronic",
+        "ano": 2017
+      },
+      {
+        "id": 975,
+        "idUrl": "a4-20-tfsi-launch-edition-stronic-2017",
+        "nome": "A4 2.0 TFSI Launch Edition S-Tronic",
+        "ano": 2017
+      },
+      {
+        "id": 972,
+        "idUrl": "a4-20-tfsi-attraction-stronic-2017",
+        "nome": "A4 2.0 TFSI Attraction S-Tronic",
+        "ano": 2017
+      }
+    ],
+    "2018": [
+      {
+        "id": 22165,
+        "idUrl": "audi-a4-avant-2018",
+        "nome": "Audi A4 Avant",
+        "ano": 2018
+      },
+      {
+        "id": 22160,
+        "idUrl": "audi-a4-ambiente-20-tfsi-2018",
+        "nome": "Audi A4 Ambiente 2.0 TFSi",
+        "ano": 2018
+      }
+    ]
+  }

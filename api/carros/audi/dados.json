@@ -1,0 +1,282 @@
+[
+    {
+      "id": 38,
+      "idUrl": "100",
+      "nome": "100",
+      "fotoDestaque": {
+        "id": 46030,
+        "largura": 209,
+        "altura": 139,
+        "nome": "carro/audi/100/destaque",
+        "url": "//cdn.autopapo.com.br/carro/audi/100/destaque-v2.png",
+        "mimeType": "image/png"
+      },
+      "emProducao": false
+    },
+    {
+      "id": 41,
+      "idUrl": "100-avant",
+      "nome": "100 Avant",
+      "fotoDestaque": {
+        "id": 46056,
+        "largura": 209,
+        "altura": 139,
+        "nome": "carro/audi/100-avant/destaque",
+        "url": "//cdn.autopapo.com.br/carro/audi/100-avant/destaque-v3.png",
+        "mimeType": "image/png"
+      },
+      "emProducao": false
+    },
+    {
+      "id": 42,
+      "idUrl": "80",
+      "nome": "80",
+      "fotoDestaque": {
+        "id": 46058,
+        "largura": 209,
+        "altura": 139,
+        "nome": "carro/audi/80/destaque",
+        "url": "//cdn.autopapo.com.br/carro/audi/80/destaque-v3.png",
+        "mimeType": "image/png"
+      },
+      "emProducao": false
+    },
+    {
+      "id": 45,
+      "idUrl": "a1",
+      "nome": "A1",
+      "fotoDestaque": {
+        "id": 46010,
+        "largura": 209,
+        "altura": 139,
+        "nome": "carro/audi/a1/destaque",
+        "url": "//cdn.autopapo.com.br/carro/audi/a1/destaque-v1.png",
+        "mimeType": "image/png"
+      },
+      "emProducao": true
+    },
+    {
+      "id": 46,
+      "idUrl": "a3",
+      "nome": "A3",
+      "fotoDestaque": {
+        "id": 46012,
+        "largura": 209,
+        "altura": 139,
+        "nome": "carro/audi/a3/destaque",
+        "url": "//cdn.autopapo.com.br/carro/audi/a3/destaque-v1.png",
+        "mimeType": "image/png"
+      },
+      "emProducao": true
+    },
+    {
+      "id": 49,
+      "idUrl": "a4",
+      "nome": "A4",
+      "fotoDestaque": {
+        "id": 46017,
+        "largura": 209,
+        "altura": 139,
+        "nome": "carro/audi/a4/destaque",
+        "url": "//cdn.autopapo.com.br/carro/audi/a4/destaque-v1.png",
+        "mimeType": "image/png"
+      },
+      "emProducao": true
+    },
+    {
+      "id": 52,
+      "idUrl": "a5",
+      "nome": "A5",
+      "fotoDestaque": {
+        "id": 46020,
+        "largura": 209,
+        "altura": 139,
+        "nome": "carro/audi/a5/destaque",
+        "url": "//cdn.autopapo.com.br/carro/audi/a5/destaque-v1.png",
+        "mimeType": "image/png"
+      },
+      "emProducao": true
+    },
+    {
+      "id": 53,
+      "idUrl": "a6",
+      "nome": "A6",
+      "fotoDestaque": {
+        "id": 46068,
+        "largura": 209,
+        "altura": 139,
+        "nome": "carro/audi/a6/destaque",
+        "url": "//cdn.autopapo.com.br/carro/audi/a6/destaque-v1.png",
+        "mimeType": "image/png"
+      },
+      "emProducao": false
+    },
+    {
+      "id": 55,
+      "idUrl": "a7",
+      "nome": "A7",
+      "fotoDestaque": {
+        "id": 46072,
+        "largura": 209,
+        "altura": 139,
+        "nome": "carro/audi/a7/destaque",
+        "url": "//cdn.autopapo.com.br/carro/audi/a7/destaque-v2.png",
+        "mimeType": "image/png"
+      },
+      "emProducao": false
+    },
+    {
+      "id": 56,
+      "idUrl": "a8",
+      "nome": "A8",
+      "fotoDestaque": {
+        "id": 46074,
+        "largura": 209,
+        "altura": 139,
+        "nome": "carro/audi/a8/destaque",
+        "url": "//cdn.autopapo.com.br/carro/audi/a8/destaque-v2.png",
+        "mimeType": "image/png"
+      },
+      "emProducao": false
+    },
+    {
+      "id": 58,
+      "idUrl": "q3",
+      "nome": "Q3",
+      "fotoDestaque": {
+        "id": 46022,
+        "largura": 209,
+        "altura": 139,
+        "nome": "carro/audi/q3/destaque",
+        "url": "//cdn.autopapo.com.br/carro/audi/q3/destaque-v2.png",
+        "mimeType": "image/png"
+      },
+      "emProducao": true
+    },
+    {
+      "id": 39,
+      "idUrl": "q5",
+      "nome": "Q5",
+      "fotoDestaque": {
+        "id": 46024,
+        "largura": 209,
+        "altura": 139,
+        "nome": "carro/audi/q5/destaque",
+        "url": "//cdn.autopapo.com.br/carro/audi/q5/destaque-v3.png",
+        "mimeType": "image/png"
+      },
+      "emProducao": true
+    },
+    {
+      "id": 59,
+      "idUrl": "q7",
+      "nome": "Q7",
+      "fotoDestaque": {
+        "id": 46026,
+        "largura": 209,
+        "altura": 139,
+        "nome": "carro/audi/q7/destaque",
+        "url": "//cdn.autopapo.com.br/carro/audi/q7/destaque-v1.png",
+        "mimeType": "image/png"
+      },
+      "emProducao": true
+    },
+    {
+      "id": 1225,
+      "idUrl": "q8",
+      "nome": "Q8",
+      "fotoDestaque": null,
+      "emProducao": true
+    },
+    {
+      "id": 37,
+      "idUrl": "r8",
+      "nome": "R8",
+      "fotoDestaque": {
+        "id": 46016,
+        "largura": 209,
+        "altura": 139,
+        "nome": "carro/audi/r8/destaque",
+        "url": "//cdn.autopapo.com.br/carro/audi/r8/destaque-v2.png",
+        "mimeType": "image/png"
+      },
+      "emProducao": true
+    },
+    {
+      "id": 35,
+      "idUrl": "rs-q3",
+      "nome": "RS Q3",
+      "fotoDestaque": {
+        "id": 45992,
+        "largura": 209,
+        "altura": 139,
+        "nome": "carro/audi/rs-q3/destaque",
+        "url": "//cdn.autopapo.com.br/carro/audi/rs-q3/destaque-v2.png",
+        "mimeType": "image/png"
+      },
+      "emProducao": true
+    },
+    {
+      "id": 21,
+      "idUrl": "rs4",
+      "nome": "RS4",
+      "fotoDestaque": null,
+      "emProducao": false
+    },
+    {
+      "id": 34,
+      "idUrl": "sq5",
+      "nome": "SQ5",
+      "fotoDestaque": {
+        "id": 45998,
+        "largura": 209,
+        "altura": 139,
+        "nome": "carro/audi/sq5/destaque",
+        "url": "//cdn.autopapo.com.br/carro/audi/sq5/destaque-v2.png",
+        "mimeType": "image/png"
+      },
+      "emProducao": true
+    },
+    {
+      "id": 26,
+      "idUrl": "tt",
+      "nome": "TT",
+      "fotoDestaque": {
+        "id": 46000,
+        "largura": 209,
+        "altura": 139,
+        "nome": "carro/audi/tt/destaque",
+        "url": "//cdn.autopapo.com.br/carro/audi/tt/destaque-v1.png",
+        "mimeType": "image/png"
+      },
+      "emProducao": true
+    },
+    {
+      "id": 40,
+      "idUrl": "tt-rs",
+      "nome": "TT RS",
+      "fotoDestaque": {
+        "id": 46002,
+        "largura": 209,
+        "altura": 139,
+        "nome": "carro/audi/tt-rs/destaque",
+        "url": "//cdn.autopapo.com.br/carro/audi/tt-rs/destaque-v1.png",
+        "mimeType": "image/png"
+      },
+      "emProducao": true
+    },
+    {
+      "id": 60,
+      "idUrl": "tts",
+      "nome": "TTS",
+      "fotoDestaque": {
+        "id": 46029,
+        "largura": 209,
+        "altura": 139,
+        "nome": "carro/audi/tts/destaque",
+        "url": "//cdn.autopapo.com.br/carro/audi/tts/destaque-v1.png",
+        "mimeType": "image/png"
+      },
+      "emProducao": true
+    }
+  ]

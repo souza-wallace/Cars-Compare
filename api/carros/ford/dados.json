@@ -1,0 +1,352 @@
+[
+    {
+      "id": 444,
+      "idUrl": "belina",
+      "nome": "Belina",
+      "fotoDestaque": {
+        "id": 50195,
+        "largura": 209,
+        "altura": 139,
+        "nome": "carro/ford/belina/destaque",
+        "url": "//cdn.autopapo.com.br/carro/ford/belina/destaque-v2.png",
+        "mimeType": "image/png"
+      },
+      "emProducao": false
+    },
+    {
+      "id": 1347,
+      "idUrl": "bronco-sport",
+      "nome": "Bronco Sport",
+      "fotoDestaque": {
+        "id": 60181,
+        "largura": 209,
+        "altura": 139,
+        "nome": "carro/ford/bronco-sport/destaque",
+        "url": "//cdn.autopapo.com.br/carro/ford/bronco-sport/destaque.png",
+        "mimeType": "image/png"
+      },
+      "emProducao": true
+    },
+    {
+      "id": 447,
+      "idUrl": "corcel",
+      "nome": "Corcel",
+      "fotoDestaque": {
+        "id": 50193,
+        "largura": 209,
+        "altura": 139,
+        "nome": "carro/ford/corcel/destaque",
+        "url": "//cdn.autopapo.com.br/carro/ford/corcel/destaque-v3.png",
+        "mimeType": "image/png"
+      },
+      "emProducao": false
+    },
+    {
+      "id": 449,
+      "idUrl": "courier",
+      "nome": "Courier",
+      "fotoDestaque": {
+        "id": 50191,
+        "largura": 209,
+        "altura": 139,
+        "nome": "carro/ford/courier/destaque",
+        "url": "//cdn.autopapo.com.br/carro/ford/courier/destaque-v1.png",
+        "mimeType": "image/png"
+      },
+      "emProducao": false
+    },
+    {
+      "id": 454,
+      "idUrl": "ecosport",
+      "nome": "Ecosport",
+      "fotoDestaque": {
+        "id": 50177,
+        "largura": 209,
+        "altura": 139,
+        "nome": "carro/ford/ecosport/destaque",
+        "url": "//cdn.autopapo.com.br/carro/ford/ecosport/destaque-v2.png",
+        "mimeType": "image/png"
+      },
+      "emProducao": true
+    },
+    {
+      "id": 439,
+      "idUrl": "edge",
+      "nome": "Edge",
+      "fotoDestaque": {
+        "id": 50175,
+        "largura": 209,
+        "altura": 139,
+        "nome": "carro/ford/edge/destaque",
+        "url": "//cdn.autopapo.com.br/carro/ford/edge/destaque-v2.png",
+        "mimeType": "image/png"
+      },
+      "emProducao": true
+    },
+    {
+      "id": 455,
+      "idUrl": "escort",
+      "nome": "Escort",
+      "fotoDestaque": {
+        "id": 50189,
+        "largura": 209,
+        "altura": 139,
+        "nome": "carro/ford/escort/destaque",
+        "url": "//cdn.autopapo.com.br/carro/ford/escort/destaque-v3.png",
+        "mimeType": "image/png"
+      },
+      "emProducao": false
+    },
+    {
+      "id": 461,
+      "idUrl": "explorer",
+      "nome": "Explorer",
+      "fotoDestaque": {
+        "id": 50187,
+        "largura": 209,
+        "altura": 139,
+        "nome": "carro/ford/explorer/destaque",
+        "url": "//cdn.autopapo.com.br/carro/ford/explorer/destaque-v2.png",
+        "mimeType": "image/png"
+      },
+      "emProducao": false
+    },
+    {
+      "id": 464,
+      "idUrl": "f1000",
+      "nome": "F-1000",
+      "fotoDestaque": {
+        "id": 50185,
+        "largura": 209,
+        "altura": 139,
+        "nome": "carro/ford/f1000/destaque",
+        "url": "//cdn.autopapo.com.br/carro/ford/f1000/destaque-v3.png",
+        "mimeType": "image/png"
+      },
+      "emProducao": false
+    },
+    {
+      "id": 465,
+      "idUrl": "f150",
+      "nome": "F-150",
+      "fotoDestaque": {
+        "id": 50164,
+        "largura": 209,
+        "altura": 139,
+        "nome": "carro/ford/f150/destaque",
+        "url": "//cdn.autopapo.com.br/carro/ford/f150/destaque-v1.png",
+        "mimeType": "image/png"
+      },
+      "emProducao": false
+    },
+    {
+      "id": 466,
+      "idUrl": "f250",
+      "nome": "F-250",
+      "fotoDestaque": {
+        "id": 50162,
+        "largura": 209,
+        "altura": 139,
+        "nome": "carro/ford/f250/destaque",
+        "url": "//cdn.autopapo.com.br/carro/ford/f250/destaque-v1.png",
+        "mimeType": "image/png"
+      },
+      "emProducao": false
+    },
+    {
+      "id": 1321,
+      "idUrl": "fiesta",
+      "nome": "Fiesta",
+      "fotoDestaque": {
+        "id": 50139,
+        "largura": 209,
+        "altura": 139,
+        "nome": "carro/ford/fiesta-sedan/destaque",
+        "url": "//cdn.autopapo.com.br/carro/ford/fiesta-sedan/destaque-v1.png",
+        "mimeType": "image/png"
+      },
+      "emProducao": false
+    },
+    {
+      "id": 1322,
+      "idUrl": "focus",
+      "nome": "Focus",
+      "fotoDestaque": {
+        "id": 50173,
+        "largura": 209,
+        "altura": 139,
+        "nome": "carro/ford/focus-hatch/destaque",
+        "url": "//cdn.autopapo.com.br/carro/ford/focus-hatch/destaque-v2.png",
+        "mimeType": "image/png"
+      },
+      "emProducao": true
+    },
+    {
+      "id": 416,
+      "idUrl": "fusion",
+      "nome": "Fusion",
+      "fotoDestaque": {
+        "id": 50169,
+        "largura": 209,
+        "altura": 139,
+        "nome": "carro/ford/fusion/destaque",
+        "url": "//cdn.autopapo.com.br/carro/ford/fusion/destaque-v1.png",
+        "mimeType": "image/png"
+      },
+      "emProducao": true
+    },
+    {
+      "id": 413,
+      "idUrl": "ka-hatch",
+      "nome": "Ka Hatch",
+      "fotoDestaque": {
+        "id": 50167,
+        "largura": 209,
+        "altura": 139,
+        "nome": "carro/ford/ka-hatch/destaque",
+        "url": "//cdn.autopapo.com.br/carro/ford/ka-hatch/destaque-v2.png",
+        "mimeType": "image/png"
+      },
+      "emProducao": true
+    },
+    {
+      "id": 1226,
+      "idUrl": "ka-sedan",
+      "nome": "Ka Sedan",
+      "fotoDestaque": {
+        "id": 50136,
+        "largura": 209,
+        "altura": 139,
+        "nome": "carro/ford/ka/destaque",
+        "url": "//cdn.autopapo.com.br/carro/ford/ka/destaque-v2.png",
+        "mimeType": "image/png"
+      },
+      "emProducao": true
+    },
+    {
+      "id": 419,
+      "idUrl": "mondeo",
+      "nome": "Mondeo",
+      "fotoDestaque": {
+        "id": 50130,
+        "largura": 209,
+        "altura": 139,
+        "nome": "carro/ford/mondeo/destaque",
+        "url": "//cdn.autopapo.com.br/carro/ford/mondeo/destaque-v3.png",
+        "mimeType": "image/png"
+      },
+      "emProducao": false
+    },
+    {
+      "id": 423,
+      "idUrl": "mustang",
+      "nome": "Mustang",
+      "fotoDestaque": {
+        "id": 50181,
+        "largura": 209,
+        "altura": 139,
+        "nome": "carro/ford/mustang/destaque",
+        "url": "//cdn.autopapo.com.br/carro/ford/mustang/destaque-v2.png",
+        "mimeType": "image/png"
+      },
+      "emProducao": true
+    },
+    {
+      "id": 426,
+      "idUrl": "pampa",
+      "nome": "Pampa",
+      "fotoDestaque": {
+        "id": 50135,
+        "largura": 209,
+        "altura": 139,
+        "nome": "carro/ford/pampa/destaque",
+        "url": "//cdn.autopapo.com.br/carro/ford/pampa/destaque-v2.png",
+        "mimeType": "image/png"
+      },
+      "emProducao": false
+    },
+    {
+      "id": 1178,
+      "idUrl": "ranger",
+      "nome": "Ranger",
+      "fotoDestaque": {
+        "id": 50197,
+        "largura": 209,
+        "altura": 139,
+        "nome": "carro/ford/ranger/destaque",
+        "url": "//cdn.autopapo.com.br/carro/ford/ranger/destaque-v1.png",
+        "mimeType": "image/png"
+      },
+      "emProducao": true
+    },
+    {
+      "id": 430,
+      "idUrl": "taurus",
+      "nome": "Taurus",
+      "fotoDestaque": {
+        "id": 50161,
+        "largura": 209,
+        "altura": 139,
+        "nome": "carro/ford/taurus/destaque",
+        "url": "//cdn.autopapo.com.br/carro/ford/taurus/destaque-v3.png",
+        "mimeType": "image/png"
+      },
+      "emProducao": false
+    },
+    {
+      "id": 1342,
+      "idUrl": "territory",
+      "nome": "Territory",
+      "fotoDestaque": {
+        "id": 60183,
+        "largura": 209,
+        "altura": 139,
+        "nome": "carro/ford/territory/destaque",
+        "url": "//cdn.autopapo.com.br/carro/ford/territory/destaque.png",
+        "mimeType": "image/png"
+      },
+      "emProducao": true
+    },
+    {
+      "id": 433,
+      "idUrl": "transit",
+      "nome": "Transit",
+      "fotoDestaque": {
+        "id": 50159,
+        "largura": 209,
+        "altura": 139,
+        "nome": "carro/ford/transit/destaque",
+        "url": "//cdn.autopapo.com.br/carro/ford/transit/destaque-v1.png",
+        "mimeType": "image/png"
+      },
+      "emProducao": false
+    },
+    {
+      "id": 434,
+      "idUrl": "verona",
+      "nome": "Verona",
+      "fotoDestaque": {
+        "id": 50157,
+        "largura": 209,
+        "altura": 139,
+        "nome": "carro/ford/verona/destaque",
+        "url": "//cdn.autopapo.com.br/carro/ford/verona/destaque-v3.png",
+        "mimeType": "image/png"
+      },
+      "emProducao": false
+    },
+    {
+      "id": 436,
+      "idUrl": "versailles",
+      "nome": "Versailles",
+      "fotoDestaque": {
+        "id": 50155,
+        "largura": 209,
+        "altura": 139,
+        "nome": "carro/ford/versailles/destaque",
+        "url": "//cdn.autopapo.com.br/carro/ford/versailles/destaque-v2.png",
+        "mimeType": "image/png"
+      },
+      "emProducao": false
+    }
+  ]

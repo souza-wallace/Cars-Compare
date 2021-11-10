@@ -1,0 +1,628 @@
+{
+    "1995": [
+      {
+        "id": 259,
+        "idUrl": "a6-28-v6-12v-1995",
+        "nome": "A6 2.8 V6 12V",
+        "ano": 1995
+      },
+      {
+        "id": 313,
+        "idUrl": "a6-avant-28-v6-12v-1995",
+        "nome": "A6 Avant 2.8 V6 12V",
+        "ano": 1995
+      }
+    ],
+    "1997": [
+      {
+        "id": 288,
+        "idUrl": "a6-avant-28-v6-30v-1997",
+        "nome": "A6 Avant 2.8 V6 30V",
+        "ano": 1997
+      },
+      {
+        "id": 266,
+        "idUrl": "a6-28-v6-30v-tiptronic-1997",
+        "nome": "A6 2.8 V6 30V (tiptronic)",
+        "ano": 1997
+      },
+      {
+        "id": 260,
+        "idUrl": "a6-28-v6-12v-tiptronic-1997",
+        "nome": "A6 2.8 V6 12V (tiptronic)",
+        "ano": 1997
+      }
+    ],
+    "1998": [
+      {
+        "id": 265,
+        "idUrl": "a6-28-v6-30v-tiptronic-1998",
+        "nome": "A6 2.8 V6 30V (tiptronic)",
+        "ano": 1998
+      },
+      {
+        "id": 291,
+        "idUrl": "a6-avant-28-v6-30v-tiptronic-1998",
+        "nome": "A6 Avant 2.8 V6 30V (tiptronic)",
+        "ano": 1998
+      },
+      {
+        "id": 264,
+        "idUrl": "a6-28-v6-30v-1998",
+        "nome": "A6 2.8 V6 30V",
+        "ano": 1998
+      },
+      {
+        "id": 273,
+        "idUrl": "a6-28-v6-30v-quattro-tiptronic-1998",
+        "nome": "A6 2.8 V6 30V Quattro (tiptronic)",
+        "ano": 1998
+      },
+      {
+        "id": 880,
+        "idUrl": "a6-24-v6-30v-tiptronic-1998",
+        "nome": "A6 2.4 V6 30V (tiptronic)",
+        "ano": 1998
+      },
+      {
+        "id": 878,
+        "idUrl": "a6-24-v6-30v-1998",
+        "nome": "A6 2.4 V6 30V",
+        "ano": 1998
+      }
+    ],
+    "1999": [
+      {
+        "id": 292,
+        "idUrl": "a6-avant-28-v6-30v-tiptronic-1999",
+        "nome": "A6 Avant 2.8 V6 30V (tiptronic)",
+        "ano": 1999
+      },
+      {
+        "id": 332,
+        "idUrl": "a6-avant-24-v6-30v-tiptronic-1999",
+        "nome": "A6 Avant 2.4 V6 30V (tiptronic)",
+        "ano": 1999
+      },
+      {
+        "id": 267,
+        "idUrl": "a6-28-v6-30v-tiptronic-1999",
+        "nome": "A6 2.8 V6 30V (tiptronic)",
+        "ano": 1999
+      },
+      {
+        "id": 287,
+        "idUrl": "a6-avant-28-v6-30v-1999",
+        "nome": "A6 Avant 2.8 V6 30V",
+        "ano": 1999
+      },
+      {
+        "id": 328,
+        "idUrl": "a6-avant-24-v6-30v-1999",
+        "nome": "A6 Avant 2.4 V6 30V",
+        "ano": 1999
+      },
+      {
+        "id": 263,
+        "idUrl": "a6-28-v6-30v-1999",
+        "nome": "A6 2.8 V6 30V",
+        "ano": 1999
+      },
+      {
+        "id": 274,
+        "idUrl": "a6-28-v6-30v-quattro-tiptronic-1999",
+        "nome": "A6 2.8 V6 30V Quattro (tiptronic)",
+        "ano": 1999
+      },
+      {
+        "id": 881,
+        "idUrl": "a6-24-v6-30v-tiptronic-1999",
+        "nome": "A6 2.4 V6 30V (tiptronic)",
+        "ano": 1999
+      },
+      {
+        "id": 877,
+        "idUrl": "a6-24-v6-30v-1999",
+        "nome": "A6 2.4 V6 30V",
+        "ano": 1999
+      }
+    ],
+    "2000": [
+      {
+        "id": 293,
+        "idUrl": "a6-avant-28-v6-30v-tiptronic-2000",
+        "nome": "A6 Avant 2.8 V6 30V (tiptronic)",
+        "ano": 2000
+      },
+      {
+        "id": 333,
+        "idUrl": "a6-avant-24-v6-30v-tiptronic-2000",
+        "nome": "A6 Avant 2.4 V6 30V (tiptronic)",
+        "ano": 2000
+      },
+      {
+        "id": 574,
+        "idUrl": "a6-27-v6-30v-bi-turbo-quattro-tiptronic-2000",
+        "nome": "A6 2.7 V6 30V Bi Turbo Quattro (tiptronic)",
+        "ano": 2000
+      },
+      {
+        "id": 268,
+        "idUrl": "a6-28-v6-30v-tiptronic-2000",
+        "nome": "A6 2.8 V6 30V (tiptronic)",
+        "ano": 2000
+      },
+      {
+        "id": 144,
+        "idUrl": "a6-avant-42-v8-20v-quattro-tiptronic-2000",
+        "nome": "A6 Avant 4.2 V8 20V Quattro (tiptronic)",
+        "ano": 2000
+      },
+      {
+        "id": 254,
+        "idUrl": "a6-42-v8-40v-quattro-tiptronic-2000",
+        "nome": "A6 4.2 V8 40V Quattro (tiptronic)",
+        "ano": 2000
+      },
+      {
+        "id": 327,
+        "idUrl": "a6-avant-24-v6-30v-2000",
+        "nome": "A6 Avant 2.4 V6 30V",
+        "ano": 2000
+      },
+      {
+        "id": 262,
+        "idUrl": "a6-28-v6-30v-2000",
+        "nome": "A6 2.8 V6 30V",
+        "ano": 2000
+      },
+      {
+        "id": 275,
+        "idUrl": "a6-28-v6-30v-quattro-tiptronic-2000",
+        "nome": "A6 2.8 V6 30V Quattro (tiptronic)",
+        "ano": 2000
+      },
+      {
+        "id": 286,
+        "idUrl": "a6-avant-28-v6-30v-2000",
+        "nome": "A6 Avant 2.8 V6 30V",
+        "ano": 2000
+      },
+      {
+        "id": 882,
+        "idUrl": "a6-24-v6-30v-tiptronic-2000",
+        "nome": "A6 2.4 V6 30V (tiptronic)",
+        "ano": 2000
+      },
+      {
+        "id": 876,
+        "idUrl": "a6-24-v6-30v-2000",
+        "nome": "A6 2.4 V6 30V",
+        "ano": 2000
+      }
+    ],
+    "2001": [
+      {
+        "id": 314,
+        "idUrl": "a6-avant-27-v6-30v-bi-turbo-quattro-tiptronic-2001",
+        "nome": "A6 Avant 2.7 V6 30V Bi Turbo Quattro (tiptronic)",
+        "ano": 2001
+      },
+      {
+        "id": 289,
+        "idUrl": "a6-avant-28-v6-30v-tiptronic-2001",
+        "nome": "A6 Avant 2.8 V6 30V (tiptronic)",
+        "ano": 2001
+      },
+      {
+        "id": 276,
+        "idUrl": "a6-28-v6-30v-quattro-tiptronic-2001",
+        "nome": "A6 2.8 V6 30V Quattro (tiptronic)",
+        "ano": 2001
+      },
+      {
+        "id": 296,
+        "idUrl": "a6-avant-28-v6-30v-quattro-tiptronic-2001",
+        "nome": "A6 Avant 2.8 V6 30V Quattro (tiptronic)",
+        "ano": 2001
+      },
+      {
+        "id": 294,
+        "idUrl": "a6-avant-28-v6-30v-quattro-2001",
+        "nome": "A6 Avant 2.8 V6 30V Quattro",
+        "ano": 2001
+      },
+      {
+        "id": 338,
+        "idUrl": "a6-avant-27-turbo-tiptronic-2001",
+        "nome": "A6 Avant 2.7 Turbo (tiptronic)",
+        "ano": 2001
+      },
+      {
+        "id": 284,
+        "idUrl": "a6-42-v8-40v-quattro-tiptronic-2001",
+        "nome": "A6 4.2 V8 40V Quattro (tiptronic)",
+        "ano": 2001
+      },
+      {
+        "id": 145,
+        "idUrl": "a6-avant-42-v8-20v-quattro-tiptronic-2001",
+        "nome": "A6 Avant 4.2 V8 20V Quattro (tiptronic)",
+        "ano": 2001
+      },
+      {
+        "id": 573,
+        "idUrl": "a6-27-v6-30v-bi-turbo-quattro-tiptronic-2001",
+        "nome": "A6 2.7 V6 30V Bi Turbo Quattro (tiptronic)",
+        "ano": 2001
+      },
+      {
+        "id": 270,
+        "idUrl": "a6-28-v6-30v-quattro-2001",
+        "nome": "A6 2.8 V6 30V Quattro",
+        "ano": 2001
+      },
+      {
+        "id": 331,
+        "idUrl": "a6-avant-24-v6-30v-tiptronic-2001",
+        "nome": "A6 Avant 2.4 V6 30V (tiptronic)",
+        "ano": 2001
+      },
+      {
+        "id": 269,
+        "idUrl": "a6-28-v6-30v-tiptronic-2001",
+        "nome": "A6 2.8 V6 30V (tiptronic)",
+        "ano": 2001
+      },
+      {
+        "id": 326,
+        "idUrl": "a6-avant-24-v6-30v-2001",
+        "nome": "A6 Avant 2.4 V6 30V",
+        "ano": 2001
+      },
+      {
+        "id": 261,
+        "idUrl": "a6-28-v6-30v-2001",
+        "nome": "A6 2.8 V6 30V",
+        "ano": 2001
+      },
+      {
+        "id": 311,
+        "idUrl": "a6-avant-28-v6-30v-2001",
+        "nome": "A6 Avant 2.8 V6 30V",
+        "ano": 2001
+      },
+      {
+        "id": 883,
+        "idUrl": "a6-24-v6-30v-tiptronic-2001",
+        "nome": "A6 2.4 V6 30V (tiptronic)",
+        "ano": 2001
+      },
+      {
+        "id": 325,
+        "idUrl": "a6-avant-24-quattro-tiptronic-2001",
+        "nome": "A6 Avant 2.4 Quattro (tiptronic)",
+        "ano": 2001
+      },
+      {
+        "id": 335,
+        "idUrl": "a6-avant-24-v6-30v-quattro-2001",
+        "nome": "A6 Avant 2.4 V6 30V Quattro",
+        "ano": 2001
+      },
+      {
+        "id": 884,
+        "idUrl": "a6-24-v6-30v-quattro-2001",
+        "nome": "A6 2.4 V6 30V Quattro",
+        "ano": 2001
+      },
+      {
+        "id": 875,
+        "idUrl": "a6-24-v6-30v-2001",
+        "nome": "A6 2.4 V6 30V",
+        "ano": 2001
+      }
+    ],
+    "2002": [
+      {
+        "id": 339,
+        "idUrl": "a6-avant-27-v6-30v-bi-turbo-quattro-tiptronic-2002",
+        "nome": "A6 Avant 2.7 V6 30V Bi Turbo Quattro (tiptronic)",
+        "ano": 2002
+      },
+      {
+        "id": 572,
+        "idUrl": "a6-27-v6-30v-bi-turbo-quattro-tiptronic-2002",
+        "nome": "A6 2.7 V6 30V Bi Turbo Quattro (tiptronic)",
+        "ano": 2002
+      },
+      {
+        "id": 312,
+        "idUrl": "a6-42-v8-40v-quattro-tiptronic-2002",
+        "nome": "A6 4.2 V8 40V Quattro (tiptronic)",
+        "ano": 2002
+      },
+      {
+        "id": 146,
+        "idUrl": "a6-avant-42-v8-20v-quattro-tiptronic-2002",
+        "nome": "A6 Avant 4.2 V8 20V Quattro (tiptronic)",
+        "ano": 2002
+      },
+      {
+        "id": 879,
+        "idUrl": "a6-24-v6-30v-multitronic-2002",
+        "nome": "A6 2.4 V6 30V (multitronic)",
+        "ano": 2002
+      },
+      {
+        "id": 330,
+        "idUrl": "a6-avant-24-v6-30v-multitronic-2002",
+        "nome": "A6 Avant 2.4 V6 30V (multitronic)",
+        "ano": 2002
+      },
+      {
+        "id": 239,
+        "idUrl": "a6-30-v6-30v-multitronic-2002",
+        "nome": "A6 3.0 V6 30V (multitronic)",
+        "ano": 2002
+      },
+      {
+        "id": 310,
+        "idUrl": "a6-avant-30-v6-30v-multitronic-2002",
+        "nome": "A6 Avant 3.0 V6 30V (multitronic)",
+        "ano": 2002
+      }
+    ],
+    "2003": [
+      {
+        "id": 324,
+        "idUrl": "a6-avant-24-multitronic-2003",
+        "nome": "A6 Avant 2.4 (multitronic)",
+        "ano": 2003
+      },
+      {
+        "id": 874,
+        "idUrl": "a6-24-multitronic-2003",
+        "nome": "A6 2.4 (multitronic)",
+        "ano": 2003
+      },
+      {
+        "id": 341,
+        "idUrl": "a6-27-v6-30v-bi-turbo-quattro-tiptronic-2003",
+        "nome": "A6 2.7 V6 30V Bi Turbo Quattro (tiptronic)",
+        "ano": 2003
+      },
+      {
+        "id": 309,
+        "idUrl": "a6-avant-30-v6-30v-multitronic-2003",
+        "nome": "A6 Avant 3.0 V6 30V (multitronic)",
+        "ano": 2003
+      },
+      {
+        "id": 240,
+        "idUrl": "a6-30-v6-30v-multitronic-2003",
+        "nome": "A6 3.0 V6 30V (multitronic)",
+        "ano": 2003
+      },
+      {
+        "id": 242,
+        "idUrl": "a6-30-v6-30v-quattro-tiptronic-2003",
+        "nome": "A6 3.0 V6 30V Quattro (tiptronic)",
+        "ano": 2003
+      }
+    ],
+    "2004": [
+      {
+        "id": 257,
+        "idUrl": "a6-27-v6-30v-bi-turbo-quattro-tiptronic-2004",
+        "nome": "A6 2.7 V6 30V Bi Turbo Quattro (tiptronic)",
+        "ano": 2004
+      },
+      {
+        "id": 241,
+        "idUrl": "a6-30-v6-30v-multitronic-2004",
+        "nome": "A6 3.0 V6 30V (multitronic)",
+        "ano": 2004
+      },
+      {
+        "id": 245,
+        "idUrl": "a6-30-v6-30v-sport-multitronic-2004",
+        "nome": "A6 3.0 V6 30V Sport (multitronic)",
+        "ano": 2004
+      }
+    ],
+    "2005": [
+      {
+        "id": 316,
+        "idUrl": "a6-42-v8-40v-quattro-tiptronic-2005",
+        "nome": "A6 4.2 V8 40V Quattro (tiptronic)",
+        "ano": 2005
+      },
+      {
+        "id": 235,
+        "idUrl": "a6-30-v6-30v-multitronic-2005",
+        "nome": "A6 3.0 V6 30V (multitronic)",
+        "ano": 2005
+      },
+      {
+        "id": 243,
+        "idUrl": "a6-30-v6-30v-sport-multitronic-2005",
+        "nome": "A6 3.0 V6 30V Sport (multitronic)",
+        "ano": 2005
+      }
+    ],
+    "2006": [
+      {
+        "id": 141,
+        "idUrl": "a6-avant-42-fsi-multitronic-2006",
+        "nome": "A6 Avant 4.2 FSI (multitronic)",
+        "ano": 2006
+      },
+      {
+        "id": 298,
+        "idUrl": "a6-avant-30-multitronic-2006",
+        "nome": "A6 Avant 3.0 (multitronic)",
+        "ano": 2006
+      },
+      {
+        "id": 237,
+        "idUrl": "a6-30-v6-30v-multitronic-2006",
+        "nome": "A6 3.0 V6 30V (multitronic)",
+        "ano": 2006
+      },
+      {
+        "id": 244,
+        "idUrl": "a6-30-v6-30v-sport-multitronic-2006",
+        "nome": "A6 3.0 V6 30V Sport (multitronic)",
+        "ano": 2006
+      }
+    ],
+    "2007": [
+      {
+        "id": 226,
+        "idUrl": "a6-avant-32-fsi-multitronic-2007",
+        "nome": "A6 Avant 3.2 FSi (multitronic)",
+        "ano": 2007
+      },
+      {
+        "id": 249,
+        "idUrl": "a6-42-fsi-tiptronic-2007",
+        "nome": "A6 4.2 FSI (tiptronic)",
+        "ano": 2007
+      }
+    ],
+    "2008": [
+      {
+        "id": 250,
+        "idUrl": "a6-42-fsi-tiptronic-2008",
+        "nome": "A6 4.2 FSI (tiptronic)",
+        "ano": 2008
+      },
+      {
+        "id": 317,
+        "idUrl": "a6-sport-32-fsi-multitronic-2008",
+        "nome": "A6 Sport 3.2 FSI (multitronic)",
+        "ano": 2008
+      },
+      {
+        "id": 246,
+        "idUrl": "a6-32-fsi-comfort-multitronic-2008",
+        "nome": "A6 3.2 FSI Comfort (multitronic)",
+        "ano": 2008
+      },
+      {
+        "id": 247,
+        "idUrl": "a6-32-fsi-sport-multitronic-2008",
+        "nome": "A6 3.2 FSI Sport (multitronic)",
+        "ano": 2008
+      }
+    ],
+    "2010": [
+      {
+        "id": 307,
+        "idUrl": "a6-avant-30-tfsi-tiptronic-quattro-comfort-super-2010",
+        "nome": "A6 Avant 3.0 TFSi Tiptronic Quattro Comfort Super",
+        "ano": 2010
+      }
+    ],
+    "2011": [
+      {
+        "id": 308,
+        "idUrl": "a6-avant-30-tfsi-tiptronic-quattro-comfort-super-2011",
+        "nome": "A6 Avant 3.0 TFSi Tiptronic Quattro Comfort Super",
+        "ano": 2011
+      }
+    ],
+    "2013": [
+      {
+        "id": 318,
+        "idUrl": "a6-30-tfsi-allroad-s-tronic-quattro-2013",
+        "nome": "A6 3.0 TFSI Allroad S tronic quattro",
+        "ano": 2013
+      },
+      {
+        "id": 320,
+        "idUrl": "a6-30-tfsi-avant-ambiente-s-tronic-quattro-2013",
+        "nome": "A6 3.0 TFSI Avant Ambiente S tronic quattro",
+        "ano": 2013
+      },
+      {
+        "id": 277,
+        "idUrl": "a6-30-tfsi-ambiente-s-tronic-quattro-2013",
+        "nome": "A6 3.0 TFSI Ambiente S tronic quattro",
+        "ano": 2013
+      }
+    ],
+    "2014": [
+      {
+        "id": 319,
+        "idUrl": "a6-30-tfsi-allroad-s-tronic-quattro-2014",
+        "nome": "A6 3.0 TFSI Allroad S tronic quattro",
+        "ano": 2014
+      },
+      {
+        "id": 321,
+        "idUrl": "a6-30-tfsi-avant-ambiente-s-tronic-quattro-2014",
+        "nome": "A6 3.0 TFSI Avant Ambiente S tronic quattro",
+        "ano": 2014
+      },
+      {
+        "id": 278,
+        "idUrl": "a6-30-tfsi-ambiente-s-tronic-quattro-2014",
+        "nome": "A6 3.0 TFSI Ambiente S tronic quattro",
+        "ano": 2014
+      },
+      {
+        "id": 22522,
+        "idUrl": "a6-30-v6-tfsi-ambiente-quattro-aut-2014",
+        "nome": "A6 3.0 V6 TFSi Ambiente Quattro (Aut)",
+        "ano": 2014
+      }
+    ],
+    "2015": [
+      {
+        "id": 322,
+        "idUrl": "a6-allroad-quattro-30-tfsi-s-tronic-quattro-2015",
+        "nome": "A6 Allroad quattro 3.0 TFSI S tronic quattro",
+        "ano": 2015
+      },
+      {
+        "id": 279,
+        "idUrl": "a6-30-tfsi-ambiente-s-tronic-quattro-2015",
+        "nome": "A6 3.0 TFSI Ambiente S tronic quattro",
+        "ano": 2015
+      },
+      {
+        "id": 281,
+        "idUrl": "a6-30-tfsi-ambition-s-tronic-quattro-2015",
+        "nome": "A6 3.0 TFSI Ambition S tronic quattro",
+        "ano": 2015
+      },
+      {
+        "id": 872,
+        "idUrl": "a6-20-tfsi-ambiente-s-tronic-2015",
+        "nome": "A6 2.0 TFSI Ambiente S tronic",
+        "ano": 2015
+      }
+    ],
+    "2016": [
+      {
+        "id": 323,
+        "idUrl": "a6-allroad-quattro-30-tfsi-s-tronic-quattro-2016",
+        "nome": "A6 Allroad quattro 3.0 TFSI S tronic quattro",
+        "ano": 2016
+      },
+      {
+        "id": 280,
+        "idUrl": "a6-30-tfsi-ambition-s-tronic-quattro-2016",
+        "nome": "A6 3.0 TFSI Ambition S Tronic quattro",
+        "ano": 2016
+      },
+      {
+        "id": 873,
+        "idUrl": "a6-20-tfsi-ambiente-s-tronic-2016",
+        "nome": "A6 2.0 TFSI Ambiente S tronic",
+        "ano": 2016
+      }
+    ]
+  }

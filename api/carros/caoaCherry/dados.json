@@ -1,0 +1,170 @@
+[
+    {
+      "id": 1220,
+      "idUrl": "arrizo-5",
+      "nome": "Arrizo 5",
+      "fotoDestaque": {
+        "id": 58692,
+        "largura": 209,
+        "altura": 139,
+        "nome": "carro/chery/arrizo-5/destaque",
+        "url": "//cdn.autopapo.com.br/carro/chery/arrizo-5/destaque-v1.png",
+        "mimeType": "image/png"
+      },
+      "emProducao": true
+    },
+    {
+      "id": 1339,
+      "idUrl": "arrizo-6",
+      "nome": "Arrizo 6",
+      "fotoDestaque": {
+        "id": 60178,
+        "largura": 209,
+        "altura": 139,
+        "nome": "carro/chery/arrizo-6/destaque",
+        "url": "//cdn.autopapo.com.br/carro/chery/arrizo-6/destaque.png",
+        "mimeType": "image/png"
+      },
+      "emProducao": true
+    },
+    {
+      "id": 1116,
+      "idUrl": "celer",
+      "nome": "Celer",
+      "fotoDestaque": {
+        "id": 58694,
+        "largura": 209,
+        "altura": 139,
+        "nome": "carro/chery/celer/destaque",
+        "url": "//cdn.autopapo.com.br/carro/chery/celer/destaque-v2.png",
+        "mimeType": "image/png"
+      },
+      "emProducao": true
+    },
+    {
+      "id": 1314,
+      "idUrl": "cielo",
+      "nome": "Cielo",
+      "fotoDestaque": {
+        "id": 58704,
+        "largura": 209,
+        "altura": 139,
+        "nome": "carro/chery/cielo-hatch/destaque",
+        "url": "//cdn.autopapo.com.br/carro/chery/cielo-hatch/destaque-v2.png",
+        "mimeType": "image/png"
+      },
+      "emProducao": false
+    },
+    {
+      "id": 1119,
+      "idUrl": "face",
+      "nome": "Face",
+      "fotoDestaque": {
+        "id": 58688,
+        "largura": 209,
+        "altura": 139,
+        "nome": "carro/chery/face/destaque",
+        "url": "//cdn.autopapo.com.br/carro/chery/face/destaque-v1.png",
+        "mimeType": "image/png"
+      },
+      "emProducao": false
+    },
+    {
+      "id": 1120,
+      "idUrl": "qq",
+      "nome": "QQ",
+      "fotoDestaque": {
+        "id": 58696,
+        "largura": 209,
+        "altura": 139,
+        "nome": "carro/chery/qq/destaque",
+        "url": "//cdn.autopapo.com.br/carro/chery/qq/destaque-v2.png",
+        "mimeType": "image/png"
+      },
+      "emProducao": true
+    },
+    {
+      "id": 1115,
+      "idUrl": "s-18",
+      "nome": "S 18",
+      "fotoDestaque": {
+        "id": 58686,
+        "largura": 209,
+        "altura": 139,
+        "nome": "carro/chery/s-18/destaque",
+        "url": "//cdn.autopapo.com.br/carro/chery/s-18/destaque-v2.png",
+        "mimeType": "image/png"
+      },
+      "emProducao": false
+    },
+    {
+      "id": 1121,
+      "idUrl": "tiggo",
+      "nome": "Tiggo",
+      "fotoDestaque": {
+        "id": 58669,
+        "largura": 209,
+        "altura": 139,
+        "nome": "carro/chery/tiggo/destaque",
+        "url": "//cdn.autopapo.com.br/carro/chery/tiggo/destaque-v2.png",
+        "mimeType": "image/png"
+      },
+      "emProducao": false
+    },
+    {
+      "id": 1221,
+      "idUrl": "tiggo-2",
+      "nome": "Tiggo 2",
+      "fotoDestaque": {
+        "id": 58698,
+        "largura": 209,
+        "altura": 139,
+        "nome": "carro/chery/tiggo-2/destaque",
+        "url": "//cdn.autopapo.com.br/carro/chery/tiggo-2/destaque-v1.png",
+        "mimeType": "image/png"
+      },
+      "emProducao": true
+    },
+    {
+      "id": 1349,
+      "idUrl": "tiggo-3x",
+      "nome": "Tiggo 3x",
+      "fotoDestaque": null,
+      "emProducao": true
+    },
+    {
+      "id": 1222,
+      "idUrl": "tiggo-5x",
+      "nome": "Tiggo 5x",
+      "fotoDestaque": {
+        "id": 58700,
+        "largura": 209,
+        "altura": 139,
+        "nome": "carro/chery/tiggo-5x/destaque",
+        "url": "//cdn.autopapo.com.br/carro/chery/tiggo-5x/destaque-v1.png",
+        "mimeType": "image/png"
+      },
+      "emProducao": true
+    },
+    {
+      "id": 1223,
+      "idUrl": "tiggo-7",
+      "nome": "Tiggo 7",
+      "fotoDestaque": {
+        "id": 58702,
+        "largura": 209,
+        "altura": 139,
+        "nome": "carro/chery/tiggo-7/destaque",
+        "url": "//cdn.autopapo.com.br/carro/chery/tiggo-7/destaque-v1.png",
+        "mimeType": "image/png"
+      },
+      "emProducao": true
+    },
+    {
+      "id": 1341,
+      "idUrl": "tiggo-8",
+      "nome": "Tiggo 8",
+      "fotoDestaque": null,
+      "emProducao": true
+    }
+  ]

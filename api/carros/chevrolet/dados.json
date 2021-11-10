@@ -1,0 +1,534 @@
+[
+    {
+      "id": 232,
+      "idUrl": "agile",
+      "nome": "Agile",
+      "fotoDestaque": {
+        "id": 47402,
+        "largura": 209,
+        "altura": 139,
+        "nome": "carro/chevrolet/agile/destaque",
+        "url": "//cdn.autopapo.com.br/carro/chevrolet/agile/destaque-v2.png",
+        "mimeType": "image/png"
+      },
+      "emProducao": false
+    },
+    {
+      "id": 1315,
+      "idUrl": "astra",
+      "nome": "Astra",
+      "fotoDestaque": {
+        "id": 47404,
+        "largura": 209,
+        "altura": 139,
+        "nome": "carro/chevrolet/astra-sedan/destaque",
+        "url": "//cdn.autopapo.com.br/carro/chevrolet/astra-sedan/destaque-v1.png",
+        "mimeType": "image/png"
+      },
+      "emProducao": false
+    },
+    {
+      "id": 226,
+      "idUrl": "blazer",
+      "nome": "Blazer",
+      "fotoDestaque": {
+        "id": 47406,
+        "largura": 209,
+        "altura": 139,
+        "nome": "carro/chevrolet/blazer/destaque",
+        "url": "//cdn.autopapo.com.br/carro/chevrolet/blazer/destaque-v2.png",
+        "mimeType": "image/png"
+      },
+      "emProducao": false
+    },
+    {
+      "id": 1233,
+      "idUrl": "bolt",
+      "nome": "Bolt",
+      "fotoDestaque": null,
+      "emProducao": true
+    },
+    {
+      "id": 227,
+      "idUrl": "camaro",
+      "nome": "Camaro",
+      "fotoDestaque": {
+        "id": 47428,
+        "largura": 209,
+        "altura": 139,
+        "nome": "carro/chevrolet/camaro/destaque",
+        "url": "//cdn.autopapo.com.br/carro/chevrolet/camaro/destaque-v2.png",
+        "mimeType": "image/png"
+      },
+      "emProducao": true
+    },
+    {
+      "id": 239,
+      "idUrl": "captiva",
+      "nome": "Captiva",
+      "fotoDestaque": {
+        "id": 47430,
+        "largura": 209,
+        "altura": 139,
+        "nome": "carro/chevrolet/captiva/destaque",
+        "url": "//cdn.autopapo.com.br/carro/chevrolet/captiva/destaque-v2.png",
+        "mimeType": "image/png"
+      },
+      "emProducao": true
+    },
+    {
+      "id": 256,
+      "idUrl": "caravan",
+      "nome": "Caravan",
+      "fotoDestaque": {
+        "id": 47409,
+        "largura": 209,
+        "altura": 139,
+        "nome": "carro/chevrolet/caravan/destaque",
+        "url": "//cdn.autopapo.com.br/carro/chevrolet/caravan/destaque-v3.png",
+        "mimeType": "image/png"
+      },
+      "emProducao": false
+    },
+    {
+      "id": 254,
+      "idUrl": "celta",
+      "nome": "Celta",
+      "fotoDestaque": {
+        "id": 47410,
+        "largura": 209,
+        "altura": 139,
+        "nome": "carro/chevrolet/celta/destaque",
+        "url": "//cdn.autopapo.com.br/carro/chevrolet/celta/destaque-v2.png",
+        "mimeType": "image/png"
+      },
+      "emProducao": false
+    },
+    {
+      "id": 252,
+      "idUrl": "chevette-sedan",
+      "nome": "Chevette Sedan",
+      "fotoDestaque": {
+        "id": 47412,
+        "largura": 209,
+        "altura": 139,
+        "nome": "carro/chevrolet/chevette-sedan/destaque",
+        "url": "//cdn.autopapo.com.br/carro/chevrolet/chevette-sedan/destaque-v1.png",
+        "mimeType": "image/png"
+      },
+      "emProducao": false
+    },
+    {
+      "id": 249,
+      "idUrl": "classic",
+      "nome": "Classic",
+      "fotoDestaque": {
+        "id": 47414,
+        "largura": 209,
+        "altura": 139,
+        "nome": "carro/chevrolet/classic/destaque",
+        "url": "//cdn.autopapo.com.br/carro/chevrolet/classic/destaque-v1.png",
+        "mimeType": "image/png"
+      },
+      "emProducao": false
+    },
+    {
+      "id": 248,
+      "idUrl": "cobalt",
+      "nome": "Cobalt",
+      "fotoDestaque": {
+        "id": 47432,
+        "largura": 209,
+        "altura": 139,
+        "nome": "carro/chevrolet/cobalt/destaque",
+        "url": "//cdn.autopapo.com.br/carro/chevrolet/cobalt/destaque-v2.png",
+        "mimeType": "image/png"
+      },
+      "emProducao": true
+    },
+    {
+      "id": 246,
+      "idUrl": "corsa-hatch",
+      "nome": "Corsa Hatch",
+      "fotoDestaque": {
+        "id": 47416,
+        "largura": 209,
+        "altura": 139,
+        "nome": "carro/chevrolet/corsa-hatch/destaque",
+        "url": "//cdn.autopapo.com.br/carro/chevrolet/corsa-hatch/destaque-v1.png",
+        "mimeType": "image/png"
+      },
+      "emProducao": false
+    },
+    {
+      "id": 245,
+      "idUrl": "corsa-pickup",
+      "nome": "Corsa Pick-Up",
+      "fotoDestaque": {
+        "id": 47418,
+        "largura": 209,
+        "altura": 139,
+        "nome": "carro/chevrolet/corsa-pickup/destaque",
+        "url": "//cdn.autopapo.com.br/carro/chevrolet/corsa-pickup/destaque-v2.png",
+        "mimeType": "image/png"
+      },
+      "emProducao": false
+    },
+    {
+      "id": 244,
+      "idUrl": "corsa-sedan",
+      "nome": "Corsa Sedan",
+      "fotoDestaque": {
+        "id": 47420,
+        "largura": 209,
+        "altura": 139,
+        "nome": "carro/chevrolet/corsa-sedan/destaque",
+        "url": "//cdn.autopapo.com.br/carro/chevrolet/corsa-sedan/destaque-v2.png",
+        "mimeType": "image/png"
+      },
+      "emProducao": false
+    },
+    {
+      "id": 243,
+      "idUrl": "corsa-wagon",
+      "nome": "Corsa Wagon",
+      "fotoDestaque": {
+        "id": 47451,
+        "largura": 209,
+        "altura": 139,
+        "nome": "carro/chevrolet/corsa-wagon/destaque",
+        "url": "//cdn.autopapo.com.br/carro/chevrolet/corsa-wagon/destaque-v1.png",
+        "mimeType": "image/png"
+      },
+      "emProducao": false
+    },
+    {
+      "id": 240,
+      "idUrl": "cruze",
+      "nome": "Cruze",
+      "fotoDestaque": {
+        "id": 47434,
+        "largura": 209,
+        "altura": 139,
+        "nome": "carro/chevrolet/cruze/destaque",
+        "url": "//cdn.autopapo.com.br/carro/chevrolet/cruze/destaque-v1.png",
+        "mimeType": "image/png"
+      },
+      "emProducao": true
+    },
+    {
+      "id": 219,
+      "idUrl": "cruze-sport6",
+      "nome": "Cruze Sport6",
+      "fotoDestaque": {
+        "id": 47437,
+        "largura": 209,
+        "altura": 139,
+        "nome": "carro/chevrolet/cruze-sport6/destaque",
+        "url": "//cdn.autopapo.com.br/carro/chevrolet/cruze-sport6/destaque-v3.png",
+        "mimeType": "image/png"
+      },
+      "emProducao": true
+    },
+    {
+      "id": 200,
+      "idUrl": "equinox",
+      "nome": "Equinox",
+      "fotoDestaque": {
+        "id": 47438,
+        "largura": 209,
+        "altura": 139,
+        "nome": "carro/chevrolet/equinox/destaque",
+        "url": "//cdn.autopapo.com.br/carro/chevrolet/equinox/destaque-v1.png",
+        "mimeType": "image/png"
+      },
+      "emProducao": true
+    },
+    {
+      "id": 191,
+      "idUrl": "ipanema",
+      "nome": "Ipanema",
+      "fotoDestaque": {
+        "id": 47482,
+        "largura": 209,
+        "altura": 139,
+        "nome": "carro/chevrolet/ipanema/destaque",
+        "url": "//cdn.autopapo.com.br/carro/chevrolet/ipanema/destaque-v2.png",
+        "mimeType": "image/png"
+      },
+      "emProducao": false
+    },
+    {
+      "id": 190,
+      "idUrl": "kadett",
+      "nome": "Kadett",
+      "fotoDestaque": {
+        "id": 47484,
+        "largura": 209,
+        "altura": 139,
+        "nome": "carro/chevrolet/kadett/destaque",
+        "url": "//cdn.autopapo.com.br/carro/chevrolet/kadett/destaque-v3.png",
+        "mimeType": "image/png"
+      },
+      "emProducao": false
+    },
+    {
+      "id": 187,
+      "idUrl": "malibu",
+      "nome": "Malibu",
+      "fotoDestaque": {
+        "id": 47486,
+        "largura": 209,
+        "altura": 139,
+        "nome": "carro/chevrolet/malibu/destaque",
+        "url": "//cdn.autopapo.com.br/carro/chevrolet/malibu/destaque-v1.png",
+        "mimeType": "image/png"
+      },
+      "emProducao": false
+    },
+    {
+      "id": 195,
+      "idUrl": "marajo",
+      "nome": "Marajo",
+      "fotoDestaque": {
+        "id": 47488,
+        "largura": 209,
+        "altura": 139,
+        "nome": "carro/chevrolet/marajo/destaque",
+        "url": "//cdn.autopapo.com.br/carro/chevrolet/marajo/destaque-v3.png",
+        "mimeType": "image/png"
+      },
+      "emProducao": false
+    },
+    {
+      "id": 185,
+      "idUrl": "meriva",
+      "nome": "Meriva",
+      "fotoDestaque": {
+        "id": 47490,
+        "largura": 209,
+        "altura": 139,
+        "nome": "carro/chevrolet/meriva/destaque",
+        "url": "//cdn.autopapo.com.br/carro/chevrolet/meriva/destaque-v1.png",
+        "mimeType": "image/png"
+      },
+      "emProducao": false
+    },
+    {
+      "id": 183,
+      "idUrl": "montana",
+      "nome": "Montana",
+      "fotoDestaque": {
+        "id": 47440,
+        "largura": 209,
+        "altura": 139,
+        "nome": "carro/chevrolet/montana/destaque",
+        "url": "//cdn.autopapo.com.br/carro/chevrolet/montana/destaque-v2.png",
+        "mimeType": "image/png"
+      },
+      "emProducao": true
+    },
+    {
+      "id": 180,
+      "idUrl": "monza",
+      "nome": "Monza",
+      "fotoDestaque": {
+        "id": 47493,
+        "largura": 209,
+        "altura": 139,
+        "nome": "carro/chevrolet/monza/destaque",
+        "url": "//cdn.autopapo.com.br/carro/chevrolet/monza/destaque-v1.png",
+        "mimeType": "image/png"
+      },
+      "emProducao": false
+    },
+    {
+      "id": 184,
+      "idUrl": "omega",
+      "nome": "Omega",
+      "fotoDestaque": {
+        "id": 47494,
+        "largura": 209,
+        "altura": 139,
+        "nome": "carro/chevrolet/omega/destaque",
+        "url": "//cdn.autopapo.com.br/carro/chevrolet/omega/destaque-v2.png",
+        "mimeType": "image/png"
+      },
+      "emProducao": false
+    },
+    {
+      "id": 182,
+      "idUrl": "onix",
+      "nome": "Onix",
+      "fotoDestaque": {
+        "id": 47442,
+        "largura": 209,
+        "altura": 139,
+        "nome": "carro/chevrolet/onix/destaque",
+        "url": "//cdn.autopapo.com.br/carro/chevrolet/onix/destaque-v1.png",
+        "mimeType": "image/png"
+      },
+      "emProducao": true
+    },
+    {
+      "id": 1227,
+      "idUrl": "onix-plus",
+      "nome": "Onix Plus",
+      "fotoDestaque": {
+        "id": 47444,
+        "largura": 209,
+        "altura": 139,
+        "nome": "carro/chevrolet/onix-plus/destaque",
+        "url": "//cdn.autopapo.com.br/carro/chevrolet/onix-plus/destaque-v1.png",
+        "mimeType": "image/png"
+      },
+      "emProducao": true
+    },
+    {
+      "id": 193,
+      "idUrl": "opala",
+      "nome": "Opala",
+      "fotoDestaque": {
+        "id": 47496,
+        "largura": 209,
+        "altura": 139,
+        "nome": "carro/chevrolet/opala/destaque",
+        "url": "//cdn.autopapo.com.br/carro/chevrolet/opala/destaque-v2.png",
+        "mimeType": "image/png"
+      },
+      "emProducao": false
+    },
+    {
+      "id": 198,
+      "idUrl": "prisma",
+      "nome": "Prisma",
+      "fotoDestaque": {
+        "id": 47446,
+        "largura": 209,
+        "altura": 139,
+        "nome": "carro/chevrolet/prisma/destaque",
+        "url": "//cdn.autopapo.com.br/carro/chevrolet/prisma/destaque-v2.png",
+        "mimeType": "image/png"
+      },
+      "emProducao": true
+    },
+    {
+      "id": 1316,
+      "idUrl": "s10",
+      "nome": "S10",
+      "fotoDestaque": {
+        "id": 47436,
+        "largura": 209,
+        "altura": 139,
+        "nome": "carro/chevrolet/s10-cabine-simples/destaque",
+        "url": "//cdn.autopapo.com.br/carro/chevrolet/s10-cabine-simples/destaque-v1.png",
+        "mimeType": "image/png"
+      },
+      "emProducao": true
+    },
+    {
+      "id": 211,
+      "idUrl": "silverado",
+      "nome": "Silverado",
+      "fotoDestaque": {
+        "id": 47498,
+        "largura": 209,
+        "altura": 139,
+        "nome": "carro/chevrolet/silverado/destaque",
+        "url": "//cdn.autopapo.com.br/carro/chevrolet/silverado/destaque-v1.png",
+        "mimeType": "image/png"
+      },
+      "emProducao": false
+    },
+    {
+      "id": 210,
+      "idUrl": "sonic",
+      "nome": "Sonic",
+      "fotoDestaque": {
+        "id": 47500,
+        "largura": 209,
+        "altura": 139,
+        "nome": "carro/chevrolet/sonic/destaque",
+        "url": "//cdn.autopapo.com.br/carro/chevrolet/sonic/destaque-v2.png",
+        "mimeType": "image/png"
+      },
+      "emProducao": false
+    },
+    {
+      "id": 207,
+      "idUrl": "spin",
+      "nome": "Spin",
+      "fotoDestaque": {
+        "id": 47408,
+        "largura": 209,
+        "altura": 139,
+        "nome": "carro/chevrolet/spin/destaque",
+        "url": "//cdn.autopapo.com.br/carro/chevrolet/spin/destaque-v3.png",
+        "mimeType": "image/png"
+      },
+      "emProducao": true
+    },
+    {
+      "id": 204,
+      "idUrl": "tracker",
+      "nome": "Tracker",
+      "fotoDestaque": {
+        "id": 47398,
+        "largura": 209,
+        "altura": 139,
+        "nome": "carro/chevrolet/tracker/destaque",
+        "url": "//cdn.autopapo.com.br/carro/chevrolet/tracker/destaque-v2.png",
+        "mimeType": "image/png"
+      },
+      "emProducao": true
+    },
+    {
+      "id": 202,
+      "idUrl": "trailblazer",
+      "nome": "TrailBlazer",
+      "fotoDestaque": {
+        "id": 47400,
+        "largura": 209,
+        "altura": 139,
+        "nome": "carro/chevrolet/trailblazer/destaque",
+        "url": "//cdn.autopapo.com.br/carro/chevrolet/trailblazer/destaque-v1.png",
+        "mimeType": "image/png"
+      },
+      "emProducao": true
+    },
+    {
+      "id": 201,
+      "idUrl": "vectra",
+      "nome": "Vectra",
+      "fotoDestaque": {
+        "id": 47502,
+        "largura": 209,
+        "altura": 139,
+        "nome": "carro/chevrolet/vectra/destaque",
+        "url": "//cdn.autopapo.com.br/carro/chevrolet/vectra/destaque-v1.png",
+        "mimeType": "image/png"
+      },
+      "emProducao": false
+    },
+    {
+      "id": 235,
+      "idUrl": "veraneio",
+      "nome": "Veraneio",
+      "fotoDestaque": {
+        "id": 47504,
+        "largura": 209,
+        "altura": 139,
+        "nome": "carro/chevrolet/veraneio/destaque",
+        "url": "//cdn.autopapo.com.br/carro/chevrolet/veraneio/destaque-v3.png",
+        "mimeType": "image/png"
+      },
+      "emProducao": false
+    },
+    {
+      "id": 258,
+      "idUrl": "zafira",
+      "nome": "Zafira",
+      "fotoDestaque": null,
+      "emProducao": false
+    }
+  ]

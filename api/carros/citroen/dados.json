@@ -1,0 +1,233 @@
+[
+    {
+      "id": 312,
+      "idUrl": "aircross",
+      "nome": "Aircross",
+      "fotoDestaque": {
+        "id": 47934,
+        "largura": 209,
+        "altura": 139,
+        "nome": "carro/citroen/aircross/destaque",
+        "url": "//cdn.autopapo.com.br/carro/citroen/aircross/destaque-v1.png",
+        "mimeType": "image/png"
+      },
+      "emProducao": true
+    },
+    {
+      "id": 311,
+      "idUrl": "berlingo",
+      "nome": "Berlingo",
+      "fotoDestaque": {
+        "id": 47956,
+        "largura": 209,
+        "altura": 139,
+        "nome": "carro/citroen/berlingo/destaque",
+        "url": "//cdn.autopapo.com.br/carro/citroen/berlingo/destaque-v2.png",
+        "mimeType": "image/png"
+      },
+      "emProducao": false
+    },
+    {
+      "id": 310,
+      "idUrl": "c3",
+      "nome": "C3",
+      "fotoDestaque": {
+        "id": 47932,
+        "largura": 209,
+        "altura": 139,
+        "nome": "carro/citroen/c3/destaque",
+        "url": "//cdn.autopapo.com.br/carro/citroen/c3/destaque-v2.png",
+        "mimeType": "image/png"
+      },
+      "emProducao": true
+    },
+    {
+      "id": 308,
+      "idUrl": "c4",
+      "nome": "C4",
+      "fotoDestaque": null,
+      "emProducao": false
+    },
+    {
+      "id": 1217,
+      "idUrl": "c4-cactus",
+      "nome": "C4 Cactus",
+      "fotoDestaque": {
+        "id": 47930,
+        "largura": 209,
+        "altura": 139,
+        "nome": "carro/citroen/c4-cactus/destaque",
+        "url": "//cdn.autopapo.com.br/carro/citroen/c4-cactus/destaque-v1.png",
+        "mimeType": "image/png"
+      },
+      "emProducao": true
+    },
+    {
+      "id": 307,
+      "idUrl": "c4-lounge",
+      "nome": "C4 Lounge",
+      "fotoDestaque": {
+        "id": 47928,
+        "largura": 209,
+        "altura": 139,
+        "nome": "carro/citroen/c4-lounge/destaque",
+        "url": "//cdn.autopapo.com.br/carro/citroen/c4-lounge/destaque-v1.png",
+        "mimeType": "image/png"
+      },
+      "emProducao": true
+    },
+    {
+      "id": 305,
+      "idUrl": "c4-picasso",
+      "nome": "C4 Picasso",
+      "fotoDestaque": {
+        "id": 47926,
+        "largura": 209,
+        "altura": 139,
+        "nome": "carro/citroen/c4-picasso/destaque",
+        "url": "//cdn.autopapo.com.br/carro/citroen/c4-picasso/destaque-v3.png",
+        "mimeType": "image/png"
+      },
+      "emProducao": true
+    },
+    {
+      "id": 303,
+      "idUrl": "c5",
+      "nome": "C5",
+      "fotoDestaque": {
+        "id": 21279,
+        "largura": 209,
+        "altura": 139,
+        "nome": "carro/citroen/c5/destaque",
+        "url": "//cdn.autopapo.com.br/carro/citroen/c5/destaque.png",
+        "mimeType": "image/png"
+      },
+      "emProducao": false
+    },
+    {
+      "id": 315,
+      "idUrl": "c6",
+      "nome": "C6",
+      "fotoDestaque": {
+        "id": 47954,
+        "largura": 209,
+        "altura": 139,
+        "nome": "carro/citroen/c6/destaque",
+        "url": "//cdn.autopapo.com.br/carro/citroen/c6/destaque-v2.png",
+        "mimeType": "image/png"
+      },
+      "emProducao": false
+    },
+    {
+      "id": 299,
+      "idUrl": "c8",
+      "nome": "C8",
+      "fotoDestaque": {
+        "id": 47952,
+        "largura": 209,
+        "altura": 139,
+        "nome": "carro/citroen/c8/destaque",
+        "url": "//cdn.autopapo.com.br/carro/citroen/c8/destaque-v1.png",
+        "mimeType": "image/png"
+      },
+      "emProducao": false
+    },
+    {
+      "id": 288,
+      "idUrl": "grand-c4-picasso",
+      "nome": "Grand C4 Picasso",
+      "fotoDestaque": {
+        "id": 47924,
+        "largura": 209,
+        "altura": 139,
+        "nome": "carro/citroen/grand-c4-picasso/destaque",
+        "url": "//cdn.autopapo.com.br/carro/citroen/grand-c4-picasso/destaque-v2.png",
+        "mimeType": "image/png"
+      },
+      "emProducao": true
+    },
+    {
+      "id": 291,
+      "idUrl": "jumper",
+      "nome": "Jumper",
+      "fotoDestaque": {
+        "id": 47938,
+        "largura": 209,
+        "altura": 139,
+        "nome": "carro/citroen/jumper/destaque",
+        "url": "//cdn.autopapo.com.br/carro/citroen/jumper/destaque-v2.png",
+        "mimeType": "image/png"
+      },
+      "emProducao": true
+    },
+    {
+      "id": 1207,
+      "idUrl": "jumpy",
+      "nome": "Jumpy",
+      "fotoDestaque": {
+        "id": 47957,
+        "largura": 209,
+        "altura": 139,
+        "nome": "carro/citroen/jumpy/destaque",
+        "url": "//cdn.autopapo.com.br/carro/citroen/jumpy/destaque-v1.png",
+        "mimeType": "image/png"
+      },
+      "emProducao": true
+    },
+    {
+      "id": 294,
+      "idUrl": "xantia",
+      "nome": "Xantia",
+      "fotoDestaque": {
+        "id": 47950,
+        "largura": 209,
+        "altura": 139,
+        "nome": "carro/citroen/xantia/destaque",
+        "url": "//cdn.autopapo.com.br/carro/citroen/xantia/destaque-v2.png",
+        "mimeType": "image/png"
+      },
+      "emProducao": false
+    },
+    {
+      "id": 298,
+      "idUrl": "xm",
+      "nome": "XM",
+      "fotoDestaque": {
+        "id": 47948,
+        "largura": 209,
+        "altura": 139,
+        "nome": "carro/citroen/xm/destaque",
+        "url": "//cdn.autopapo.com.br/carro/citroen/xm/destaque-v2.png",
+        "mimeType": "image/png"
+      },
+      "emProducao": false
+    },
+    {
+      "id": 292,
+      "idUrl": "xsara",
+      "nome": "Xsara",
+      "fotoDestaque": {
+        "id": 21269,
+        "largura": 209,
+        "altura": 139,
+        "nome": "carro/citroen/xsara/destaque",
+        "url": "//cdn.autopapo.com.br/carro/citroen/xsara/destaque.png",
+        "mimeType": "image/png"
+      },
+      "emProducao": false
+    },
+    {
+      "id": 316,
+      "idUrl": "zx",
+      "nome": "ZX",
+      "fotoDestaque": {
+        "id": 47946,
+        "largura": 209,
+        "altura": 139,
+        "nome": "carro/citroen/zx/destaque",
+        "url": "//cdn.autopapo.com.br/carro/citroen/zx/destaque-v2.png",
+        "mimeType": "image/png"
+      },
+      "emProducao": false
+    }
+  ]

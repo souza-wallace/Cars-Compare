@@ -1,0 +1,202 @@
+{
+    "1994": [
+      {
+        "id": 138,
+        "idUrl": "a8-42-v8-32v-1994",
+        "nome": "A8 4.2 V8 32V",
+        "ano": 1994
+      }
+    ],
+    "1995": [
+      {
+        "id": 139,
+        "idUrl": "a8-42-v8-32v-1995",
+        "nome": "A8 4.2 V8 32V",
+        "ano": 1995
+      }
+    ],
+    "1996": [
+      {
+        "id": 124,
+        "idUrl": "a8-42-v8-32v-1996",
+        "nome": "A8 4.2 V8 32V",
+        "ano": 1996
+      }
+    ],
+    "1997": [
+      {
+        "id": 114,
+        "idUrl": "a8-42-v8-32v-tiptronic-1997",
+        "nome": "A8 4.2 V8 32V (tiptronic)",
+        "ano": 1997
+      }
+    ],
+    "1998": [
+      {
+        "id": 115,
+        "idUrl": "a8-42-v8-32v-tiptronic-1998",
+        "nome": "A8 4.2 V8 32V (tiptronic)",
+        "ano": 1998
+      },
+      {
+        "id": 118,
+        "idUrl": "a8-42-v8-32v-focus-tiptronic-1998",
+        "nome": "A8 4.2 V8 32V Focus (tiptronic)",
+        "ano": 1998
+      }
+    ],
+    "1999": [
+      {
+        "id": 113,
+        "idUrl": "a8-42-v8-32v-tiptronic-1999",
+        "nome": "A8 4.2 V8 32V (tiptronic)",
+        "ano": 1999
+      }
+    ],
+    "2000": [
+      {
+        "id": 116,
+        "idUrl": "a8-42-v8-32v-tiptronic-2000",
+        "nome": "A8 4.2 V8 32V (tiptronic)",
+        "ano": 2000
+      }
+    ],
+    "2001": [
+      {
+        "id": 120,
+        "idUrl": "a8-42-v8-32v-quattro-tiptronic-2001",
+        "nome": "A8 4.2 V8 32V Quattro (tiptronic)",
+        "ano": 2001
+      }
+    ],
+    "2002": [
+      {
+        "id": 119,
+        "idUrl": "a8-42-v8-32v-quattro-tiptronic-2002",
+        "nome": "A8 4.2 V8 32V Quattro (tiptronic)",
+        "ano": 2002
+      }
+    ],
+    "2003": [
+      {
+        "id": 163,
+        "idUrl": "a8-42-v8-2003",
+        "nome": "A8 4.2 V8",
+        "ano": 2003
+      }
+    ],
+    "2004": [
+      {
+        "id": 140,
+        "idUrl": "a8-42-v8-2004",
+        "nome": "A8 4.2 V8",
+        "ano": 2004
+      }
+    ],
+    "2005": [
+      {
+        "id": 162,
+        "idUrl": "a8-42-tiptronic-quattro-2005",
+        "nome": "A8 4.2 Tiptronic Quattro",
+        "ano": 2005
+      }
+    ],
+    "2006": [
+      {
+        "id": 121,
+        "idUrl": "a8-60-w12-2006",
+        "nome": "A8 6.0 W12",
+        "ano": 2006
+      },
+      {
+        "id": 165,
+        "idUrl": "a8-42-v8-2006",
+        "nome": "A8 4.2 V8",
+        "ano": 2006
+      }
+    ],
+    "2007": [
+      {
+        "id": 164,
+        "idUrl": "a8-42-v8-2007",
+        "nome": "A8 4.2 V8",
+        "ano": 2007
+      }
+    ],
+    "2011": [
+      {
+        "id": 158,
+        "idUrl": "a8-42-fsi-tiptronic-quattro-2011",
+        "nome": "A8 4.2 FSI Tiptronic Quattro",
+        "ano": 2011
+      }
+    ],
+    "2012": [
+      {
+        "id": 125,
+        "idUrl": "a8-63-fsi-tiptronic-quattro-lwb-2012",
+        "nome": "A8 6.3 FSI Tiptronic Quattro LWB",
+        "ano": 2012
+      },
+      {
+        "id": 159,
+        "idUrl": "a8-42-fsi-tiptronic-quattro-2012",
+        "nome": "A8 4.2 FSI Tiptronic Quattro",
+        "ano": 2012
+      }
+    ],
+    "2013": [
+      {
+        "id": 137,
+        "idUrl": "a8-63-fsi-tiptronic-quattro-lwb-2013",
+        "nome": "A8 6.3 FSI Tiptronic Quattro LWB",
+        "ano": 2013
+      },
+      {
+        "id": 160,
+        "idUrl": "a8-42-fsi-tiptronic-quattro-2013",
+        "nome": "A8 4.2 FSI Tiptronic Quattro",
+        "ano": 2013
+      }
+    ],
+    "2015": [
+      {
+        "id": 126,
+        "idUrl": "a8-63-fsi-tiptronic-quattro-lwb-2015",
+        "nome": "A8 6.3 FSI Tiptronic quattro lwb",
+        "ano": 2015
+      },
+      {
+        "id": 156,
+        "idUrl": "a8-40-tfsi-tiptronic-quattro-2015",
+        "nome": "A8 4.0 TFSI Tiptronic quattro",
+        "ano": 2015
+      },
+      {
+        "id": 154,
+        "idUrl": "a8-30-tfsi-tiptronic-quattro-lwb-2015",
+        "nome": "A8 3.0 TFSI Tiptronic quattro lwb",
+        "ano": 2015
+      }
+    ],
+    "2016": [
+      {
+        "id": 127,
+        "idUrl": "a8-63-fsi-tiptronic-quattro-lwb-2016",
+        "nome": "A8 6.3 FSI Tiptronic quattro lwb",
+        "ano": 2016
+      },
+      {
+        "id": 155,
+        "idUrl": "a8-30-tfsi-tiptronic-quattro-lwb-2016",
+        "nome": "A8 3.0 TFSI Tiptronic quattro lwb",
+        "ano": 2016
+      },
+      {
+        "id": 157,
+        "idUrl": "a8-40-tfsi-tiptronic-quattro-2016",
+        "nome": "A8 4.0 TFSI Tiptronic quattro",
+        "ano": 2016
+      }
+    ]
+  }

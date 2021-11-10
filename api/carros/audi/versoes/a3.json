@@ -1,0 +1,934 @@
+{
+    "1997": [
+      {
+        "id": 623,
+        "idUrl": "a3-18-20v-turbo-aut-2p-1997",
+        "nome": "A3 1.8 20V Turbo (aut) 2p",
+        "ano": 1997
+      },
+      {
+        "id": 749,
+        "idUrl": "a3-18-20v-aut-2p-1997",
+        "nome": "A3 1.8 20V (aut) 2p",
+        "ano": 1997
+      },
+      {
+        "id": 755,
+        "idUrl": "a3-18-20v-turbo-1997",
+        "nome": "A3 1.8 20V Turbo",
+        "ano": 1997
+      },
+      {
+        "id": 793,
+        "idUrl": "a3-18-20v-1997",
+        "nome": "A3 1.8 20V",
+        "ano": 1997
+      }
+    ],
+    "1998": [
+      {
+        "id": 748,
+        "idUrl": "a3-18-20v-aut-2p-1998",
+        "nome": "A3 1.8 20V (aut) 2p",
+        "ano": 1998
+      },
+      {
+        "id": 783,
+        "idUrl": "a3-18-20v-1998",
+        "nome": "A3 1.8 20V",
+        "ano": 1998
+      },
+      {
+        "id": 622,
+        "idUrl": "a3-18-20v-turbo-aut-2p-1998",
+        "nome": "A3 1.8 20V Turbo (aut) 2p",
+        "ano": 1998
+      },
+      {
+        "id": 609,
+        "idUrl": "a3-18-20v-turbo-avr-182hp-1998",
+        "nome": "A3 1.8 20V Turbo (AVR 182hp)",
+        "ano": 1998
+      },
+      {
+        "id": 610,
+        "idUrl": "a3-18-20v-turbo-avr-192hp-1998",
+        "nome": "A3 1.8 20V Turbo (AVR 192hp)",
+        "ano": 1998
+      },
+      {
+        "id": 611,
+        "idUrl": "a3-18-20v-turbo-avr-232hp-1998",
+        "nome": "A3 1.8 20V Turbo (AVR 232hp)",
+        "ano": 1998
+      },
+      {
+        "id": 764,
+        "idUrl": "a3-18-20v-turbo-1998",
+        "nome": "A3 1.8 20V Turbo",
+        "ano": 1998
+      }
+    ],
+    "1999": [
+      {
+        "id": 801,
+        "idUrl": "a3-18-20v-aut-2p-1999",
+        "nome": "A3 1.8 20V (aut) 2p",
+        "ano": 1999
+      },
+      {
+        "id": 706,
+        "idUrl": "a3-16-8v-1999",
+        "nome": "A3 1.6 8V",
+        "ano": 1999
+      },
+      {
+        "id": 785,
+        "idUrl": "a3-18-20v-1999",
+        "nome": "A3 1.8 20V",
+        "ano": 1999
+      },
+      {
+        "id": 754,
+        "idUrl": "a3-18-20v-2p-1999",
+        "nome": "A3 1.8 20V 2p",
+        "ano": 1999
+      },
+      {
+        "id": 621,
+        "idUrl": "a3-18-20v-turbo-aut-2p-1999",
+        "nome": "A3 1.8 20V Turbo (aut) 2p",
+        "ano": 1999
+      },
+      {
+        "id": 757,
+        "idUrl": "a3-18-20v-turbo-1999",
+        "nome": "A3 1.8 20V Turbo",
+        "ano": 1999
+      },
+      {
+        "id": 782,
+        "idUrl": "a3-16-8v-2p-1999",
+        "nome": "A3 1.6 8V 2p",
+        "ano": 1999
+      },
+      {
+        "id": 612,
+        "idUrl": "a3-18-20v-turbo-senna-edition-1999",
+        "nome": "A3 1.8 20V Turbo (Senna Edition)",
+        "ano": 1999
+      },
+      {
+        "id": 627,
+        "idUrl": "a3-18-20v-turbo-2p-1999",
+        "nome": "A3 1.8 20V Turbo 2p",
+        "ano": 1999
+      }
+    ],
+    "2000": [
+      {
+        "id": 618,
+        "idUrl": "a3-18-20v-turbo-aut-2000",
+        "nome": "A3 1.8 20V Turbo (aut)",
+        "ano": 2000
+      },
+      {
+        "id": 756,
+        "idUrl": "a3-18-20v-turbo-2000",
+        "nome": "A3 1.8 20V Turbo",
+        "ano": 2000
+      },
+      {
+        "id": 794,
+        "idUrl": "a3-18-20v-aut-2000",
+        "nome": "A3 1.8 20V (aut)",
+        "ano": 2000
+      },
+      {
+        "id": 716,
+        "idUrl": "a3-16-8v-aut-2000",
+        "nome": "A3 1.6 8V (aut)",
+        "ano": 2000
+      },
+      {
+        "id": 773,
+        "idUrl": "a3-18-20v-aut-2p-2000",
+        "nome": "A3 1.8 20V (aut) 2p",
+        "ano": 2000
+      },
+      {
+        "id": 705,
+        "idUrl": "a3-16-8v-2000",
+        "nome": "A3 1.6 8V",
+        "ano": 2000
+      },
+      {
+        "id": 607,
+        "idUrl": "a3-18-20v-turbo-180hp-2p-2000",
+        "nome": "A3 1.8 20V Turbo (180hp) 2p",
+        "ano": 2000
+      },
+      {
+        "id": 765,
+        "idUrl": "a3-18-20v-turbo-180hp-2000",
+        "nome": "A3 1.8 20V Turbo (180hp)",
+        "ano": 2000
+      },
+      {
+        "id": 784,
+        "idUrl": "a3-18-20v-2000",
+        "nome": "A3 1.8 20V",
+        "ano": 2000
+      },
+      {
+        "id": 753,
+        "idUrl": "a3-18-20v-2p-2000",
+        "nome": "A3 1.8 20V 2p",
+        "ano": 2000
+      },
+      {
+        "id": 620,
+        "idUrl": "a3-18-20v-turbo-aut-2p-2000",
+        "nome": "A3 1.8 20V Turbo (aut) 2p",
+        "ano": 2000
+      },
+      {
+        "id": 747,
+        "idUrl": "a3-16-8v-aut-2p-2000",
+        "nome": "A3 1.6 8V (aut) 2p",
+        "ano": 2000
+      },
+      {
+        "id": 781,
+        "idUrl": "a3-16-8v-2p-2000",
+        "nome": "A3 1.6 8V 2p",
+        "ano": 2000
+      },
+      {
+        "id": 626,
+        "idUrl": "a3-18-20v-turbo-2p-2000",
+        "nome": "A3 1.8 20V Turbo 2p",
+        "ano": 2000
+      }
+    ],
+    "2001": [
+      {
+        "id": 758,
+        "idUrl": "a3-18-20v-turbo-2001",
+        "nome": "A3 1.8 20V Turbo",
+        "ano": 2001
+      },
+      {
+        "id": 714,
+        "idUrl": "a3-16-8v-aut-2001",
+        "nome": "A3 1.6 8V (aut)",
+        "ano": 2001
+      },
+      {
+        "id": 795,
+        "idUrl": "a3-18-20v-aut-2001",
+        "nome": "A3 1.8 20V (aut)",
+        "ano": 2001
+      },
+      {
+        "id": 707,
+        "idUrl": "a3-16-8v-2001",
+        "nome": "A3 1.6 8V",
+        "ano": 2001
+      },
+      {
+        "id": 775,
+        "idUrl": "a3-18-20v-aut-2p-2001",
+        "nome": "A3 1.8 20V (aut) 2p",
+        "ano": 2001
+      },
+      {
+        "id": 606,
+        "idUrl": "a3-18-20v-turbo-180hp-2p-2001",
+        "nome": "A3 1.8 20V Turbo (180hp) 2p",
+        "ano": 2001
+      },
+      {
+        "id": 766,
+        "idUrl": "a3-18-20v-turbo-180hp-2001",
+        "nome": "A3 1.8 20V Turbo (180hp)",
+        "ano": 2001
+      },
+      {
+        "id": 774,
+        "idUrl": "a3-16-8v-aut-2p-2001",
+        "nome": "A3 1.6 8V (aut) 2p",
+        "ano": 2001
+      },
+      {
+        "id": 786,
+        "idUrl": "a3-18-20v-2001",
+        "nome": "A3 1.8 20V",
+        "ano": 2001
+      },
+      {
+        "id": 752,
+        "idUrl": "a3-18-20v-2p-2001",
+        "nome": "A3 1.8 20V 2p",
+        "ano": 2001
+      },
+      {
+        "id": 625,
+        "idUrl": "a3-18-20v-turbo-2p-2001",
+        "nome": "A3 1.8 20V Turbo 2p",
+        "ano": 2001
+      },
+      {
+        "id": 780,
+        "idUrl": "a3-16-8v-2p-2001",
+        "nome": "A3 1.6 8V 2p",
+        "ano": 2001
+      }
+    ],
+    "2002": [
+      {
+        "id": 614,
+        "idUrl": "a3-18-20v-turbo-aut-2002",
+        "nome": "A3 1.8 20V Turbo (aut)",
+        "ano": 2002
+      },
+      {
+        "id": 770,
+        "idUrl": "a3-18-20v-turbo-180hp-tiptronic-2002",
+        "nome": "A3 1.8 20V Turbo (180hp) (tiptronic)",
+        "ano": 2002
+      },
+      {
+        "id": 603,
+        "idUrl": "a3-18-20v-turbo-180hp-tiptronic-2p-2002",
+        "nome": "A3 1.8 20V Turbo (180hp) (tiptronic) 2p",
+        "ano": 2002
+      },
+      {
+        "id": 713,
+        "idUrl": "a3-16-8v-aut-2002",
+        "nome": "A3 1.6 8V (aut)",
+        "ano": 2002
+      },
+      {
+        "id": 746,
+        "idUrl": "a3-16-8v-aut-2p-2002",
+        "nome": "A3 1.6 8V (aut) 2p",
+        "ano": 2002
+      },
+      {
+        "id": 708,
+        "idUrl": "a3-16-8v-2002",
+        "nome": "A3 1.6 8V",
+        "ano": 2002
+      },
+      {
+        "id": 759,
+        "idUrl": "a3-18-20v-turbo-2002",
+        "nome": "A3 1.8 20V Turbo",
+        "ano": 2002
+      },
+      {
+        "id": 796,
+        "idUrl": "a3-18-20v-aut-2002",
+        "nome": "A3 1.8 20V (aut)",
+        "ano": 2002
+      },
+      {
+        "id": 802,
+        "idUrl": "a3-18-20v-aut-2p-2002",
+        "nome": "A3 1.8 20V (aut) 2p",
+        "ano": 2002
+      },
+      {
+        "id": 605,
+        "idUrl": "a3-18-20v-turbo-180hp-2p-2002",
+        "nome": "A3 1.8 20V Turbo (180hp) 2p",
+        "ano": 2002
+      },
+      {
+        "id": 767,
+        "idUrl": "a3-18-20v-turbo-180hp-2002",
+        "nome": "A3 1.8 20V Turbo (180hp)",
+        "ano": 2002
+      },
+      {
+        "id": 779,
+        "idUrl": "a3-16-8v-2p-2002",
+        "nome": "A3 1.6 8V 2p",
+        "ano": 2002
+      },
+      {
+        "id": 619,
+        "idUrl": "a3-18-20v-turbo-aut-2p-2002",
+        "nome": "A3 1.8 20V Turbo (aut) 2p",
+        "ano": 2002
+      },
+      {
+        "id": 624,
+        "idUrl": "a3-18-20v-turbo-2p-2002",
+        "nome": "A3 1.8 20V Turbo 2p",
+        "ano": 2002
+      },
+      {
+        "id": 787,
+        "idUrl": "a3-18-20v-2002",
+        "nome": "A3 1.8 20V",
+        "ano": 2002
+      },
+      {
+        "id": 751,
+        "idUrl": "a3-18-20v-2p-2002",
+        "nome": "A3 1.8 20V 2p",
+        "ano": 2002
+      }
+    ],
+    "2003": [
+      {
+        "id": 772,
+        "idUrl": "a3-18-20v-turbo-180hp-tiptronic-2003",
+        "nome": "A3 1.8 20V Turbo (180hp) (tiptronic)",
+        "ano": 2003
+      },
+      {
+        "id": 658,
+        "idUrl": "a3-18-20v-turbo-180hp-tiptronic-2p-2003",
+        "nome": "A3 1.8 20V Turbo (180hp) (tiptronic) 2p",
+        "ano": 2003
+      },
+      {
+        "id": 613,
+        "idUrl": "a3-18-20v-turbo-aut-2003",
+        "nome": "A3 1.8 20V Turbo (aut)",
+        "ano": 2003
+      },
+      {
+        "id": 709,
+        "idUrl": "a3-16-8v-2003",
+        "nome": "A3 1.6 8V",
+        "ano": 2003
+      },
+      {
+        "id": 760,
+        "idUrl": "a3-18-20v-turbo-2003",
+        "nome": "A3 1.8 20V Turbo",
+        "ano": 2003
+      },
+      {
+        "id": 797,
+        "idUrl": "a3-18-20v-aut-2003",
+        "nome": "A3 1.8 20V (aut)",
+        "ano": 2003
+      },
+      {
+        "id": 776,
+        "idUrl": "a3-18-20v-aut-2p-2003",
+        "nome": "A3 1.8 20V (aut) 2p",
+        "ano": 2003
+      },
+      {
+        "id": 768,
+        "idUrl": "a3-18-20v-turbo-180hp-2003",
+        "nome": "A3 1.8 20V Turbo (180hp)",
+        "ano": 2003
+      },
+      {
+        "id": 579,
+        "idUrl": "a3-18-turbo-180hp-2p-2003",
+        "nome": "A3 1.8 Turbo (180hp) 2p",
+        "ano": 2003
+      },
+      {
+        "id": 580,
+        "idUrl": "a3-18-turbo-aut-2p-2003",
+        "nome": "A3 1.8 Turbo (aut) 2p",
+        "ano": 2003
+      },
+      {
+        "id": 582,
+        "idUrl": "a3-18-turbo-2p-2003",
+        "nome": "A3 1.8 Turbo 2p",
+        "ano": 2003
+      },
+      {
+        "id": 778,
+        "idUrl": "a3-16-8v-2p-2003",
+        "nome": "A3 1.6 8V 2p",
+        "ano": 2003
+      },
+      {
+        "id": 788,
+        "idUrl": "a3-18-20v-2003",
+        "nome": "A3 1.8 20V",
+        "ano": 2003
+      },
+      {
+        "id": 750,
+        "idUrl": "a3-18-20v-2p-2003",
+        "nome": "A3 1.8 20V 2p",
+        "ano": 2003
+      }
+    ],
+    "2004": [
+      {
+        "id": 615,
+        "idUrl": "a3-18-20v-turbo-aut-2004",
+        "nome": "A3 1.8 20V Turbo (aut)",
+        "ano": 2004
+      },
+      {
+        "id": 710,
+        "idUrl": "a3-16-8v-2004",
+        "nome": "A3 1.6 8V",
+        "ano": 2004
+      },
+      {
+        "id": 761,
+        "idUrl": "a3-18-20v-turbo-2004",
+        "nome": "A3 1.8 20V Turbo",
+        "ano": 2004
+      },
+      {
+        "id": 798,
+        "idUrl": "a3-18-20v-aut-2004",
+        "nome": "A3 1.8 20V (aut)",
+        "ano": 2004
+      },
+      {
+        "id": 769,
+        "idUrl": "a3-18-20v-turbo-180hp-2004",
+        "nome": "A3 1.8 20V Turbo (180hp)",
+        "ano": 2004
+      },
+      {
+        "id": 789,
+        "idUrl": "a3-18-20v-2004",
+        "nome": "A3 1.8 20V",
+        "ano": 2004
+      }
+    ],
+    "2005": [
+      {
+        "id": 616,
+        "idUrl": "a3-18-20v-turbo-aut-2005",
+        "nome": "A3 1.8 20V Turbo (aut)",
+        "ano": 2005
+      },
+      {
+        "id": 581,
+        "idUrl": "a3-18-turbo-180hp-2005",
+        "nome": "A3 1.8 Turbo 180HP",
+        "ano": 2005
+      },
+      {
+        "id": 799,
+        "idUrl": "a3-18-20v-aut-2005",
+        "nome": "A3 1.8 20V (aut)",
+        "ano": 2005
+      },
+      {
+        "id": 762,
+        "idUrl": "a3-18-20v-turbo-2005",
+        "nome": "A3 1.8 20V Turbo",
+        "ano": 2005
+      },
+      {
+        "id": 711,
+        "idUrl": "a3-16-8v-2005",
+        "nome": "A3 1.6 8V",
+        "ano": 2005
+      }
+    ],
+    "2006": [
+      {
+        "id": 800,
+        "idUrl": "a3-18-20v-aut-2006",
+        "nome": "A3 1.8 20V (aut)",
+        "ano": 2006
+      },
+      {
+        "id": 763,
+        "idUrl": "a3-18-20v-turbo-2006",
+        "nome": "A3 1.8 20V Turbo",
+        "ano": 2006
+      },
+      {
+        "id": 617,
+        "idUrl": "a3-18-20v-turbo-aut-2006",
+        "nome": "A3 1.8 20V Turbo (aut)",
+        "ano": 2006
+      },
+      {
+        "id": 712,
+        "idUrl": "a3-16-8v-2006",
+        "nome": "A3 1.6 8V",
+        "ano": 2006
+      },
+      {
+        "id": 791,
+        "idUrl": "a3-18-20v-2006",
+        "nome": "A3 1.8 20V",
+        "ano": 2006
+      }
+    ],
+    "2007": [
+      {
+        "id": 596,
+        "idUrl": "a3-sportback-20-tfsi-stronic-2007",
+        "nome": "A3 Sportback 2.0 TFSI S-tronic",
+        "ano": 2007
+      },
+      {
+        "id": 591,
+        "idUrl": "a3-sportback-20-tfsi-2007",
+        "nome": "A3 Sportback 2.0 TFSI",
+        "ano": 2007
+      },
+      {
+        "id": 599,
+        "idUrl": "a3-sportback-16-8v-2007",
+        "nome": "A3 Sportback 1.6 8V",
+        "ano": 2007
+      },
+      {
+        "id": 777,
+        "idUrl": "a3-16-8v-2p-2007",
+        "nome": "A3 1.6 8V 2p",
+        "ano": 2007
+      }
+    ],
+    "2008": [
+      {
+        "id": 598,
+        "idUrl": "a3-sportback-20-tfsi-stronic-2008",
+        "nome": "A3 Sportback 2.0 TFSI S-tronic",
+        "ano": 2008
+      },
+      {
+        "id": 593,
+        "idUrl": "a3-sportback-20-tfsi-2008",
+        "nome": "A3 Sportback 2.0 TFSI",
+        "ano": 2008
+      },
+      {
+        "id": 589,
+        "idUrl": "a3-sportback-16-8v-2008",
+        "nome": "A3 Sportback 1.6 8V",
+        "ano": 2008
+      }
+    ],
+    "2009": [
+      {
+        "id": 628,
+        "idUrl": "a3-sportback-20-tfsi-stronic-2009",
+        "nome": "A3 Sportback 2.0 TFSI S-tronic",
+        "ano": 2009
+      },
+      {
+        "id": 594,
+        "idUrl": "a3-sportback-20-tfsi-2009",
+        "nome": "A3 Sportback 2.0 TFSI",
+        "ano": 2009
+      },
+      {
+        "id": 590,
+        "idUrl": "a3-sportback-16-8v-2009",
+        "nome": "A3 Sportback 1.6 8V",
+        "ano": 2009
+      }
+    ],
+    "2010": [
+      {
+        "id": 585,
+        "idUrl": "a3-sport-20-tfsi-stronic-2010",
+        "nome": "A3 Sport 2.0 TFSI S-tronic",
+        "ano": 2010
+      },
+      {
+        "id": 597,
+        "idUrl": "a3-sportback-20-tfsi-stronic-2010",
+        "nome": "A3 Sportback 2.0 TFSI S-tronic",
+        "ano": 2010
+      },
+      {
+        "id": 592,
+        "idUrl": "a3-sportback-20-tfsi-2010",
+        "nome": "A3 Sportback 2.0 TFSI",
+        "ano": 2010
+      },
+      {
+        "id": 588,
+        "idUrl": "a3-sportback-16-8v-2010",
+        "nome": "A3 Sportback 1.6 8V",
+        "ano": 2010
+      }
+    ],
+    "2011": [
+      {
+        "id": 587,
+        "idUrl": "a3-sport-20-tfsi-stronic-2011",
+        "nome": "A3 Sport 2.0 TFSI S-tronic",
+        "ano": 2011
+      },
+      {
+        "id": 629,
+        "idUrl": "a3-sportback-20-tfsi-stronic-2011",
+        "nome": "A3 Sportback 2.0 TFSI S-tronic",
+        "ano": 2011
+      },
+      {
+        "id": 595,
+        "idUrl": "a3-sportback-20-tfsi-2011",
+        "nome": "A3 Sportback 2.0 TFSI",
+        "ano": 2011
+      }
+    ],
+    "2012": [
+      {
+        "id": 584,
+        "idUrl": "a3-20-tfsi-s-tronic-sportback-attraction-2012",
+        "nome": "A3 2.0 TFSI S tronic Sportback Attraction",
+        "ano": 2012
+      },
+      {
+        "id": 583,
+        "idUrl": "a3-20-tfsi-s-tronic-sport-2012",
+        "nome": "A3 2.0 TFSI S tronic Sport",
+        "ano": 2012
+      }
+    ],
+    "2013": [
+      {
+        "id": 586,
+        "idUrl": "a3-18-tfsi-sportback-ambition-s-tronic-2013",
+        "nome": "A3 1.8 TFSI Sportback Ambition S tronic",
+        "ano": 2013
+      },
+      {
+        "id": 601,
+        "idUrl": "a3-18-tfsi-sport-s-tronic-2013",
+        "nome": "A3 1.8 TFSI Sport S tronic",
+        "ano": 2013
+      },
+      {
+        "id": 702,
+        "idUrl": "a3-14-tfsi-sportback-attraction-s-tronic-2013",
+        "nome": "A3 1.4 TFSI Sportback Attraction S tronic",
+        "ano": 2013
+      }
+    ],
+    "2014": [
+      {
+        "id": 577,
+        "idUrl": "a3-18-tfsi-sportback-s-tronic-2014",
+        "nome": "A3 1.8 TFSI Sportback S tronic",
+        "ano": 2014
+      },
+      {
+        "id": 630,
+        "idUrl": "a3-sportback-ambition-2014",
+        "nome": "A3 Sportback Ambition",
+        "ano": 2014
+      },
+      {
+        "id": 674,
+        "idUrl": "a3-sedan-18-tfsi-s-tronic-2014",
+        "nome": "A3 Sedan 1.8 TFSI S tronic",
+        "ano": 2014
+      },
+      {
+        "id": 676,
+        "idUrl": "a3-sedan-18-tfsi-s-tronic-ambition-2014",
+        "nome": "A3 Sedan 1.8 TFSI S tronic Ambition",
+        "ano": 2014
+      },
+      {
+        "id": 600,
+        "idUrl": "a3-18-tfsi-sport-s-tronic-2014",
+        "nome": "A3 1.8 TFSI Sport S tronic",
+        "ano": 2014
+      },
+      {
+        "id": 631,
+        "idUrl": "a3-sportback-attraction-2014",
+        "nome": "A3 Sportback Attraction",
+        "ano": 2014
+      },
+      {
+        "id": 698,
+        "idUrl": "a3-14-tfsi-sportback-ambiente-s-tronic-2014",
+        "nome": "A3 1.4 TFSI Sportback Ambiente S tronic",
+        "ano": 2014
+      },
+      {
+        "id": 703,
+        "idUrl": "a3-14-tfsi-sportback-s-tronic-2014",
+        "nome": "A3 1.4 TFSI Sportback S tronic",
+        "ano": 2014
+      },
+      {
+        "id": 669,
+        "idUrl": "a3-sedan-14-tfsi-s-tronic-2014",
+        "nome": "A3 Sedan 1.4 TFSI S tronic",
+        "ano": 2014
+      },
+      {
+        "id": 671,
+        "idUrl": "a3-sedan-14-tfsi-s-tronic-attraction-2014",
+        "nome": "A3 Sedan 1.4 TFSI S tronic Attraction",
+        "ano": 2014
+      }
+    ],
+    "2015": [
+      {
+        "id": 661,
+        "idUrl": "a3-18-tfsi-s-tronic-ambition-cabriolet-2015",
+        "nome": "A3 1.8 TFSI S tronic Ambition Cabriolet",
+        "ano": 2015
+      },
+      {
+        "id": 575,
+        "idUrl": "a3-18-tfsi-sportback-ambition-s-tronic-2015",
+        "nome": "A3 1.8 TFSI Sportback Ambition S tronic",
+        "ano": 2015
+      },
+      {
+        "id": 578,
+        "idUrl": "a3-18-tfsi-sportback-s-tronic-2015",
+        "nome": "A3 1.8 TFSI Sportback S tronic",
+        "ano": 2015
+      },
+      {
+        "id": 675,
+        "idUrl": "a3-sedan-18-tfsi-s-tronic-2015",
+        "nome": "A3 Sedan 1.8 TFSI S tronic",
+        "ano": 2015
+      },
+      {
+        "id": 677,
+        "idUrl": "a3-sedan-18-tfsi-s-tronic-ambition-2015",
+        "nome": "A3 Sedan 1.8 TFSI S tronic Ambition",
+        "ano": 2015
+      },
+      {
+        "id": 701,
+        "idUrl": "a3-14-tfsi-sportback-attraction-s-tronic-2015",
+        "nome": "A3 1.4 TFSI Sportback Attraction S Tronic",
+        "ano": 2015
+      },
+      {
+        "id": 704,
+        "idUrl": "a3-14-tfsi-sportback-s-tronic-2015",
+        "nome": "A3 1.4 TFSI Sportback S tronic",
+        "ano": 2015
+      },
+      {
+        "id": 670,
+        "idUrl": "a3-sedan-14-tfsi-s-tronic-2015",
+        "nome": "A3 Sedan 1.4 TFSI S tronic",
+        "ano": 2015
+      },
+      {
+        "id": 672,
+        "idUrl": "a3-sedan-14-tfsi-s-tronic-attraction-2015",
+        "nome": "A3 Sedan 1.4 TFSI S tronic Attraction",
+        "ano": 2015
+      }
+    ],
+    "2016": [
+      {
+        "id": 662,
+        "idUrl": "a3-18-tfsi-s-tronic-ambition-cabriolet-2016",
+        "nome": "A3 1.8 TFSI S tronic Ambition Cabriolet",
+        "ano": 2016
+      },
+      {
+        "id": 679,
+        "idUrl": "a3-sedan-20-tfsi-ambition-stronic-2016",
+        "nome": "A3 Sedan 2.0 TFSI Ambition S-tronic",
+        "ano": 2016
+      },
+      {
+        "id": 576,
+        "idUrl": "a3-18-tfsi-sportback-ambition-stronic-2016",
+        "nome": "A3 1.8 TFSI Sportback Ambition S-tronic",
+        "ano": 2016
+      },
+      {
+        "id": 673,
+        "idUrl": "a3-sedan-18-tfsi-ambition-stronic-2016",
+        "nome": "A3 Sedan 1.8 TFSI Ambition S-tronic",
+        "ano": 2016
+      },
+      {
+        "id": 699,
+        "idUrl": "a3-14-tfsi-sportback-ambiente-stronic-2016",
+        "nome": "A3 1.4 TFSI Sportback Ambiente S-tronic",
+        "ano": 2016
+      },
+      {
+        "id": 664,
+        "idUrl": "a3-sedan-14-tfsi-ambiente-tiptronic-flex-2016",
+        "nome": "A3 Sedan 1.4 TFSI Ambiente Tiptronic (Flex)",
+        "ano": 2016
+      },
+      {
+        "id": 667,
+        "idUrl": "a3-sedan-14-tfsi-attraction-tiptronic-flex-2016",
+        "nome": "A3 Sedan 1.4 TFSI Attraction Tiptronic (Flex)",
+        "ano": 2016
+      },
+      {
+        "id": 663,
+        "idUrl": "a3-sedan-14-tfsi-ambiente-stronic-2016",
+        "nome": "A3 Sedan 1.4 TFSI Ambiente S-tronic",
+        "ano": 2016
+      },
+      {
+        "id": 666,
+        "idUrl": "a3-sedan-14-tfsi-attraction-stronic-2016",
+        "nome": "A3 Sedan 1.4 TFSI Attraction S-tronic",
+        "ano": 2016
+      }
+    ],
+    "2017": [
+      {
+        "id": 678,
+        "idUrl": "a3-sedan-20-tfsi-ambition-stronic-2017",
+        "nome": "A3 Sedan 2.0 TFSI Ambition S-Tronic",
+        "ano": 2017
+      },
+      {
+        "id": 700,
+        "idUrl": "a3-14-tfsi-sportback-ambiente-stronic-2017",
+        "nome": "A3 1.4 TFSI Sportback Ambiente S-tronic",
+        "ano": 2017
+      },
+      {
+        "id": 665,
+        "idUrl": "a3-sedan-14-tfsi-ambiente-tiptronic-flex-2017",
+        "nome": "A3 Sedan 1.4 TFSI Ambiente Tiptronic (Flex)",
+        "ano": 2017
+      },
+      {
+        "id": 668,
+        "idUrl": "a3-sedan-14-tfsi-attraction-tiptronic-flex-2017",
+        "nome": "A3 Sedan 1.4 TFSI Attraction Tiptronic (Flex)",
+        "ano": 2017
+      }
+    ],
+    "2018": [
+      {
+        "id": 22183,
+        "idUrl": "audi-a3-sportback-ambiente-14-tfsi-2018",
+        "nome": "Audi A3 Sportback Ambiente 1.4 TFsi",
+        "ano": 2018
+      },
+      {
+        "id": 22123,
+        "idUrl": "audi-a3-sedan-ambiente-14-tfsi-2018",
+        "nome": "Audi A3 Sedan Ambiente 1.4 TFSi",
+        "ano": 2018
+      }
+    ]
+  }

@@ -1,0 +1,296 @@
+[
+    {
+      "id": 84,
+      "idUrl": "i3",
+      "nome": "I3",
+      "fotoDestaque": {
+        "id": 46649,
+        "largura": 209,
+        "altura": 139,
+        "nome": "carro/bmw/i3/destaque",
+        "url": "//cdn.autopapo.com.br/carro/bmw/i3/destaque-v1.png",
+        "mimeType": "image/png"
+      },
+      "emProducao": false
+    },
+    {
+      "id": 85,
+      "idUrl": "i8",
+      "nome": "I8",
+      "fotoDestaque": {
+        "id": 46659,
+        "largura": 209,
+        "altura": 139,
+        "nome": "carro/bmw/i8/destaque",
+        "url": "//cdn.autopapo.com.br/carro/bmw/i8/destaque-v1.png",
+        "mimeType": "image/png"
+      },
+      "emProducao": false
+    },
+    {
+      "id": 86,
+      "idUrl": "m2",
+      "nome": "M2",
+      "fotoDestaque": {
+        "id": 46646,
+        "largura": 209,
+        "altura": 139,
+        "nome": "carro/bmw/m2/destaque",
+        "url": "//cdn.autopapo.com.br/carro/bmw/m2/destaque-v2.png",
+        "mimeType": "image/png"
+      },
+      "emProducao": true
+    },
+    {
+      "id": 87,
+      "idUrl": "m3",
+      "nome": "M3",
+      "fotoDestaque": {
+        "id": 46679,
+        "largura": 209,
+        "altura": 139,
+        "nome": "carro/bmw/m3/destaque",
+        "url": "//cdn.autopapo.com.br/carro/bmw/m3/destaque-v2.png",
+        "mimeType": "image/png"
+      },
+      "emProducao": false
+    },
+    {
+      "id": 97,
+      "idUrl": "m4",
+      "nome": "M4",
+      "fotoDestaque": {
+        "id": 46681,
+        "largura": 209,
+        "altura": 139,
+        "nome": "carro/bmw/m4/destaque",
+        "url": "//cdn.autopapo.com.br/carro/bmw/m4/destaque-v3.png",
+        "mimeType": "image/png"
+      },
+      "emProducao": false
+    },
+    {
+      "id": 90,
+      "idUrl": "m5",
+      "nome": "M5",
+      "fotoDestaque": {
+        "id": 46683,
+        "largura": 209,
+        "altura": 139,
+        "nome": "carro/bmw/m5/destaque",
+        "url": "//cdn.autopapo.com.br/carro/bmw/m5/destaque-v2.png",
+        "mimeType": "image/png"
+      },
+      "emProducao": false
+    },
+    {
+      "id": 93,
+      "idUrl": "serie-1",
+      "nome": "Série 1",
+      "fotoDestaque": {
+        "id": 46657,
+        "largura": 209,
+        "altura": 139,
+        "nome": "carro/bmw/serie-1/destaque",
+        "url": "//cdn.autopapo.com.br/carro/bmw/serie-1/destaque-v1.png",
+        "mimeType": "image/png"
+      },
+      "emProducao": true
+    },
+    {
+      "id": 96,
+      "idUrl": "serie-2",
+      "nome": "Série 2",
+      "fotoDestaque": {
+        "id": 46652,
+        "largura": 209,
+        "altura": 139,
+        "nome": "carro/bmw/serie-2/destaque",
+        "url": "//cdn.autopapo.com.br/carro/bmw/serie-2/destaque-v2.png",
+        "mimeType": "image/png"
+      },
+      "emProducao": true
+    },
+    {
+      "id": 80,
+      "idUrl": "serie-3",
+      "nome": "Série 3",
+      "fotoDestaque": {
+        "id": 46654,
+        "largura": 209,
+        "altura": 139,
+        "nome": "carro/bmw/serie-3/destaque",
+        "url": "//cdn.autopapo.com.br/carro/bmw/serie-3/destaque-v1.png",
+        "mimeType": "image/png"
+      },
+      "emProducao": true
+    },
+    {
+      "id": 61,
+      "idUrl": "serie-4",
+      "nome": "Série 4",
+      "fotoDestaque": {
+        "id": 46656,
+        "largura": 209,
+        "altura": 139,
+        "nome": "carro/bmw/serie-4/destaque",
+        "url": "//cdn.autopapo.com.br/carro/bmw/serie-4/destaque-v1.png",
+        "mimeType": "image/png"
+      },
+      "emProducao": true
+    },
+    {
+      "id": 62,
+      "idUrl": "serie-5",
+      "nome": "Série 5",
+      "fotoDestaque": {
+        "id": 46641,
+        "largura": 209,
+        "altura": 139,
+        "nome": "carro/bmw/serie-5/destaque",
+        "url": "//cdn.autopapo.com.br/carro/bmw/serie-5/destaque-v2.png",
+        "mimeType": "image/png"
+      },
+      "emProducao": true
+    },
+    {
+      "id": 68,
+      "idUrl": "serie-7",
+      "nome": "Série 7",
+      "fotoDestaque": {
+        "id": 46639,
+        "largura": 209,
+        "altura": 139,
+        "nome": "carro/bmw/serie-7/destaque",
+        "url": "//cdn.autopapo.com.br/carro/bmw/serie-7/destaque-v2.png",
+        "mimeType": "image/png"
+      },
+      "emProducao": true
+    },
+    {
+      "id": 70,
+      "idUrl": "x1",
+      "nome": "X1",
+      "fotoDestaque": {
+        "id": 46637,
+        "largura": 209,
+        "altura": 139,
+        "nome": "carro/bmw/x1/destaque",
+        "url": "//cdn.autopapo.com.br/carro/bmw/x1/destaque-v1.png",
+        "mimeType": "image/png"
+      },
+      "emProducao": true
+    },
+    {
+      "id": 1211,
+      "idUrl": "x2",
+      "nome": "X2",
+      "fotoDestaque": {
+        "id": 46635,
+        "largura": 209,
+        "altura": 139,
+        "nome": "carro/bmw/x2/destaque",
+        "url": "//cdn.autopapo.com.br/carro/bmw/x2/destaque-v1.png",
+        "mimeType": "image/png"
+      },
+      "emProducao": true
+    },
+    {
+      "id": 71,
+      "idUrl": "x3",
+      "nome": "X3",
+      "fotoDestaque": {
+        "id": 46633,
+        "largura": 209,
+        "altura": 139,
+        "nome": "carro/bmw/x3/destaque",
+        "url": "//cdn.autopapo.com.br/carro/bmw/x3/destaque-v2.png",
+        "mimeType": "image/png"
+      },
+      "emProducao": true
+    },
+    {
+      "id": 69,
+      "idUrl": "x4",
+      "nome": "X4",
+      "fotoDestaque": {
+        "id": 46631,
+        "largura": 209,
+        "altura": 139,
+        "nome": "carro/bmw/x4/destaque",
+        "url": "//cdn.autopapo.com.br/carro/bmw/x4/destaque-v1.png",
+        "mimeType": "image/png"
+      },
+      "emProducao": true
+    },
+    {
+      "id": 72,
+      "idUrl": "x5",
+      "nome": "X5",
+      "fotoDestaque": {
+        "id": 46629,
+        "largura": 209,
+        "altura": 139,
+        "nome": "carro/bmw/x5/destaque",
+        "url": "//cdn.autopapo.com.br/carro/bmw/x5/destaque-v2.png",
+        "mimeType": "image/png"
+      },
+      "emProducao": true
+    },
+    {
+      "id": 73,
+      "idUrl": "x6",
+      "nome": "X6",
+      "fotoDestaque": {
+        "id": 46627,
+        "largura": 209,
+        "altura": 139,
+        "nome": "carro/bmw/x6/destaque",
+        "url": "//cdn.autopapo.com.br/carro/bmw/x6/destaque-v1.png",
+        "mimeType": "image/png"
+      },
+      "emProducao": true
+    },
+    {
+      "id": 74,
+      "idUrl": "z3",
+      "nome": "Z3",
+      "fotoDestaque": {
+        "id": 46687,
+        "largura": 209,
+        "altura": 139,
+        "nome": "carro/bmw/z3/destaque",
+        "url": "//cdn.autopapo.com.br/carro/bmw/z3/destaque-v3.png",
+        "mimeType": "image/png"
+      },
+      "emProducao": false
+    },
+    {
+      "id": 1313,
+      "idUrl": "z4",
+      "nome": "Z4",
+      "fotoDestaque": {
+        "id": 46689,
+        "largura": 209,
+        "altura": 139,
+        "nome": "carro/bmw/z4-coupe/destaque",
+        "url": "//cdn.autopapo.com.br/carro/bmw/z4-coupe/destaque-v1.png",
+        "mimeType": "image/png"
+      },
+      "emProducao": false
+    },
+    {
+      "id": 98,
+      "idUrl": "z8",
+      "nome": "Z8",
+      "fotoDestaque": {
+        "id": 46691,
+        "largura": 209,
+        "altura": 139,
+        "nome": "carro/bmw/z8/destaque",
+        "url": "//cdn.autopapo.com.br/carro/bmw/z8/destaque-v1.png",
+        "mimeType": "image/png"
+      },
+      "emProducao": false
+    }
+  ]

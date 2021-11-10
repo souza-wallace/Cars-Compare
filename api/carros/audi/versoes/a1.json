@@ -1,0 +1,126 @@
+{
+    "2011": [
+      {
+        "id": 718,
+        "idUrl": "a1-14-tfsi-s-tronic-attraction-2011",
+        "nome": "A1 1.4 TFSI S tronic Attraction",
+        "ano": 2011
+      }
+    ],
+    "2012": [
+      {
+        "id": 738,
+        "idUrl": "a1-14-tfsi-s-tronic-sport-2012",
+        "nome": "A1 1.4 TFSI S Tronic Sport",
+        "ano": 2012
+      },
+      {
+        "id": 744,
+        "idUrl": "a1-14-tfsi-s-tronic-attraction-2012",
+        "nome": "A1 1.4 TFSI S tronic Attraction",
+        "ano": 2012
+      }
+    ],
+    "2013": [
+      {
+        "id": 740,
+        "idUrl": "a1-14-tfsi-s-tronic-sportback-ambition-2013",
+        "nome": "A1 1.4 TFSI S Tronic Sportback Ambition",
+        "ano": 2013
+      },
+      {
+        "id": 742,
+        "idUrl": "a1-14-tfsi-s-tronic-sportback-attraction-2013",
+        "nome": "A1 1.4 TFSI S Tronic Sportback Attraction",
+        "ano": 2013
+      },
+      {
+        "id": 717,
+        "idUrl": "a1-14-tfsi-s-tronic-attraction-2013",
+        "nome": "A1 1.4 TFSI S tronic Attraction",
+        "ano": 2013
+      }
+    ],
+    "2014": [
+      {
+        "id": 739,
+        "idUrl": "a1-14-tfsi-s-tronic-sport-2014",
+        "nome": "A1 1.4 TFSI S Tronic Sport",
+        "ano": 2014
+      },
+      {
+        "id": 741,
+        "idUrl": "a1-14-tfsi-s-tronic-sportback-ambition-2014",
+        "nome": "A1 1.4 TFSI S Tronic Sportback Ambition",
+        "ano": 2014
+      },
+      {
+        "id": 696,
+        "idUrl": "a1-14-tfsi-s-tronic-sportback-kult-2014",
+        "nome": "A1 1.4 TFSI S tronic Sportback Kult",
+        "ano": 2014
+      },
+      {
+        "id": 743,
+        "idUrl": "a1-14-tfsi-s-tronic-sportback-attraction-2014",
+        "nome": "A1 1.4 TFSI S Tronic Sportback Attraction",
+        "ano": 2014
+      },
+      {
+        "id": 715,
+        "idUrl": "a1-14-tfsi-s-tronic-attraction-2014",
+        "nome": "A1 1.4 TFSI S tronic Attraction",
+        "ano": 2014
+      }
+    ],
+    "2015": [
+      {
+        "id": 692,
+        "idUrl": "a1-14-tfsi-s-tronic-sportback-ambition-2015",
+        "nome": "A1 1.4 TFSI S tronic Sportback Ambition",
+        "ano": 2015
+      },
+      {
+        "id": 693,
+        "idUrl": "a1-14-tfsi-s-tronic-sportback-attraction-2015",
+        "nome": "A1 1.4 TFSI S tronic Sportback Attraction",
+        "ano": 2015
+      }
+    ],
+    "2016": [
+      {
+        "id": 697,
+        "idUrl": "a1-18-tfsi-s-tronic-sportback-ambition-2016",
+        "nome": "A1 1.8 TFSI S tronic Sportback Ambition",
+        "ano": 2016
+      },
+      {
+        "id": 694,
+        "idUrl": "a1-14-tfsi-s-tronic-sportback-attraction-2016",
+        "nome": "A1 1.4 TFSI S tronic Sportback Attraction",
+        "ano": 2016
+      }
+    ],
+    "2017": [
+      {
+        "id": 690,
+        "idUrl": "a1-14-tfsi-s-tronic-sback-sport-edition-2017",
+        "nome": "A1 1.4 TFSI S tronic Sback Sport Edition",
+        "ano": 2017
+      },
+      {
+        "id": 695,
+        "idUrl": "a1-14-tfsi-s-tronic-sportback-attraction-2017",
+        "nome": "A1 1.4 TFSI S tronic Sportback Attraction",
+        "ano": 2017
+      }
+    ],
+    "2018": [
+      {
+        "id": 22185,
+        "idUrl": "a1-14-tfsi-s-tronic-sportback-attraction-2018",
+        "nome": "A1 1.4 TFSI S Tronic Sportback Attraction",
+        "ano": 2018
+      }
+    ]
+  }
