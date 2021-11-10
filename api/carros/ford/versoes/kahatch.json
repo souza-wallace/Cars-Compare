@@ -1,0 +1,730 @@
+{
+    "1997": [
+      {
+        "id": 7085,
+        "idUrl": "ka-clx-13-mpi-1997",
+        "nome": "Ka CLX 1.3 MPi",
+        "ano": 1997
+      },
+      {
+        "id": 7134,
+        "idUrl": "ka-10-mpi-1997",
+        "nome": "Ka 1.0 MPi",
+        "ano": 1997
+      }
+    ],
+    "1998": [
+      {
+        "id": 7087,
+        "idUrl": "ka-clx-13-mpi-1998",
+        "nome": "Ka CLX 1.3 MPi",
+        "ano": 1998
+      },
+      {
+        "id": 7133,
+        "idUrl": "ka-10-mpi-1998",
+        "nome": "Ka 1.0 MPi",
+        "ano": 1998
+      },
+      {
+        "id": 6823,
+        "idUrl": "ka-street-10-mpi-1998",
+        "nome": "Ka Street 1.0 MPi",
+        "ano": 1998
+      }
+    ],
+    "1999": [
+      {
+        "id": 7086,
+        "idUrl": "ka-clx-13-mpi-1999",
+        "nome": "Ka CLX 1.3 MPi",
+        "ano": 1999
+      },
+      {
+        "id": 7132,
+        "idUrl": "ka-10-mpi-1999",
+        "nome": "Ka 1.0 MPi",
+        "ano": 1999
+      },
+      {
+        "id": 6798,
+        "idUrl": "ka-street-10-mpi-1999",
+        "nome": "Ka Street 1.0 MPi",
+        "ano": 1999
+      }
+    ],
+    "2000": [
+      {
+        "id": 7088,
+        "idUrl": "ka-clx-13-mpi-2000",
+        "nome": "Ka CLX 1.3 MPi",
+        "ano": 2000
+      },
+      {
+        "id": 7071,
+        "idUrl": "ka-gl-image-10-mpi-2000",
+        "nome": "Ka GL Image 1.0 MPi",
+        "ano": 2000
+      },
+      {
+        "id": 7079,
+        "idUrl": "ka-gl-10-mpi-2000",
+        "nome": "Ka GL 1.0 MPi",
+        "ano": 2000
+      },
+      {
+        "id": 6932,
+        "idUrl": "ka-gl-tecno-10-mpi-2000",
+        "nome": "Ka GL Tecno 1.0 MPi",
+        "ano": 2000
+      }
+    ],
+    "2001": [
+      {
+        "id": 7089,
+        "idUrl": "ka-black-16-mpi-2001",
+        "nome": "Ka Black 1.6 MPi",
+        "ano": 2001
+      },
+      {
+        "id": 6818,
+        "idUrl": "ka-xr-16-mpi-nova-serie-2001",
+        "nome": "Ka XR 1.6 MPi (nova série)",
+        "ano": 2001
+      },
+      {
+        "id": 6822,
+        "idUrl": "ka-xr-16-mpi-2001",
+        "nome": "Ka XR 1.6 MPi",
+        "ano": 2001
+      },
+      {
+        "id": 7090,
+        "idUrl": "ka-black-10-mpi-2001",
+        "nome": "Ka Black 1.0 MPi",
+        "ano": 2001
+      },
+      {
+        "id": 6934,
+        "idUrl": "ka-gl-image-10-mpi-nova-serie-2001",
+        "nome": "Ka GL Image 1.0 MPi (nova série)",
+        "ano": 2001
+      },
+      {
+        "id": 7073,
+        "idUrl": "ka-gl-image-10-mpi-2001",
+        "nome": "Ka GL Image 1.0 MPi",
+        "ano": 2001
+      },
+      {
+        "id": 7076,
+        "idUrl": "ka-gl-10-mpi-nova-serie-2001",
+        "nome": "Ka GL 1.0 MPi (nova série)",
+        "ano": 2001
+      }
+    ],
+    "2002": [
+      {
+        "id": 6817,
+        "idUrl": "ka-xr-16-mpi-nova-serie-2002",
+        "nome": "Ka XR 1.6 MPi (nova série)",
+        "ano": 2002
+      },
+      {
+        "id": 6933,
+        "idUrl": "ka-gl-image-10-mpi-nova-serie-2002",
+        "nome": "Ka GL Image 1.0 MPi (nova série)",
+        "ano": 2002
+      },
+      {
+        "id": 7078,
+        "idUrl": "ka-gl-10-mpi-2002",
+        "nome": "Ka GL 1.0 MPi",
+        "ano": 2002
+      }
+    ],
+    "2003": [
+      {
+        "id": 6816,
+        "idUrl": "ka-xr-16-mpi-nova-serie-2003",
+        "nome": "Ka XR 1.6 MPi (nova série)",
+        "ano": 2003
+      },
+      {
+        "id": 7068,
+        "idUrl": "ka-action-16-mpi-2003",
+        "nome": "Ka Action 1.6 MPi",
+        "ano": 2003
+      },
+      {
+        "id": 7070,
+        "idUrl": "ka-gl-image-10-mpi-nova-serie-2003",
+        "nome": "Ka GL Image 1.0 MPi (nova série)",
+        "ano": 2003
+      },
+      {
+        "id": 7080,
+        "idUrl": "ka-gl-10-mpi-2003",
+        "nome": "Ka GL 1.0 MPi",
+        "ano": 2003
+      },
+      {
+        "id": 7128,
+        "idUrl": "ka-10-mpi-ka-one-2003",
+        "nome": "Ka 1.0 MPi (Ka One)",
+        "ano": 2003
+      }
+    ],
+    "2004": [
+      {
+        "id": 7093,
+        "idUrl": "ka-action-16-mpi-2004",
+        "nome": "Ka Action 1.6 MPi",
+        "ano": 2004
+      },
+      {
+        "id": 6815,
+        "idUrl": "ka-xr-16-mpi-nova-serie-2004",
+        "nome": "Ka XR 1.6 MPi (nova série)",
+        "ano": 2004
+      },
+      {
+        "id": 7075,
+        "idUrl": "ka-gl-10-mpi-nova-serie-2004",
+        "nome": "Ka GL 1.0 MPi (nova série)",
+        "ano": 2004
+      },
+      {
+        "id": 7127,
+        "idUrl": "ka-10-mpi-ka-one-2004",
+        "nome": "Ka 1.0 MPi (Ka One)",
+        "ano": 2004
+      }
+    ],
+    "2005": [
+      {
+        "id": 6814,
+        "idUrl": "ka-xr-16-mpi-nova-serie-2005",
+        "nome": "Ka XR 1.6 MPi (nova série)",
+        "ano": 2005
+      },
+      {
+        "id": 7069,
+        "idUrl": "ka-action-16-mpi-2005",
+        "nome": "Ka Action 1.6 MPi",
+        "ano": 2005
+      },
+      {
+        "id": 7074,
+        "idUrl": "ka-gl-10-mpi-nova-serie-2005",
+        "nome": "Ka GL 1.0 MPi (nova série)",
+        "ano": 2005
+      },
+      {
+        "id": 7126,
+        "idUrl": "ka-10-mpi-ka-one-2005",
+        "nome": "Ka 1.0 MPi (Ka One)",
+        "ano": 2005
+      }
+    ],
+    "2006": [
+      {
+        "id": 6819,
+        "idUrl": "ka-xr-16-mpi-nova-serie-2006",
+        "nome": "Ka XR 1.6 MPi (nova série)",
+        "ano": 2006
+      },
+      {
+        "id": 7043,
+        "idUrl": "ka-action-16-mpi-2006",
+        "nome": "Ka Action 1.6 MPi",
+        "ano": 2006
+      },
+      {
+        "id": 6780,
+        "idUrl": "ka-mp3-16-mpi-2006",
+        "nome": "Ka MP3 1.6 MPi",
+        "ano": 2006
+      },
+      {
+        "id": 6781,
+        "idUrl": "ka-mp3-10-mpi-2006",
+        "nome": "Ka MP3 1.0 MPi",
+        "ano": 2006
+      },
+      {
+        "id": 7077,
+        "idUrl": "ka-gl-10-mpi-nova-serie-2006",
+        "nome": "Ka GL 1.0 MPi (nova série)",
+        "ano": 2006
+      },
+      {
+        "id": 7130,
+        "idUrl": "ka-10-mpi-ka-one-2006",
+        "nome": "Ka 1.0 MPi (Ka One)",
+        "ano": 2006
+      }
+    ],
+    "2007": [
+      {
+        "id": 6821,
+        "idUrl": "ka-xr-16-mpi-2007",
+        "nome": "Ka XR 1.6 MPi",
+        "ano": 2007
+      },
+      {
+        "id": 7048,
+        "idUrl": "ka-16-l-2007",
+        "nome": "Ka 1.6 L",
+        "ano": 2007
+      },
+      {
+        "id": 7092,
+        "idUrl": "ka-action-mp3-16-l-2007",
+        "nome": "Ka Action MP3 1.6 L",
+        "ano": 2007
+      },
+      {
+        "id": 6776,
+        "idUrl": "ka-one-mp3-10-mpi-2007",
+        "nome": "Ka One MP3 1.0 MPi",
+        "ano": 2007
+      },
+      {
+        "id": 7082,
+        "idUrl": "ka-gl-10-l-2007",
+        "nome": "Ka GL 1.0 L",
+        "ano": 2007
+      },
+      {
+        "id": 6778,
+        "idUrl": "ka-one-10-l-2007",
+        "nome": "Ka One 1.0 L",
+        "ano": 2007
+      }
+    ],
+    "2008": [
+      {
+        "id": 6777,
+        "idUrl": "ka-one-10-l-2008",
+        "nome": "Ka One 1.0 L",
+        "ano": 2008
+      },
+      {
+        "id": 7139,
+        "idUrl": "ka-10-flex-2008",
+        "nome": "Ka 1.0 (Flex)",
+        "ano": 2008
+      },
+      {
+        "id": 7081,
+        "idUrl": "ka-gl-10-l-2008",
+        "nome": "Ka GL 1.0 L",
+        "ano": 2008
+      }
+    ],
+    "2009": [
+      {
+        "id": 6774,
+        "idUrl": "ka-performer-16-flex-2009",
+        "nome": "Ka Performer 1.6 (Flex)",
+        "ano": 2009
+      },
+      {
+        "id": 6799,
+        "idUrl": "ka-tecno-16-flex-2009",
+        "nome": "Ka Tecno 1.6 (Flex)",
+        "ano": 2009
+      },
+      {
+        "id": 7049,
+        "idUrl": "ka-16-flex-2009",
+        "nome": "Ka 1.6 (Flex)",
+        "ano": 2009
+      },
+      {
+        "id": 7083,
+        "idUrl": "ka-class-16-flex-2009",
+        "nome": "Ka Class 1.6 (Flex)",
+        "ano": 2009
+      },
+      {
+        "id": 6773,
+        "idUrl": "ka-prestige-10-flex-2009",
+        "nome": "Ka Prestige 1.0 (Flex)",
+        "ano": 2009
+      },
+      {
+        "id": 6779,
+        "idUrl": "ka-neo-10-flex-2009",
+        "nome": "Ka Neo 1.0 (Flex)",
+        "ano": 2009
+      },
+      {
+        "id": 6796,
+        "idUrl": "ka-somma-10-flex-2009",
+        "nome": "Ka Somma 1.0 (Flex)",
+        "ano": 2009
+      },
+      {
+        "id": 7084,
+        "idUrl": "ka-class-10-flex-2009",
+        "nome": "Ka Class 1.0 (Flex)",
+        "ano": 2009
+      },
+      {
+        "id": 7138,
+        "idUrl": "ka-10-flex-2009",
+        "nome": "Ka 1.0 (Flex)",
+        "ano": 2009
+      }
+    ],
+    "2010": [
+      {
+        "id": 7051,
+        "idUrl": "ka-16-flex-2010",
+        "nome": "Ka 1.6 (Flex)",
+        "ano": 2010
+      },
+      {
+        "id": 7141,
+        "idUrl": "ka-10-flex-2010",
+        "nome": "Ka 1.0 (Flex)",
+        "ano": 2010
+      }
+    ],
+    "2011": [
+      {
+        "id": 7050,
+        "idUrl": "ka-16-flex-2011",
+        "nome": "Ka 1.6 (Flex)",
+        "ano": 2011
+      },
+      {
+        "id": 7140,
+        "idUrl": "ka-10-flex-2011",
+        "nome": "Ka 1.0 (Flex)",
+        "ano": 2011
+      }
+    ],
+    "2012": [
+      {
+        "id": 7124,
+        "idUrl": "ka-10-pulse-flex-2012",
+        "nome": "Ka 1.0 Pulse Flex",
+        "ano": 2012
+      },
+      {
+        "id": 7137,
+        "idUrl": "ka-10-flex-2012",
+        "nome": "Ka 1.0 (Flex)",
+        "ano": 2012
+      },
+      {
+        "id": 7148,
+        "idUrl": "ka-10-fly-flex-2012",
+        "nome": "Ka 1.0 Fly (Flex)",
+        "ano": 2012
+      }
+    ],
+    "2013": [
+      {
+        "id": 7045,
+        "idUrl": "ka-16-sport-flex-2013",
+        "nome": "Ka 1.6 Sport (Flex)",
+        "ano": 2013
+      },
+      {
+        "id": 7094,
+        "idUrl": "ka-10-rocam-se-plus-2013",
+        "nome": "Ka 1.0 RoCam SE Plus",
+        "ano": 2013
+      },
+      {
+        "id": 7095,
+        "idUrl": "ka-10-rocam-se-2013",
+        "nome": "Ka 1.0 RoCam SE",
+        "ano": 2013
+      },
+      {
+        "id": 7096,
+        "idUrl": "ka-10-rocam-s-2013",
+        "nome": "Ka 1.0 RoCam S",
+        "ano": 2013
+      },
+      {
+        "id": 7125,
+        "idUrl": "ka-10-pulse-flex-2013",
+        "nome": "Ka 1.0 Pulse (Flex)",
+        "ano": 2013
+      },
+      {
+        "id": 7136,
+        "idUrl": "ka-10-fly-flex-2013",
+        "nome": "Ka 1.0 Fly (Flex)",
+        "ano": 2013
+      }
+    ],
+    "2015": [
+      {
+        "id": 6785,
+        "idUrl": "ka-hatch-sel-15-16v-flex-2015",
+        "nome": "Ka Hatch SEL 1.5 16v (Flex)",
+        "ano": 2015
+      },
+      {
+        "id": 6787,
+        "idUrl": "ka-hatch-sel-10-flex-2015",
+        "nome": "Ka Hatch SEL 1.0 (Flex)",
+        "ano": 2015
+      },
+      {
+        "id": 6789,
+        "idUrl": "ka-hatch-se-plus-15-16v-flex-2015",
+        "nome": "Ka Hatch SE Plus 1.5 16v (Flex)",
+        "ano": 2015
+      },
+      {
+        "id": 6793,
+        "idUrl": "ka-hatch-se-15-16v-flex-2015",
+        "nome": "Ka Hatch SE 1.5 16v (Flex)",
+        "ano": 2015
+      },
+      {
+        "id": 6791,
+        "idUrl": "ka-hatch-se-plus-10-flex-2015",
+        "nome": "Ka Hatch SE Plus 1.0 (Flex)",
+        "ano": 2015
+      },
+      {
+        "id": 6795,
+        "idUrl": "ka-hatch-se-10-flex-2015",
+        "nome": "Ka Hatch SE 1.0 (Flex)",
+        "ano": 2015
+      }
+    ],
+    "2016": [
+      {
+        "id": 6784,
+        "idUrl": "ka-hatch-sel-15-16v-flex-2016",
+        "nome": "Ka Hatch SEL 1.5 16v (Flex)",
+        "ano": 2016
+      },
+      {
+        "id": 6786,
+        "idUrl": "ka-hatch-sel-10-flex-2016",
+        "nome": "Ka Hatch SEL 1.0 (Flex)",
+        "ano": 2016
+      },
+      {
+        "id": 6788,
+        "idUrl": "ka-hatch-se-plus-15-16v-flex-2016",
+        "nome": "Ka Hatch SE Plus 1.5 16v (Flex)",
+        "ano": 2016
+      },
+      {
+        "id": 6792,
+        "idUrl": "ka-hatch-se-15-16v-flex-2016",
+        "nome": "Ka Hatch SE 1.5 16v (Flex)",
+        "ano": 2016
+      },
+      {
+        "id": 6790,
+        "idUrl": "ka-hatch-se-plus-10-flex-2016",
+        "nome": "Ka Hatch SE Plus 1.0 (Flex)",
+        "ano": 2016
+      },
+      {
+        "id": 6794,
+        "idUrl": "ka-hatch-se-10-flex-2016",
+        "nome": "Ka Hatch SE 1.0 (Flex)",
+        "ano": 2016
+      }
+    ],
+    "2017": [
+      {
+        "id": 7053,
+        "idUrl": "ka-15-nvct-sel-flex-2017",
+        "nome": "Ka 1.5 N-VCT SEL (Flex)",
+        "ano": 2017
+      },
+      {
+        "id": 7061,
+        "idUrl": "ka-10-sel-flex-2017",
+        "nome": "Ka 1.0 SEL (Flex)",
+        "ano": 2017
+      },
+      {
+        "id": 7056,
+        "idUrl": "ka-15-nvct-se-plus-flex-2017",
+        "nome": "Ka 1.5 N-VCT SE Plus (Flex)",
+        "ano": 2017
+      },
+      {
+        "id": 7058,
+        "idUrl": "ka-15-nvct-se-flex-2017",
+        "nome": "Ka 1.5 N-VCT SE (Flex)",
+        "ano": 2017
+      },
+      {
+        "id": 7064,
+        "idUrl": "ka-10-se-plus-flex-2017",
+        "nome": "Ka 1.0 SE Plus (Flex)",
+        "ano": 2017
+      },
+      {
+        "id": 7067,
+        "idUrl": "ka-10-se-flex-2017",
+        "nome": "Ka 1.0 SE (Flex)",
+        "ano": 2017
+      }
+    ],
+    "2018": [
+      {
+        "id": 7052,
+        "idUrl": "ka-15-nvct-sel-flex-2018",
+        "nome": "Ka 1.5 N-VCT SEL (Flex)",
+        "ano": 2018
+      },
+      {
+        "id": 21834,
+        "idUrl": "ka-hatch-trail-15-16v-flex-4p-2018",
+        "nome": "Ka Hatch Trail 15 16V Flex 4P",
+        "ano": 2018
+      },
+      {
+        "id": 21587,
+        "idUrl": "ka-15-nvct-trail-flex-2018",
+        "nome": "Ka 1.5 N-VCT Trail (Flex)",
+        "ano": 2018
+      },
+      {
+        "id": 7054,
+        "idUrl": "ka-15-nvct-se-trail-flex-2018",
+        "nome": "Ka 1.5 N-VCT SE Trail (Flex)",
+        "ano": 2018
+      },
+      {
+        "id": 21817,
+        "idUrl": "ka-hatch-trail-10-12v-flex-4p-2018",
+        "nome": "Ka Hatch Trail 10 12V Flex 4P",
+        "ano": 2018
+      },
+      {
+        "id": 21586,
+        "idUrl": "ka-10-trail-flex-2018",
+        "nome": "Ka 1.0 Trail (Flex)",
+        "ano": 2018
+      },
+      {
+        "id": 7062,
+        "idUrl": "ka-10-se-trail-flex-2018",
+        "nome": "Ka 1.0 SE Trail (Flex)",
+        "ano": 2018
+      },
+      {
+        "id": 7060,
+        "idUrl": "ka-10-sel-flex-2018",
+        "nome": "Ka 1.0 SEL (Flex)",
+        "ano": 2018
+      },
+      {
+        "id": 7055,
+        "idUrl": "ka-15-nvct-se-plus-flex-2018",
+        "nome": "Ka 1.5 N-VCT SE Plus (Flex)",
+        "ano": 2018
+      },
+      {
+        "id": 7057,
+        "idUrl": "ka-15-nvct-se-flex-2018",
+        "nome": "Ka 1.5 N-VCT SE (Flex)",
+        "ano": 2018
+      },
+      {
+        "id": 7063,
+        "idUrl": "ka-10-se-plus-flex-2018",
+        "nome": "Ka 1.0 SE Plus (Flex)",
+        "ano": 2018
+      },
+      {
+        "id": 7065,
+        "idUrl": "ka-10-se-flex-2018",
+        "nome": "Ka 1.0 SE (Flex)",
+        "ano": 2018
+      },
+      {
+        "id": 21927,
+        "idUrl": "ka-hatch-s-10-flex-2018",
+        "nome": "Ka Hatch S 1.0 Flex",
+        "ano": 2018
+      },
+      {
+        "id": 21928,
+        "idUrl": "ka-hatch-se-tecno-10-flex-2018",
+        "nome": "Ka Hatch SE Tecno 1.0 Flex",
+        "ano": 2018
+      }
+    ],
+    "2019": [
+      {
+        "id": 22291,
+        "idUrl": "ka-titanium-15-aut-2019",
+        "nome": "Ka Titanium 1.5 (Aut)",
+        "ano": 2019
+      },
+      {
+        "id": 22290,
+        "idUrl": "ka-freestyle-15-aut-2019",
+        "nome": "Ka Freestyle 1.5 (Aut)",
+        "ano": 2019
+      },
+      {
+        "id": 22297,
+        "idUrl": "ka-se-plus-15-2019",
+        "nome": "Ka SE Plus 1.5",
+        "ano": 2019
+      },
+      {
+        "id": 22286,
+        "idUrl": "ka-se-15-aut-2019",
+        "nome": "Ka SE 1.5 (Aut)",
+        "ano": 2019
+      },
+      {
+        "id": 22289,
+        "idUrl": "ka-se-plus-15-aut-2019",
+        "nome": "Ka SE Plus 1.5 (Aut)",
+        "ano": 2019
+      },
+      {
+        "id": 22222,
+        "idUrl": "ka-hatch-freestyle-15-flex-2019",
+        "nome": "Ka Hatch Freestyle 1.5 (Flex)",
+        "ano": 2019
+      },
+      {
+        "id": 22287,
+        "idUrl": "ka-se-15-2019-2019",
+        "nome": "Ka SE 1.5 2019",
+        "ano": 2019
+      },
+      {
+        "id": 22285,
+        "idUrl": "ka-se-10-2019",
+        "nome": "Ka SE 1.0",
+        "ano": 2019
+      },
+      {
+        "id": 22288,
+        "idUrl": "ka-se-plus-10-2019",
+        "nome": "Ka SE Plus 1.0",
+        "ano": 2019
+      },
+      {
+        "id": 22284,
+        "idUrl": "ka-s-10-2019",
+        "nome": "Ka S 1.0",
+        "ano": 2019
+      }
+    ]
+  }

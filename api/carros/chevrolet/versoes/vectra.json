@@ -1,0 +1,668 @@
+{
+    "1994": [
+      {
+        "id": 2593,
+        "idUrl": "vectra-gls-20-mpfi-1994",
+        "nome": "Vectra GLS 2.0 MPFi",
+        "ano": 1994
+      },
+      {
+        "id": 2673,
+        "idUrl": "vectra-cd-20-mpfi-1994",
+        "nome": "Vectra CD 2.0 MPFi",
+        "ano": 1994
+      }
+    ],
+    "1995": [
+      {
+        "id": 2592,
+        "idUrl": "vectra-gls-20-mpfi-1995",
+        "nome": "Vectra GLS 2.0 MPFi",
+        "ano": 1995
+      },
+      {
+        "id": 2767,
+        "idUrl": "vectra-gsi-20-sfi-16v-1995",
+        "nome": "Vectra GSi 2.0 SFi 16V",
+        "ano": 1995
+      },
+      {
+        "id": 2670,
+        "idUrl": "vectra-cd-20-mpfi-1995",
+        "nome": "Vectra CD 2.0 MPFi",
+        "ano": 1995
+      }
+    ],
+    "1996": [
+      {
+        "id": 2595,
+        "idUrl": "vectra-gls-20-mpfi-1996",
+        "nome": "Vectra GLS 2.0 MPFi",
+        "ano": 1996
+      },
+      {
+        "id": 2649,
+        "idUrl": "vectra-gls-20-mpfi-nova-serie-1996",
+        "nome": "Vectra GLS 2.0 MPFi (nova série)",
+        "ano": 1996
+      },
+      {
+        "id": 2658,
+        "idUrl": "vectra-cd-22-mpfi-16v-aut-1996",
+        "nome": "Vectra CD 2.2 MPFi 16V (Aut)",
+        "ano": 1996
+      },
+      {
+        "id": 2665,
+        "idUrl": "vectra-cd-22-mpfi-16v-1996",
+        "nome": "Vectra CD 2.2 MPFi 16V",
+        "ano": 1996
+      },
+      {
+        "id": 2666,
+        "idUrl": "vectra-cd-20-sfi-16v-aut-1996",
+        "nome": "Vectra CD 2.0 SFi 16V (Aut)",
+        "ano": 1996
+      },
+      {
+        "id": 2669,
+        "idUrl": "vectra-cd-20-sfi-16v-1996",
+        "nome": "Vectra CD 2.0 SFi 16V",
+        "ano": 1996
+      }
+    ],
+    "1997": [
+      {
+        "id": 2768,
+        "idUrl": "vectra-gls-20-mpfi-nova-serie-1997",
+        "nome": "Vectra GLS 2.0 MPFi (nova série)",
+        "ano": 1997
+      },
+      {
+        "id": 2663,
+        "idUrl": "vectra-cd-22-mpfi-16v-1997",
+        "nome": "Vectra CD 2.2 MPFi 16V",
+        "ano": 1997
+      },
+      {
+        "id": 2606,
+        "idUrl": "vectra-gl-20-mpfi-1997",
+        "nome": "Vectra GL 2.0 MPFi",
+        "ano": 1997
+      }
+    ],
+    "1998": [
+      {
+        "id": 2662,
+        "idUrl": "vectra-cd-22-mpfi-16v-1998",
+        "nome": "Vectra CD 2.2 MPFi 16V",
+        "ano": 1998
+      },
+      {
+        "id": 2681,
+        "idUrl": "vectra-gls-20-mpfi-nova-serie-1998",
+        "nome": "Vectra GLS 2.0 MPFi (nova série)",
+        "ano": 1998
+      },
+      {
+        "id": 2602,
+        "idUrl": "vectra-gl-22-mpfi-1998",
+        "nome": "Vectra GL 2.2 MPFi",
+        "ano": 1998
+      },
+      {
+        "id": 2618,
+        "idUrl": "vectra-gl-20-mpfi-1998",
+        "nome": "Vectra GL 2.0 MPFi",
+        "ano": 1998
+      }
+    ],
+    "1999": [
+      {
+        "id": 2764,
+        "idUrl": "vectra-gls-22-mpfi-1999",
+        "nome": "Vectra GLS 2.2 MPFi",
+        "ano": 1999
+      },
+      {
+        "id": 2680,
+        "idUrl": "vectra-gls-20-mpfi-nova-serie-1999",
+        "nome": "Vectra GLS 2.0 MPFi (nova série)",
+        "ano": 1999
+      },
+      {
+        "id": 2758,
+        "idUrl": "vectra-gls-22-sfi-16v-aut-1999",
+        "nome": "Vectra GLS 2.2 SFi 16V (Aut)",
+        "ano": 1999
+      },
+      {
+        "id": 2760,
+        "idUrl": "vectra-gls-22-sfi-16v-1999",
+        "nome": "Vectra GLS 2.2 SFi 16V",
+        "ano": 1999
+      },
+      {
+        "id": 2661,
+        "idUrl": "vectra-cd-22-mpfi-16v-1999",
+        "nome": "Vectra CD 2.2 MPFi 16V",
+        "ano": 1999
+      },
+      {
+        "id": 2601,
+        "idUrl": "vectra-gl-22-mpfi-1999",
+        "nome": "Vectra GL 2.2 MPFi",
+        "ano": 1999
+      },
+      {
+        "id": 2608,
+        "idUrl": "vectra-gl-20-mpfi-1999",
+        "nome": "Vectra GL 2.0 MPFi",
+        "ano": 1999
+      }
+    ],
+    "2000": [
+      {
+        "id": 2756,
+        "idUrl": "vectra-gls-challenge-22-mpfi-16v-2000",
+        "nome": "Vectra GLS Challenge 2.2 MPFi 16V",
+        "ano": 2000
+      },
+      {
+        "id": 2766,
+        "idUrl": "vectra-gls-22-mpfi-2000",
+        "nome": "Vectra GLS 2.2 MPFi",
+        "ano": 2000
+      },
+      {
+        "id": 2761,
+        "idUrl": "vectra-gls-22-sfi-16v-2000",
+        "nome": "Vectra GLS 2.2 SFi 16V",
+        "ano": 2000
+      },
+      {
+        "id": 2596,
+        "idUrl": "vectra-gl-milenium-22-mpfi-2000",
+        "nome": "Vectra GL Milenium 2.2 MPFi",
+        "ano": 2000
+      },
+      {
+        "id": 2660,
+        "idUrl": "vectra-cd-22-mpfi-16v-2000",
+        "nome": "Vectra CD 2.2 MPFi 16V",
+        "ano": 2000
+      },
+      {
+        "id": 2599,
+        "idUrl": "vectra-gl-22-mpfi-2000",
+        "nome": "Vectra GL 2.2 MPFi",
+        "ano": 2000
+      }
+    ],
+    "2001": [
+      {
+        "id": 2757,
+        "idUrl": "vectra-gls-challenge-22-mpfi-16v-2001",
+        "nome": "Vectra GLS Challenge 2.2 MPFi 16V",
+        "ano": 2001
+      },
+      {
+        "id": 2763,
+        "idUrl": "vectra-gls-22-mpfi-2001",
+        "nome": "Vectra GLS 2.2 MPFi",
+        "ano": 2001
+      },
+      {
+        "id": 2759,
+        "idUrl": "vectra-gls-22-sfi-16v-2001",
+        "nome": "Vectra GLS 2.2 SFi 16V",
+        "ano": 2001
+      },
+      {
+        "id": 2598,
+        "idUrl": "vectra-gl-milenium-22-mpfi-2001",
+        "nome": "Vectra GL Milenium 2.2 MPFi",
+        "ano": 2001
+      },
+      {
+        "id": 2659,
+        "idUrl": "vectra-cd-22-mpfi-16v-2001",
+        "nome": "Vectra CD 2.2 MPFi 16V",
+        "ano": 2001
+      },
+      {
+        "id": 2600,
+        "idUrl": "vectra-gl-22-mpfi-2001",
+        "nome": "Vectra GL 2.2 MPFi",
+        "ano": 2001
+      },
+      {
+        "id": 2605,
+        "idUrl": "vectra-gl-22-2001",
+        "nome": "Vectra GL 2.2",
+        "ano": 2001
+      },
+      {
+        "id": 2610,
+        "idUrl": "vectra-expression-22-8v-2001",
+        "nome": "Vectra Expression 2.2 8V",
+        "ano": 2001
+      },
+      {
+        "id": 2676,
+        "idUrl": "vectra-22-mpfi-2001",
+        "nome": "Vectra 2.2 MPFi",
+        "ano": 2001
+      }
+    ],
+    "2002": [
+      {
+        "id": 2755,
+        "idUrl": "vectra-gls-challenge-22-mpfi-16v-2002",
+        "nome": "Vectra GLS Challenge 2.2 MPFi 16V",
+        "ano": 2002
+      },
+      {
+        "id": 2762,
+        "idUrl": "vectra-gls-22-mpfi-2002",
+        "nome": "Vectra GLS 2.2 MPFi",
+        "ano": 2002
+      },
+      {
+        "id": 2678,
+        "idUrl": "vectra-cd-22-mpfi-16v-2002",
+        "nome": "Vectra CD 2.2 MPFi 16V",
+        "ano": 2002
+      },
+      {
+        "id": 2603,
+        "idUrl": "vectra-gl-22-mpfi-2002",
+        "nome": "Vectra GL 2.2 MPFi",
+        "ano": 2002
+      },
+      {
+        "id": 2611,
+        "idUrl": "vectra-expression-22-8v-2002",
+        "nome": "Vectra Expression 2.2 8V",
+        "ano": 2002
+      }
+    ],
+    "2003": [
+      {
+        "id": 2656,
+        "idUrl": "vectra-cd-22-sfi-16v-aut-2003",
+        "nome": "Vectra CD 2.2 SFi 16V (Aut)",
+        "ano": 2003
+      },
+      {
+        "id": 2675,
+        "idUrl": "vectra-cd-20-16v-2003",
+        "nome": "Vectra CD 2.0 16V",
+        "ano": 2003
+      },
+      {
+        "id": 2752,
+        "idUrl": "vectra-plus-cd-20-8v-2003",
+        "nome": "Vectra Plus CD 2.0 8V",
+        "ano": 2003
+      },
+      {
+        "id": 2754,
+        "idUrl": "vectra-plus-20-8v-2003",
+        "nome": "Vectra Plus 2.0 8V",
+        "ano": 2003
+      }
+    ],
+    "2004": [
+      {
+        "id": 2657,
+        "idUrl": "vectra-cd-22-sfi-16v-aut-2004",
+        "nome": "Vectra CD 2.2 SFi 16V (Aut)",
+        "ano": 2004
+      },
+      {
+        "id": 2563,
+        "idUrl": "vectra-expression-20-2004",
+        "nome": "Vectra Expression 2.0",
+        "ano": 2004
+      },
+      {
+        "id": 2674,
+        "idUrl": "vectra-cd-20-8v-2004",
+        "nome": "Vectra CD 2.0 8V",
+        "ano": 2004
+      }
+    ],
+    "2005": [
+      {
+        "id": 2571,
+        "idUrl": "vectra-elite-22-sfi-16v-aut-2005",
+        "nome": "Vectra Elite 2.2 SFi 16V (Aut)",
+        "ano": 2005
+      },
+      {
+        "id": 2577,
+        "idUrl": "vectra-elite-20-2005",
+        "nome": "Vectra Elite 2.0",
+        "ano": 2005
+      },
+      {
+        "id": 2578,
+        "idUrl": "vectra-elegance-22-sfi-16v-aut-2005",
+        "nome": "Vectra Elegance 2.2 SFi 16V (Aut)",
+        "ano": 2005
+      },
+      {
+        "id": 2655,
+        "idUrl": "vectra-collection-20-2005",
+        "nome": "Vectra Collection 2.0",
+        "ano": 2005
+      },
+      {
+        "id": 2652,
+        "idUrl": "vectra-elegance-20-2005",
+        "nome": "Vectra Elegance 2.0",
+        "ano": 2005
+      },
+      {
+        "id": 2653,
+        "idUrl": "vectra-comfort-20-2005",
+        "nome": "Vectra Comfort 2.0",
+        "ano": 2005
+      }
+    ],
+    "2006": [
+      {
+        "id": 2580,
+        "idUrl": "vectra-elegance-20-flex-aut-2006",
+        "nome": "Vectra Elegance 2.0 (Flex) (Aut)",
+        "ano": 2006
+      },
+      {
+        "id": 2619,
+        "idUrl": "vectra-elegance-20-flex-2006",
+        "nome": "Vectra Elegance 2.0 (Flex)",
+        "ano": 2006
+      },
+      {
+        "id": 2569,
+        "idUrl": "vectra-elite-24-flex-aut-2006",
+        "nome": "Vectra Elite 2.4 (Flex) (Aut)",
+        "ano": 2006
+      }
+    ],
+    "2007": [
+      {
+        "id": 2579,
+        "idUrl": "vectra-elegance-20-flex-aut-2007",
+        "nome": "Vectra Elegance 2.0 (Flex) (Aut)",
+        "ano": 2007
+      },
+      {
+        "id": 2620,
+        "idUrl": "vectra-elegance-20-flex-2007",
+        "nome": "Vectra Elegance 2.0 (Flex)",
+        "ano": 2007
+      },
+      {
+        "id": 2568,
+        "idUrl": "vectra-elite-24-flex-aut-2007",
+        "nome": "Vectra Elite 2.4 (Flex) (Aut)",
+        "ano": 2007
+      },
+      {
+        "id": 2588,
+        "idUrl": "vectra-expression-20-flex-2007",
+        "nome": "Vectra Expression 2.0 (Flex)",
+        "ano": 2007
+      },
+      {
+        "id": 2612,
+        "idUrl": "vectra-expression-20-flex-aut-2007",
+        "nome": "Vectra Expression 2.0 (Flex) (Aut)",
+        "ano": 2007
+      }
+    ],
+    "2008": [
+      {
+        "id": 2567,
+        "idUrl": "vectra-elite-24-flex-aut-2008",
+        "nome": "Vectra Elite 2.4 (Flex) (Aut)",
+        "ano": 2008
+      },
+      {
+        "id": 2575,
+        "idUrl": "vectra-elite-20-flex-aut-2008",
+        "nome": "Vectra Elite 2.0 (Flex) (Aut)",
+        "ano": 2008
+      },
+      {
+        "id": 2796,
+        "idUrl": "vectra-gtx-20-8v-flex-aut-2008",
+        "nome": "Vectra GT-X 2.0 8V (Flex) (Aut)",
+        "ano": 2008
+      },
+      {
+        "id": 2743,
+        "idUrl": "vectra-gtx-20-8v-flex-2008",
+        "nome": "Vectra GT-X 2.0 8V (Flex)",
+        "ano": 2008
+      },
+      {
+        "id": 2584,
+        "idUrl": "vectra-elegance-20-flex-aut-2008",
+        "nome": "Vectra Elegance 2.0 (Flex) (Aut)",
+        "ano": 2008
+      },
+      {
+        "id": 2604,
+        "idUrl": "vectra-elegance-20-flex-2008",
+        "nome": "Vectra Elegance 2.0 (Flex)",
+        "ano": 2008
+      },
+      {
+        "id": 2745,
+        "idUrl": "vectra-gt-20-8v-flex-aut-2008",
+        "nome": "Vectra GT 2.0 8V (Flex) (Aut)",
+        "ano": 2008
+      },
+      {
+        "id": 2751,
+        "idUrl": "vectra-gt-20-8v-flex-2008",
+        "nome": "Vectra GT 2.0 8V (Flex)",
+        "ano": 2008
+      },
+      {
+        "id": 2589,
+        "idUrl": "vectra-expression-20-flex-2008",
+        "nome": "Vectra Expression 2.0 (Flex)",
+        "ano": 2008
+      },
+      {
+        "id": 2613,
+        "idUrl": "vectra-expression-20-flex-aut-2008",
+        "nome": "Vectra Expression 2.0 (Flex) (Aut)",
+        "ano": 2008
+      }
+    ],
+    "2009": [
+      {
+        "id": 2566,
+        "idUrl": "vectra-elite-24-flex-aut-2009",
+        "nome": "Vectra Elite 2.4 (Flex) (Aut)",
+        "ano": 2009
+      },
+      {
+        "id": 2574,
+        "idUrl": "vectra-elite-20-flex-aut-2009",
+        "nome": "Vectra Elite 2.0 (Flex) (Aut)",
+        "ano": 2009
+      },
+      {
+        "id": 2795,
+        "idUrl": "vectra-gtx-20-8v-flex-aut-2009",
+        "nome": "Vectra GT-X 2.0 8V (Flex) (Aut)",
+        "ano": 2009
+      },
+      {
+        "id": 2742,
+        "idUrl": "vectra-gtx-20-8v-flex-2009",
+        "nome": "Vectra GT-X 2.0 8V (Flex)",
+        "ano": 2009
+      },
+      {
+        "id": 2582,
+        "idUrl": "vectra-elegance-20-flex-aut-2009",
+        "nome": "Vectra Elegance 2.0 (Flex) (Aut)",
+        "ano": 2009
+      },
+      {
+        "id": 2585,
+        "idUrl": "vectra-elegance-20-flex-2009",
+        "nome": "Vectra Elegance 2.0 (Flex)",
+        "ano": 2009
+      },
+      {
+        "id": 2746,
+        "idUrl": "vectra-gt-20-8v-flex-aut-2009",
+        "nome": "Vectra GT 2.0 8V (Flex) (Aut)",
+        "ano": 2009
+      },
+      {
+        "id": 2750,
+        "idUrl": "vectra-gt-20-8v-flex-2009",
+        "nome": "Vectra GT 2.0 8V (Flex)",
+        "ano": 2009
+      },
+      {
+        "id": 2590,
+        "idUrl": "vectra-expression-20-flex-2009",
+        "nome": "Vectra Expression 2.0 (Flex)",
+        "ano": 2009
+      },
+      {
+        "id": 2614,
+        "idUrl": "vectra-expression-20-flex-aut-2009",
+        "nome": "Vectra Expression 2.0 (Flex) (Aut)",
+        "ano": 2009
+      }
+    ],
+    "2010": [
+      {
+        "id": 2573,
+        "idUrl": "vectra-elite-20-flex-aut-2010",
+        "nome": "Vectra Elite 2.0 (Flex) (Aut)",
+        "ano": 2010
+      },
+      {
+        "id": 2770,
+        "idUrl": "vectra-gtx-20-8v-flex-aut-2010",
+        "nome": "Vectra GT-X 2.0 8V (Flex) (Aut)",
+        "ano": 2010
+      },
+      {
+        "id": 2741,
+        "idUrl": "vectra-gtx-20-8v-flex-2010",
+        "nome": "Vectra GT-X 2.0 8V (Flex)",
+        "ano": 2010
+      },
+      {
+        "id": 2581,
+        "idUrl": "vectra-elegance-20-flex-aut-2010",
+        "nome": "Vectra Elegance 2.0 (Flex) (Aut)",
+        "ano": 2010
+      },
+      {
+        "id": 2587,
+        "idUrl": "vectra-elegance-20-flex-2010",
+        "nome": "Vectra Elegance 2.0 (Flex)",
+        "ano": 2010
+      },
+      {
+        "id": 2747,
+        "idUrl": "vectra-gt-20-8v-flex-aut-2010",
+        "nome": "Vectra GT 2.0 8V (Flex) (Aut)",
+        "ano": 2010
+      },
+      {
+        "id": 2749,
+        "idUrl": "vectra-gt-20-8v-flex-2010",
+        "nome": "Vectra GT 2.0 8V (Flex)",
+        "ano": 2010
+      },
+      {
+        "id": 2591,
+        "idUrl": "vectra-expression-20-flex-2010",
+        "nome": "Vectra Expression 2.0 (Flex)",
+        "ano": 2010
+      },
+      {
+        "id": 2616,
+        "idUrl": "vectra-expression-20-flex-aut-2010",
+        "nome": "Vectra Expression 2.0 (Flex) (Aut)",
+        "ano": 2010
+      }
+    ],
+    "2011": [
+      {
+        "id": 2654,
+        "idUrl": "vectra-collection-20-flexpower-aut-2011",
+        "nome": "Vectra Collection 2.0 Flexpower (Aut)",
+        "ano": 2011
+      },
+      {
+        "id": 2572,
+        "idUrl": "vectra-elite-20-flex-aut-2011",
+        "nome": "Vectra Elite 2.0 (Flex) (Aut)",
+        "ano": 2011
+      },
+      {
+        "id": 2792,
+        "idUrl": "vectra-gtx-20-8v-flex-aut-2011",
+        "nome": "Vectra GT-X 2.0 8V (Flex) (Aut)",
+        "ano": 2011
+      },
+      {
+        "id": 2783,
+        "idUrl": "vectra-gtx-20-8v-flex-2011",
+        "nome": "Vectra GT-X 2.0 8V (Flex)",
+        "ano": 2011
+      },
+      {
+        "id": 2583,
+        "idUrl": "vectra-elegance-20-flex-aut-2011",
+        "nome": "Vectra Elegance 2.0 (Flex) (Aut)",
+        "ano": 2011
+      },
+      {
+        "id": 2586,
+        "idUrl": "vectra-elegance-20-flex-2011",
+        "nome": "Vectra Elegance 2.0 (Flex)",
+        "ano": 2011
+      },
+      {
+        "id": 2744,
+        "idUrl": "vectra-gt-20-8v-flex-aut-2011",
+        "nome": "Vectra GT 2.0 8V (Flex) (Aut)",
+        "ano": 2011
+      },
+      {
+        "id": 2615,
+        "idUrl": "vectra-expression-20-flex-aut-2011",
+        "nome": "Vectra Expression 2.0 (Flex) (Aut)",
+        "ano": 2011
+      },
+      {
+        "id": 2748,
+        "idUrl": "vectra-gt-20-8v-flex-2011",
+        "nome": "Vectra GT 2.0 8V (Flex)",
+        "ano": 2011
+      },
+      {
+        "id": 2617,
+        "idUrl": "vectra-expression-20-flex-2011",
+        "nome": "Vectra Expression 2.0 (Flex)",
+        "ano": 2011
+      }
+    ]
+  }

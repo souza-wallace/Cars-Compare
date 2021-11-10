@@ -1,0 +1,90 @@
+{
+    "2009": [
+      {
+        "id": 21253,
+        "idUrl": "tiggo-20-16v-2009",
+        "nome": "Tiggo 2.0 16V",
+        "ano": 2009
+      }
+    ],
+    "2010": [
+      {
+        "id": 21254,
+        "idUrl": "tiggo-20-16v-2010",
+        "nome": "Tiggo 2.0 16V",
+        "ano": 2010
+      }
+    ],
+    "2011": [
+      {
+        "id": 21255,
+        "idUrl": "tiggo-20-16v-2011",
+        "nome": "Tiggo 2.0 16V",
+        "ano": 2011
+      }
+    ],
+    "2012": [
+      {
+        "id": 21256,
+        "idUrl": "tiggo-20-16v-2012",
+        "nome": "Tiggo 2.0 16V",
+        "ano": 2012
+      }
+    ],
+    "2013": [
+      {
+        "id": 21258,
+        "idUrl": "tiggo-20-16v-2013",
+        "nome": "Tiggo 2.0 16V",
+        "ano": 2013
+      }
+    ],
+    "2014": [
+      {
+        "id": 21257,
+        "idUrl": "tiggo-20-16v-2014",
+        "nome": "Tiggo 2.0 16V",
+        "ano": 2014
+      },
+      {
+        "id": 21260,
+        "idUrl": "tiggo-20-16v-aut-2014",
+        "nome": "Tiggo 2.0 16V (Aut)",
+        "ano": 2014
+      }
+    ],
+    "2015": [
+      {
+        "id": 21262,
+        "idUrl": "tiggo-20-16v-aut-2015",
+        "nome": "Tiggo 2.0 16V (Aut)",
+        "ano": 2015
+      },
+      {
+        "id": 21288,
+        "idUrl": "tiggo-20-16v-celebration-2015",
+        "nome": "Tiggo 2.0 16V Celebration",
+        "ano": 2015
+      },
+      {
+        "id": 21259,
+        "idUrl": "tiggo-20-16v-2015",
+        "nome": "Tiggo 2.0 16V",
+        "ano": 2015
+      }
+    ],
+    "2019": [
+      {
+        "id": 22117,
+        "idUrl": "tiggo-2-2019",
+        "nome": "Tiggo 2",
+        "ano": 2019
+      },
+      {
+        "id": 22283,
+        "idUrl": "tiggo-7-15-turbo-2019",
+        "nome": "Tiggo 7 1.5 Turbo",
+        "ano": 2019
+      }
+    ]
+  }

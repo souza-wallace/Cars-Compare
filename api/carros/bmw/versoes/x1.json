@@ -1,0 +1,182 @@
+{
+    "2010": [
+      {
+        "id": 1399,
+        "idUrl": "x1-xdrive28i-30-24v-2010",
+        "nome": "X1 xDrive28i 3.0 24V",
+        "ano": 2010
+      },
+      {
+        "id": 1410,
+        "idUrl": "x1-sdrive18i-20-16v-2010",
+        "nome": "X1 sDrive18i 2.0 16V",
+        "ano": 2010
+      }
+    ],
+    "2011": [
+      {
+        "id": 1411,
+        "idUrl": "x1-xdrive28i-30-24v-2011",
+        "nome": "X1 xDrive28i 3.0 24V",
+        "ano": 2011
+      },
+      {
+        "id": 1400,
+        "idUrl": "x1-20-sdrive18i-top-aut-2011",
+        "nome": "X1 2.0 sDrive18i Top (aut)",
+        "ano": 2011
+      },
+      {
+        "id": 1424,
+        "idUrl": "x1-sdrive18i-20-16v-2011",
+        "nome": "X1 sDrive18i 2.0 16V",
+        "ano": 2011
+      }
+    ],
+    "2012": [
+      {
+        "id": 1409,
+        "idUrl": "x1-30i-4x4-xdrive28i-aut-2012",
+        "nome": "X1 3.0i 4x4 XDrive28i (aut)",
+        "ano": 2012
+      },
+      {
+        "id": 22548,
+        "idUrl": "x1-20-sdrive-18i-top-aut-2012",
+        "nome": "X1 2.0 sDrive 18i Top (Aut)",
+        "ano": 2012
+      },
+      {
+        "id": 1401,
+        "idUrl": "x1-20-sdrive18i-top-aut-2012",
+        "nome": "X1 2.0 sDrive18i Top (aut)",
+        "ano": 2012
+      },
+      {
+        "id": 1412,
+        "idUrl": "x1-sdrive18i-20-16v-2012",
+        "nome": "X1 sDrive18i 2.0 16V",
+        "ano": 2012
+      },
+      {
+        "id": 22518,
+        "idUrl": "x1-20-sdrive-18i-aut-2012",
+        "nome": "X1 2.0 sDrive 18i (Aut)",
+        "ano": 2012
+      }
+    ],
+    "2013": [
+      {
+        "id": 1404,
+        "idUrl": "x1-20-sdrive20i-aut-2013",
+        "nome": "X1 2.0 sDrive20i (Aut)",
+        "ano": 2013
+      },
+      {
+        "id": 1402,
+        "idUrl": "x1-20-sdrive18i-aut-2013",
+        "nome": "X1 2.0 sDrive18i (aut)",
+        "ano": 2013
+      }
+    ],
+    "2014": [
+      {
+        "id": 1405,
+        "idUrl": "x1-20-sdrive20i-aut-2014",
+        "nome": "X1 2.0 sDrive20i (Aut)",
+        "ano": 2014
+      },
+      {
+        "id": 1403,
+        "idUrl": "x1-20-sdrive18i-top-aut-2014",
+        "nome": "X1 2.0 sDrive18i Top (aut)",
+        "ano": 2014
+      }
+    ],
+    "2015": [
+      {
+        "id": 1407,
+        "idUrl": "x1-20-xdrive28i-sport-gp-activeflex-2015",
+        "nome": "X1 2.0 xDrive28i Sport GP ActiveFlex",
+        "ano": 2015
+      },
+      {
+        "id": 1406,
+        "idUrl": "x1-20-sdrive20i-activeflex-2015",
+        "nome": "X1 2.0 sDrive20i Activeflex",
+        "ano": 2015
+      }
+    ],
+    "2016": [
+      {
+        "id": 1421,
+        "idUrl": "x1-xdrive25i-sport-20-2016",
+        "nome": "X1 xDrive25i Sport 2.0",
+        "ano": 2016
+      },
+      {
+        "id": 1422,
+        "idUrl": "x1-xdrive25i-sport-20-activeflex-2016",
+        "nome": "X1 xDrive25i Sport 2.0 ActiveFlex",
+        "ano": 2016
+      },
+      {
+        "id": 1413,
+        "idUrl": "x1-sdrive20i-gp-20-2016",
+        "nome": "X1 sDrive20i GP 2.0",
+        "ano": 2016
+      },
+      {
+        "id": 1414,
+        "idUrl": "x1-sdrive20i-gp-20-activeflex-2016",
+        "nome": "X1 sDrive20i GP 2.0 ActiveFlex",
+        "ano": 2016
+      },
+      {
+        "id": 1416,
+        "idUrl": "x1-sdrive20i-sport-20-2016",
+        "nome": "X1 sDrive20i Sport 2.0",
+        "ano": 2016
+      },
+      {
+        "id": 1417,
+        "idUrl": "x1-sdrive20i-xline-20-2016",
+        "nome": "X1 sDrive20i X-Line 2.0",
+        "ano": 2016
+      },
+      {
+        "id": 1418,
+        "idUrl": "x1-sdrive20i-xline-20-activeflex-2016",
+        "nome": "X1 sDrive20i X-Line 2.0 ActiveFlex",
+        "ano": 2016
+      }
+    ],
+    "2017": [
+      {
+        "id": 1423,
+        "idUrl": "x1-xdrive25i-sport-20-activeflex-2017",
+        "nome": "X1 xDrive25i Sport 2.0 ActiveFlex",
+        "ano": 2017
+      },
+      {
+        "id": 1415,
+        "idUrl": "x1-sdrive20i-gp-20-activeflex-2017",
+        "nome": "X1 sDrive20i GP 2.0 ActiveFlex",
+        "ano": 2017
+      },
+      {
+        "id": 1419,
+        "idUrl": "x1-sdrive20i-xline-20-activeflex-2017",
+        "nome": "X1 sDrive20i X-Line 2.0 ActiveFlex",
+        "ano": 2017
+      }
+    ],
+    "2018": [
+      {
+        "id": 22163,
+        "idUrl": "bmw-x1-sdrive-20i-20-turbo-2018",
+        "nome": "BMW X1 sDrive 20i 2.0 Turbo",
+        "ano": 2018
+      }
+    ]
+  }

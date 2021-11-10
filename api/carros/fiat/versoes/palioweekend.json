@@ -1,0 +1,580 @@
+{
+    "1997": [
+      {
+        "id": 5372,
+        "idUrl": "palio-weekend-16-mpi-16v-1997",
+        "nome": "Palio Weekend 1.6 MPi 16V",
+        "ano": 1997
+      },
+      {
+        "id": 5470,
+        "idUrl": "palio-weekend-stile-16-mpi-16v-1997",
+        "nome": "Palio Weekend Stile 1.6 MPi 16V",
+        "ano": 1997
+      },
+      {
+        "id": 5377,
+        "idUrl": "palio-weekend-15-mpi-1997",
+        "nome": "Palio Weekend 1.5 MPi",
+        "ano": 1997
+      },
+      {
+        "id": 5453,
+        "idUrl": "palio-weekend-sport-16-mpi-16v-1997",
+        "nome": "Palio Weekend Sport 1.6 MPi 16V",
+        "ano": 1997
+      }
+    ],
+    "1998": [
+      {
+        "id": 5373,
+        "idUrl": "palio-weekend-16-mpi-16v-1998",
+        "nome": "Palio Weekend 1.6 MPi 16V",
+        "ano": 1998
+      },
+      {
+        "id": 5471,
+        "idUrl": "palio-weekend-stile-16-mpi-16v-1998",
+        "nome": "Palio Weekend Stile 1.6 MPi 16V",
+        "ano": 1998
+      },
+      {
+        "id": 5396,
+        "idUrl": "palio-weekend-elx-16-mpi-1998",
+        "nome": "Palio Weekend ELX 1.6 MPi",
+        "ano": 1998
+      },
+      {
+        "id": 5376,
+        "idUrl": "palio-weekend-15-mpi-1998",
+        "nome": "Palio Weekend 1.5 MPi",
+        "ano": 1998
+      },
+      {
+        "id": 5452,
+        "idUrl": "palio-weekend-sport-16-mpi-16v-1998",
+        "nome": "Palio Weekend Sport 1.6 MPi 16V",
+        "ano": 1998
+      }
+    ],
+    "1999": [
+      {
+        "id": 5472,
+        "idUrl": "palio-weekend-stile-16-mpi-16v-1999",
+        "nome": "Palio Weekend Stile 1.6 MPi 16V",
+        "ano": 1999
+      },
+      {
+        "id": 5468,
+        "idUrl": "palio-weekend-elx-16-mpi-1999",
+        "nome": "Palio Weekend ELX 1.6 MPi",
+        "ano": 1999
+      },
+      {
+        "id": 5465,
+        "idUrl": "palio-weekend-ex-15-mpi-1999",
+        "nome": "Palio Weekend EX 1.5 MPi",
+        "ano": 1999
+      },
+      {
+        "id": 5451,
+        "idUrl": "palio-weekend-sport-16-mpi-16v-1999",
+        "nome": "Palio Weekend Sport 1.6 MPi 16V",
+        "ano": 1999
+      },
+      {
+        "id": 5379,
+        "idUrl": "palio-weekend-15-mpi-1999",
+        "nome": "Palio Weekend 1.5 MPi",
+        "ano": 1999
+      },
+      {
+        "id": 5395,
+        "idUrl": "palio-weekend-elx-15-mpi-1999",
+        "nome": "Palio Weekend ELX 1.5 MPi",
+        "ano": 1999
+      },
+      {
+        "id": 5345,
+        "idUrl": "palio-weekend-6-marchas-10-mpi-1999",
+        "nome": "Palio Weekend 6 marchas 1.0 MPi",
+        "ano": 1999
+      },
+      {
+        "id": 5311,
+        "idUrl": "palio-weekend-adventure-16-mpi-1999",
+        "nome": "Palio Weekend Adventure 1.6 MPi",
+        "ano": 1999
+      },
+      {
+        "id": 5312,
+        "idUrl": "palio-weekend-adventure-16-8v-1999",
+        "nome": "Palio Weekend Adventure 1.6 8V",
+        "ano": 1999
+      },
+      {
+        "id": 5330,
+        "idUrl": "palio-weekend-adventure-16-16v-1999",
+        "nome": "Palio Weekend Adventure 1.6 16V",
+        "ano": 1999
+      },
+      {
+        "id": 5336,
+        "idUrl": "palio-weekend-city-16-mpi-1999",
+        "nome": "Palio Weekend City 1.6 MPi",
+        "ano": 1999
+      }
+    ],
+    "2000": [
+      {
+        "id": 5448,
+        "idUrl": "palio-weekend-stile-16-16v-nova-serie-2000",
+        "nome": "Palio Weekend Stile 1.6 16V (nova série)",
+        "ano": 2000
+      },
+      {
+        "id": 5469,
+        "idUrl": "palio-weekend-stile-16-mpi-16v-2000",
+        "nome": "Palio Weekend Stile 1.6 MPi 16V",
+        "ano": 2000
+      },
+      {
+        "id": 5454,
+        "idUrl": "palio-weekend-sport-16-mpi-16v-2000",
+        "nome": "Palio Weekend Sport 1.6 MPi 16V",
+        "ano": 2000
+      },
+      {
+        "id": 5445,
+        "idUrl": "palio-weekend-elx-16-mpi-2000",
+        "nome": "Palio Weekend ELX 1.6 MPi",
+        "ano": 2000
+      },
+      {
+        "id": 5310,
+        "idUrl": "palio-weekend-adventure-16-mpi-2000",
+        "nome": "Palio Weekend Adventure 1.6 MPi",
+        "ano": 2000
+      },
+      {
+        "id": 5313,
+        "idUrl": "palio-weekend-adventure-16-8v-2000",
+        "nome": "Palio Weekend Adventure 1.6 8V",
+        "ano": 2000
+      },
+      {
+        "id": 5344,
+        "idUrl": "palio-weekend-adventure-16-16v-2000",
+        "nome": "Palio Weekend Adventure 1.6 16V",
+        "ano": 2000
+      },
+      {
+        "id": 5343,
+        "idUrl": "palio-weekend-elx-15-mpi-2000",
+        "nome": "Palio Weekend ELX 1.5 MPi",
+        "ano": 2000
+      },
+      {
+        "id": 5371,
+        "idUrl": "palio-weekend-6-marchas-10-mpi-2000",
+        "nome": "Palio Weekend 6 marchas 1.0 MPi",
+        "ano": 2000
+      },
+      {
+        "id": 5329,
+        "idUrl": "palio-weekend-elx-13-16v-fire-nova-serie-2000",
+        "nome": "Palio Weekend ELX 1.3 16V Fire (nova série)",
+        "ano": 2000
+      },
+      {
+        "id": 5342,
+        "idUrl": "palio-weekend-elx-13-16v-fire-2000",
+        "nome": "Palio Weekend ELX 1.3 16V Fire",
+        "ano": 2000
+      }
+    ],
+    "2001": [
+      {
+        "id": 5315,
+        "idUrl": "palio-weekend-adventure-16-16v-2001",
+        "nome": "Palio Weekend Adventure 1.6 16V",
+        "ano": 2001
+      },
+      {
+        "id": 5449,
+        "idUrl": "palio-weekend-stile-16-16v-nova-serie-2001",
+        "nome": "Palio Weekend Stile 1.6 16V (nova série)",
+        "ano": 2001
+      },
+      {
+        "id": 5328,
+        "idUrl": "palio-weekend-elx-13-16v-fire-nova-serie-2001",
+        "nome": "Palio Weekend ELX 1.3 16V Fire (nova série)",
+        "ano": 2001
+      },
+      {
+        "id": 5333,
+        "idUrl": "palio-weekend-elx-10-16v-fire-2001",
+        "nome": "Palio Weekend ELX 1.0 16V Fire",
+        "ano": 2001
+      }
+    ],
+    "2002": [
+      {
+        "id": 5314,
+        "idUrl": "palio-weekend-adventure-16-16v-2002",
+        "nome": "Palio Weekend Adventure 1.6 16V",
+        "ano": 2002
+      },
+      {
+        "id": 5327,
+        "idUrl": "palio-weekend-elx-13-16v-fire-nova-serie-2002",
+        "nome": "Palio Weekend ELX 1.3 16V Fire (nova série)",
+        "ano": 2002
+      },
+      {
+        "id": 5332,
+        "idUrl": "palio-weekend-elx-10-16v-fire-2002",
+        "nome": "Palio Weekend ELX 1.0 16V Fire",
+        "ano": 2002
+      }
+    ],
+    "2003": [
+      {
+        "id": 5494,
+        "idUrl": "palio-weekend-stile-18-8v-2003",
+        "nome": "Palio Weekend Stile 1.8 8V",
+        "ano": 2003
+      },
+      {
+        "id": 5450,
+        "idUrl": "palio-weekend-stile-16-16v-nova-serie-2003",
+        "nome": "Palio Weekend Stile 1.6 16V (nova série)",
+        "ano": 2003
+      },
+      {
+        "id": 5381,
+        "idUrl": "palio-weekend-adventure-16-16v-2003",
+        "nome": "Palio Weekend Adventure 1.6 16V",
+        "ano": 2003
+      },
+      {
+        "id": 5466,
+        "idUrl": "palio-weekend-ex-13-8v-fire-2003",
+        "nome": "Palio Weekend EX 1.3 8V Fire",
+        "ano": 2003
+      },
+      {
+        "id": 5302,
+        "idUrl": "palio-weekend-adventure-18-8v-2003",
+        "nome": "Palio Weekend Adventure 1.8 8V",
+        "ano": 2003
+      },
+      {
+        "id": 5335,
+        "idUrl": "palio-weekend-elx-10-16v-fire-2003",
+        "nome": "Palio Weekend ELX 1.0 16V Fire",
+        "ano": 2003
+      },
+      {
+        "id": 5331,
+        "idUrl": "palio-weekend-elx-13-16v-fire-nova-serie-2003",
+        "nome": "Palio Weekend ELX 1.3 16V Fire (nova série)",
+        "ano": 2003
+      },
+      {
+        "id": 5462,
+        "idUrl": "palio-weekend-ex-18-8v-2003",
+        "nome": "Palio Weekend EX 1.8 8V",
+        "ano": 2003
+      }
+    ],
+    "2004": [
+      {
+        "id": 5295,
+        "idUrl": "palio-weekend-adventure-18-8v-flex-2004",
+        "nome": "Palio Weekend Adventure 1.8 8V (Flex)",
+        "ano": 2004
+      },
+      {
+        "id": 5301,
+        "idUrl": "palio-weekend-adventure-18-8v-2004",
+        "nome": "Palio Weekend Adventure 1.8 8V",
+        "ano": 2004
+      },
+      {
+        "id": 5463,
+        "idUrl": "palio-weekend-ex-18-8v-2004",
+        "nome": "Palio Weekend EX 1.8 8V",
+        "ano": 2004
+      },
+      {
+        "id": 5467,
+        "idUrl": "palio-weekend-ex-13-8v-fire-2004",
+        "nome": "Palio Weekend EX 1.3 8V Fire",
+        "ano": 2004
+      }
+    ],
+    "2005": [
+      {
+        "id": 5296,
+        "idUrl": "palio-weekend-adventure-18-8v-flex-2005",
+        "nome": "Palio Weekend Adventure 1.8 8V (Flex)",
+        "ano": 2005
+      },
+      {
+        "id": 5326,
+        "idUrl": "palio-weekend-elx-13-8v-2005",
+        "nome": "Palio Weekend ELX 1.3 8V",
+        "ano": 2005
+      },
+      {
+        "id": 5457,
+        "idUrl": "palio-weekend-hlx-18-8v-flex-2005",
+        "nome": "Palio Weekend HLX 1.8 8V (Flex)",
+        "ano": 2005
+      }
+    ],
+    "2006": [
+      {
+        "id": 5300,
+        "idUrl": "palio-weekend-adventure-18-8v-flex-2006",
+        "nome": "Palio Weekend Adventure 1.8 8V (Flex)",
+        "ano": 2006
+      },
+      {
+        "id": 5461,
+        "idUrl": "palio-weekend-hlx-18-8v-flex-2006",
+        "nome": "Palio Weekend HLX 1.8 8V (Flex)",
+        "ano": 2006
+      },
+      {
+        "id": 5325,
+        "idUrl": "palio-weekend-elx-14-flex-2006",
+        "nome": "Palio Weekend ELX 1.4 (Flex)",
+        "ano": 2006
+      }
+    ],
+    "2007": [
+      {
+        "id": 5455,
+        "idUrl": "palio-weekend-original-adventure-18-8v-flex-2007",
+        "nome": "Palio Weekend Original Adventure 1.8 8V (Flex)",
+        "ano": 2007
+      },
+      {
+        "id": 5299,
+        "idUrl": "palio-weekend-adventure-18-8v-flex-2007",
+        "nome": "Palio Weekend Adventure 1.8 8V (Flex)",
+        "ano": 2007
+      },
+      {
+        "id": 5341,
+        "idUrl": "palio-weekend-adventure-try-on-18-8v-flex-2007",
+        "nome": "Palio Weekend Adventure Try On 1.8 8V (Flex)",
+        "ano": 2007
+      },
+      {
+        "id": 5323,
+        "idUrl": "palio-weekend-elx-14-8v-flex-2007",
+        "nome": "Palio Weekend ELX 1.4 8V (Flex)",
+        "ano": 2007
+      },
+      {
+        "id": 5460,
+        "idUrl": "palio-weekend-hlx-18-8v-flex-2007",
+        "nome": "Palio Weekend HLX 1.8 8V (Flex)",
+        "ano": 2007
+      }
+    ],
+    "2008": [
+      {
+        "id": 5456,
+        "idUrl": "palio-weekend-original-adventure-18-8v-flex-2008",
+        "nome": "Palio Weekend Original Adventure 1.8 8V (Flex)",
+        "ano": 2008
+      },
+      {
+        "id": 5298,
+        "idUrl": "palio-weekend-adventure-18-8v-flex-2008",
+        "nome": "Palio Weekend Adventure 1.8 8V (Flex)",
+        "ano": 2008
+      },
+      {
+        "id": 5459,
+        "idUrl": "palio-weekend-hlx-18-8v-flex-2008",
+        "nome": "Palio Weekend HLX 1.8 8V (Flex)",
+        "ano": 2008
+      },
+      {
+        "id": 5322,
+        "idUrl": "palio-weekend-elx-14-8v-flex-2008",
+        "nome": "Palio Weekend ELX 1.4 8V (Flex)",
+        "ano": 2008
+      }
+    ],
+    "2009": [
+      {
+        "id": 5297,
+        "idUrl": "palio-weekend-adventure-18-8v-flex-2009",
+        "nome": "Palio Weekend Adventure 1.8 8V (Flex)",
+        "ano": 2009
+      },
+      {
+        "id": 5321,
+        "idUrl": "palio-weekend-elx-14-8v-flex-2009",
+        "nome": "Palio Weekend ELX 1.4 8V (Flex)",
+        "ano": 2009
+      },
+      {
+        "id": 5493,
+        "idUrl": "palio-weekend-trekking-14-8v-flex-2009",
+        "nome": "Palio Weekend Trekking 1.4 8V (Flex)",
+        "ano": 2009
+      }
+    ],
+    "2010": [
+      {
+        "id": 5319,
+        "idUrl": "palio-weekend-adventure-locker-dualogic-18-8v-flex-2010",
+        "nome": "Palio Weekend Adventure Locker Dualogic 1.8 8V (Flex)",
+        "ano": 2010
+      },
+      {
+        "id": 5318,
+        "idUrl": "palio-weekend-adventure-locker-18-8v-flex-2010",
+        "nome": "Palio Weekend Adventure Locker 1.8 8V (Flex)",
+        "ano": 2010
+      },
+      {
+        "id": 5320,
+        "idUrl": "palio-weekend-elx-14-8v-flex-2010",
+        "nome": "Palio Weekend ELX 1.4 8V (Flex)",
+        "ano": 2010
+      },
+      {
+        "id": 5340,
+        "idUrl": "palio-weekend-attractive-14-8v-flex-2010",
+        "nome": "Palio Weekend Attractive 1.4 8V (Flex)",
+        "ano": 2010
+      },
+      {
+        "id": 5486,
+        "idUrl": "palio-weekend-trekking-18-8v-flex-2010",
+        "nome": "Palio Weekend Trekking 1.8 8V (Flex)",
+        "ano": 2010
+      },
+      {
+        "id": 5491,
+        "idUrl": "palio-weekend-trekking-14-8v-flex-2010",
+        "nome": "Palio Weekend Trekking 1.4 8V (Flex)",
+        "ano": 2010
+      }
+    ],
+    "2011": [
+      {
+        "id": 5305,
+        "idUrl": "palio-weekend-adventure-18-16v-etorq-2011",
+        "nome": "Palio Weekend Adventure 1.8 16V E.TorQ",
+        "ano": 2011
+      },
+      {
+        "id": 5304,
+        "idUrl": "palio-weekend-adventure-18-16v-etorq-dualogic-2011",
+        "nome": "Palio Weekend Adventure 1.8 16V E.TorQ Dualogic",
+        "ano": 2011
+      },
+      {
+        "id": 5490,
+        "idUrl": "palio-weekend-trekking-16-16v-flex-2011",
+        "nome": "Palio Weekend Trekking 1.6 16V (Flex)",
+        "ano": 2011
+      },
+      {
+        "id": 5492,
+        "idUrl": "palio-weekend-trekking-14-8v-flex-2011",
+        "nome": "Palio Weekend Trekking 1.4 8V (Flex)",
+        "ano": 2011
+      }
+    ],
+    "2012": [
+      {
+        "id": 5308,
+        "idUrl": "palio-weekend-adventure-18-16v-flex-2012",
+        "nome": "Palio Weekend Adventure 1.8 16V (Flex)",
+        "ano": 2012
+      },
+      {
+        "id": 5316,
+        "idUrl": "palio-weekend-adventure-dualogic-18-16v-flex-2012",
+        "nome": "Palio Weekend Adventure Dualogic 1.8 16V (Flex)",
+        "ano": 2012
+      },
+      {
+        "id": 5489,
+        "idUrl": "palio-weekend-trekking-16-16v-flex-2012",
+        "nome": "Palio Weekend Trekking 1.6 16V (Flex)",
+        "ano": 2012
+      },
+      {
+        "id": 5339,
+        "idUrl": "palio-weekend-attractive-14-8v-flex-2012",
+        "nome": "Palio Weekend Attractive 1.4 8V (Flex)",
+        "ano": 2012
+      }
+    ],
+    "2013": [
+      {
+        "id": 5307,
+        "idUrl": "palio-weekend-adventure-18-16v-flex-2013",
+        "nome": "Palio Weekend Adventure 1.8 16V (Flex)",
+        "ano": 2013
+      },
+      {
+        "id": 5317,
+        "idUrl": "palio-weekend-adventure-dualogic-18-16v-flex-2013",
+        "nome": "Palio Weekend Adventure Dualogic 1.8 16V (Flex)",
+        "ano": 2013
+      },
+      {
+        "id": 5338,
+        "idUrl": "palio-weekend-attractive-14-8v-flex-2013",
+        "nome": "Palio Weekend Attractive 1.4 8V (Flex)",
+        "ano": 2013
+      },
+      {
+        "id": 5488,
+        "idUrl": "palio-weekend-trekking-16-16v-flex-2013",
+        "nome": "Palio Weekend Trekking 1.6 16V (Flex)",
+        "ano": 2013
+      }
+    ],
+    "2014": [
+      {
+        "id": 5306,
+        "idUrl": "palio-weekend-adventure-18-16v-flex-2014",
+        "nome": "Palio Weekend Adventure 1.8 16V (Flex)",
+        "ano": 2014
+      },
+      {
+        "id": 5337,
+        "idUrl": "palio-weekend-attractive-14-8v-flex-2014",
+        "nome": "Palio Weekend Attractive 1.4 8V (Flex)",
+        "ano": 2014
+      },
+      {
+        "id": 5487,
+        "idUrl": "palio-weekend-trekking-16-16v-flex-2014",
+        "nome": "Palio Weekend Trekking 1.6 16V (Flex)",
+        "ano": 2014
+      }
+    ],
+    "2018": [
+      {
+        "id": 22204,
+        "idUrl": "palio-weekend-adventure-18-2018",
+        "nome": "Palio Weekend Adventure 1.8",
+        "ano": 2018
+      }
+    ]
+  }

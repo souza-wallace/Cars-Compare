@@ -1,0 +1,30 @@
+{
+    "2019": [
+      {
+        "id": 22306,
+        "idUrl": "tiggo-7-txs-15-turbo-aut-2019",
+        "nome": "Tiggo 7 TXS 1.5 Turbo (Aut)",
+        "ano": 2019
+      },
+      {
+        "id": 22514,
+        "idUrl": "tiggo-7-t-15-turbo-2019",
+        "nome": "Tiggo 7 T 1.5 Turbo",
+        "ano": 2019
+      }
+    ],
+    "2020": [
+      {
+        "id": 22459,
+        "idUrl": "tiggo-7-txs-15-turbo-aut-2020",
+        "nome": "Tiggo 7 TXS 1.5 Turbo (Aut)",
+        "ano": 2020
+      },
+      {
+        "id": 22458,
+        "idUrl": "tiggo-7-t-15-turbo-aut-2020",
+        "nome": "Tiggo 7 T 1.5 Turbo (Aut)",
+        "ano": 2020
+      }
+    ]
+  }

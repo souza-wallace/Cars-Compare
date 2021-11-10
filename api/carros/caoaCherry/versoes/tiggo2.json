@@ -1,0 +1,29 @@
+
+{
+    "2019": [
+      {
+        "id": 22313,
+        "idUrl": "tiggo-2-act-15-16v-aut-2019",
+        "nome": "Tiggo 2 Act 1.5 16v (Aut)",
+        "ano": 2019
+      },
+      {
+        "id": 22312,
+        "idUrl": "tiggo-2-look-15-16v-aut-2019",
+        "nome": "Tiggo 2 Look 1.5 16v (Aut)",
+        "ano": 2019
+      },
+      {
+        "id": 22315,
+        "idUrl": "tiggo-2-act-15-16v-2019",
+        "nome": "Tiggo 2 Act 1.5 16v",
+        "ano": 2019
+      },
+      {
+        "id": 22314,
+        "idUrl": "tiggo-2-look-15-16v-2019",
+        "nome": "Tiggo 2 Look 1.5 16v",
+        "ano": 2019
+      }
+    ]
+  }

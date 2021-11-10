@@ -1,0 +1,498 @@
+{
+    "2000": [
+      {
+        "id": 1443,
+        "idUrl": "x5-44-4x4-2000",
+        "nome": "X5 4.4 4x4",
+        "ano": 2000
+      }
+    ],
+    "2001": [
+      {
+        "id": 1442,
+        "idUrl": "x5-41-4x2-2001",
+        "nome": "X5 4.1 4x2",
+        "ano": 2001
+      },
+      {
+        "id": 1444,
+        "idUrl": "x5-44-4x4-2001",
+        "nome": "X5 4.4 4x4",
+        "ano": 2001
+      },
+      {
+        "id": 1450,
+        "idUrl": "x5-44-4x4-sport-2001",
+        "nome": "X5 4.4 4x4 Sport",
+        "ano": 2001
+      },
+      {
+        "id": 1473,
+        "idUrl": "x5-30-4x4-2001",
+        "nome": "X5 3.0 4x4",
+        "ano": 2001
+      }
+    ],
+    "2002": [
+      {
+        "id": 1445,
+        "idUrl": "x5-44-4x4-2002",
+        "nome": "X5 4.4 4x4",
+        "ano": 2002
+      },
+      {
+        "id": 1451,
+        "idUrl": "x5-44-4x4-sport-2002",
+        "nome": "X5 4.4 4x4 Sport",
+        "ano": 2002
+      },
+      {
+        "id": 1474,
+        "idUrl": "x5-30-4x4-2002",
+        "nome": "X5 3.0 4x4",
+        "ano": 2002
+      }
+    ],
+    "2003": [
+      {
+        "id": 1371,
+        "idUrl": "x5-44-4x4-sport-2003",
+        "nome": "X5 4.4 4x4 Sport",
+        "ano": 2003
+      },
+      {
+        "id": 1446,
+        "idUrl": "x5-44-4x4-2003",
+        "nome": "X5 4.4 4x4",
+        "ano": 2003
+      },
+      {
+        "id": 1467,
+        "idUrl": "x5-30-4x4-sport-2003",
+        "nome": "X5 3.0 4x4 Sport",
+        "ano": 2003
+      },
+      {
+        "id": 1475,
+        "idUrl": "x5-30-4x4-2003",
+        "nome": "X5 3.0 4x4",
+        "ano": 2003
+      }
+    ],
+    "2004": [
+      {
+        "id": 1425,
+        "idUrl": "x5-44-4x4-sport-2004",
+        "nome": "X5 4.4 4x4 Sport",
+        "ano": 2004
+      },
+      {
+        "id": 1476,
+        "idUrl": "x5-30-4x4-2004",
+        "nome": "X5 3.0 4x4",
+        "ano": 2004
+      },
+      {
+        "id": 1478,
+        "idUrl": "x5-30-4x4-sport-2004",
+        "nome": "X5 3.0 4x4 Sport",
+        "ano": 2004
+      }
+    ],
+    "2005": [
+      {
+        "id": 1448,
+        "idUrl": "x5-44-4x4-security-2005",
+        "nome": "X5 4.4 4x4 Security",
+        "ano": 2005
+      },
+      {
+        "id": 1304,
+        "idUrl": "x5-48is-4x4-2005",
+        "nome": "X5 4.8is 4x4",
+        "ano": 2005
+      },
+      {
+        "id": 1312,
+        "idUrl": "x5-48-4x4-2005",
+        "nome": "X5 4.8 4x4",
+        "ano": 2005
+      },
+      {
+        "id": 1370,
+        "idUrl": "x5-44-4x4-sport-2005",
+        "nome": "X5 4.4 4x4 Sport",
+        "ano": 2005
+      },
+      {
+        "id": 1479,
+        "idUrl": "x5-30-4x4-sport-2005",
+        "nome": "X5 3.0 4x4 Sport",
+        "ano": 2005
+      }
+    ],
+    "2006": [
+      {
+        "id": 1305,
+        "idUrl": "x5-48is-4x4-2006",
+        "nome": "X5 4.8is 4x4",
+        "ano": 2006
+      },
+      {
+        "id": 1313,
+        "idUrl": "x5-44-4x4-sport-2006",
+        "nome": "X5 4.4 4x4 Sport",
+        "ano": 2006
+      },
+      {
+        "id": 1455,
+        "idUrl": "x5-30-4x4-sport-2006",
+        "nome": "X5 3.0 4x4 Sport",
+        "ano": 2006
+      }
+    ],
+    "2007": [
+      {
+        "id": 1262,
+        "idUrl": "x5-48is-top-2007",
+        "nome": "X5 4.8is Top",
+        "ano": 2007
+      },
+      {
+        "id": 1299,
+        "idUrl": "x5-48is-sport-2007",
+        "nome": "X5 4.8is Sport",
+        "ano": 2007
+      },
+      {
+        "id": 1261,
+        "idUrl": "x5-48is-sport-7-lug-2007",
+        "nome": "X5 4.8is Sport (7 lug.)",
+        "ano": 2007
+      },
+      {
+        "id": 1477,
+        "idUrl": "x5-30-4x4-sport-2007",
+        "nome": "X5 3.0 4x4 Sport",
+        "ano": 2007
+      }
+    ],
+    "2008": [
+      {
+        "id": 1303,
+        "idUrl": "x5-48i-top-2008",
+        "nome": "X5 4.8i Top",
+        "ano": 2008
+      },
+      {
+        "id": 1286,
+        "idUrl": "x5-48is-sport-2008",
+        "nome": "X5 4.8is Sport",
+        "ano": 2008
+      },
+      {
+        "id": 1260,
+        "idUrl": "x5-48is-sport-7-lug-2008",
+        "nome": "X5 4.8is Sport (7 lug.)",
+        "ano": 2008
+      },
+      {
+        "id": 1307,
+        "idUrl": "x5-48is-endurance-2008",
+        "nome": "X5 4.8is Endurance",
+        "ano": 2008
+      },
+      {
+        "id": 1310,
+        "idUrl": "x5-48is-endurance-7-lug-2008",
+        "nome": "X5 4.8is Endurance (7 lug.)",
+        "ano": 2008
+      },
+      {
+        "id": 1441,
+        "idUrl": "x5-30i-2008",
+        "nome": "X5 3.0i",
+        "ano": 2008
+      }
+    ],
+    "2009": [
+      {
+        "id": 1287,
+        "idUrl": "x5-48is-sport-2009",
+        "nome": "X5 4.8is Sport",
+        "ano": 2009
+      },
+      {
+        "id": 1271,
+        "idUrl": "x5-48is-sport-7-lug-2009",
+        "nome": "X5 4.8is Sport (7 lug.)",
+        "ano": 2009
+      },
+      {
+        "id": 1306,
+        "idUrl": "x5-48is-endurance-2009",
+        "nome": "X5 4.8is Endurance",
+        "ano": 2009
+      },
+      {
+        "id": 1309,
+        "idUrl": "x5-48is-endurance-7-lug-2009",
+        "nome": "X5 4.8is Endurance (7 lug.)",
+        "ano": 2009
+      },
+      {
+        "id": 1452,
+        "idUrl": "x5-30i-2009",
+        "nome": "X5 3.0i",
+        "ano": 2009
+      }
+    ],
+    "2010": [
+      {
+        "id": 1301,
+        "idUrl": "x5-48-xdrive50i-security-2010",
+        "nome": "X5 4.8 xDrive50i Security",
+        "ano": 2010
+      },
+      {
+        "id": 1264,
+        "idUrl": "x5-m-2010",
+        "nome": "X5 M",
+        "ano": 2010
+      }
+    ],
+    "2011": [
+      {
+        "id": 21501,
+        "idUrl": "x5-44-xdrive50i-security-2011",
+        "nome": "X5 4.4 xDrive50i Security",
+        "ano": 2011
+      },
+      {
+        "id": 1265,
+        "idUrl": "x5-m-2011",
+        "nome": "X5 M",
+        "ano": 2011
+      },
+      {
+        "id": 1288,
+        "idUrl": "x5-44-xdrive50i-endurance-2011",
+        "nome": "X5 4.4 xDrive50i Endurance",
+        "ano": 2011
+      },
+      {
+        "id": 1298,
+        "idUrl": "x5-44-xdrive50i-sport-2011",
+        "nome": "X5 4.4 xDrive50i Sport",
+        "ano": 2011
+      },
+      {
+        "id": 1431,
+        "idUrl": "x5-30-xdrive35i-2011",
+        "nome": "X5 3.0 xDrive35i",
+        "ano": 2011
+      }
+    ],
+    "2012": [
+      {
+        "id": 1266,
+        "idUrl": "x5-m-2012",
+        "nome": "X5 M",
+        "ano": 2012
+      },
+      {
+        "id": 1289,
+        "idUrl": "x5-44-xdrive50i-endurance-2012",
+        "nome": "X5 4.4 xDrive50i Endurance",
+        "ano": 2012
+      },
+      {
+        "id": 1300,
+        "idUrl": "x5-44-xdrive50i-sport-2012",
+        "nome": "X5 4.4 xDrive50i Sport",
+        "ano": 2012
+      },
+      {
+        "id": 1432,
+        "idUrl": "x5-30-xdrive35i-2012",
+        "nome": "X5 3.0 xDrive35i",
+        "ano": 2012
+      }
+    ],
+    "2013": [
+      {
+        "id": 1433,
+        "idUrl": "x5-30-xdrive35i-2013",
+        "nome": "X5 3.0 xDrive35i",
+        "ano": 2013
+      }
+    ],
+    "2014": [
+      {
+        "id": 1295,
+        "idUrl": "x5-44-xdrive50i-m-sport-2014",
+        "nome": "X5 4.4 xDrive50i M Sport",
+        "ano": 2014
+      },
+      {
+        "id": 1290,
+        "idUrl": "x5-44-xdrive50i-endurance-5s-2014",
+        "nome": "X5 4.4 xDrive50i Endurance 5S",
+        "ano": 2014
+      },
+      {
+        "id": 1291,
+        "idUrl": "x5-44-xdrive50i-endurance-7s-2014",
+        "nome": "X5 4.4 xDrive50i Endurance 7S",
+        "ano": 2014
+      },
+      {
+        "id": 1292,
+        "idUrl": "x5-44-xdrive50i-experience-5s-2014",
+        "nome": "X5 4.4 xDrive50i Experience 5S",
+        "ano": 2014
+      },
+      {
+        "id": 1294,
+        "idUrl": "x5-44-xdrive50i-experience-7s-2014",
+        "nome": "X5 4.4 xDrive50i Experience 7S",
+        "ano": 2014
+      },
+      {
+        "id": 1438,
+        "idUrl": "x5-30-xdrive35i-full-aut-2014",
+        "nome": "X5 3.0 xDrive35i Full (Aut)",
+        "ano": 2014
+      },
+      {
+        "id": 1435,
+        "idUrl": "x5-30-xdrive35i-aut-2014",
+        "nome": "X5 3.0 xDrive35i (Aut)",
+        "ano": 2014
+      },
+      {
+        "id": 22516,
+        "idUrl": "x5-xdrive-35i-30-aut-2014",
+        "nome": "X5 xDrive 35i 3.0 (Aut)",
+        "ano": 2014
+      }
+    ],
+    "2015": [
+      {
+        "id": 1454,
+        "idUrl": "x5-30-m50d-2015",
+        "nome": "X5 3.0 M50D",
+        "ano": 2015
+      },
+      {
+        "id": 1296,
+        "idUrl": "x5-44-xdrive50i-m-sport-2015",
+        "nome": "X5 4.4 xDrive50i M Sport",
+        "ano": 2015
+      },
+      {
+        "id": 1293,
+        "idUrl": "x5-44-xdrive50i-experience-5s-2015",
+        "nome": "X5 4.4 xDrive50i Experience 5S",
+        "ano": 2015
+      },
+      {
+        "id": 1430,
+        "idUrl": "x5-30-xdrive30d-full-2015",
+        "nome": "X5 3.0 xDrive30d Full",
+        "ano": 2015
+      },
+      {
+        "id": 1428,
+        "idUrl": "x5-30-xdrive30d-2015",
+        "nome": "X5 3.0 xDrive30d",
+        "ano": 2015
+      },
+      {
+        "id": 1440,
+        "idUrl": "x5-30-xdrive35i-full-aut-2015",
+        "nome": "X5 3.0 xDrive35i Full (Aut)",
+        "ano": 2015
+      },
+      {
+        "id": 1434,
+        "idUrl": "x5-30-xdrive35i-2015",
+        "nome": "X5 3.0 xDrive35i",
+        "ano": 2015
+      }
+    ],
+    "2016": [
+      {
+        "id": 1297,
+        "idUrl": "x5-44-xdrive50i-security-2016",
+        "nome": "X5 4.4 xDrive50i Security",
+        "ano": 2016
+      },
+      {
+        "id": 1436,
+        "idUrl": "x5-30-xdrive35i-full-2016",
+        "nome": "X5 3.0 xDrive35i Full",
+        "ano": 2016
+      },
+      {
+        "id": 22515,
+        "idUrl": "x5-30-xdrive-35i-full-aut-2016",
+        "nome": "X5 3.0 xDrive 35i Full (Aut)",
+        "ano": 2016
+      }
+    ],
+    "2017": [
+      {
+        "id": 1429,
+        "idUrl": "x5-30-xdrive30d-2017",
+        "nome": "X5 3.0 xDrive30d",
+        "ano": 2017
+      },
+      {
+        "id": 1437,
+        "idUrl": "x5-30-xdrive35i-full-2017",
+        "nome": "X5 3.0 xDrive35i Full",
+        "ano": 2017
+      }
+    ],
+    "2018": [
+      {
+        "id": 22001,
+        "idUrl": "x5-m-44-v8-aut-2018",
+        "nome": "X5 M 4.4 V8 Aut",
+        "ano": 2018
+      }
+    ],
+    "2020": [
+      {
+        "id": 22549,
+        "idUrl": "x5-m50d-30-aut-2020",
+        "nome": "X5 M50d 3.0 (Aut)",
+        "ano": 2020
+      },
+      {
+        "id": 22468,
+        "idUrl": "x5-m50d-30-2020",
+        "nome": "X5 M50d 3.0",
+        "ano": 2020
+      },
+      {
+        "id": 22469,
+        "idUrl": "x5-xdrive45e-m-sport-30-2020",
+        "nome": "X5 xDrive45e M Sport 3.0",
+        "ano": 2020
+      },
+      {
+        "id": 22470,
+        "idUrl": "x5-xdrive30d-30-2020",
+        "nome": "X5 xDrive30d 3.0",
+        "ano": 2020
+      },
+      {
+        "id": 22475,
+        "idUrl": "x5-xdrive30d-m-sport-30-2020",
+        "nome": "X5 xDrive30d M Sport 3.0",
+        "ano": 2020
+      }
+    ]
+  }

@@ -1,0 +1,129 @@
+
+{
+    "2017": [
+      {
+        "id": 5835,
+        "idUrl": "toro-volcano-20-diesel-at9-4x4-2017",
+        "nome": "Toro Volcano 2.0 diesel AT9 4x4",
+        "ano": 2017
+      },
+      {
+        "id": 5840,
+        "idUrl": "toro-freedom-20-diesel-mt6-4x2-2017",
+        "nome": "Toro Freedom 2.0 diesel MT6 4x2",
+        "ano": 2017
+      },
+      {
+        "id": 5838,
+        "idUrl": "toro-freedom-20-diesel-mt6-4x4-2017",
+        "nome": "Toro Freedom 2.0 diesel MT6 4x4",
+        "ano": 2017
+      },
+      {
+        "id": 5837,
+        "idUrl": "toro-freedom-24-tigershark-at9-flex-2017",
+        "nome": "Toro Freedom 2.4 TigerShark AT9 (Flex)",
+        "ano": 2017
+      },
+      {
+        "id": 5836,
+        "idUrl": "toro-freedom-open-edition-18-at6-4x2-flex-2017",
+        "nome": "Toro Freedom Open Edition 1.8 AT6 4x2 (Flex)",
+        "ano": 2017
+      },
+      {
+        "id": 5851,
+        "idUrl": "toro-freedom-18-at6-4x2-flex-2017",
+        "nome": "Toro Freedom 1.8 AT6 4x2 (Flex)",
+        "ano": 2017
+      },
+      {
+        "id": 21565,
+        "idUrl": "toro-freedom-open-edition-plus-18-at6-4x2-flex-2017",
+        "nome": "Toro Freedom Open Edition Plus 1.8 AT6 4x2 (Flex)",
+        "ano": 2017
+      }
+    ],
+    "2018": [
+      {
+        "id": 21564,
+        "idUrl": "toro-volcano-20-diesel-at9-4x4-2018",
+        "nome": "Toro Volcano 2.0 Diesel AT9 4x4",
+        "ano": 2018
+      },
+      {
+        "id": 21569,
+        "idUrl": "toro-freedom-20-diesel-at9-4x4-2018",
+        "nome": "Toro Freedom 2.0 Diesel AT9 4x4",
+        "ano": 2018
+      },
+      {
+        "id": 21567,
+        "idUrl": "toro-freedom-20-diesel-mt6-4x4-2018",
+        "nome": "Toro Freedom 2.0 Diesel MT6 4x4",
+        "ano": 2018
+      },
+      {
+        "id": 21568,
+        "idUrl": "toro-freedom-20-diesel-mt6-4x2-2018",
+        "nome": "Toro Freedom 2.0 Diesel MT6 4x2",
+        "ano": 2018
+      },
+      {
+        "id": 21921,
+        "idUrl": "toro-blackjack-24-tigershark-at9-flex-2018",
+        "nome": "Toro Blackjack 2.4 TigerShark AT9 Flex",
+        "ano": 2018
+      },
+      {
+        "id": 21566,
+        "idUrl": "toro-freedom-24-tigershark-at9-flex-2018",
+        "nome": "Toro Freedom 2.4 TigerShark AT9 Flex",
+        "ano": 2018
+      },
+      {
+        "id": 21570,
+        "idUrl": "toro-freedom-18-at6-4x2-flex-2018",
+        "nome": "Toro Freedom 1.8 AT6 4X2 Flex",
+        "ano": 2018
+      }
+    ],
+    "2019": [
+      {
+        "id": 22047,
+        "idUrl": "toro-volcano-20-diesel-at9-4x4-2019",
+        "nome": "Toro Volcano 2.0 Diesel AT9 4x4",
+        "ano": 2019
+      },
+      {
+        "id": 22048,
+        "idUrl": "toro-freedom-20-diesel-at9-4x4-2019",
+        "nome": "Toro Freedom 2.0 Diesel AT9 4x4",
+        "ano": 2019
+      },
+      {
+        "id": 22046,
+        "idUrl": "toro-volcano-24-at9-flex-2019",
+        "nome": "Toro Volcano 2.4 AT9 Flex",
+        "ano": 2019
+      },
+      {
+        "id": 22050,
+        "idUrl": "toro-blackjack-24-tigershark-at9-flex-2019",
+        "nome": "Toro Blackjack 2.4 TigerShark AT9 Flex",
+        "ano": 2019
+      },
+      {
+        "id": 22049,
+        "idUrl": "toro-freedom-18-at6-4x2-flex-2019",
+        "nome": "Toro Freedom 1.8 AT6 4X2 Flex",
+        "ano": 2019
+      },
+      {
+        "id": 22045,
+        "idUrl": "toro-endurance-18-at6-4x2-flex-2019",
+        "nome": "Toro Endurance 1.8 AT6 4X2 Flex",
+        "ano": 2019
+      }
+    ]
+  }

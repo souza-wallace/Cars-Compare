@@ -1,0 +1,196 @@
+{
+    "1998": [
+      {
+        "id": 6111,
+        "idUrl": "bravo-sx-16-1998",
+        "nome": "Bravo SX 1.6",
+        "ano": 1998
+      }
+    ],
+    "2011": [
+      {
+        "id": 6133,
+        "idUrl": "bravo-tjet-14-16v-2011",
+        "nome": "Bravo T-Jet 1.4 16V",
+        "ano": 2011
+      },
+      {
+        "id": 6126,
+        "idUrl": "bravo-absolute-18-16v-dualogic-flex-2011",
+        "nome": "Bravo Absolute 1.8 16V Dualogic (Flex)",
+        "ano": 2011
+      },
+      {
+        "id": 6129,
+        "idUrl": "bravo-absolute-18-16v-flex-2011",
+        "nome": "Bravo Absolute 1.8 16V (Flex)",
+        "ano": 2011
+      },
+      {
+        "id": 6116,
+        "idUrl": "bravo-essence-18-16v-dualogic-flex-2011",
+        "nome": "Bravo Essence 1.8 16V Dualogic (Flex)",
+        "ano": 2011
+      },
+      {
+        "id": 6121,
+        "idUrl": "bravo-essence-18-16v-flex-2011",
+        "nome": "Bravo Essence 1.8 16V (Flex)",
+        "ano": 2011
+      }
+    ],
+    "2012": [
+      {
+        "id": 6155,
+        "idUrl": "bravo-tjet-14-16v-2012",
+        "nome": "Bravo T-Jet 1.4 16V",
+        "ano": 2012
+      },
+      {
+        "id": 6125,
+        "idUrl": "bravo-absolute-18-16v-dualogic-flex-2012",
+        "nome": "Bravo Absolute 1.8 16V Dualogic (Flex)",
+        "ano": 2012
+      },
+      {
+        "id": 6128,
+        "idUrl": "bravo-absolute-18-16v-flex-2012",
+        "nome": "Bravo Absolute 1.8 16V (Flex)",
+        "ano": 2012
+      },
+      {
+        "id": 6115,
+        "idUrl": "bravo-essence-18-16v-dualogic-flex-2012",
+        "nome": "Bravo Essence 1.8 16V Dualogic (Flex)",
+        "ano": 2012
+      },
+      {
+        "id": 6120,
+        "idUrl": "bravo-essence-18-16v-flex-2012",
+        "nome": "Bravo Essence 1.8 16V (Flex)",
+        "ano": 2012
+      }
+    ],
+    "2013": [
+      {
+        "id": 6154,
+        "idUrl": "bravo-tjet-14-16v-2013",
+        "nome": "Bravo T-Jet 1.4 16V",
+        "ano": 2013
+      },
+      {
+        "id": 6132,
+        "idUrl": "bravo-sporting-dualogic-18-16v-flex-2013",
+        "nome": "Bravo Sporting Dualogic 1.8 16V (Flex)",
+        "ano": 2013
+      },
+      {
+        "id": 6109,
+        "idUrl": "bravo-sporting-18-16v-flex-2013",
+        "nome": "Bravo Sporting 1.8 16V (Flex)",
+        "ano": 2013
+      },
+      {
+        "id": 6124,
+        "idUrl": "bravo-absolute-18-16v-dualogic-flex-2013",
+        "nome": "Bravo Absolute 1.8 16V Dualogic (Flex)",
+        "ano": 2013
+      },
+      {
+        "id": 6114,
+        "idUrl": "bravo-essence-18-16v-dualogic-flex-2013",
+        "nome": "Bravo Essence 1.8 16V Dualogic (Flex)",
+        "ano": 2013
+      },
+      {
+        "id": 6119,
+        "idUrl": "bravo-essence-18-16v-flex-2013",
+        "nome": "Bravo Essence 1.8 16V (Flex)",
+        "ano": 2013
+      }
+    ],
+    "2014": [
+      {
+        "id": 6153,
+        "idUrl": "bravo-tjet-14-16v-2014",
+        "nome": "Bravo T-Jet 1.4 16V",
+        "ano": 2014
+      },
+      {
+        "id": 6144,
+        "idUrl": "bravo-18-sporting-dualogic-flex-2014",
+        "nome": "Bravo 1.8 Sporting Dualogic (Flex)",
+        "ano": 2014
+      },
+      {
+        "id": 6130,
+        "idUrl": "bravo-sporting-18-16v-flex-2014",
+        "nome": "Bravo Sporting 1.8 16V (Flex)",
+        "ano": 2014
+      },
+      {
+        "id": 6123,
+        "idUrl": "bravo-absolute-18-16v-dualogic-flex-2014",
+        "nome": "Bravo Absolute 1.8 16V Dualogic (Flex)",
+        "ano": 2014
+      },
+      {
+        "id": 6113,
+        "idUrl": "bravo-essence-18-etorq-dualogic-flex-2014",
+        "nome": "Bravo Essence 1.8 E.torQ Dualogic (Flex)",
+        "ano": 2014
+      },
+      {
+        "id": 6118,
+        "idUrl": "bravo-essence-18-16v-flex-2014",
+        "nome": "Bravo Essence 1.8 16V (Flex)",
+        "ano": 2014
+      }
+    ],
+    "2015": [
+      {
+        "id": 6158,
+        "idUrl": "bravo-14-tjet-16v-turbo-2015",
+        "nome": "Bravo 1.4 T-Jet 16v turbo",
+        "ano": 2015
+      },
+      {
+        "id": 6131,
+        "idUrl": "bravo-sporting-dualogic-18-flex-2015",
+        "nome": "Bravo Sporting Dualogic 1.8 (Flex)",
+        "ano": 2015
+      },
+      {
+        "id": 6122,
+        "idUrl": "bravo-blackmotion-18-flex-2015",
+        "nome": "Bravo BlackMotion 1.8 (Flex)",
+        "ano": 2015
+      }
+    ],
+    "2016": [
+      {
+        "id": 22329,
+        "idUrl": "bravo-tjet-14-16v-turbo-2016",
+        "nome": "Bravo T-Jet 1.4 16V Turbo",
+        "ano": 2016
+      },
+      {
+        "id": 6110,
+        "idUrl": "bravo-sporting-18-flex-2016",
+        "nome": "Bravo Sporting 1.8 (Flex)",
+        "ano": 2016
+      },
+      {
+        "id": 6112,
+        "idUrl": "bravo-essence-dualogic-18-flex-2016",
+        "nome": "Bravo Essence Dualogic 1.8 (Flex)",
+        "ano": 2016
+      },
+      {
+        "id": 6117,
+        "idUrl": "bravo-essence-18-16v-flex-2016",
+        "nome": "Bravo Essence 1.8 16V (Flex)",
+        "ano": 2016
+      }
+    ]
+  }

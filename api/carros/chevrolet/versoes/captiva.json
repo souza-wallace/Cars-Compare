@@ -1,0 +1,130 @@
+{
+    "2008": [
+      {
+        "id": 3244,
+        "idUrl": "captiva-sport-36-v6-4x4-2008",
+        "nome": "Captiva Sport 3.6 V6 4x4",
+        "ano": 2008
+      },
+      {
+        "id": 3217,
+        "idUrl": "captiva-sport-36-v6-4x2-2008",
+        "nome": "Captiva Sport 3.6 V6 4x2",
+        "ano": 2008
+      }
+    ],
+    "2009": [
+      {
+        "id": 3216,
+        "idUrl": "captiva-sport-36-v6-4x2-2009",
+        "nome": "Captiva Sport 3.6 V6 4x2",
+        "ano": 2009
+      },
+      {
+        "id": 3258,
+        "idUrl": "captiva-sport-36-v6-4x4-2009",
+        "nome": "Captiva Sport 3.6 V6 4x4",
+        "ano": 2009
+      },
+      {
+        "id": 3271,
+        "idUrl": "captiva-sport-ecotec-24-16v-2009",
+        "nome": "Captiva Sport Ecotec 2.4 16v",
+        "ano": 2009
+      }
+    ],
+    "2010": [
+      {
+        "id": 3228,
+        "idUrl": "captiva-sport-36-v6-4x4-2010",
+        "nome": "Captiva Sport 3.6 V6 4x4",
+        "ano": 2010
+      },
+      {
+        "id": 3218,
+        "idUrl": "captiva-sport-36-v6-4x2-2010",
+        "nome": "Captiva Sport 3.6 V6 4x2",
+        "ano": 2010
+      },
+      {
+        "id": 3245,
+        "idUrl": "captiva-sport-ecotec-24-16v-2010",
+        "nome": "Captiva Sport Ecotec 2.4 16v",
+        "ano": 2010
+      }
+    ],
+    "2011": [
+      {
+        "id": 3224,
+        "idUrl": "captiva-sport-24-16v-2011",
+        "nome": "Captiva Sport 2.4 16v",
+        "ano": 2011
+      }
+    ],
+    "2012": [
+      {
+        "id": 3220,
+        "idUrl": "captiva-sport-30-v6-4x4-2012",
+        "nome": "Captiva Sport 3.0 V6 4x4",
+        "ano": 2012
+      },
+      {
+        "id": 3222,
+        "idUrl": "captiva-sport-30-v6-4x2-2012",
+        "nome": "Captiva Sport 3.0 V6 4x2",
+        "ano": 2012
+      },
+      {
+        "id": 3226,
+        "idUrl": "captiva-ecotec-24-16v-2012",
+        "nome": "Captiva Ecotec 2.4 16v",
+        "ano": 2012
+      }
+    ],
+    "2013": [
+      {
+        "id": 3219,
+        "idUrl": "captiva-sport-30-v6-4x4-2013",
+        "nome": "Captiva Sport 3.0 V6 4x4",
+        "ano": 2013
+      },
+      {
+        "id": 3225,
+        "idUrl": "captiva-ecotec-24-16v-2013",
+        "nome": "Captiva Ecotec 2.4 16v",
+        "ano": 2013
+      }
+    ],
+    "2014": [
+      {
+        "id": 3231,
+        "idUrl": "captiva-24-16v-aut-2014",
+        "nome": "Captiva 2.4 16V (Aut)",
+        "ano": 2014
+      }
+    ],
+    "2015": [
+      {
+        "id": 3230,
+        "idUrl": "captiva-24-16v-aut-2015",
+        "nome": "Captiva 2.4 16V (Aut)",
+        "ano": 2015
+      }
+    ],
+    "2016": [
+      {
+        "id": 3242,
+        "idUrl": "captiva-24-16v-aut-2016",
+        "nome": "Captiva 2.4 16V (Aut)",
+        "ano": 2016
+      }
+    ],
+    "2017": [
+      {
+        "id": 3229,
+        "idUrl": "captiva-24-16v-aut-2017",
+        "nome": "Captiva 2.4 16V (Aut)",
+        "ano": 2017
+      }
+    ]
+  }

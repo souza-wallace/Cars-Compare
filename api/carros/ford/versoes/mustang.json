@@ -1,0 +1,102 @@
+{
+    "1994": [
+      {
+        "id": 6898,
+        "idUrl": "mustang-conversivel-gt-50-v8-1994",
+        "nome": "Mustang Conversivel GT 5.0 V8",
+        "ano": 1994
+      },
+      {
+        "id": 6893,
+        "idUrl": "mustang-gt-50-v8-1994",
+        "nome": "Mustang GT 5.0 V8",
+        "ano": 1994
+      },
+      {
+        "id": 6899,
+        "idUrl": "mustang-conversivel-38-v6-1994",
+        "nome": "Mustang Conversivel 3.8 V6",
+        "ano": 1994
+      },
+      {
+        "id": 6903,
+        "idUrl": "mustang-38-v6-1994",
+        "nome": "Mustang 3.8 V6",
+        "ano": 1994
+      }
+    ],
+    "1995": [
+      {
+        "id": 6900,
+        "idUrl": "mustang-cobra-57-v8-1995",
+        "nome": "Mustang Cobra 5.7 V8",
+        "ano": 1995
+      }
+    ],
+    "2005": [
+      {
+        "id": 6886,
+        "idUrl": "mustang-gt-v8-2005",
+        "nome": "Mustang GT V8",
+        "ano": 2005
+      }
+    ],
+    "2007": [
+      {
+        "id": 6890,
+        "idUrl": "mustang-gt-conversivel-2007",
+        "nome": "Mustang GT Conversível",
+        "ano": 2007
+      },
+      {
+        "id": 6904,
+        "idUrl": "mustang-shelby-gt-500-v8-2007",
+        "nome": "Mustang Shelby GT 500 V8",
+        "ano": 2007
+      }
+    ],
+    "2008": [
+      {
+        "id": 6885,
+        "idUrl": "mustang-gt-v8-2008",
+        "nome": "Mustang GT V8",
+        "ano": 2008
+      }
+    ],
+    "2009": [
+      {
+        "id": 6894,
+        "idUrl": "mustang-gt-46-v8-premium-coupe-2009",
+        "nome": "Mustang GT 4.6 V8 Premium Coupé",
+        "ano": 2009
+      },
+      {
+        "id": 6906,
+        "idUrl": "mustang-shelby-gt-500-v8-2009",
+        "nome": "Mustang Shelby GT 500 V8",
+        "ano": 2009
+      }
+    ],
+    "2010": [
+      {
+        "id": 6931,
+        "idUrl": "mustang-shelby-gt-500-v8-2010",
+        "nome": "Mustang Shelby GT 500 V8",
+        "ano": 2010
+      },
+      {
+        "id": 6892,
+        "idUrl": "mustang-gt-50-v8-2010",
+        "nome": "Mustang GT 5.0 V8",
+        "ano": 2010
+      }
+    ],
+    "2018": [
+      {
+        "id": 21999,
+        "idUrl": "mustang-gt-premium-50-v8-2018",
+        "nome": "Mustang GT Premium 5.0 V8",
+        "ano": 2018
+      }
+    ]
+  }

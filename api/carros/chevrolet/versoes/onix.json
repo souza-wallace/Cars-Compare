@@ -1,0 +1,384 @@
+{
+    "2013": [
+      {
+        "id": 2476,
+        "idUrl": "onix-14-ltz-spe4-2013",
+        "nome": "Onix 1.4 LTZ SPE/4",
+        "ano": 2013
+      },
+      {
+        "id": 2486,
+        "idUrl": "onix-14-lt-spe4-2013",
+        "nome": "Onix 1.4 LT SPE/4",
+        "ano": 2013
+      },
+      {
+        "id": 2497,
+        "idUrl": "onix-10-lt-spe4-2013",
+        "nome": "Onix 1.0 LT SPE/4",
+        "ano": 2013
+      },
+      {
+        "id": 2470,
+        "idUrl": "onix-10-ls-spe4-2013",
+        "nome": "Onix 1.0 LS SPE/4",
+        "ano": 2013
+      }
+    ],
+    "2014": [
+      {
+        "id": 2324,
+        "idUrl": "onix-14-ltz-spe4-aut-2014",
+        "nome": "Onix 1.4 LTZ SPE/4 (Aut)",
+        "ano": 2014
+      },
+      {
+        "id": 2481,
+        "idUrl": "onix-14-lt-spe4-aut-2014",
+        "nome": "Onix 1.4 LT SPE/4 (Aut)",
+        "ano": 2014
+      },
+      {
+        "id": 2492,
+        "idUrl": "onix-10-loolapalooza-spe4-2014",
+        "nome": "Onix 1.0 Loolapalooza SPE/4",
+        "ano": 2014
+      },
+      {
+        "id": 2475,
+        "idUrl": "onix-14-ltz-spe4-2014",
+        "nome": "Onix 1.4 LTZ SPE/4",
+        "ano": 2014
+      },
+      {
+        "id": 2484,
+        "idUrl": "onix-14-lt-spe4-2014",
+        "nome": "Onix 1.4 LT SPE/4",
+        "ano": 2014
+      },
+      {
+        "id": 2496,
+        "idUrl": "onix-10-lt-spe4-2014",
+        "nome": "Onix 1.0 LT SPE/4",
+        "ano": 2014
+      },
+      {
+        "id": 2471,
+        "idUrl": "onix-10-ls-spe4-2014",
+        "nome": "Onix 1.0 LS SPE/4",
+        "ano": 2014
+      }
+    ],
+    "2015": [
+      {
+        "id": 2323,
+        "idUrl": "onix-14-ltz-spe4-aut-2015",
+        "nome": "Onix 1.4 LTZ SPE/4 (Aut)",
+        "ano": 2015
+      },
+      {
+        "id": 2480,
+        "idUrl": "onix-14-lt-spe4-aut-2015",
+        "nome": "Onix 1.4 LT SPE/4 (Aut)",
+        "ano": 2015
+      },
+      {
+        "id": 2474,
+        "idUrl": "onix-14-ltz-spe4-2015",
+        "nome": "Onix 1.4 LTZ SPE/4",
+        "ano": 2015
+      },
+      {
+        "id": 2487,
+        "idUrl": "onix-14-effect-flex-2015",
+        "nome": "Onix 1.4 Effect (Flex)",
+        "ano": 2015
+      },
+      {
+        "id": 2483,
+        "idUrl": "onix-14-lt-spe4-2015",
+        "nome": "Onix 1.4 LT SPE/4",
+        "ano": 2015
+      },
+      {
+        "id": 2490,
+        "idUrl": "onix-10-spe4-selecao-2015",
+        "nome": "Onix 1.0 SPE/4 Seleção",
+        "ano": 2015
+      },
+      {
+        "id": 2495,
+        "idUrl": "onix-10-lt-spe4-2015",
+        "nome": "Onix 1.0 LT SPE/4",
+        "ano": 2015
+      },
+      {
+        "id": 2472,
+        "idUrl": "onix-10-ls-spe4-2015",
+        "nome": "Onix 1.0 LS SPE/4",
+        "ano": 2015
+      }
+    ],
+    "2016": [
+      {
+        "id": 2322,
+        "idUrl": "onix-14-ltz-spe4-aut-2016",
+        "nome": "Onix 1.4 LTZ SPE/4 (Aut)",
+        "ano": 2016
+      },
+      {
+        "id": 2473,
+        "idUrl": "onix-14-ltz-spe4-2016",
+        "nome": "Onix 1.4 LTZ SPE/4",
+        "ano": 2016
+      },
+      {
+        "id": 2479,
+        "idUrl": "onix-14-lt-spe4-aut-2016",
+        "nome": "Onix 1.4 LT SPE/4 (Aut)",
+        "ano": 2016
+      },
+      {
+        "id": 2499,
+        "idUrl": "onix-14-effect-flex-2016",
+        "nome": "Onix 1.4 Effect (Flex)",
+        "ano": 2016
+      },
+      {
+        "id": 2482,
+        "idUrl": "onix-14-lt-spe4-2016",
+        "nome": "Onix 1.4 LT SPE/4",
+        "ano": 2016
+      },
+      {
+        "id": 2494,
+        "idUrl": "onix-10-lt-spe4-2016",
+        "nome": "Onix 1.0 LT SPE/4",
+        "ano": 2016
+      },
+      {
+        "id": 2498,
+        "idUrl": "onix-10-ls-spe4-2016",
+        "nome": "Onix 1.0 LS SPE/4",
+        "ano": 2016
+      }
+    ],
+    "2017": [
+      {
+        "id": 2488,
+        "idUrl": "onix-14-activ-spe4-eco-aut-2017",
+        "nome": "Onix 1.4 Activ SPE/4 Eco (Aut)",
+        "ano": 2017
+      },
+      {
+        "id": 2171,
+        "idUrl": "onix-14-ltz-spe4-eco-aut-2017",
+        "nome": "Onix 1.4 LTZ SPE/4 Eco (Aut)",
+        "ano": 2017
+      },
+      {
+        "id": 2489,
+        "idUrl": "onix-14-activ-spe4-eco-2017",
+        "nome": "Onix 1.4 Activ SPE/4 Eco",
+        "ano": 2017
+      },
+      {
+        "id": 2292,
+        "idUrl": "onix-14-ltz-spe4-eco-2017",
+        "nome": "Onix 1.4 LTZ SPE/4 Eco",
+        "ano": 2017
+      },
+      {
+        "id": 2477,
+        "idUrl": "onix-14-lt-spe4-eco-aut-2017",
+        "nome": "Onix 1.4 LT SPE/4 Eco (Aut)",
+        "ano": 2017
+      },
+      {
+        "id": 2478,
+        "idUrl": "onix-14-lt-spe4-eco-2017",
+        "nome": "Onix 1.4 LT SPE/4 Eco",
+        "ano": 2017
+      },
+      {
+        "id": 2493,
+        "idUrl": "onix-10-lt-spe4-eco-2017",
+        "nome": "Onix 1.0 LT SPE/4 Eco",
+        "ano": 2017
+      },
+      {
+        "id": 2491,
+        "idUrl": "onix-10-spe4-eco-joy-2017",
+        "nome": "Onix 1.0 SPE/4 Eco Joy",
+        "ano": 2017
+      }
+    ],
+    "2018": [
+      {
+        "id": 21529,
+        "idUrl": "onix-14-activ-spe4-eco-aut-2018",
+        "nome": "Onix 1.4 Activ SPE/4 Eco (Aut)",
+        "ano": 2018
+      },
+      {
+        "id": 21534,
+        "idUrl": "onix-14-ltz-spe4-eco-aut-2018",
+        "nome": "Onix 1.4 LTZ SPE/4 Eco (Aut)",
+        "ano": 2018
+      },
+      {
+        "id": 21528,
+        "idUrl": "onix-14-activ-spe4-eco-2018",
+        "nome": "Onix 1.4 Activ SPE/4 Eco",
+        "ano": 2018
+      },
+      {
+        "id": 21532,
+        "idUrl": "onix-14-lt-spe4-eco-aut-2018",
+        "nome": "Onix 1.4 LT SPE/4 Eco (Aut)",
+        "ano": 2018
+      },
+      {
+        "id": 21533,
+        "idUrl": "onix-14-ltz-spe4-eco-2018",
+        "nome": "Onix 1.4 LTZ SPE/4 Eco",
+        "ano": 2018
+      },
+      {
+        "id": 22035,
+        "idUrl": "onix-14-advantage-aut-2018",
+        "nome": "Onix 1.4 Advantage (Aut)",
+        "ano": 2018
+      },
+      {
+        "id": 21530,
+        "idUrl": "onix-14-effect-spe4-2018",
+        "nome": "Onix 1.4 Effect SPE/4",
+        "ano": 2018
+      },
+      {
+        "id": 21531,
+        "idUrl": "onix-14-lt-spe4-eco-2018",
+        "nome": "Onix 1.4 LT SPE/4 Eco",
+        "ano": 2018
+      },
+      {
+        "id": 21526,
+        "idUrl": "onix-10-lt-spe4-eco-2018",
+        "nome": "Onix 1.0 LT SPE/4 Eco",
+        "ano": 2018
+      },
+      {
+        "id": 21527,
+        "idUrl": "onix-10-spe4-eco-joy-2018",
+        "nome": "Onix 1.0 SPE/4 Eco Joy",
+        "ano": 2018
+      }
+    ],
+    "2019": [
+      {
+        "id": 22294,
+        "idUrl": "onix-activ-14-aut-2019",
+        "nome": "Onix Activ 1.4 (Aut)",
+        "ano": 2019
+      },
+      {
+        "id": 22298,
+        "idUrl": "onix-activ-14-2019",
+        "nome": "Onix Activ 1.4",
+        "ano": 2019
+      },
+      {
+        "id": 22293,
+        "idUrl": "onix-ltz-14-aut-2019",
+        "nome": "Onix LTZ 1.4 (Aut)",
+        "ano": 2019
+      },
+      {
+        "id": 22295,
+        "idUrl": "onix-lt-14-aut-2019",
+        "nome": "Onix LT 1.4 (Aut)",
+        "ano": 2019
+      },
+      {
+        "id": 22300,
+        "idUrl": "onix-ltz-14-2019",
+        "nome": "Onix LTZ 1.4",
+        "ano": 2019
+      },
+      {
+        "id": 22296,
+        "idUrl": "onix-advantage-14-aut-2019",
+        "nome": "Onix Advantage 1.4 (Aut)",
+        "ano": 2019
+      },
+      {
+        "id": 22301,
+        "idUrl": "onix-effect-14-2019",
+        "nome": "Onix Effect 1.4",
+        "ano": 2019
+      },
+      {
+        "id": 22106,
+        "idUrl": "chevrolet-onix-lt-2019",
+        "nome": "Chevrolet Onix LT",
+        "ano": 2019
+      },
+      {
+        "id": 22299,
+        "idUrl": "onix-joy-10-2019",
+        "nome": "Onix Joy 1.0",
+        "ano": 2019
+      }
+    ],
+    "2020": [
+      {
+        "id": 22401,
+        "idUrl": "onix-premier-10-turbo-aut-2020",
+        "nome": "Onix Premier 1.0 Turbo (Aut)",
+        "ano": 2020
+      },
+      {
+        "id": 22400,
+        "idUrl": "onix-ltz-10-turbo-aut-2020",
+        "nome": "Onix LTZ 1.0 Turbo (Aut)",
+        "ano": 2020
+      },
+      {
+        "id": 22399,
+        "idUrl": "onix-lt-10-turbo-aut-2020",
+        "nome": "Onix LT 1.0 Turbo (Aut)",
+        "ano": 2020
+      },
+      {
+        "id": 22397,
+        "idUrl": "onix-ltz-10-turbo-2020",
+        "nome": "Onix LTZ 1.0 Turbo",
+        "ano": 2020
+      },
+      {
+        "id": 22402,
+        "idUrl": "onix-10-turbo-aut-2020",
+        "nome": "Onix 1.0 Turbo (Aut)",
+        "ano": 2020
+      },
+      {
+        "id": 22398,
+        "idUrl": "onix-lt-10-turbo-2020",
+        "nome": "Onix LT 1.0 Turbo",
+        "ano": 2020
+      },
+      {
+        "id": 22403,
+        "idUrl": "onix-lt-10-2020",
+        "nome": "Onix LT 1.0",
+        "ano": 2020
+      },
+      {
+        "id": 22404,
+        "idUrl": "onix-10-2020",
+        "nome": "Onix 1.0",
+        "ano": 2020
+      }
+    ]
+  }

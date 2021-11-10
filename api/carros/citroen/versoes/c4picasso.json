@@ -1,0 +1,134 @@
+{
+    "2009": [
+      {
+        "id": 4625,
+        "idUrl": "c4-picasso-20-16v-2009",
+        "nome": "C4 Picasso 2.0 16v",
+        "ano": 2009
+      }
+    ],
+    "2010": [
+      {
+        "id": 4626,
+        "idUrl": "c4-picasso-avatar-20-16v-2010",
+        "nome": "C4 Picasso Avatar 2.0 16v",
+        "ano": 2010
+      },
+      {
+        "id": 4630,
+        "idUrl": "c4-picasso-la-luna-20-16v-aut-2010",
+        "nome": "C4 Picasso La Luna 2.0 16V (aut)",
+        "ano": 2010
+      },
+      {
+        "id": 4640,
+        "idUrl": "c4-picasso-20-16v-2010",
+        "nome": "C4 Picasso 2.0 16v",
+        "ano": 2010
+      },
+      {
+        "id": 4642,
+        "idUrl": "c4-picasso-20-16v-exclusive-aut-2010",
+        "nome": "C4 Picasso 2.0 16V Exclusive (Aut)",
+        "ano": 2010
+      }
+    ],
+    "2011": [
+      {
+        "id": 4629,
+        "idUrl": "c4-picasso-la-luna-20-16v-aut-2011",
+        "nome": "C4 Picasso La Luna 2.0 16V (aut)",
+        "ano": 2011
+      },
+      {
+        "id": 4658,
+        "idUrl": "c4-picasso-20-16v-aut-2011",
+        "nome": "C4 Picasso 2.0 16V (aut)",
+        "ano": 2011
+      }
+    ],
+    "2012": [
+      {
+        "id": 4641,
+        "idUrl": "c4-picasso-20-16v-la-luna-aut-2012",
+        "nome": "C4 Picasso 2.0 16V La Luna (Aut)",
+        "ano": 2012
+      },
+      {
+        "id": 4659,
+        "idUrl": "c4-picasso-20-16v-aut-2012",
+        "nome": "C4 Picasso 2.0 16V (aut)",
+        "ano": 2012
+      }
+    ],
+    "2013": [
+      {
+        "id": 4628,
+        "idUrl": "c4-picasso-glx-20-16v-bva-aut-2013",
+        "nome": "C4 Picasso GLX 2.0 16V BVA (Aut)",
+        "ano": 2013
+      },
+      {
+        "id": 4632,
+        "idUrl": "c4-picasso-la-luna-20-16v-bva-aut-2013",
+        "nome": "C4 Picasso La Luna 2.0 16V BVA (Aut)",
+        "ano": 2013
+      }
+    ],
+    "2014": [
+      {
+        "id": 4631,
+        "idUrl": "c4-picasso-la-luna-20-16v-bva-aut-2014",
+        "nome": "C4 Picasso La Luna 2.0 16V BVA (Aut)",
+        "ano": 2014
+      },
+      {
+        "id": 4643,
+        "idUrl": "c4-picasso-20-16v-bva-aut-2014",
+        "nome": "C4 Picasso 2.0 16V BVA (Aut)",
+        "ano": 2014
+      }
+    ],
+    "2016": [
+      {
+        "id": 4654,
+        "idUrl": "c4-picasso-16-16v-thp-intensive-aut-2016",
+        "nome": "C4 Picasso 1.6 16V THP Intensive (Aut)",
+        "ano": 2016
+      },
+      {
+        "id": 4656,
+        "idUrl": "c4-picasso-16-16v-thp-seduction-aut-2016",
+        "nome": "C4 Picasso 1.6 16V THP Seduction (Aut)",
+        "ano": 2016
+      }
+    ],
+    "2017": [
+      {
+        "id": 4655,
+        "idUrl": "c4-picasso-16-16v-thp-intensive-aut-2017",
+        "nome": "C4 Picasso 1.6 16V THP Intensive (Aut)",
+        "ano": 2017
+      },
+      {
+        "id": 4657,
+        "idUrl": "c4-picasso-16-16v-thp-seduction-aut-2017",
+        "nome": "C4 Picasso 1.6 16V THP Seduction (Aut)",
+        "ano": 2017
+      }
+    ],
+    "2018": [
+      {
+        "id": 21540,
+        "idUrl": "c4-picasso-16-16v-thp-intensive-aut-2018",
+        "nome": "C4 Picasso 1.6 16V THP Intensive (Aut)",
+        "ano": 2018
+      },
+      {
+        "id": 21539,
+        "idUrl": "c4-picasso-16-16v-thp-seduction-aut-2018",
+        "nome": "C4 Picasso 1.6 16V THP Seduction (Aut)",
+        "ano": 2018
+      }
+    ]
+  }

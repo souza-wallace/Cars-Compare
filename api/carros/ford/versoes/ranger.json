@@ -1,0 +1,1460 @@
+{
+    "1994": [
+      {
+        "id": 7225,
+        "idUrl": "ranger-splash-4x2-40-v6-cab-estendida-1994",
+        "nome": "Ranger Splash 4x2 4.0 V6 (Cab Estendida)",
+        "ano": 1994
+      },
+      {
+        "id": 7224,
+        "idUrl": "ranger-splash-4x2-40-v6-cab-simples-1994",
+        "nome": "Ranger Splash 4x2 4.0 V6 (Cab Simples)",
+        "ano": 1994
+      },
+      {
+        "id": 7569,
+        "idUrl": "ranger-stx-4x2-40-v6-12v-cab-estendida-1994",
+        "nome": "Ranger STX 4x2 4.0 V6 12V (Cab Estendida)",
+        "ano": 1994
+      },
+      {
+        "id": 7352,
+        "idUrl": "ranger-stx-4x2-40-v6-12v-cab-simples-1994",
+        "nome": "Ranger STX 4x2 4.0 V6 12V (Cab Simples)",
+        "ano": 1994
+      },
+      {
+        "id": 7204,
+        "idUrl": "ranger-xl-4x2-40-v6-12v-cab-simples-1994",
+        "nome": "Ranger XL 4x2 4.0 V6 12V (Cab Simples)",
+        "ano": 1994
+      },
+      {
+        "id": 7336,
+        "idUrl": "ranger-xlt-4x2-40-v6-12v-cab-simples-1994",
+        "nome": "Ranger XLT 4x2 4.0 V6 12V (Cab Simples)",
+        "ano": 1994
+      }
+    ],
+    "1995": [
+      {
+        "id": 7228,
+        "idUrl": "ranger-stx-4x2-40-v6-12v-cab-simples-1995",
+        "nome": "Ranger STX 4x2 4.0 V6 12V (Cab Simples)",
+        "ano": 1995
+      },
+      {
+        "id": 7368,
+        "idUrl": "ranger-stx-4x2-40-v6-12v-cab-estendida-1995",
+        "nome": "Ranger STX 4x2 4.0 V6 12V (Cab Estendida)",
+        "ano": 1995
+      }
+    ],
+    "1996": [
+      {
+        "id": 7227,
+        "idUrl": "ranger-stx-4x2-40-v6-12v-cab-simples-1996",
+        "nome": "Ranger STX 4x2 4.0 V6 12V (Cab Simples)",
+        "ano": 1996
+      }
+    ],
+    "1997": [
+      {
+        "id": 7226,
+        "idUrl": "ranger-stx-4x2-40-v6-12v-cab-simples-1997",
+        "nome": "Ranger STX 4x2 4.0 V6 12V (Cab Simples)",
+        "ano": 1997
+      },
+      {
+        "id": 7259,
+        "idUrl": "ranger-xlt-4x2-40-v6-12v-cab-simples-1997",
+        "nome": "Ranger XLT 4x2 4.0 V6 12V (Cab Simples)",
+        "ano": 1997
+      },
+      {
+        "id": 7230,
+        "idUrl": "ranger-xl-4x2-40-v6-12v-cab-simples-1997",
+        "nome": "Ranger XL 4x2 4.0 V6 12V (Cab Simples)",
+        "ano": 1997
+      },
+      {
+        "id": 7221,
+        "idUrl": "ranger-xl-4x2-23-cab-simples-1997",
+        "nome": "Ranger XL 4x2 2.3 (Cab Simples)",
+        "ano": 1997
+      }
+    ],
+    "1998": [
+      {
+        "id": 7367,
+        "idUrl": "ranger-stx-4x2-40-v6-12v-cab-simples-1998",
+        "nome": "Ranger STX 4x2 4.0 V6 12V (Cab Simples)",
+        "ano": 1998
+      },
+      {
+        "id": 7180,
+        "idUrl": "ranger-xlt-4x2-40-v6-cab-simples-1998",
+        "nome": "Ranger XLT 4x2 4.0 V6 (Cab Simples)",
+        "ano": 1998
+      },
+      {
+        "id": 7381,
+        "idUrl": "ranger-xl-4x2-25-cab-dupla-1998",
+        "nome": "Ranger XL 4x2 2.5 (Cab Dupla)",
+        "ano": 1998
+      },
+      {
+        "id": 7322,
+        "idUrl": "ranger-xlt-4x4-40-v6-cab-simples-1998",
+        "nome": "Ranger XLT 4x4 4.0 V6 (Cab Simples)",
+        "ano": 1998
+      },
+      {
+        "id": 7231,
+        "idUrl": "ranger-xl-4x2-25-cab-simples-1998",
+        "nome": "Ranger XL 4x2 2.5 (Cab Simples)",
+        "ano": 1998
+      }
+    ],
+    "1999": [
+      {
+        "id": 7179,
+        "idUrl": "ranger-xlt-4x2-40-v6-cab-simples-1999",
+        "nome": "Ranger XLT 4x2 4.0 V6 (Cab Simples)",
+        "ano": 1999
+      },
+      {
+        "id": 7380,
+        "idUrl": "ranger-xl-4x2-25-cab-dupla-1999",
+        "nome": "Ranger XL 4x2 2.5 (Cab Dupla)",
+        "ano": 1999
+      },
+      {
+        "id": 7258,
+        "idUrl": "ranger-xlt-4x2-40-v6-12v-cab-estendida-1999",
+        "nome": "Ranger XLT 4x2 4.0 V6 12V (Cab Estendida)",
+        "ano": 1999
+      },
+      {
+        "id": 7321,
+        "idUrl": "ranger-xlt-4x4-40-v6-cab-simples-1999",
+        "nome": "Ranger XLT 4x4 4.0 V6 (Cab Simples)",
+        "ano": 1999
+      },
+      {
+        "id": 7256,
+        "idUrl": "ranger-xl-4x2-25-cab-simples-1999",
+        "nome": "Ranger XL 4x2 2.5 (Cab Simples)",
+        "ano": 1999
+      }
+    ],
+    "2000": [
+      {
+        "id": 7203,
+        "idUrl": "ranger-xlt-4x2-40-v6-cab-simples-2000",
+        "nome": "Ranger XLT 4x2 4.0 V6 (Cab Simples)",
+        "ano": 2000
+      },
+      {
+        "id": 7379,
+        "idUrl": "ranger-xl-4x2-25-cab-dupla-2000",
+        "nome": "Ranger XL 4x2 2.5 (Cab Dupla)",
+        "ano": 2000
+      },
+      {
+        "id": 7257,
+        "idUrl": "ranger-xlt-4x2-40-v6-12v-cab-estendida-2000",
+        "nome": "Ranger XLT 4x2 4.0 V6 12V (Cab Estendida)",
+        "ano": 2000
+      },
+      {
+        "id": 7323,
+        "idUrl": "ranger-xlt-4x4-40-v6-cab-simples-2000",
+        "nome": "Ranger XLT 4x4 4.0 V6 (Cab Simples)",
+        "ano": 2000
+      },
+      {
+        "id": 7232,
+        "idUrl": "ranger-xl-4x2-25-cab-simples-2000",
+        "nome": "Ranger XL 4x2 2.5 (Cab Simples)",
+        "ano": 2000
+      }
+    ],
+    "2001": [
+      {
+        "id": 7479,
+        "idUrl": "ranger-xlt-4x4-40-v6-12v-cab-dupla-2001",
+        "nome": "Ranger XLT 4x4 4.0 V6 12V (Cab Dupla)",
+        "ano": 2001
+      },
+      {
+        "id": 7483,
+        "idUrl": "ranger-xlt-4x4-40-v6-210hp-cab-dupla-2001",
+        "nome": "Ranger XLT 4x4 4.0 V6 (210hp) (Cab Dupla)",
+        "ano": 2001
+      },
+      {
+        "id": 7382,
+        "idUrl": "ranger-xl-4x2-25-cab-dupla-2001",
+        "nome": "Ranger XL 4x2 2.5 (Cab Dupla)",
+        "ano": 2001
+      },
+      {
+        "id": 7320,
+        "idUrl": "ranger-xlt-4x4-40-v6-12v-cab-estendida-2001",
+        "nome": "Ranger XLT 4x4 4.0 V6 12V (Cab Estendida)",
+        "ano": 2001
+      },
+      {
+        "id": 7324,
+        "idUrl": "ranger-xlt-4x4-40-v6-210hp-cab-estendida-2001",
+        "nome": "Ranger XLT 4x4 4.0 V6 (210hp) (Cab Estendida)",
+        "ano": 2001
+      },
+      {
+        "id": 7229,
+        "idUrl": "ranger-xl-4x2-25-cab-simples-2001",
+        "nome": "Ranger XL 4x2 2.5 (Cab Simples)",
+        "ano": 2001
+      },
+      {
+        "id": 7385,
+        "idUrl": "ranger-xl-4x2-23-16v-cab-dupla-2001",
+        "nome": "Ranger XL 4x2 2.3 16V (Cab Dupla)",
+        "ano": 2001
+      },
+      {
+        "id": 7205,
+        "idUrl": "ranger-xl-4x2-40-v6-cab-simples-2001",
+        "nome": "Ranger XL 4x2 4.0 V6 (Cab Simples)",
+        "ano": 2001
+      },
+      {
+        "id": 7236,
+        "idUrl": "ranger-xl-4x2-40-v6-210hp-cab-simples-2001",
+        "nome": "Ranger XL 4x2 4.0 V6 (210hp) (Cab Simples)",
+        "ano": 2001
+      },
+      {
+        "id": 7219,
+        "idUrl": "ranger-xl-4x2-23-16v-cab-estendida-2001",
+        "nome": "Ranger XL 4x2 2.3 16V (Cab Estendida)",
+        "ano": 2001
+      },
+      {
+        "id": 7210,
+        "idUrl": "ranger-xl-4x2-23-16v-cab-simples-2001",
+        "nome": "Ranger XL 4x2 2.3 16V (Cab Simples)",
+        "ano": 2001
+      }
+    ],
+    "2002": [
+      {
+        "id": 7482,
+        "idUrl": "ranger-xlt-4x4-40-v6-210hp-cab-dupla-2002",
+        "nome": "Ranger XLT 4x4 4.0 V6 (210hp) (Cab Dupla)",
+        "ano": 2002
+      },
+      {
+        "id": 7325,
+        "idUrl": "ranger-xlt-4x4-40-v6-210hp-cab-estendida-2002",
+        "nome": "Ranger XLT 4x4 4.0 V6 (210hp) (Cab Estendida)",
+        "ano": 2002
+      },
+      {
+        "id": 7235,
+        "idUrl": "ranger-xl-4x2-40-v6-210hp-cab-simples-2002",
+        "nome": "Ranger XL 4x2 4.0 V6 (210hp) (Cab Simples)",
+        "ano": 2002
+      },
+      {
+        "id": 7384,
+        "idUrl": "ranger-xl-4x2-23-16v-cab-dupla-2002",
+        "nome": "Ranger XL 4x2 2.3 16V (Cab Dupla)",
+        "ano": 2002
+      },
+      {
+        "id": 7218,
+        "idUrl": "ranger-xl-4x2-23-16v-cab-estendida-2002",
+        "nome": "Ranger XL 4x2 2.3 16V (Cab Estendida)",
+        "ano": 2002
+      },
+      {
+        "id": 7209,
+        "idUrl": "ranger-xl-4x2-23-16v-cab-simples-2002",
+        "nome": "Ranger XL 4x2 2.3 16V (Cab Simples)",
+        "ano": 2002
+      }
+    ],
+    "2003": [
+      {
+        "id": 7484,
+        "idUrl": "ranger-xlt-4x4-40-v6-210hp-cab-dupla-2003",
+        "nome": "Ranger XLT 4x4 4.0 V6 (210hp) (Cab Dupla)",
+        "ano": 2003
+      },
+      {
+        "id": 7391,
+        "idUrl": "ranger-xl-4x2-23-16v-cab-dupla-2003",
+        "nome": "Ranger XL 4x2 2.3 16V (Cab Dupla)",
+        "ano": 2003
+      },
+      {
+        "id": 7220,
+        "idUrl": "ranger-xl-4x2-23-16v-cab-estendida-2003",
+        "nome": "Ranger XL 4x2 2.3 16V (Cab Estendida)",
+        "ano": 2003
+      },
+      {
+        "id": 7217,
+        "idUrl": "ranger-xl-4x2-23-16v-cab-simples-2003",
+        "nome": "Ranger XL 4x2 2.3 16V (Cab Simples)",
+        "ano": 2003
+      }
+    ],
+    "2004": [
+      {
+        "id": 7493,
+        "idUrl": "ranger-xlt-4x4-28-turbo-cab-dupla-2004",
+        "nome": "Ranger XLT 4x4 2.8 Turbo (Cab Dupla)",
+        "ano": 2004
+      },
+      {
+        "id": 7192,
+        "idUrl": "ranger-xls-4x4-28-turbo-cab-simples-2004",
+        "nome": "Ranger XLS 4x4 2.8 Turbo (Cab Simples)",
+        "ano": 2004
+      },
+      {
+        "id": 7383,
+        "idUrl": "ranger-xl-4x2-23-16v-cab-dupla-2004",
+        "nome": "Ranger XL 4x2 2.3 16V (Cab Dupla)",
+        "ano": 2004
+      },
+      {
+        "id": 7397,
+        "idUrl": "ranger-xls-4x2-23-16v-cab-dupla-2004",
+        "nome": "Ranger XLS 4x2 2.3 16V (Cab Dupla)",
+        "ano": 2004
+      },
+      {
+        "id": 7202,
+        "idUrl": "ranger-xls-4x2-23-16v-cab-simples-2004",
+        "nome": "Ranger XLS 4x2 2.3 16V (Cab Simples)",
+        "ano": 2004
+      }
+    ],
+    "2005": [
+      {
+        "id": 7503,
+        "idUrl": "ranger-xlt-limited-4x4-28-turbo-cab-dupla-2005",
+        "nome": "Ranger XLT Limited 4x4 2.8 Turbo (Cab Dupla)",
+        "ano": 2005
+      },
+      {
+        "id": 7451,
+        "idUrl": "ranger-limited-4x4-30-two-tone-cab-dupla-2005",
+        "nome": "Ranger Limited 4x4 3.0 Two Tone (Cab Dupla)",
+        "ano": 2005
+      },
+      {
+        "id": 7453,
+        "idUrl": "ranger-limited-4x4-30-cab-dupla-2005",
+        "nome": "Ranger Limited 4x4 3.0 (Cab Dupla)",
+        "ano": 2005
+      },
+      {
+        "id": 7497,
+        "idUrl": "ranger-xlt-4x4-28-turbo-cab-dupla-2005",
+        "nome": "Ranger XLT 4x4 2.8 Turbo (Cab Dupla)",
+        "ano": 2005
+      },
+      {
+        "id": 7485,
+        "idUrl": "ranger-xlt-4x4-30-cab-dupla-2005",
+        "nome": "Ranger XLT 4x4 3.0 (Cab Dupla)",
+        "ano": 2005
+      },
+      {
+        "id": 7533,
+        "idUrl": "ranger-xls-4x4-30-cab-dupla-2005",
+        "nome": "Ranger XLS 4x4 3.0 (Cab Dupla)",
+        "ano": 2005
+      },
+      {
+        "id": 7543,
+        "idUrl": "ranger-xls-4x4-28-turbo-cab-dupla-2005",
+        "nome": "Ranger XLS 4x4 2.8 Turbo (Cab Dupla)",
+        "ano": 2005
+      },
+      {
+        "id": 7421,
+        "idUrl": "ranger-limited-two-tone-4x4-28-turbo-cab-dupla-2005",
+        "nome": "Ranger Limited Two Tone 4X4 2.8 Turbo (Cab Dupla)",
+        "ano": 2005
+      },
+      {
+        "id": 7162,
+        "idUrl": "ranger-xl-4x4-30-cab-simples-2005",
+        "nome": "Ranger XL 4x4 3.0 (Cab Simples)",
+        "ano": 2005
+      },
+      {
+        "id": 7420,
+        "idUrl": "ranger-xls-4x2-23-16v-cab-dupla-2005",
+        "nome": "Ranger XLS 4x2 2.3 16V (Cab Dupla)",
+        "ano": 2005
+      },
+      {
+        "id": 7418,
+        "idUrl": "ranger-xl-4x2-30-cab-dupla-2005",
+        "nome": "Ranger XL 4x2 3.0 (Cab Dupla)",
+        "ano": 2005
+      },
+      {
+        "id": 7178,
+        "idUrl": "ranger-xls-4x2-23-16v-cab-simples-2005",
+        "nome": "Ranger XLS 4x2 2.3 16V (Cab Simples)",
+        "ano": 2005
+      }
+    ],
+    "2006": [
+      {
+        "id": 7450,
+        "idUrl": "ranger-limited-4x4-30-two-tone-cab-dupla-2006",
+        "nome": "Ranger Limited 4x4 3.0 Two Tone (Cab Dupla)",
+        "ano": 2006
+      },
+      {
+        "id": 7460,
+        "idUrl": "ranger-limited-4x4-30-cab-dupla-2006",
+        "nome": "Ranger Limited 4x4 3.0 (Cab Dupla)",
+        "ano": 2006
+      },
+      {
+        "id": 7492,
+        "idUrl": "ranger-xlt-4x4-30-cab-dupla-2006",
+        "nome": "Ranger XLT 4x4 3.0 (Cab Dupla)",
+        "ano": 2006
+      },
+      {
+        "id": 7540,
+        "idUrl": "ranger-xls-4x4-30-cab-dupla-2006",
+        "nome": "Ranger XLS 4x4 3.0 (Cab Dupla)",
+        "ano": 2006
+      },
+      {
+        "id": 7395,
+        "idUrl": "ranger-xl-4x2-30-cab-dupla-2006",
+        "nome": "Ranger XL 4x2 3.0 (Cab Dupla)",
+        "ano": 2006
+      },
+      {
+        "id": 7404,
+        "idUrl": "ranger-xls-4x2-23-16v-cab-dupla-2006",
+        "nome": "Ranger XLS 4x2 2.3 16V (Cab Dupla)",
+        "ano": 2006
+      },
+      {
+        "id": 7155,
+        "idUrl": "ranger-xls-4x2-23-16v-cab-simples-2006",
+        "nome": "Ranger XLS 4x2 2.3 16V (Cab Simples)",
+        "ano": 2006
+      }
+    ],
+    "2007": [
+      {
+        "id": 7459,
+        "idUrl": "ranger-limited-4x4-30-cab-dupla-2007",
+        "nome": "Ranger Limited 4x4 3.0 (Cab Dupla)",
+        "ano": 2007
+      },
+      {
+        "id": 7422,
+        "idUrl": "ranger-limited-4x4-30-two-tone-cab-dupla-2007",
+        "nome": "Ranger Limited 4x4 3.0 Two Tone (Cab Dupla)",
+        "ano": 2007
+      },
+      {
+        "id": 7491,
+        "idUrl": "ranger-xlt-4x4-30-cab-dupla-2007",
+        "nome": "Ranger XLT 4x4 3.0 (Cab Dupla)",
+        "ano": 2007
+      },
+      {
+        "id": 7539,
+        "idUrl": "ranger-xls-4x4-30-cab-dupla-2007",
+        "nome": "Ranger XLS 4x4 3.0 (Cab Dupla)",
+        "ano": 2007
+      },
+      {
+        "id": 7410,
+        "idUrl": "ranger-xl-4x4-30-cab-dupla-2007",
+        "nome": "Ranger XL 4x4 3.0 (Cab Dupla)",
+        "ano": 2007
+      },
+      {
+        "id": 7161,
+        "idUrl": "ranger-xl-4x4-30-cab-simples-2007",
+        "nome": "Ranger XL 4x4 3.0 (Cab Simples)",
+        "ano": 2007
+      },
+      {
+        "id": 7370,
+        "idUrl": "ranger-xl-4x2-30-cab-dupla-2007",
+        "nome": "Ranger XL 4x2 3.0 (Cab Dupla)",
+        "ano": 2007
+      },
+      {
+        "id": 7577,
+        "idUrl": "ranger-xlt-4x2-23-16v-cab-dupla-2007",
+        "nome": "Ranger XLT 4x2 2.3 16V (Cab Dupla)",
+        "ano": 2007
+      },
+      {
+        "id": 7403,
+        "idUrl": "ranger-xls-4x2-23-16v-cab-dupla-2007",
+        "nome": "Ranger XLS 4x2 2.3 16V (Cab Dupla)",
+        "ano": 2007
+      },
+      {
+        "id": 7154,
+        "idUrl": "ranger-xls-4x2-23-16v-cab-simples-2007",
+        "nome": "Ranger XLS 4x2 2.3 16V (Cab Simples)",
+        "ano": 2007
+      },
+      {
+        "id": 7243,
+        "idUrl": "ranger-xl-4x2-30-cab-simples-2007",
+        "nome": "Ranger XL 4x2 3.0 (Cab Simples)",
+        "ano": 2007
+      },
+      {
+        "id": 7390,
+        "idUrl": "ranger-xl-4x2-23-16v-cab-dupla-2007",
+        "nome": "Ranger XL 4x2 2.3 16V (Cab Dupla)",
+        "ano": 2007
+      },
+      {
+        "id": 7216,
+        "idUrl": "ranger-xl-4x2-23-16v-cab-simples-2007",
+        "nome": "Ranger XL 4x2 2.3 16V (Cab Simples)",
+        "ano": 2007
+      }
+    ],
+    "2008": [
+      {
+        "id": 7447,
+        "idUrl": "ranger-limited-4x4-30-two-tone-cab-dupla-2008",
+        "nome": "Ranger Limited 4x4 3.0 Two Tone (Cab Dupla)",
+        "ano": 2008
+      },
+      {
+        "id": 7457,
+        "idUrl": "ranger-limited-4x4-30-cab-dupla-2008",
+        "nome": "Ranger Limited 4x4 3.0 (Cab Dupla)",
+        "ano": 2008
+      },
+      {
+        "id": 7504,
+        "idUrl": "ranger-limited-4x4-30-cab-simples-2008",
+        "nome": "Ranger Limited 4x4 3.0 (Cab Simples)",
+        "ano": 2008
+      },
+      {
+        "id": 7489,
+        "idUrl": "ranger-xlt-4x4-30-cab-dupla-2008",
+        "nome": "Ranger XLT 4x4 3.0 (Cab Dupla)",
+        "ano": 2008
+      },
+      {
+        "id": 7537,
+        "idUrl": "ranger-xls-4x4-30-cab-dupla-2008",
+        "nome": "Ranger XLS 4x4 3.0 (Cab Dupla)",
+        "ano": 2008
+      },
+      {
+        "id": 7409,
+        "idUrl": "ranger-xl-4x4-30-cab-dupla-2008",
+        "nome": "Ranger XL 4x4 3.0 (Cab Dupla)",
+        "ano": 2008
+      },
+      {
+        "id": 7160,
+        "idUrl": "ranger-xl-4x4-30-cab-simples-2008",
+        "nome": "Ranger XL 4x4 3.0 (Cab Simples)",
+        "ano": 2008
+      },
+      {
+        "id": 7369,
+        "idUrl": "ranger-xl-4x2-30-cab-dupla-2008",
+        "nome": "Ranger XL 4x2 3.0 (Cab Dupla)",
+        "ano": 2008
+      },
+      {
+        "id": 7557,
+        "idUrl": "ranger-xlt-23-16v-4x2-cab-dupla-2008",
+        "nome": "Ranger XLT 2.3 16V 4x2 (Cab Dupla)",
+        "ano": 2008
+      },
+      {
+        "id": 7401,
+        "idUrl": "ranger-xls-4x2-23-16v-cab-dupla-2008",
+        "nome": "Ranger XLS 4x2 2.3 16V (Cab Dupla)",
+        "ano": 2008
+      },
+      {
+        "id": 7153,
+        "idUrl": "ranger-xls-4x2-23-16v-cab-simples-2008",
+        "nome": "Ranger XLS 4x2 2.3 16V (Cab Simples)",
+        "ano": 2008
+      },
+      {
+        "id": 7184,
+        "idUrl": "ranger-xls-sport-4x2-23-16v-cab-simples-2008",
+        "nome": "Ranger XLS Sport 4x2 2.3 16V (Cab Simples)",
+        "ano": 2008
+      },
+      {
+        "id": 7242,
+        "idUrl": "ranger-xl-4x2-30-cab-simples-2008",
+        "nome": "Ranger XL 4x2 3.0 (Cab Simples)",
+        "ano": 2008
+      },
+      {
+        "id": 7389,
+        "idUrl": "ranger-xl-4x2-23-16v-cab-dupla-2008",
+        "nome": "Ranger XL 4x2 2.3 16V (Cab Dupla)",
+        "ano": 2008
+      },
+      {
+        "id": 7215,
+        "idUrl": "ranger-xl-4x2-23-16v-cab-simples-2008",
+        "nome": "Ranger XL 4x2 2.3 16V (Cab Simples)",
+        "ano": 2008
+      }
+    ],
+    "2009": [
+      {
+        "id": 7452,
+        "idUrl": "ranger-limited-4x4-30-two-tone-cab-dupla-2009",
+        "nome": "Ranger Limited 4x4 3.0 Two Tone (Cab Dupla)",
+        "ano": 2009
+      },
+      {
+        "id": 7456,
+        "idUrl": "ranger-limited-4x4-30-cab-dupla-2009",
+        "nome": "Ranger Limited 4x4 3.0 (Cab Dupla)",
+        "ano": 2009
+      },
+      {
+        "id": 7488,
+        "idUrl": "ranger-xlt-4x4-30-cab-dupla-2009",
+        "nome": "Ranger XLT 4x4 3.0 (Cab Dupla)",
+        "ano": 2009
+      },
+      {
+        "id": 7536,
+        "idUrl": "ranger-xls-4x4-30-cab-dupla-2009",
+        "nome": "Ranger XLS 4x4 3.0 (Cab Dupla)",
+        "ano": 2009
+      },
+      {
+        "id": 7407,
+        "idUrl": "ranger-xl-4x4-30-cab-dupla-2009",
+        "nome": "Ranger XL 4x4 3.0 (Cab Dupla)",
+        "ano": 2009
+      },
+      {
+        "id": 7555,
+        "idUrl": "ranger-xls-storm-4x4-30-cab-dupla-2009",
+        "nome": "Ranger XLS Storm 4x4 3.0 (Cab Dupla)",
+        "ano": 2009
+      },
+      {
+        "id": 7157,
+        "idUrl": "ranger-xl-4x4-30-cab-simples-2009",
+        "nome": "Ranger XL 4x4 3.0 (Cab Simples)",
+        "ano": 2009
+      },
+      {
+        "id": 7576,
+        "idUrl": "ranger-xlt-4x2-23-16v-cab-dupla-2009",
+        "nome": "Ranger XLT 4x2 2.3 16V (Cab Dupla)",
+        "ano": 2009
+      },
+      {
+        "id": 7580,
+        "idUrl": "ranger-xlt-23-16v-4x2-cab-dupla-2009",
+        "nome": "Ranger XLT 2.3 16V 4x2 (Cab Dupla)",
+        "ano": 2009
+      },
+      {
+        "id": 7400,
+        "idUrl": "ranger-xls-4x2-23-16v-cab-dupla-2009",
+        "nome": "Ranger XLS 4x2 2.3 16V (Cab Dupla)",
+        "ano": 2009
+      },
+      {
+        "id": 7152,
+        "idUrl": "ranger-xls-4x2-23-16v-cab-simples-2009",
+        "nome": "Ranger XLS 4x2 2.3 16V (Cab Simples)",
+        "ano": 2009
+      },
+      {
+        "id": 7187,
+        "idUrl": "ranger-xls-sport-4x2-23-16v-cab-simples-2009",
+        "nome": "Ranger XLS Sport 4x2 2.3 16V (Cab Simples)",
+        "ano": 2009
+      },
+      {
+        "id": 7222,
+        "idUrl": "ranger-sport-4x2-23-16v-cab-simples-2009",
+        "nome": "Ranger Sport 4x2 2.3 16V (Cab Simples)",
+        "ano": 2009
+      },
+      {
+        "id": 7240,
+        "idUrl": "ranger-xl-4x2-30-cab-simples-2009",
+        "nome": "Ranger XL 4x2 3.0 (Cab Simples)",
+        "ano": 2009
+      },
+      {
+        "id": 7213,
+        "idUrl": "ranger-xl-4x2-23-16v-cab-simples-2009",
+        "nome": "Ranger XL 4x2 2.3 16V (Cab Simples)",
+        "ano": 2009
+      }
+    ],
+    "2010": [
+      {
+        "id": 7455,
+        "idUrl": "ranger-limited-4x4-30-cab-dupla-2010",
+        "nome": "Ranger Limited 4x4 3.0 (Cab Dupla)",
+        "ano": 2010
+      },
+      {
+        "id": 7487,
+        "idUrl": "ranger-xlt-4x4-30-cab-dupla-2010",
+        "nome": "Ranger XLT 4x4 3.0 (Cab Dupla)",
+        "ano": 2010
+      },
+      {
+        "id": 7558,
+        "idUrl": "ranger-xlt-4x2-30-cab-dupla-2010",
+        "nome": "Ranger XLT 4x2 3.0 (Cab Dupla)",
+        "ano": 2010
+      },
+      {
+        "id": 7535,
+        "idUrl": "ranger-xls-4x4-30-cab-dupla-2010",
+        "nome": "Ranger XLS 4x4 3.0 (Cab Dupla)",
+        "ano": 2010
+      },
+      {
+        "id": 7406,
+        "idUrl": "ranger-xl-4x4-30-cab-dupla-2010",
+        "nome": "Ranger XL 4x4 3.0 (Cab Dupla)",
+        "ano": 2010
+      },
+      {
+        "id": 7547,
+        "idUrl": "ranger-xls-4x2-30-cab-dupla-2010",
+        "nome": "Ranger XLS 4x2 3.0 (Cab Dupla)",
+        "ano": 2010
+      },
+      {
+        "id": 7158,
+        "idUrl": "ranger-xl-4x4-30-cab-simples-2010",
+        "nome": "Ranger XL 4x4 3.0 (Cab Simples)",
+        "ano": 2010
+      },
+      {
+        "id": 7394,
+        "idUrl": "ranger-xl-4x2-30-cab-dupla-2010",
+        "nome": "Ranger XL 4x2 3.0 (Cab Dupla)",
+        "ano": 2010
+      },
+      {
+        "id": 7196,
+        "idUrl": "ranger-xls-4x2-30-cab-simples-2010",
+        "nome": "Ranger XLS 4x2 3.0 (Cab Simples)",
+        "ano": 2010
+      },
+      {
+        "id": 7579,
+        "idUrl": "ranger-xlt-23-16v-4x2-cab-dupla-2010",
+        "nome": "Ranger XLT 2.3 16V 4x2 (Cab Dupla)",
+        "ano": 2010
+      },
+      {
+        "id": 7399,
+        "idUrl": "ranger-xls-4x2-23-16v-cab-dupla-2010",
+        "nome": "Ranger XLS 4x2 2.3 16V (Cab Dupla)",
+        "ano": 2010
+      },
+      {
+        "id": 7175,
+        "idUrl": "ranger-xls-4x2-23-16v-cab-simples-2010",
+        "nome": "Ranger XLS 4x2 2.3 16V (Cab Simples)",
+        "ano": 2010
+      },
+      {
+        "id": 7189,
+        "idUrl": "ranger-xls-sport-4x2-23-16v-cab-simples-2010",
+        "nome": "Ranger XLS Sport 4x2 2.3 16V (Cab Simples)",
+        "ano": 2010
+      },
+      {
+        "id": 7462,
+        "idUrl": "ranger-limited-4x2-23-16v-cab-dupla-2010",
+        "nome": "Ranger Limited 4x2 2.3 16V (Cab Dupla)",
+        "ano": 2010
+      },
+      {
+        "id": 7239,
+        "idUrl": "ranger-xl-4x2-30-cab-simples-2010",
+        "nome": "Ranger XL 4x2 3.0 (Cab Simples)",
+        "ano": 2010
+      },
+      {
+        "id": 7387,
+        "idUrl": "ranger-xl-4x2-23-16v-cab-dupla-2010",
+        "nome": "Ranger XL 4x2 2.3 16V (Cab Dupla)",
+        "ano": 2010
+      },
+      {
+        "id": 7212,
+        "idUrl": "ranger-xl-4x2-23-16v-cab-simples-2010",
+        "nome": "Ranger XL 4x2 2.3 16V (Cab Simples)",
+        "ano": 2010
+      }
+    ],
+    "2011": [
+      {
+        "id": 7458,
+        "idUrl": "ranger-limited-4x4-30-cab-dupla-2011",
+        "nome": "Ranger Limited 4x4 3.0 (Cab Dupla)",
+        "ano": 2011
+      },
+      {
+        "id": 7490,
+        "idUrl": "ranger-xlt-4x4-30-cab-dupla-2011",
+        "nome": "Ranger XLT 4x4 3.0 (Cab Dupla)",
+        "ano": 2011
+      },
+      {
+        "id": 7561,
+        "idUrl": "ranger-xlt-4x2-30-cab-dupla-2011",
+        "nome": "Ranger XLT 4x2 3.0 (Cab Dupla)",
+        "ano": 2011
+      },
+      {
+        "id": 7538,
+        "idUrl": "ranger-xls-4x4-30-cab-dupla-2011",
+        "nome": "Ranger XLS 4x4 3.0 (Cab Dupla)",
+        "ano": 2011
+      },
+      {
+        "id": 7408,
+        "idUrl": "ranger-xl-4x4-30-cab-dupla-2011",
+        "nome": "Ranger XL 4x4 3.0 (Cab Dupla)",
+        "ano": 2011
+      },
+      {
+        "id": 7159,
+        "idUrl": "ranger-xl-4x4-30-cab-simples-2011",
+        "nome": "Ranger XL 4x4 3.0 (Cab Simples)",
+        "ano": 2011
+      },
+      {
+        "id": 7550,
+        "idUrl": "ranger-xls-4x2-30-cab-dupla-2011",
+        "nome": "Ranger XLS 4x2 3.0 (Cab Dupla)",
+        "ano": 2011
+      },
+      {
+        "id": 7392,
+        "idUrl": "ranger-xl-4x2-30-cab-dupla-2011",
+        "nome": "Ranger XL 4x2 3.0 (Cab Dupla)",
+        "ano": 2011
+      },
+      {
+        "id": 7581,
+        "idUrl": "ranger-xlt-23-16v-4x2-cab-dupla-2011",
+        "nome": "Ranger XLT 2.3 16V 4x2 (Cab Dupla)",
+        "ano": 2011
+      },
+      {
+        "id": 7241,
+        "idUrl": "ranger-xl-4x2-30-cab-simples-2011",
+        "nome": "Ranger XL 4x2 3.0 (Cab Simples)",
+        "ano": 2011
+      },
+      {
+        "id": 7461,
+        "idUrl": "ranger-limited-4x2-23-16v-cab-dupla-2011",
+        "nome": "Ranger Limited 4x2 2.3 16V (Cab Dupla)",
+        "ano": 2011
+      },
+      {
+        "id": 7402,
+        "idUrl": "ranger-xls-4x2-23-16v-cab-dupla-2011",
+        "nome": "Ranger XLS 4x2 2.3 16V (Cab Dupla)",
+        "ano": 2011
+      },
+      {
+        "id": 7188,
+        "idUrl": "ranger-xls-sport-4x2-23-16v-cab-simples-2011",
+        "nome": "Ranger XLS Sport 4x2 2.3 16V (Cab Simples)",
+        "ano": 2011
+      },
+      {
+        "id": 7388,
+        "idUrl": "ranger-xl-4x2-23-16v-cab-dupla-2011",
+        "nome": "Ranger XL 4x2 2.3 16V (Cab Dupla)",
+        "ano": 2011
+      },
+      {
+        "id": 7214,
+        "idUrl": "ranger-xl-4x2-23-16v-cab-simples-2011",
+        "nome": "Ranger XL 4x2 2.3 16V (Cab Simples)",
+        "ano": 2011
+      }
+    ],
+    "2012": [
+      {
+        "id": 7454,
+        "idUrl": "ranger-limited-4x4-30-cab-dupla-2012",
+        "nome": "Ranger Limited 4x4 3.0 (Cab Dupla)",
+        "ano": 2012
+      },
+      {
+        "id": 7486,
+        "idUrl": "ranger-xlt-4x4-30-cab-dupla-2012",
+        "nome": "Ranger XLT 4x4 3.0 (Cab Dupla)",
+        "ano": 2012
+      },
+      {
+        "id": 7534,
+        "idUrl": "ranger-xls-4x4-30-cab-dupla-2012",
+        "nome": "Ranger XLS 4x4 3.0 (Cab Dupla)",
+        "ano": 2012
+      },
+      {
+        "id": 7530,
+        "idUrl": "ranger-xlt-4x2-30-cab-dupla-2012",
+        "nome": "Ranger XLT 4x2 3.0 (Cab Dupla)",
+        "ano": 2012
+      },
+      {
+        "id": 7405,
+        "idUrl": "ranger-xl-4x4-30-cab-dupla-2012",
+        "nome": "Ranger XL 4x4 3.0 (Cab Dupla)",
+        "ano": 2012
+      },
+      {
+        "id": 7156,
+        "idUrl": "ranger-xl-4x4-30-cab-simples-2012",
+        "nome": "Ranger XL 4x4 3.0 (Cab Simples)",
+        "ano": 2012
+      },
+      {
+        "id": 7546,
+        "idUrl": "ranger-xls-4x2-30-cab-dupla-2012",
+        "nome": "Ranger XLS 4x2 3.0 (Cab Dupla)",
+        "ano": 2012
+      },
+      {
+        "id": 7419,
+        "idUrl": "ranger-xl-4x2-30-cab-dupla-2012",
+        "nome": "Ranger XL 4x2 3.0 (Cab Dupla)",
+        "ano": 2012
+      },
+      {
+        "id": 7578,
+        "idUrl": "ranger-xlt-23-16v-4x2-cab-dupla-2012",
+        "nome": "Ranger XLT 2.3 16V 4x2 (Cab Dupla)",
+        "ano": 2012
+      },
+      {
+        "id": 7238,
+        "idUrl": "ranger-xl-4x2-30-cab-simples-2012",
+        "nome": "Ranger XL 4x2 3.0 (Cab Simples)",
+        "ano": 2012
+      },
+      {
+        "id": 7463,
+        "idUrl": "ranger-limited-4x2-23-16v-cab-dupla-2012",
+        "nome": "Ranger Limited 4x2 2.3 16V (Cab Dupla)",
+        "ano": 2012
+      },
+      {
+        "id": 7398,
+        "idUrl": "ranger-xls-4x2-23-16v-cab-dupla-2012",
+        "nome": "Ranger XLS 4x2 2.3 16V (Cab Dupla)",
+        "ano": 2012
+      },
+      {
+        "id": 7190,
+        "idUrl": "ranger-xls-sport-4x2-23-16v-cab-simples-2012",
+        "nome": "Ranger XLS Sport 4x2 2.3 16V (Cab Simples)",
+        "ano": 2012
+      },
+      {
+        "id": 7386,
+        "idUrl": "ranger-xl-4x2-23-16v-cab-dupla-2012",
+        "nome": "Ranger XL 4x2 2.3 16V (Cab Dupla)",
+        "ano": 2012
+      },
+      {
+        "id": 7211,
+        "idUrl": "ranger-xl-4x2-23-16v-cab-simples-2012",
+        "nome": "Ranger XL 4x2 2.3 16V (Cab Simples)",
+        "ano": 2012
+      }
+    ],
+    "2013": [
+      {
+        "id": 7433,
+        "idUrl": "ranger-32-td-4x4-cd-limited-auto-2013",
+        "nome": "Ranger 3.2 TD 4x4 CD Limited Auto",
+        "ano": 2013
+      },
+      {
+        "id": 7473,
+        "idUrl": "ranger-32-td-cd-xlt-4wd-aut-2013",
+        "nome": "Ranger 3.2 TD CD XLT 4WD (Aut)",
+        "ano": 2013
+      },
+      {
+        "id": 7424,
+        "idUrl": "ranger-32-td-4x4-cd-xlt-2013",
+        "nome": "Ranger 3.2 TD 4x4 CD XLT",
+        "ano": 2013
+      },
+      {
+        "id": 7427,
+        "idUrl": "ranger-32-td-4x4-cd-xls-auto-2013",
+        "nome": "Ranger 3.2 TD 4x4 CD XLS Auto",
+        "ano": 2013
+      },
+      {
+        "id": 7430,
+        "idUrl": "ranger-32-td-4x4-cd-xls-2013",
+        "nome": "Ranger 3.2 TD 4x4 CD XLS",
+        "ano": 2013
+      },
+      {
+        "id": 6855,
+        "idUrl": "ranger-25-flex-4x2-cd-limited-2013",
+        "nome": "Ranger 2.5 Flex 4x2 CD Limited",
+        "ano": 2013
+      },
+      {
+        "id": 7508,
+        "idUrl": "ranger-32-td-4x4-cs-xls-2013",
+        "nome": "Ranger 3.2 TD 4x4 CS XLS",
+        "ano": 2013
+      },
+      {
+        "id": 7445,
+        "idUrl": "ranger-25-flex-4x2-cd-xlt-2013",
+        "nome": "Ranger 2.5 Flex 4x2 CD XLT",
+        "ano": 2013
+      },
+      {
+        "id": 7149,
+        "idUrl": "ranger-25-flex-4x2-cd-xls-2013",
+        "nome": "Ranger 2.5 Flex 4x2 CD XLS",
+        "ano": 2013
+      },
+      {
+        "id": 7515,
+        "idUrl": "ranger-25-cs-xls-4x2-flex-2013",
+        "nome": "Ranger 2.5 CS XLS 4x2 (Flex)",
+        "ano": 2013
+      }
+    ],
+    "2014": [
+      {
+        "id": 7432,
+        "idUrl": "ranger-32-td-4x4-cd-limited-auto-2014",
+        "nome": "Ranger 3.2 TD 4x4 CD Limited Auto",
+        "ano": 2014
+      },
+      {
+        "id": 7448,
+        "idUrl": "ranger-32-td-cd-limited-plus-4wd-aut-2014",
+        "nome": "Ranger 3.2 TD CD Limited Plus 4WD (Aut)",
+        "ano": 2014
+      },
+      {
+        "id": 7449,
+        "idUrl": "ranger-32-td-cd-xlt-4wd-aut-2014",
+        "nome": "Ranger 3.2 TD CD XLT 4WD (Aut)",
+        "ano": 2014
+      },
+      {
+        "id": 7423,
+        "idUrl": "ranger-32-td-4x4-cd-xlt-2014",
+        "nome": "Ranger 3.2 TD 4x4 CD XLT",
+        "ano": 2014
+      },
+      {
+        "id": 7426,
+        "idUrl": "ranger-32-td-4x4-cd-xls-auto-2014",
+        "nome": "Ranger 3.2 TD 4x4 CD XLS Auto",
+        "ano": 2014
+      },
+      {
+        "id": 7429,
+        "idUrl": "ranger-32-td-4x4-cd-xls-2014",
+        "nome": "Ranger 3.2 TD 4x4 CD XLS",
+        "ano": 2014
+      },
+      {
+        "id": 6862,
+        "idUrl": "ranger-22-td-cd-xls-4wd-2014",
+        "nome": "Ranger 2.2 TD CD XLS 4WD",
+        "ano": 2014
+      },
+      {
+        "id": 7507,
+        "idUrl": "ranger-32-td-4x4-cs-xls-2014",
+        "nome": "Ranger 3.2 TD 4x4 CS XLS",
+        "ano": 2014
+      },
+      {
+        "id": 6854,
+        "idUrl": "ranger-25-flex-4x2-cd-limited-2014",
+        "nome": "Ranger 2.5 Flex 4x2 CD Limited",
+        "ano": 2014
+      },
+      {
+        "id": 6856,
+        "idUrl": "ranger-25-cd-limited-plus-flex-2014",
+        "nome": "Ranger 2.5 CD Limited Plus (Flex)",
+        "ano": 2014
+      },
+      {
+        "id": 7444,
+        "idUrl": "ranger-25-flex-4x2-cd-xlt-2014",
+        "nome": "Ranger 2.5 Flex 4x2 CD XLT",
+        "ano": 2014
+      },
+      {
+        "id": 7150,
+        "idUrl": "ranger-25-flex-4x2-cd-xls-2014",
+        "nome": "Ranger 2.5 Flex 4x2 CD XLS",
+        "ano": 2014
+      },
+      {
+        "id": 7509,
+        "idUrl": "ranger-25-xls-plus-cs-flex-2014",
+        "nome": "Ranger 2.5 XLS Plus CS (Flex)",
+        "ano": 2014
+      },
+      {
+        "id": 7514,
+        "idUrl": "ranger-25-cs-xls-4x2-flex-2014",
+        "nome": "Ranger 2.5 CS XLS 4x2 (Flex)",
+        "ano": 2014
+      }
+    ],
+    "2015": [
+      {
+        "id": 7431,
+        "idUrl": "ranger-32-td-4x4-cd-limited-auto-2015",
+        "nome": "Ranger 3.2 TD 4x4 CD Limited Auto",
+        "ano": 2015
+      },
+      {
+        "id": 7472,
+        "idUrl": "ranger-32-td-cd-xlt-4wd-aut-2015",
+        "nome": "Ranger 3.2 TD CD XLT 4WD (Aut)",
+        "ano": 2015
+      },
+      {
+        "id": 7425,
+        "idUrl": "ranger-32-td-4x4-cd-xls-auto-2015",
+        "nome": "Ranger 3.2 TD 4x4 CD XLS Auto",
+        "ano": 2015
+      },
+      {
+        "id": 7446,
+        "idUrl": "ranger-32-td-4x4-cd-xlt-2015",
+        "nome": "Ranger 3.2 TD 4x4 CD XLT",
+        "ano": 2015
+      },
+      {
+        "id": 7428,
+        "idUrl": "ranger-32-td-4x4-cd-xls-2015",
+        "nome": "Ranger 3.2 TD 4x4 CD XLS",
+        "ano": 2015
+      },
+      {
+        "id": 6861,
+        "idUrl": "ranger-22-td-cd-xls-4wd-2015",
+        "nome": "Ranger 2.2 TD CD XLS 4WD",
+        "ano": 2015
+      },
+      {
+        "id": 7135,
+        "idUrl": "ranger-25-flex-4x2-cd-limited-2015",
+        "nome": "Ranger 2.5 Flex 4x2 CD Limited",
+        "ano": 2015
+      },
+      {
+        "id": 7506,
+        "idUrl": "ranger-32-td-4x4-cs-xls-2015",
+        "nome": "Ranger 3.2 TD 4x4 CS XLS",
+        "ano": 2015
+      },
+      {
+        "id": 7443,
+        "idUrl": "ranger-25-flex-4x2-cd-xlt-2015",
+        "nome": "Ranger 2.5 Flex 4x2 CD XLT",
+        "ano": 2015
+      },
+      {
+        "id": 7151,
+        "idUrl": "ranger-25-flex-4x2-cd-xls-2015",
+        "nome": "Ranger 2.5 Flex 4x2 CD XLS",
+        "ano": 2015
+      },
+      {
+        "id": 7513,
+        "idUrl": "ranger-25-sport-cs-flex-2015",
+        "nome": "Ranger 2.5 Sport CS (Flex)",
+        "ano": 2015
+      }
+    ],
+    "2016": [
+      {
+        "id": 7470,
+        "idUrl": "ranger-32-td-limited-cd-mod-center-4x4-2016",
+        "nome": "Ranger 3.2 TD Limited CD Mod Center 4x4",
+        "ano": 2016
+      },
+      {
+        "id": 7471,
+        "idUrl": "ranger-32-td-limited-cd-4x4-2016",
+        "nome": "Ranger 3.2 TD Limited CD 4x4",
+        "ano": 2016
+      },
+      {
+        "id": 7466,
+        "idUrl": "ranger-32-td-xlt-cd-aut-4x4-2016",
+        "nome": "Ranger 3.2 TD XLT CD (Aut) 4x4",
+        "ano": 2016
+      },
+      {
+        "id": 7467,
+        "idUrl": "ranger-32-td-xls-cd-auto-4x4-2016",
+        "nome": "Ranger 3.2 TD XLS CD Auto 4x4",
+        "ano": 2016
+      },
+      {
+        "id": 7465,
+        "idUrl": "ranger-32-td-xlt-cd-4x4-2016",
+        "nome": "Ranger 3.2 TD XLT CD 4x4",
+        "ano": 2016
+      },
+      {
+        "id": 7468,
+        "idUrl": "ranger-32-td-xls-cd-4x4-2016",
+        "nome": "Ranger 3.2 TD XLS CD 4x4",
+        "ano": 2016
+      },
+      {
+        "id": 6859,
+        "idUrl": "ranger-22-td-xls-cd-4x4-2016",
+        "nome": "Ranger 2.2 TD XLS CD 4x4",
+        "ano": 2016
+      },
+      {
+        "id": 7441,
+        "idUrl": "ranger-25-limited-cd-mod-center-flex-2016",
+        "nome": "Ranger 2.5 Limited CD Mod Center (Flex)",
+        "ano": 2016
+      },
+      {
+        "id": 7442,
+        "idUrl": "ranger-25-limited-cd-flex-2016",
+        "nome": "Ranger 2.5 Limited CD (Flex)",
+        "ano": 2016
+      },
+      {
+        "id": 7435,
+        "idUrl": "ranger-25-xlt-cd-flex-2016",
+        "nome": "Ranger 2.5 XLT CD (Flex)",
+        "ano": 2016
+      },
+      {
+        "id": 7437,
+        "idUrl": "ranger-25-xls-cd-flex-2016",
+        "nome": "Ranger 2.5 XLS CD (Flex)",
+        "ano": 2016
+      },
+      {
+        "id": 7512,
+        "idUrl": "ranger-25-sport-cs-flex-2016",
+        "nome": "Ranger 2.5 Sport CS Flex",
+        "ano": 2016
+      }
+    ],
+    "2017": [
+      {
+        "id": 7469,
+        "idUrl": "ranger-32-td-limited-cd-mod-center-4x4-aut-2017",
+        "nome": "Ranger 3.2 TD Limited CD Mod Center 4x4 (Aut)",
+        "ano": 2017
+      },
+      {
+        "id": 7464,
+        "idUrl": "ranger-32-td-xlt-cd-4x4-aut-2017",
+        "nome": "Ranger 3.2 TD XLT CD 4x4 (Aut)",
+        "ano": 2017
+      },
+      {
+        "id": 6857,
+        "idUrl": "ranger-22-td-xls-cd-4x4-aut-2017",
+        "nome": "Ranger 2.2 TD XLS CD 4x4 (Aut)",
+        "ano": 2017
+      },
+      {
+        "id": 6858,
+        "idUrl": "ranger-22-td-xls-cd-4x4-2017",
+        "nome": "Ranger 2.2 TD XLS CD 4x4",
+        "ano": 2017
+      },
+      {
+        "id": 7440,
+        "idUrl": "ranger-25-limited-cd-mod-center-flex-2017",
+        "nome": "Ranger 2.5 Limited CD Mod Center (Flex)",
+        "ano": 2017
+      },
+      {
+        "id": 7434,
+        "idUrl": "ranger-25-xlt-cd-flex-2017",
+        "nome": "Ranger 2.5 XLT CD (Flex)",
+        "ano": 2017
+      },
+      {
+        "id": 7436,
+        "idUrl": "ranger-25-xls-cd-flex-2017",
+        "nome": "Ranger 2.5 XLS CD (Flex)",
+        "ano": 2017
+      }
+    ],
+    "2018": [
+      {
+        "id": 22151,
+        "idUrl": "ford-ranger-limites-32-turbo-4x4-at-cd-2018",
+        "nome": "Ford Ranger limites 3.2 Turbo 4x4 AT CD",
+        "ano": 2018
+      }
+    ],
+    "2019": [
+      {
+        "id": 22431,
+        "idUrl": "ranger-32-limited-cd-4x4-turbo-aut-2019",
+        "nome": "Ranger 3.2 Limited CD 4x4 Turbo (Aut)",
+        "ano": 2019
+      },
+      {
+        "id": 22432,
+        "idUrl": "ranger-32-xlt-cd-4x4-turbo-aut-2019",
+        "nome": "Ranger 3.2 XLT CD 4x4 Turbo (Aut)",
+        "ano": 2019
+      },
+      {
+        "id": 22429,
+        "idUrl": "ranger-22-xls-cd-4x4-turbo-aut-2019",
+        "nome": "Ranger 2.2 XLS CD 4x4 Turbo (Aut)",
+        "ano": 2019
+      },
+      {
+        "id": 22428,
+        "idUrl": "ranger-22-xls-cd-4x2-turbo-aut-2019",
+        "nome": "Ranger 2.2 XLS CD 4x2 Turbo (Aut)",
+        "ano": 2019
+      },
+      {
+        "id": 22430,
+        "idUrl": "ranger-22-xls-cd-4x4-turbo-2019",
+        "nome": "Ranger 2.2 XLS CD 4x4 Turbo",
+        "ano": 2019
+      },
+      {
+        "id": 22433,
+        "idUrl": "ranger-22-xl-cd-4x4-turbo-2019",
+        "nome": "Ranger 2.2 XL CD 4x4 Turbo",
+        "ano": 2019
+      },
+      {
+        "id": 22426,
+        "idUrl": "ranger-22-xl-cs-4x4-turbo-2019",
+        "nome": "Ranger 2.2 XL CS 4x4 Turbo",
+        "ano": 2019
+      },
+      {
+        "id": 22427,
+        "idUrl": "ranger-22-xl-chassi-4x4-turbo-2019",
+        "nome": "Ranger 2.2 XL Chassi 4x4 Turbo",
+        "ano": 2019
+      },
+      {
+        "id": 22434,
+        "idUrl": "ranger-25-xls-cd-4x2-2019",
+        "nome": "Ranger 2.5 XLS CD 4x2",
+        "ano": 2019
+      }
+    ],
+    "2020": [
+      {
+        "id": 22422,
+        "idUrl": "ranger-32-limited-cd-4x4-turbo-aut-2020",
+        "nome": "Ranger 3.2 Limited CD 4x4 Turbo (Aut)",
+        "ano": 2020
+      },
+      {
+        "id": 22487,
+        "idUrl": "ranger-storm-32-turbo-4x4-cd-aut-2020",
+        "nome": "Ranger Storm 3.2 Turbo 4x4 CD (Aut)",
+        "ano": 2020
+      },
+      {
+        "id": 22421,
+        "idUrl": "ranger-32-xlt-cd-4x4-turbo-aut-2020",
+        "nome": "Ranger 3.2 XLT CD 4x4 Turbo (Aut)",
+        "ano": 2020
+      },
+      {
+        "id": 22424,
+        "idUrl": "ranger-22-xls-cd-4x4-turbo-aut-2020",
+        "nome": "Ranger 2.2 XLS CD 4x4 Turbo (Aut)",
+        "ano": 2020
+      },
+      {
+        "id": 22420,
+        "idUrl": "ranger-22-xls-cd-4x2-turbo-aut-2020",
+        "nome": "Ranger 2.2 XLS CD 4x2 Turbo (Aut)",
+        "ano": 2020
+      },
+      {
+        "id": 22423,
+        "idUrl": "ranger-22-xls-cd-4x4-turbo-2020",
+        "nome": "Ranger 2.2 XLS CD 4x4 Turbo",
+        "ano": 2020
+      },
+      {
+        "id": 22425,
+        "idUrl": "ranger-22-xl-cd-4x4-2020",
+        "nome": "Ranger 2.2 XL CD 4x4",
+        "ano": 2020
+      }
+    ]
+  }

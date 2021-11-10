@@ -1,0 +1,86 @@
+{
+    "2017": [
+      {
+        "id": 6400,
+        "idUrl": "mobi-evo-way-on-10-flex-4p-2017",
+        "nome": "Mobi Evo Way On 1.0 (Flex) 4p",
+        "ano": 2017
+      },
+      {
+        "id": 6401,
+        "idUrl": "mobi-evo-way-10-flex-4p-2017",
+        "nome": "Mobi Evo Way 1.0 (Flex) 4p",
+        "ano": 2017
+      },
+      {
+        "id": 6402,
+        "idUrl": "mobi-evo-like-on-10-flex-4p-2017",
+        "nome": "Mobi Evo Like On 1.0 (Flex) 4p",
+        "ano": 2017
+      },
+      {
+        "id": 6406,
+        "idUrl": "mobi-firefly-drive-10-flex-2017",
+        "nome": "Mobi FireFly Drive 1.0 (Flex)",
+        "ano": 2017
+      },
+      {
+        "id": 6403,
+        "idUrl": "mobi-evo-like-10-flex-4p-2017",
+        "nome": "Mobi Evo Like 1.0 (Flex) 4p",
+        "ano": 2017
+      },
+      {
+        "id": 6404,
+        "idUrl": "mobi-evo-easy-on-10-flex-4p-2017",
+        "nome": "Mobi Evo Easy On 1.0 (Flex) 4p",
+        "ano": 2017
+      },
+      {
+        "id": 6405,
+        "idUrl": "mobi-evo-easy-10-flex-4p-2017",
+        "nome": "Mobi Evo Easy 1.0 (Flex) 4p",
+        "ano": 2017
+      }
+    ],
+    "2018": [
+      {
+        "id": 21571,
+        "idUrl": "mobi-firefly-drive-gsr-10-flex-2018",
+        "nome": "Mobi FireFly Drive GSR 1.0 Flex",
+        "ano": 2018
+      },
+      {
+        "id": 21584,
+        "idUrl": "mobi-evo-way-10-flex-2018",
+        "nome": "Mobi Evo Way 1.0 Flex",
+        "ano": 2018
+      },
+      {
+        "id": 21573,
+        "idUrl": "mobi-evo-like-10-flex-2018",
+        "nome": "Mobi Evo Like 1.0 Flex",
+        "ano": 2018
+      },
+      {
+        "id": 21574,
+        "idUrl": "mobi-evo-easy-10-flex-2018",
+        "nome": "Mobi Evo Easy 1.0 Flex",
+        "ano": 2018
+      },
+      {
+        "id": 21572,
+        "idUrl": "mobi-firefly-drive-10-flex-2018",
+        "nome": "Mobi FireFly Drive 1.0 Flex",
+        "ano": 2018
+      }
+    ],
+    "2019": [
+      {
+        "id": 22348,
+        "idUrl": "mobi-like-10-fire-flex-2019",
+        "nome": "Mobi Like 1.0 Fire Flex",
+        "ano": 2019
+      }
+    ]
+  }

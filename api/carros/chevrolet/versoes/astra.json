@@ -1,0 +1,804 @@
+{
+    "1995": [
+      {
+        "id": 3405,
+        "idUrl": "astra-wagon-gls-20-mpfi-1995",
+        "nome": "Astra Wagon GLS 2.0 MPFi",
+        "ano": 1995
+      },
+      {
+        "id": 3319,
+        "idUrl": "astra-hatch-gls-20-mpfi-1995",
+        "nome": "Astra Hatch GLS 2.0 MPFi",
+        "ano": 1995
+      }
+    ],
+    "1999": [
+      {
+        "id": 3411,
+        "idUrl": "astra-sedan-gls-20-mpfi-1999",
+        "nome": "Astra Sedan GLS 2.0 MPFi",
+        "ano": 1999
+      },
+      {
+        "id": 3408,
+        "idUrl": "astra-sedan-gls-20-mpfi-16v-1999",
+        "nome": "Astra Sedan GLS 2.0 MPFi 16V",
+        "ano": 1999
+      },
+      {
+        "id": 3414,
+        "idUrl": "astra-sedan-gl-milenium-18-mpfi-1999",
+        "nome": "Astra Sedan GL Milenium 1.8 MPFi",
+        "ano": 1999
+      },
+      {
+        "id": 3417,
+        "idUrl": "astra-sedan-gl-milenium-16-1999",
+        "nome": "Astra Sedan GL Milenium 1.6",
+        "ano": 1999
+      },
+      {
+        "id": 3436,
+        "idUrl": "astra-sedan-gl-18-mpfi-1999",
+        "nome": "Astra Sedan GL 1.8 MPFi",
+        "ano": 1999
+      },
+      {
+        "id": 3314,
+        "idUrl": "astra-hatch-gls-20-mpfi-16v-1999",
+        "nome": "Astra Hatch GLS 2.0 MPFi 16V",
+        "ano": 1999
+      },
+      {
+        "id": 3316,
+        "idUrl": "astra-hatch-gls-20-mpfi-1999",
+        "nome": "Astra Hatch GLS 2.0 MPFi",
+        "ano": 1999
+      },
+      {
+        "id": 3320,
+        "idUrl": "astra-hatch-gls-20-1999",
+        "nome": "Astra Hatch GLS 2.0",
+        "ano": 1999
+      },
+      {
+        "id": 3323,
+        "idUrl": "astra-hatch-gl-18-mpfi-1999",
+        "nome": "Astra Hatch GL 1.8 MPFi",
+        "ano": 1999
+      }
+    ],
+    "2000": [
+      {
+        "id": 3410,
+        "idUrl": "astra-sedan-gls-20-mpfi-2000",
+        "nome": "Astra Sedan GLS 2.0 MPFi",
+        "ano": 2000
+      },
+      {
+        "id": 3413,
+        "idUrl": "astra-sedan-gl-milenium-18-mpfi-2000",
+        "nome": "Astra Sedan GL Milenium 1.8 MPFi",
+        "ano": 2000
+      },
+      {
+        "id": 3418,
+        "idUrl": "astra-sedan-gl-milenium-16-2000",
+        "nome": "Astra Sedan GL Milenium 1.6",
+        "ano": 2000
+      },
+      {
+        "id": 3419,
+        "idUrl": "astra-sedan-gl-18-mpfi-2000",
+        "nome": "Astra Sedan GL 1.8 MPFi",
+        "ano": 2000
+      },
+      {
+        "id": 3407,
+        "idUrl": "astra-sedan-gls-20-mpfi-16v-2000",
+        "nome": "Astra Sedan GLS 2.0 MPFi 16V",
+        "ano": 2000
+      },
+      {
+        "id": 3313,
+        "idUrl": "astra-hatch-gls-20-mpfi-16v-2000",
+        "nome": "Astra Hatch GLS 2.0 MPFi 16V",
+        "ano": 2000
+      },
+      {
+        "id": 3315,
+        "idUrl": "astra-hatch-gls-20-mpfi-2000",
+        "nome": "Astra Hatch GLS 2.0 MPFi",
+        "ano": 2000
+      },
+      {
+        "id": 3465,
+        "idUrl": "astra-sedan-500-20-mpfi-16v-2000",
+        "nome": "Astra Sedan 500 2.0 MPFi 16V",
+        "ano": 2000
+      },
+      {
+        "id": 3394,
+        "idUrl": "astra-hatch-sport-20-8v-2000",
+        "nome": "Astra Hatch Sport 2.0 8V",
+        "ano": 2000
+      },
+      {
+        "id": 3325,
+        "idUrl": "astra-hatch-gl-18-mpfi-2000",
+        "nome": "Astra Hatch GL 1.8 MPFi",
+        "ano": 2000
+      }
+    ],
+    "2001": [
+      {
+        "id": 3412,
+        "idUrl": "astra-sedan-gls-20-mpfi-2001",
+        "nome": "Astra Sedan GLS 2.0 MPFi",
+        "ano": 2001
+      },
+      {
+        "id": 3452,
+        "idUrl": "astra-sedan-expression-20-8v-2001",
+        "nome": "Astra Sedan Expression 2.0 8V",
+        "ano": 2001
+      },
+      {
+        "id": 3468,
+        "idUrl": "astra-sedan-20-8v-2001",
+        "nome": "Astra Sedan 2.0 8V",
+        "ano": 2001
+      },
+      {
+        "id": 3470,
+        "idUrl": "astra-sedan-20-16v-2001",
+        "nome": "Astra Sedan 2.0 16V",
+        "ano": 2001
+      },
+      {
+        "id": 3496,
+        "idUrl": "astra-sedan-cd-20-8v-2001",
+        "nome": "Astra Sedan CD 2.0 8V",
+        "ano": 2001
+      },
+      {
+        "id": 3415,
+        "idUrl": "astra-sedan-gl-milenium-18-mpfi-2001",
+        "nome": "Astra Sedan GL Milenium 1.8 MPFi",
+        "ano": 2001
+      },
+      {
+        "id": 3416,
+        "idUrl": "astra-sedan-gl-milenium-16-2001",
+        "nome": "Astra Sedan GL Milenium 1.6",
+        "ano": 2001
+      },
+      {
+        "id": 3451,
+        "idUrl": "astra-sedan-gl-18-mpfi-2001",
+        "nome": "Astra Sedan GL 1.8 MPFi",
+        "ano": 2001
+      },
+      {
+        "id": 3406,
+        "idUrl": "astra-sedan-gls-advantage-20-mpfi-16v-2001",
+        "nome": "Astra Sedan GLS Advantage 2.0 MPFi 16V",
+        "ano": 2001
+      },
+      {
+        "id": 3409,
+        "idUrl": "astra-sedan-gls-20-mpfi-16v-2001",
+        "nome": "Astra Sedan GLS 2.0 MPFi 16V",
+        "ano": 2001
+      },
+      {
+        "id": 3466,
+        "idUrl": "astra-sedan-cd-20-16v-2001",
+        "nome": "Astra Sedan CD 2.0 16V",
+        "ano": 2001
+      },
+      {
+        "id": 3479,
+        "idUrl": "astra-hatch-sport-20-8v-2001",
+        "nome": "Astra Hatch Sport 2.0 8V",
+        "ano": 2001
+      },
+      {
+        "id": 3380,
+        "idUrl": "astra-hatch-20-16v-2001",
+        "nome": "Astra Hatch 2.0 16V",
+        "ano": 2001
+      },
+      {
+        "id": 3296,
+        "idUrl": "astra-hatch-cd-20-16v-2001",
+        "nome": "Astra Hatch CD 2.0 16V",
+        "ano": 2001
+      },
+      {
+        "id": 3312,
+        "idUrl": "astra-hatch-gls-20-mpfi-16v-2001",
+        "nome": "Astra Hatch GLS 2.0 MPFi 16V",
+        "ano": 2001
+      },
+      {
+        "id": 3318,
+        "idUrl": "astra-hatch-gls-20-mpfi-2001",
+        "nome": "Astra Hatch GLS 2.0 MPFi",
+        "ano": 2001
+      },
+      {
+        "id": 3321,
+        "idUrl": "astra-hatch-gls-20-2001",
+        "nome": "Astra Hatch GLS 2.0",
+        "ano": 2001
+      },
+      {
+        "id": 3477,
+        "idUrl": "astra-hatch-sunny-20-8v-2001",
+        "nome": "Astra Hatch Sunny 2.0 8V",
+        "ano": 2001
+      },
+      {
+        "id": 3294,
+        "idUrl": "astra-hatch-cd-20-8v-2001",
+        "nome": "Astra Hatch CD 2.0 8V",
+        "ano": 2001
+      },
+      {
+        "id": 3322,
+        "idUrl": "astra-hatch-gl-18-mpfi-2001",
+        "nome": "Astra Hatch GL 1.8 MPFi",
+        "ano": 2001
+      }
+    ],
+    "2002": [
+      {
+        "id": 3453,
+        "idUrl": "astra-sedan-expression-20-8v-2002",
+        "nome": "Astra Sedan Expression 2.0 8V",
+        "ano": 2002
+      },
+      {
+        "id": 3471,
+        "idUrl": "astra-sedan-20-16v-2002",
+        "nome": "Astra Sedan 2.0 16V",
+        "ano": 2002
+      },
+      {
+        "id": 3480,
+        "idUrl": "astra-sedan-20-8v-2002",
+        "nome": "Astra Sedan 2.0 8V",
+        "ano": 2002
+      },
+      {
+        "id": 3483,
+        "idUrl": "astra-sedan-cd-20-8v-2002",
+        "nome": "Astra Sedan CD 2.0 8V",
+        "ano": 2002
+      },
+      {
+        "id": 3379,
+        "idUrl": "astra-hatch-20-8v-2002",
+        "nome": "Astra Hatch 2.0 8V",
+        "ano": 2002
+      },
+      {
+        "id": 3381,
+        "idUrl": "astra-hatch-20-16v-2002",
+        "nome": "Astra Hatch 2.0 16V",
+        "ano": 2002
+      },
+      {
+        "id": 3311,
+        "idUrl": "astra-hatch-gls-20-mpfi-16v-2002",
+        "nome": "Astra Hatch GLS 2.0 MPFi 16V",
+        "ano": 2002
+      },
+      {
+        "id": 3481,
+        "idUrl": "astra-hatch-sport-20-8v-2002",
+        "nome": "Astra Hatch Sport 2.0 8V",
+        "ano": 2002
+      },
+      {
+        "id": 3478,
+        "idUrl": "astra-hatch-sunny-20-8v-2002",
+        "nome": "Astra Hatch Sunny 2.0 8V",
+        "ano": 2002
+      },
+      {
+        "id": 3290,
+        "idUrl": "astra-hatch-cd-20-8v-4p-2002",
+        "nome": "Astra Hatch CD 2.0 8V 4p",
+        "ano": 2002
+      },
+      {
+        "id": 3292,
+        "idUrl": "astra-hatch-cd-20-8v-2p-2002",
+        "nome": "Astra Hatch CD 2.0 8V 2p",
+        "ano": 2002
+      }
+    ],
+    "2003": [
+      {
+        "id": 3374,
+        "idUrl": "astra-hatch-20-8v-4p-2003",
+        "nome": "Astra Hatch 2.0 8V 4p",
+        "ano": 2003
+      },
+      {
+        "id": 3307,
+        "idUrl": "astra-hatch-gsi-20-16v-2003",
+        "nome": "Astra Hatch GSi 2.0 16V",
+        "ano": 2003
+      },
+      {
+        "id": 3469,
+        "idUrl": "astra-sedan-20-8v-2003",
+        "nome": "Astra Sedan 2.0 8V",
+        "ano": 2003
+      },
+      {
+        "id": 3509,
+        "idUrl": "astra-sedan-cd-20-8v-2003",
+        "nome": "Astra Sedan CD 2.0 8V",
+        "ano": 2003
+      },
+      {
+        "id": 3376,
+        "idUrl": "astra-hatch-20-8v-2p-2003",
+        "nome": "Astra Hatch 2.0 8V 2p",
+        "ano": 2003
+      },
+      {
+        "id": 3289,
+        "idUrl": "astra-hatch-cd-20-8v-4p-2003",
+        "nome": "Astra Hatch CD 2.0 8V 4p",
+        "ano": 2003
+      },
+      {
+        "id": 3291,
+        "idUrl": "astra-hatch-cd-20-8v-2p-2003",
+        "nome": "Astra Hatch CD 2.0 8V 2p",
+        "ano": 2003
+      }
+    ],
+    "2004": [
+      {
+        "id": 3306,
+        "idUrl": "astra-hatch-gsi-20-16v-2004",
+        "nome": "Astra Hatch GSi 2.0 16V",
+        "ano": 2004
+      },
+      {
+        "id": 3375,
+        "idUrl": "astra-hatch-20-8v-4p-2004",
+        "nome": "Astra Hatch 2.0 8V 4p",
+        "ano": 2004
+      },
+      {
+        "id": 3467,
+        "idUrl": "astra-sedan-20-8v-2004",
+        "nome": "Astra Sedan 2.0 8V",
+        "ano": 2004
+      },
+      {
+        "id": 3482,
+        "idUrl": "astra-sedan-cd-20-8v-2004",
+        "nome": "Astra Sedan CD 2.0 8V",
+        "ano": 2004
+      },
+      {
+        "id": 3378,
+        "idUrl": "astra-hatch-20-8v-2p-2004",
+        "nome": "Astra Hatch 2.0 8V 2p",
+        "ano": 2004
+      },
+      {
+        "id": 3295,
+        "idUrl": "astra-hatch-cd-20-8v-2004",
+        "nome": "Astra Hatch CD 2.0 8V",
+        "ano": 2004
+      }
+    ],
+    "2005": [
+      {
+        "id": 3484,
+        "idUrl": "astra-sedan-elite-20-flex-aut-2005",
+        "nome": "Astra Sedan Elite 2.0 (Flex) (Aut)",
+        "ano": 2005
+      },
+      {
+        "id": 3309,
+        "idUrl": "astra-hatch-gsi-20-16v-2005",
+        "nome": "Astra Hatch GSi 2.0 16V",
+        "ano": 2005
+      },
+      {
+        "id": 3487,
+        "idUrl": "astra-sedan-elite-20-flex-2005",
+        "nome": "Astra Sedan Elite 2.0 (Flex)",
+        "ano": 2005
+      },
+      {
+        "id": 3328,
+        "idUrl": "astra-hatch-elite-20-flex-2005",
+        "nome": "Astra Hatch Elite 2.0 (Flex)",
+        "ano": 2005
+      },
+      {
+        "id": 3495,
+        "idUrl": "astra-sedan-elegance-20-flex-aut-2005",
+        "nome": "Astra Sedan Elegance 2.0 (Flex) (Aut)",
+        "ano": 2005
+      },
+      {
+        "id": 3497,
+        "idUrl": "astra-sedan-elegance-20-flex-2005",
+        "nome": "Astra Sedan Elegance 2.0 (Flex)",
+        "ano": 2005
+      },
+      {
+        "id": 3303,
+        "idUrl": "astra-hatch-elegance-20-flex-4p-2005",
+        "nome": "Astra Hatch Elegance 2.0 (Flex) 4p",
+        "ano": 2005
+      },
+      {
+        "id": 3490,
+        "idUrl": "astra-sedan-elegance-20-multipower-2005",
+        "nome": "Astra Sedan Elegance 2.0 (multipower)",
+        "ano": 2005
+      },
+      {
+        "id": 3502,
+        "idUrl": "astra-sedan-comfort-20-multipower-2005",
+        "nome": "Astra Sedan Comfort 2.0 (multipower)",
+        "ano": 2005
+      },
+      {
+        "id": 3302,
+        "idUrl": "astra-hatch-elegance-20-flex-2p-2005",
+        "nome": "Astra Hatch Elegance 2.0 (Flex) 2p",
+        "ano": 2005
+      },
+      {
+        "id": 3284,
+        "idUrl": "astra-hatch-comfort-20-flex-4p-2005",
+        "nome": "Astra Hatch Comfort 2.0 (Flex) 4p",
+        "ano": 2005
+      },
+      {
+        "id": 3464,
+        "idUrl": "astra-sedan-advantage-20-flex-2005",
+        "nome": "Astra Sedan Advantage 2.0 (Flex)",
+        "ano": 2005
+      },
+      {
+        "id": 3472,
+        "idUrl": "astra-sedan-20-flex-2005",
+        "nome": "Astra Sedan 2.0 (Flex)",
+        "ano": 2005
+      },
+      {
+        "id": 3504,
+        "idUrl": "astra-sedan-comfort-20-flex-2005",
+        "nome": "Astra Sedan Comfort 2.0 (Flex)",
+        "ano": 2005
+      },
+      {
+        "id": 3365,
+        "idUrl": "astra-hatch-advantage-20-flex-2005",
+        "nome": "Astra Hatch Advantage 2.0 (Flex)",
+        "ano": 2005
+      },
+      {
+        "id": 3285,
+        "idUrl": "astra-hatch-comfort-20-flex-2p-2005",
+        "nome": "Astra Hatch Comfort 2.0 (Flex) 2p",
+        "ano": 2005
+      }
+    ],
+    "2006": [
+      {
+        "id": 3305,
+        "idUrl": "astra-hatch-ss-20-flex-2006",
+        "nome": "Astra Hatch SS 2.0 (Flex)",
+        "ano": 2006
+      },
+      {
+        "id": 3326,
+        "idUrl": "astra-hatch-elite-20-flex-aut-2006",
+        "nome": "Astra Hatch Elite 2.0 (Flex) (Aut)",
+        "ano": 2006
+      },
+      {
+        "id": 3304,
+        "idUrl": "astra-hatch-elite-20-flex-2006",
+        "nome": "Astra Hatch Elite 2.0 (Flex)",
+        "ano": 2006
+      },
+      {
+        "id": 3486,
+        "idUrl": "astra-sedan-elite-20-flex-aut-2006",
+        "nome": "Astra Sedan Elite 2.0 (Flex) (Aut)",
+        "ano": 2006
+      },
+      {
+        "id": 3489,
+        "idUrl": "astra-sedan-elite-20-flex-2006",
+        "nome": "Astra Sedan Elite 2.0 (Flex)",
+        "ano": 2006
+      },
+      {
+        "id": 3301,
+        "idUrl": "astra-hatch-elegance-20-flex-aut-2006",
+        "nome": "Astra Hatch Elegance 2.0 (Flex) (Aut)",
+        "ano": 2006
+      },
+      {
+        "id": 3283,
+        "idUrl": "astra-hatch-elegance-20-flex-2006",
+        "nome": "Astra Hatch Elegance 2.0 (Flex)",
+        "ano": 2006
+      },
+      {
+        "id": 3501,
+        "idUrl": "astra-sedan-elegance-20-flex-2006",
+        "nome": "Astra Sedan Elegance 2.0 (Flex)",
+        "ano": 2006
+      },
+      {
+        "id": 3491,
+        "idUrl": "astra-sedan-elegance-20-multipower-2006",
+        "nome": "Astra Sedan Elegance 2.0 (multipower)",
+        "ano": 2006
+      },
+      {
+        "id": 3503,
+        "idUrl": "astra-sedan-comfort-20-multipower-2006",
+        "nome": "Astra Sedan Comfort 2.0 (multipower)",
+        "ano": 2006
+      },
+      {
+        "id": 3507,
+        "idUrl": "astra-sedan-comfort-20-flex-2006",
+        "nome": "Astra Sedan Comfort 2.0 (Flex)",
+        "ano": 2006
+      },
+      {
+        "id": 3371,
+        "idUrl": "astra-hatch-advantage-20-flex-2006",
+        "nome": "Astra Hatch Advantage 2.0 (Flex)",
+        "ano": 2006
+      }
+    ],
+    "2007": [
+      {
+        "id": 3362,
+        "idUrl": "astra-hatch-ss-20-flex-2007",
+        "nome": "Astra Hatch SS 2.0 (Flex)",
+        "ano": 2007
+      },
+      {
+        "id": 3327,
+        "idUrl": "astra-hatch-elite-20-flex-aut-2007",
+        "nome": "Astra Hatch Elite 2.0 (Flex) (Aut)",
+        "ano": 2007
+      },
+      {
+        "id": 3330,
+        "idUrl": "astra-hatch-elite-20-flex-2007",
+        "nome": "Astra Hatch Elite 2.0 (Flex)",
+        "ano": 2007
+      },
+      {
+        "id": 3276,
+        "idUrl": "astra-hatch-elegance-20-flex-aut-2007",
+        "nome": "Astra Hatch Elegance 2.0 (Flex) (Aut)",
+        "ano": 2007
+      },
+      {
+        "id": 3454,
+        "idUrl": "astra-sedan-advantage-20-flex-aut-2007",
+        "nome": "Astra Sedan Advantage 2.0 (Flex) (Aut)",
+        "ano": 2007
+      },
+      {
+        "id": 3282,
+        "idUrl": "astra-hatch-elegance-20-flex-2007",
+        "nome": "Astra Hatch Elegance 2.0 (Flex)",
+        "ano": 2007
+      },
+      {
+        "id": 3492,
+        "idUrl": "astra-sedan-elegance-20-flex-aut-2007",
+        "nome": "Astra Sedan Elegance 2.0 (Flex) (Aut)",
+        "ano": 2007
+      },
+      {
+        "id": 3333,
+        "idUrl": "astra-hatch-advantage-20-flex-aut-2007",
+        "nome": "Astra Hatch Advantage 2.0 (Flex) (Aut)",
+        "ano": 2007
+      },
+      {
+        "id": 3506,
+        "idUrl": "astra-sedan-comfort-20-flex-2007",
+        "nome": "Astra Sedan Comfort 2.0 (Flex)",
+        "ano": 2007
+      },
+      {
+        "id": 3500,
+        "idUrl": "astra-sedan-elegance-20-flex-2007",
+        "nome": "Astra Sedan Elegance 2.0 (Flex)",
+        "ano": 2007
+      },
+      {
+        "id": 3463,
+        "idUrl": "astra-sedan-advantage-20-flex-2007",
+        "nome": "Astra Sedan Advantage 2.0 (Flex)",
+        "ano": 2007
+      },
+      {
+        "id": 3297,
+        "idUrl": "astra-hatch-advantage-20-flex-4p-2007",
+        "nome": "Astra Hatch Advantage 2.0 (Flex) 4p",
+        "ano": 2007
+      },
+      {
+        "id": 3298,
+        "idUrl": "astra-hatch-advantage-20-flex-2p-2007",
+        "nome": "Astra Hatch Advantage 2.0 (Flex) 2p",
+        "ano": 2007
+      }
+    ],
+    "2008": [
+      {
+        "id": 3393,
+        "idUrl": "astra-hatch-ss-20-flex-2008",
+        "nome": "Astra Hatch SS 2.0 (Flex)",
+        "ano": 2008
+      },
+      {
+        "id": 3277,
+        "idUrl": "astra-hatch-elegance-20-flex-aut-2008",
+        "nome": "Astra Hatch Elegance 2.0 (Flex) (Aut)",
+        "ano": 2008
+      },
+      {
+        "id": 3281,
+        "idUrl": "astra-hatch-elegance-20-flex-2008",
+        "nome": "Astra Hatch Elegance 2.0 (Flex)",
+        "ano": 2008
+      },
+      {
+        "id": 3332,
+        "idUrl": "astra-hatch-advantage-20-flex-aut-2008",
+        "nome": "Astra Hatch Advantage 2.0 (Flex) (Aut)",
+        "ano": 2008
+      },
+      {
+        "id": 3455,
+        "idUrl": "astra-sedan-advantage-20-flex-aut-2008",
+        "nome": "Astra Sedan Advantage 2.0 (Flex) (Aut)",
+        "ano": 2008
+      },
+      {
+        "id": 3370,
+        "idUrl": "astra-hatch-advantage-20-flex-2008",
+        "nome": "Astra Hatch Advantage 2.0 (Flex)",
+        "ano": 2008
+      },
+      {
+        "id": 3493,
+        "idUrl": "astra-sedan-elegance-20-flex-aut-2008",
+        "nome": "Astra Sedan Elegance 2.0 (Flex) (Aut)",
+        "ano": 2008
+      },
+      {
+        "id": 3499,
+        "idUrl": "astra-sedan-elegance-20-flex-2008",
+        "nome": "Astra Sedan Elegance 2.0 (Flex)",
+        "ano": 2008
+      },
+      {
+        "id": 3462,
+        "idUrl": "astra-sedan-advantage-20-flex-2008",
+        "nome": "Astra Sedan Advantage 2.0 (Flex)",
+        "ano": 2008
+      }
+    ],
+    "2009": [
+      {
+        "id": 3278,
+        "idUrl": "astra-hatch-elegance-20-flex-aut-2009",
+        "nome": "Astra Hatch Elegance 2.0 (Flex) (Aut)",
+        "ano": 2009
+      },
+      {
+        "id": 3299,
+        "idUrl": "astra-hatch-advantage-20-flex-aut-2009",
+        "nome": "Astra Hatch Advantage 2.0 (Flex) (Aut)",
+        "ano": 2009
+      },
+      {
+        "id": 3369,
+        "idUrl": "astra-hatch-advantage-20-flex-2009",
+        "nome": "Astra Hatch Advantage 2.0 (Flex)",
+        "ano": 2009
+      },
+      {
+        "id": 3456,
+        "idUrl": "astra-sedan-advantage-20-flex-aut-2009",
+        "nome": "Astra Sedan Advantage 2.0 (Flex) (Aut)",
+        "ano": 2009
+      },
+      {
+        "id": 3280,
+        "idUrl": "astra-hatch-elegance-20-flex-2009",
+        "nome": "Astra Hatch Elegance 2.0 (Flex)",
+        "ano": 2009
+      },
+      {
+        "id": 3461,
+        "idUrl": "astra-sedan-advantage-20-flex-2009",
+        "nome": "Astra Sedan Advantage 2.0 (Flex)",
+        "ano": 2009
+      },
+      {
+        "id": 3494,
+        "idUrl": "astra-sedan-elegance-20-flex-aut-2009",
+        "nome": "Astra Sedan Elegance 2.0 (Flex) (Aut)",
+        "ano": 2009
+      },
+      {
+        "id": 3498,
+        "idUrl": "astra-sedan-elegance-20-flex-2009",
+        "nome": "Astra Sedan Elegance 2.0 (Flex)",
+        "ano": 2009
+      }
+    ],
+    "2010": [
+      {
+        "id": 3334,
+        "idUrl": "astra-hatch-advantage-20-flex-aut-2010",
+        "nome": "Astra Hatch Advantage 2.0 (Flex) (Aut)",
+        "ano": 2010
+      },
+      {
+        "id": 3368,
+        "idUrl": "astra-hatch-advantage-20-flex-2010",
+        "nome": "Astra Hatch Advantage 2.0 (Flex)",
+        "ano": 2010
+      },
+      {
+        "id": 3458,
+        "idUrl": "astra-sedan-advantage-20-flex-aut-2010",
+        "nome": "Astra Sedan Advantage 2.0 (Flex) (Aut)",
+        "ano": 2010
+      }
+    ],
+    "2011": [
+      {
+        "id": 3317,
+        "idUrl": "astra-hatch-advantage-20-flex-aut-2011",
+        "nome": "Astra Hatch Advantage 2.0 (Flex) (Aut)",
+        "ano": 2011
+      },
+      {
+        "id": 3457,
+        "idUrl": "astra-sedan-advantage-20-flex-aut-2011",
+        "nome": "Astra Sedan Advantage 2.0 (Flex) (Aut)",
+        "ano": 2011
+      },
+      {
+        "id": 3459,
+        "idUrl": "astra-sedan-advantage-20-flex-2011",
+        "nome": "Astra Sedan Advantage 2.0 (Flex)",
+        "ano": 2011
+      }
+    ]
+  }

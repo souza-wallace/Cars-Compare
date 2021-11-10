@@ -1,0 +1,254 @@
+{
+    "2002": [
+      {
+        "id": 3808,
+        "idUrl": "corsa-sedan-classic-16-mpfi-2002",
+        "nome": "Corsa Sedan Classic 1.6 MPFi",
+        "ano": 2002
+      },
+      {
+        "id": 3841,
+        "idUrl": "corsa-sedan-classic-10-vhc-8v-2002",
+        "nome": "Corsa Sedan Classic 1.0 VHC 8V",
+        "ano": 2002
+      }
+    ],
+    "2003": [
+      {
+        "id": 3843,
+        "idUrl": "corsa-sedan-classic-10-mpfi-2003",
+        "nome": "Corsa Sedan Classic 1.0 MPFi",
+        "ano": 2003
+      }
+    ],
+    "2004": [
+      {
+        "id": 3777,
+        "idUrl": "corsa-sedan-classic-super-16-2004",
+        "nome": "Corsa Sedan Classic Super 1.6",
+        "ano": 2004
+      }
+    ],
+    "2005": [
+      {
+        "id": 3753,
+        "idUrl": "corsa-sedan-classic-super-10-vhc-2005",
+        "nome": "Corsa Sedan Classic Super 1.0 VHC",
+        "ano": 2005
+      },
+      {
+        "id": 3762,
+        "idUrl": "corsa-sedan-classic-spirit-10-vhc-2005",
+        "nome": "Corsa Sedan Classic Spirit 1.0 VHC",
+        "ano": 2005
+      },
+      {
+        "id": 3772,
+        "idUrl": "corsa-sedan-classic-life-10-vhc-2005",
+        "nome": "Corsa Sedan Classic Life 1.0 VHC",
+        "ano": 2005
+      }
+    ],
+    "2006": [
+      {
+        "id": 3771,
+        "idUrl": "corsa-sedan-classic-life-16-2006",
+        "nome": "Corsa Sedan Classic Life 1.6",
+        "ano": 2006
+      },
+      {
+        "id": 3761,
+        "idUrl": "corsa-sedan-classic-spirit-16-2006",
+        "nome": "Corsa Sedan Classic Spirit 1.6",
+        "ano": 2006
+      },
+      {
+        "id": 3756,
+        "idUrl": "corsa-sedan-classic-super-10-flex-2006",
+        "nome": "Corsa Sedan Classic Super 1.0 (Flex)",
+        "ano": 2006
+      },
+      {
+        "id": 3757,
+        "idUrl": "corsa-sedan-classic-super-10-2006",
+        "nome": "Corsa Sedan Classic Super 1.0",
+        "ano": 2006
+      },
+      {
+        "id": 3764,
+        "idUrl": "corsa-sedan-classic-spirit-10-vhc-2006",
+        "nome": "Corsa Sedan Classic Spirit 1.0 VHC",
+        "ano": 2006
+      },
+      {
+        "id": 3767,
+        "idUrl": "corsa-sedan-classic-spirit-10-flex-2006",
+        "nome": "Corsa Sedan Classic Spirit 1.0 (Flex)",
+        "ano": 2006
+      },
+      {
+        "id": 3752,
+        "idUrl": "corsa-sedan-classic-super-16-2006",
+        "nome": "Corsa Sedan Classic Super 1.6",
+        "ano": 2006
+      },
+      {
+        "id": 3774,
+        "idUrl": "corsa-sedan-classic-life-10-vhc-2006",
+        "nome": "Corsa Sedan Classic Life 1.0 VHC",
+        "ano": 2006
+      },
+      {
+        "id": 3776,
+        "idUrl": "corsa-sedan-classic-life-10-flex-2006",
+        "nome": "Corsa Sedan Classic Life 1.0 (Flex)",
+        "ano": 2006
+      }
+    ],
+    "2007": [
+      {
+        "id": 3760,
+        "idUrl": "corsa-sedan-classic-spirit-16-2007",
+        "nome": "Corsa Sedan Classic Spirit 1.6",
+        "ano": 2007
+      },
+      {
+        "id": 3770,
+        "idUrl": "corsa-sedan-classic-life-16-2007",
+        "nome": "Corsa Sedan Classic Life 1.6",
+        "ano": 2007
+      },
+      {
+        "id": 3755,
+        "idUrl": "corsa-sedan-classic-super-10-flex-2007",
+        "nome": "Corsa Sedan Classic Super 1.0 (Flex)",
+        "ano": 2007
+      },
+      {
+        "id": 3766,
+        "idUrl": "corsa-sedan-classic-spirit-10-flex-2007",
+        "nome": "Corsa Sedan Classic Spirit 1.0 (Flex)",
+        "ano": 2007
+      },
+      {
+        "id": 3775,
+        "idUrl": "corsa-sedan-classic-life-10-flex-2007",
+        "nome": "Corsa Sedan Classic Life 1.0 (Flex)",
+        "ano": 2007
+      }
+    ],
+    "2008": [
+      {
+        "id": 3765,
+        "idUrl": "corsa-sedan-classic-spirit-10-flex-2008",
+        "nome": "Corsa Sedan Classic Spirit 1.0 (Flex)",
+        "ano": 2008
+      },
+      {
+        "id": 3754,
+        "idUrl": "corsa-sedan-classic-super-10-flex-2008",
+        "nome": "Corsa Sedan Classic Super 1.0 (Flex)",
+        "ano": 2008
+      },
+      {
+        "id": 3773,
+        "idUrl": "corsa-sedan-classic-life-10-vhc-2008",
+        "nome": "Corsa Sedan Classic Life 1.0 VHC",
+        "ano": 2008
+      }
+    ],
+    "2009": [
+      {
+        "id": 3844,
+        "idUrl": "classic-super-10-flex-2009",
+        "nome": "Classic Super 1.0 (Flex)",
+        "ano": 2009
+      },
+      {
+        "id": 3845,
+        "idUrl": "classic-spirit-10-flex-2009",
+        "nome": "Classic Spirit 1.0 (Flex)",
+        "ano": 2009
+      },
+      {
+        "id": 3847,
+        "idUrl": "classic-life-10-flex-2009",
+        "nome": "Classic Life 1.0 (Flex)",
+        "ano": 2009
+      }
+    ],
+    "2010": [
+      {
+        "id": 3846,
+        "idUrl": "classic-life-vhc-e-10-flex-2010",
+        "nome": "Classic Life VHC E 1.0 (Flex)",
+        "ano": 2010
+      },
+      {
+        "id": 3867,
+        "idUrl": "classic-ls-vhc-e-10-flex-2010",
+        "nome": "Classic LS VHC E 1.0 (Flex)",
+        "ano": 2010
+      }
+    ],
+    "2011": [
+      {
+        "id": 3855,
+        "idUrl": "classic-10-vhc-flex-2011",
+        "nome": "Classic 1.0 VHC (Flex)",
+        "ano": 2011
+      }
+    ],
+    "2012": [
+      {
+        "id": 3854,
+        "idUrl": "classic-ls-vhc-e-10-flex-2012",
+        "nome": "Classic LS VHC E 1.0 (Flex)",
+        "ano": 2012
+      }
+    ],
+    "2013": [
+      {
+        "id": 3852,
+        "idUrl": "classic-ls-vhc-e-10-flex-2013",
+        "nome": "Classic LS VHC E 1.0 (Flex)",
+        "ano": 2013
+      }
+    ],
+    "2014": [
+      {
+        "id": 3851,
+        "idUrl": "classic-ls-vhc-e-10-flex-2014",
+        "nome": "Classic LS VHC E 1.0 (Flex)",
+        "ano": 2014
+      },
+      {
+        "id": 3857,
+        "idUrl": "classic-10-advantage-flex-2014",
+        "nome": "Classic 1.0 Advantage (Flex)",
+        "ano": 2014
+      }
+    ],
+    "2015": [
+      {
+        "id": 3850,
+        "idUrl": "classic-ls-vhc-e-10-flex-2015",
+        "nome": "Classic LS VHC E 1.0 (Flex)",
+        "ano": 2015
+      },
+      {
+        "id": 3856,
+        "idUrl": "classic-10-advantage-flex-2015",
+        "nome": "Classic 1.0 Advantage (Flex)",
+        "ano": 2015
+      }
+    ],
+    "2016": [
+      {
+        "id": 3849,
+        "idUrl": "classic-ls-vhc-e-10-flex-2016",
+        "nome": "Classic LS VHC E 1.0 (Flex)",
+        "ano": 2016
+      }
+    ]
+  }

@@ -1,0 +1,268 @@
+{
+    "2013": [
+      {
+        "id": 2928,
+        "idUrl": "spin-ltz-7s-18-aut-flex-2013",
+        "nome": "Spin LTZ 7S 1.8 (Aut) (Flex)",
+        "ano": 2013
+      },
+      {
+        "id": 2924,
+        "idUrl": "spin-ltz-7s-18-flex-2013",
+        "nome": "Spin LTZ 7S 1.8 (Flex)",
+        "ano": 2013
+      },
+      {
+        "id": 2937,
+        "idUrl": "spin-lt-5s-18-aut-flex-2013",
+        "nome": "Spin LT 5S 1.8 (Aut) (Flex)",
+        "ano": 2013
+      },
+      {
+        "id": 2933,
+        "idUrl": "spin-lt-5s-18-flex-2013",
+        "nome": "Spin LT 5S 1.8 (Flex)",
+        "ano": 2013
+      },
+      {
+        "id": 2940,
+        "idUrl": "spin-ls-5s-18-flex-2013",
+        "nome": "Spin LS 5S 1.8 (Flex)",
+        "ano": 2013
+      }
+    ],
+    "2014": [
+      {
+        "id": 2927,
+        "idUrl": "spin-ltz-7s-18-aut-flex-2014",
+        "nome": "Spin LTZ 7S 1.8 (Aut) (Flex)",
+        "ano": 2014
+      },
+      {
+        "id": 2923,
+        "idUrl": "spin-ltz-7s-18-flex-2014",
+        "nome": "Spin LTZ 7S 1.8 (Flex)",
+        "ano": 2014
+      },
+      {
+        "id": 2943,
+        "idUrl": "spin-advantage-5s-18-flex-aut-2014",
+        "nome": "Spin Advantage 5S 1.8 (Flex) (Aut)",
+        "ano": 2014
+      },
+      {
+        "id": 2936,
+        "idUrl": "spin-lt-5s-18-aut-flex-2014",
+        "nome": "Spin LT 5S 1.8 (Aut) (Flex)",
+        "ano": 2014
+      },
+      {
+        "id": 2961,
+        "idUrl": "spin-advantage-5s-18-flex-2014",
+        "nome": "Spin Advantage 5S 1.8 (Flex)",
+        "ano": 2014
+      },
+      {
+        "id": 2932,
+        "idUrl": "spin-lt-5s-18-flex-2014",
+        "nome": "Spin LT 5S 1.8 (Flex)",
+        "ano": 2014
+      },
+      {
+        "id": 2939,
+        "idUrl": "spin-ls-5s-18-flex-2014",
+        "nome": "Spin LS 5S 1.8 (Flex)",
+        "ano": 2014
+      }
+    ],
+    "2015": [
+      {
+        "id": 2926,
+        "idUrl": "spin-ltz-7s-18-aut-flex-2015",
+        "nome": "Spin LTZ 7S 1.8 (Aut) (Flex)",
+        "ano": 2015
+      },
+      {
+        "id": 3010,
+        "idUrl": "spin-activ-18-flex-aut-2015",
+        "nome": "Spin Activ  1.8 (Flex) (Aut)",
+        "ano": 2015
+      },
+      {
+        "id": 3009,
+        "idUrl": "spin-activ-18-flex-2015",
+        "nome": "Spin Activ 1.8 (Flex)",
+        "ano": 2015
+      },
+      {
+        "id": 2922,
+        "idUrl": "spin-ltz-7s-18-flex-2015",
+        "nome": "Spin LTZ 7S 1.8 (Flex)",
+        "ano": 2015
+      },
+      {
+        "id": 2942,
+        "idUrl": "spin-advantage-5s-18-flex-aut-2015",
+        "nome": "Spin Advantage 5S 1.8 (Flex) (Aut)",
+        "ano": 2015
+      },
+      {
+        "id": 2935,
+        "idUrl": "spin-lt-5s-18-aut-flex-2015",
+        "nome": "Spin LT 5S 1.8 (Aut) (Flex)",
+        "ano": 2015
+      },
+      {
+        "id": 2944,
+        "idUrl": "spin-advantage-5s-18-flex-2015",
+        "nome": "Spin Advantage 5S 1.8 (Flex)",
+        "ano": 2015
+      },
+      {
+        "id": 2931,
+        "idUrl": "spin-lt-5s-18-flex-2015",
+        "nome": "Spin LT 5S 1.8 (Flex)",
+        "ano": 2015
+      }
+    ],
+    "2016": [
+      {
+        "id": 2925,
+        "idUrl": "spin-ltz-7s-18-aut-flex-2016",
+        "nome": "Spin LTZ 7S 1.8 (Aut) (Flex)",
+        "ano": 2016
+      },
+      {
+        "id": 2977,
+        "idUrl": "spin-activ-18-flex-aut-2016",
+        "nome": "Spin Activ 1.8 (Flex) (Aut)",
+        "ano": 2016
+      },
+      {
+        "id": 2921,
+        "idUrl": "spin-ltz-7s-18-flex-2016",
+        "nome": "Spin LTZ 7S 1.8 (Flex)",
+        "ano": 2016
+      },
+      {
+        "id": 2978,
+        "idUrl": "spin-activ-18-flex-2016",
+        "nome": "Spin Activ 1.8 (Flex)",
+        "ano": 2016
+      },
+      {
+        "id": 2934,
+        "idUrl": "spin-lt-5s-18-aut-flex-2016",
+        "nome": "Spin LT 5S 1.8 (Aut) (Flex)",
+        "ano": 2016
+      },
+      {
+        "id": 2930,
+        "idUrl": "spin-lt-5s-18-flex-2016",
+        "nome": "Spin LT 5S 1.8 (Flex)",
+        "ano": 2016
+      }
+    ],
+    "2017": [
+      {
+        "id": 2945,
+        "idUrl": "spin-ltz-7s-18-flex-aut-2017",
+        "nome": "Spin LTZ 7S 1.8 (Flex) (Aut)",
+        "ano": 2017
+      },
+      {
+        "id": 2976,
+        "idUrl": "spin-activ-18-flex-aut-2017",
+        "nome": "Spin Activ 1.8 (Flex) (Aut)",
+        "ano": 2017
+      },
+      {
+        "id": 2920,
+        "idUrl": "spin-ltz-7s-18-flex-2017",
+        "nome": "Spin LTZ 7S 1.8 (Flex)",
+        "ano": 2017
+      },
+      {
+        "id": 2941,
+        "idUrl": "spin-advantage-5s-18-flex-aut-2017",
+        "nome": "Spin Advantage 5S 1.8 (Flex) (Aut)",
+        "ano": 2017
+      },
+      {
+        "id": 2929,
+        "idUrl": "spin-lt-5s-18-flex-2017",
+        "nome": "Spin LT 5S 1.8 (Flex)",
+        "ano": 2017
+      },
+      {
+        "id": 2938,
+        "idUrl": "spin-ls-5s-18-flex-2017",
+        "nome": "Spin LS 5S 1.8 (Flex)",
+        "ano": 2017
+      }
+    ],
+    "2018": [
+      {
+        "id": 21516,
+        "idUrl": "spin-ltz-7s-18-flex-2018",
+        "nome": "Spin LTZ 7S 1.8 (Flex)",
+        "ano": 2018
+      },
+      {
+        "id": 21515,
+        "idUrl": "spin-lt-5s-18-flex-2018",
+        "nome": "Spin LT 5S 1.8 (Flex)",
+        "ano": 2018
+      },
+      {
+        "id": 21510,
+        "idUrl": "spin-ls-5s-18-flex-2018",
+        "nome": "Spin LS 5S 1.8 (Flex)",
+        "ano": 2018
+      }
+    ],
+    "2019": [
+      {
+        "id": 22236,
+        "idUrl": "spin-activ7-18-flex-aut-2019",
+        "nome": "Spin Activ7 1.8 (Flex) (Aut)",
+        "ano": 2019
+      },
+      {
+        "id": 22240,
+        "idUrl": "spin-ltz-18-flex-aut-2019",
+        "nome": "Spin LTZ 1.8 (Flex) (Aut)",
+        "ano": 2019
+      },
+      {
+        "id": 22241,
+        "idUrl": "spin-activ-18-flex-aut-2019",
+        "nome": "Spin Activ 1.8 (Flex) (Aut)",
+        "ano": 2019
+      },
+      {
+        "id": 22239,
+        "idUrl": "spin-ltz-18-flex-2019",
+        "nome": "Spin LTZ 1.8 (Flex)",
+        "ano": 2019
+      },
+      {
+        "id": 22238,
+        "idUrl": "spin-lt-18-flex-aut-2019",
+        "nome": "Spin LT 1.8 (Flex) (Aut)",
+        "ano": 2019
+      },
+      {
+        "id": 22237,
+        "idUrl": "spin-lt-18-flex-2019",
+        "nome": "Spin LT 1.8 (Flex)",
+        "ano": 2019
+      },
+      {
+        "id": 22242,
+        "idUrl": "spin-ls-18-flex-2019",
+        "nome": "Spin LS 1.8 (Flex)",
+        "ano": 2019
+      }
+    ]
+  }

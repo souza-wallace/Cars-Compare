@@ -1,0 +1,130 @@
+{
+    "2014": [
+      {
+        "id": 4773,
+        "idUrl": "c4-lounge-exclusive-16-thp-aut-2014",
+        "nome": "C4 Lounge Exclusive 1.6 THP (Aut)",
+        "ano": 2014
+      },
+      {
+        "id": 4750,
+        "idUrl": "c4-lounge-tendance-20i-aut-2014",
+        "nome": "C4 Lounge Tendance 2.0i (Aut)",
+        "ano": 2014
+      },
+      {
+        "id": 4749,
+        "idUrl": "c4-lounge-tendance-20i-2014",
+        "nome": "C4 Lounge Tendance 2.0i",
+        "ano": 2014
+      },
+      {
+        "id": 4776,
+        "idUrl": "c4-lounge-exclusive-20i-aut-2014",
+        "nome": "C4 Lounge Exclusive 2.0i (Aut)",
+        "ano": 2014
+      },
+      {
+        "id": 4763,
+        "idUrl": "c4-lounge-origine-20i-2014",
+        "nome": "C4 Lounge Origine 2.0i",
+        "ano": 2014
+      }
+    ],
+    "2015": [
+      {
+        "id": 4780,
+        "idUrl": "c4-lounge-exclusive-16-thp-aut-2015",
+        "nome": "C4 Lounge Exclusive 1.6 THP (Aut)",
+        "ano": 2015
+      },
+      {
+        "id": 4751,
+        "idUrl": "c4-lounge-tendance-16-thp-2015",
+        "nome": "C4 Lounge Tendance 1.6 THP",
+        "ano": 2015
+      },
+      {
+        "id": 4748,
+        "idUrl": "c4-lounge-tendance-20-16v-flex-aut-2015",
+        "nome": "C4 Lounge Tendance 2.0 16V (Flex) (Aut)",
+        "ano": 2015
+      },
+      {
+        "id": 4747,
+        "idUrl": "c4-lounge-tendance-20-16v-flex-2015",
+        "nome": "C4 Lounge Tendance 2.0 16V (Flex)",
+        "ano": 2015
+      }
+    ],
+    "2016": [
+      {
+        "id": 4774,
+        "idUrl": "c4-lounge-exclusive-16-thp-aut-2016",
+        "nome": "C4 Lounge Exclusive 1.6 THP (Aut)",
+        "ano": 2016
+      },
+      {
+        "id": 4744,
+        "idUrl": "c4-lounge-tendance-16-thp-flex-2016",
+        "nome": "C4 Lounge Tendance 1.6 THP (Flex)",
+        "ano": 2016
+      },
+      {
+        "id": 4752,
+        "idUrl": "c4-lounge-tendance-nav-20-16v-2016",
+        "nome": "C4 Lounge Tendance NAV 2.0 16V",
+        "ano": 2016
+      },
+      {
+        "id": 4746,
+        "idUrl": "c4-lounge-tendance-20-16v-2016",
+        "nome": "C4 Lounge Tendance 2.0 16V",
+        "ano": 2016
+      },
+      {
+        "id": 4779,
+        "idUrl": "c4-lounge-origine-20-16v-aut-2016",
+        "nome": "C4 Lounge Origine 2.0 16V (Aut)",
+        "ano": 2016
+      }
+    ],
+    "2017": [
+      {
+        "id": 4775,
+        "idUrl": "c4-lounge-exclusive-16-thp-flex-aut-2017",
+        "nome": "C4 Lounge Exclusive 1.6 THP (Flex) (Aut)",
+        "ano": 2017
+      },
+      {
+        "id": 4745,
+        "idUrl": "c4-lounge-tendance-16-thp-flex-aut-2017",
+        "nome": "C4 Lounge Tendance 1.6 THP (Flex) (Aut)",
+        "ano": 2017
+      },
+      {
+        "id": 4762,
+        "idUrl": "c4-lounge-serie-especial-s-16-thp-flex-aut-2017",
+        "nome": "C4 Lounge Série Especial S 1.6 THP (Flex) (Aut)",
+        "ano": 2017
+      },
+      {
+        "id": 4778,
+        "idUrl": "c4-lounge-origine-16-thp-flex-aut-2017",
+        "nome": "C4 Lounge Origine 1.6 THP (Flex) (Aut)",
+        "ano": 2017
+      },
+      {
+        "id": 4771,
+        "idUrl": "c4-lounge-origine-business-16-thp-flex-aut-2017",
+        "nome": "C4 Lounge Origine Business 1.6 THP (Flex) (Aut)",
+        "ano": 2017
+      },
+      {
+        "id": 4777,
+        "idUrl": "c4-lounge-origine-16-thp-flex-2017",
+        "nome": "C4 Lounge Origine 1.6 THP (Flex)",
+        "ano": 2017
+      }
+    ]
+  }

@@ -1,0 +1,31 @@
+
+{
+    "2019": [
+      {
+        "id": 22307,
+        "idUrl": "tiggo-5x-txs-15-turbo-aut-2019",
+        "nome": "Tiggo 5x TXS 1.5 Turbo (Aut)",
+        "ano": 2019
+      },
+      {
+        "id": 22308,
+        "idUrl": "tiggo-5x-t-15-turbo-aut-2019",
+        "nome": "Tiggo 5x T 1.5 Turbo (Aut)",
+        "ano": 2019
+      }
+    ],
+    "2021": [
+      {
+        "id": 22467,
+        "idUrl": "tiggo-5x-txs-15-turbo-aut-2021",
+        "nome": "Tiggo 5X TXS 1.5 Turbo (Aut)",
+        "ano": 2021
+      },
+      {
+        "id": 22488,
+        "idUrl": "tiggo-5x-t-15-turbo-aut-2021",
+        "nome": "Tiggo 5X T 1.5 Turbo (Aut)",
+        "ano": 2021
+      }
+    ]
+  }

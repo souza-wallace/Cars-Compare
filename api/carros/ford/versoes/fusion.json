@@ -1,0 +1,250 @@
+{
+    "2006": [
+      {
+        "id": 6962,
+        "idUrl": "fusion-23-sel-2006",
+        "nome": "Fusion 2.3 SEL",
+        "ano": 2006
+      }
+    ],
+    "2007": [
+      {
+        "id": 6986,
+        "idUrl": "fusion-23-sel-2007",
+        "nome": "Fusion 2.3 SEL",
+        "ano": 2007
+      }
+    ],
+    "2008": [
+      {
+        "id": 7041,
+        "idUrl": "fusion-23-sel-2008",
+        "nome": "Fusion 2.3 SEL",
+        "ano": 2008
+      }
+    ],
+    "2009": [
+      {
+        "id": 7040,
+        "idUrl": "fusion-23-sel-2009",
+        "nome": "Fusion 2.3 SEL",
+        "ano": 2009
+      }
+    ],
+    "2010": [
+      {
+        "id": 7105,
+        "idUrl": "fusion-30-v6-sel-awd-2010",
+        "nome": "Fusion 3.0 V6 SEL AWD",
+        "ano": 2010
+      },
+      {
+        "id": 7110,
+        "idUrl": "fusion-30-v6-4wd-sel-2010",
+        "nome": "Fusion 3.0 V6 4WD SEL",
+        "ano": 2010
+      },
+      {
+        "id": 7118,
+        "idUrl": "fusion-25-16v-sel-2010",
+        "nome": "Fusion 2.5 16V SEL",
+        "ano": 2010
+      }
+    ],
+    "2011": [
+      {
+        "id": 7042,
+        "idUrl": "fusion-25-16v-hybrid-aut-2011",
+        "nome": "Fusion 2.5 16V Hybrid (Aut)",
+        "ano": 2011
+      },
+      {
+        "id": 7108,
+        "idUrl": "fusion-30-v6-4wd-sel-2011",
+        "nome": "Fusion 3.0 V6 4WD SEL",
+        "ano": 2011
+      },
+      {
+        "id": 7107,
+        "idUrl": "fusion-30-v6-sel-2011",
+        "nome": "Fusion 3.0 V6 SEL",
+        "ano": 2011
+      },
+      {
+        "id": 7117,
+        "idUrl": "fusion-25-16v-sel-2011",
+        "nome": "Fusion 2.5 16V SEL",
+        "ano": 2011
+      }
+    ],
+    "2012": [
+      {
+        "id": 7119,
+        "idUrl": "fusion-25-16v-hybrid-aut-2012",
+        "nome": "Fusion 2.5 16V Hybrid (Aut)",
+        "ano": 2012
+      },
+      {
+        "id": 7104,
+        "idUrl": "fusion-30-v6-sel-fwd-2012",
+        "nome": "Fusion 3.0 V6 SEL FWD",
+        "ano": 2012
+      },
+      {
+        "id": 7106,
+        "idUrl": "fusion-30-v6-sel-awd-2012",
+        "nome": "Fusion 3.0 V6 SEL AWD",
+        "ano": 2012
+      },
+      {
+        "id": 7116,
+        "idUrl": "fusion-25-16v-sel-2012",
+        "nome": "Fusion 2.5 16V SEL",
+        "ano": 2012
+      }
+    ],
+    "2013": [
+      {
+        "id": 6970,
+        "idUrl": "fusion-20-16v-hybrid-titanium-aut-2013",
+        "nome": "Fusion 2.0 16V Hybrid Titanium (Aut)",
+        "ano": 2013
+      },
+      {
+        "id": 6972,
+        "idUrl": "fusion-20-16v-gtdi-titanium-4wd-aut-2013",
+        "nome": "Fusion 2.0 16V GTDi Titanium 4WD (Aut)",
+        "ano": 2013
+      },
+      {
+        "id": 6976,
+        "idUrl": "fusion-20-16v-gtdi-titanium-aut-2013",
+        "nome": "Fusion 2.0 16V GTDi Titanium (Aut)",
+        "ano": 2013
+      },
+      {
+        "id": 7115,
+        "idUrl": "fusion-25-16v-ivct-flex-aut-2013",
+        "nome": "Fusion 2.5 16V iVCT (Flex) (Aut)",
+        "ano": 2013
+      }
+    ],
+    "2014": [
+      {
+        "id": 6969,
+        "idUrl": "fusion-20-16v-hybrid-titanium-aut-2014",
+        "nome": "Fusion 2.0 16V Hybrid Titanium (Aut)",
+        "ano": 2014
+      },
+      {
+        "id": 6979,
+        "idUrl": "fusion-20-16v-4wd-gtdi-titanium-aut-2014",
+        "nome": "Fusion 2.0 16V 4WD GTDi Titanium (Aut)",
+        "ano": 2014
+      },
+      {
+        "id": 6971,
+        "idUrl": "fusion-20-16v-gtdi-titanium-plus-aut-2014",
+        "nome": "Fusion 2.0 16V GTDi Titanium Plus (Aut)",
+        "ano": 2014
+      },
+      {
+        "id": 6975,
+        "idUrl": "fusion-20-16v-gtdi-titanium-aut-2014",
+        "nome": "Fusion 2.0 16V GTDi Titanium (Aut)",
+        "ano": 2014
+      },
+      {
+        "id": 7114,
+        "idUrl": "fusion-25-16v-ivct-flex-aut-2014",
+        "nome": "Fusion 2.5 16V iVCT (Flex) (Aut)",
+        "ano": 2014
+      }
+    ],
+    "2015": [
+      {
+        "id": 6968,
+        "idUrl": "fusion-20-16v-hybrid-titanium-aut-2015",
+        "nome": "Fusion 2.0 16V Hybrid Titanium (Aut)",
+        "ano": 2015
+      },
+      {
+        "id": 6978,
+        "idUrl": "fusion-20-16v-awd-gtdi-titanium-aut-2015",
+        "nome": "Fusion 2.0 16V AWD GTDi Titanium (Aut)",
+        "ano": 2015
+      },
+      {
+        "id": 6974,
+        "idUrl": "fusion-20-16v-gtdi-titanium-aut-2015",
+        "nome": "Fusion 2.0 16V GTDi Titanium (Aut)",
+        "ano": 2015
+      },
+      {
+        "id": 7113,
+        "idUrl": "fusion-25-16v-ivct-flex-aut-2015",
+        "nome": "Fusion 2.5 16V iVCT (Flex) (Aut)",
+        "ano": 2015
+      }
+    ],
+    "2016": [
+      {
+        "id": 6967,
+        "idUrl": "fusion-20-16v-hybrid-titanium-aut-2016",
+        "nome": "Fusion 2.0 16V Hybrid Titanium (Aut)",
+        "ano": 2016
+      },
+      {
+        "id": 6977,
+        "idUrl": "fusion-20-16v-awd-gtdi-titanium-aut-2016",
+        "nome": "Fusion 2.0 16V AWD GTDi Titanium (Aut)",
+        "ano": 2016
+      },
+      {
+        "id": 6973,
+        "idUrl": "fusion-20-16v-gtdi-titanium-aut-2016",
+        "nome": "Fusion 2.0 16V GTDi Titanium (Aut)",
+        "ano": 2016
+      },
+      {
+        "id": 7112,
+        "idUrl": "fusion-25-16v-ivct-flex-aut-2016",
+        "nome": "Fusion 2.5 16V iVCT (Flex) (Aut)",
+        "ano": 2016
+      }
+    ],
+    "2017": [
+      {
+        "id": 6966,
+        "idUrl": "fusion-20-16v-hybrid-titanium-aut-2017",
+        "nome": "Fusion 2.0 16V Hybrid Titanium (Aut)",
+        "ano": 2017
+      },
+      {
+        "id": 6963,
+        "idUrl": "fusion-20-ecoboost-titanium-4wd-aut-2017",
+        "nome": "Fusion 2.0 EcoBoost Titanium 4wd (Aut)",
+        "ano": 2017
+      },
+      {
+        "id": 6964,
+        "idUrl": "fusion-20-ecoboost-titanium-aut-2017",
+        "nome": "Fusion 2.0 EcoBoost Titanium (Aut)",
+        "ano": 2017
+      },
+      {
+        "id": 6965,
+        "idUrl": "fusion-20-ecoboost-sel-aut-2017",
+        "nome": "Fusion 2.0 EcoBoost SEL (Aut)",
+        "ano": 2017
+      }
+    ],
+    "2018": [
+      {
+        "id": 22115,
+        "idUrl": "ford-fusion-titanium-20-turbo-awd-2018",
+        "nome": "Ford Fusion Titanium 2.0 Turbo AWD",
+        "ano": 2018
+      }
+    ]
+  }

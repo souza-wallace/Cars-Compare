@@ -1,0 +1,326 @@
+{
+    "2003": [
+      {
+        "id": 5204,
+        "idUrl": "stilo-abarth-24-20v-2003",
+        "nome": "Stilo Abarth 2.4 20V",
+        "ano": 2003
+      },
+      {
+        "id": 5272,
+        "idUrl": "stilo-18-8v-2003",
+        "nome": "Stilo 1.8 8V",
+        "ano": 2003
+      },
+      {
+        "id": 5281,
+        "idUrl": "stilo-18-16v-2003",
+        "nome": "Stilo 1.8 16V",
+        "ano": 2003
+      }
+    ],
+    "2004": [
+      {
+        "id": 5203,
+        "idUrl": "stilo-abarth-24-20v-2004",
+        "nome": "Stilo Abarth 2.4 20V",
+        "ano": 2004
+      },
+      {
+        "id": 5271,
+        "idUrl": "stilo-18-8v-2004",
+        "nome": "Stilo 1.8 8V",
+        "ano": 2004
+      },
+      {
+        "id": 5215,
+        "idUrl": "stilo-sp-18-16v-2004",
+        "nome": "Stilo SP 1.8 16V",
+        "ano": 2004
+      },
+      {
+        "id": 5275,
+        "idUrl": "stilo-18-16v-connect-2004",
+        "nome": "Stilo 1.8 16V Connect",
+        "ano": 2004
+      },
+      {
+        "id": 5291,
+        "idUrl": "stilo-18-16v-2004",
+        "nome": "Stilo 1.8 16V",
+        "ano": 2004
+      }
+    ],
+    "2005": [
+      {
+        "id": 5202,
+        "idUrl": "stilo-abarth-24-20v-2005",
+        "nome": "Stilo Abarth 2.4 20V",
+        "ano": 2005
+      },
+      {
+        "id": 5238,
+        "idUrl": "stilo-schumacher-2005",
+        "nome": "Stilo Schumacher",
+        "ano": 2005
+      },
+      {
+        "id": 5270,
+        "idUrl": "stilo-18-8v-2005",
+        "nome": "Stilo 1.8 8V",
+        "ano": 2005
+      },
+      {
+        "id": 5214,
+        "idUrl": "stilo-sp-18-16v-2005",
+        "nome": "Stilo SP 1.8 16V",
+        "ano": 2005
+      },
+      {
+        "id": 5277,
+        "idUrl": "stilo-18-16v-connect-2005",
+        "nome": "Stilo 1.8 16V Connect",
+        "ano": 2005
+      },
+      {
+        "id": 5280,
+        "idUrl": "stilo-18-16v-2005",
+        "nome": "Stilo 1.8 16V",
+        "ano": 2005
+      }
+    ],
+    "2006": [
+      {
+        "id": 5209,
+        "idUrl": "stilo-abarth-24-20v-2006",
+        "nome": "Stilo Abarth 2.4 20V",
+        "ano": 2006
+      },
+      {
+        "id": 5216,
+        "idUrl": "stilo-schumacher-2006",
+        "nome": "Stilo Schumacher",
+        "ano": 2006
+      },
+      {
+        "id": 5274,
+        "idUrl": "stilo-18-16v-season-2006",
+        "nome": "Stilo 1.8 16V Season",
+        "ano": 2006
+      },
+      {
+        "id": 5269,
+        "idUrl": "stilo-18-8v-flex-2006",
+        "nome": "Stilo 1.8 8V (Flex)",
+        "ano": 2006
+      },
+      {
+        "id": 5276,
+        "idUrl": "stilo-18-16v-connect-2006",
+        "nome": "Stilo 1.8 16V Connect",
+        "ano": 2006
+      },
+      {
+        "id": 5285,
+        "idUrl": "stilo-18-16v-2006",
+        "nome": "Stilo 1.8 16V",
+        "ano": 2006
+      }
+    ],
+    "2007": [
+      {
+        "id": 5208,
+        "idUrl": "stilo-abarth-24-20v-2007",
+        "nome": "Stilo Abarth 2.4 20V",
+        "ano": 2007
+      },
+      {
+        "id": 5237,
+        "idUrl": "stilo-sporting-18-8v-flex-2007",
+        "nome": "Stilo Sporting 1.8 8V (Flex)",
+        "ano": 2007
+      },
+      {
+        "id": 5217,
+        "idUrl": "stilo-schumacher-2007",
+        "nome": "Stilo Schumacher",
+        "ano": 2007
+      },
+      {
+        "id": 5284,
+        "idUrl": "stilo-18-16v-2007",
+        "nome": "Stilo 1.8 16V",
+        "ano": 2007
+      },
+      {
+        "id": 5243,
+        "idUrl": "stilo-18-8v-flex-2007",
+        "nome": "Stilo 1.8 8V (Flex)",
+        "ano": 2007
+      }
+    ],
+    "2008": [
+      {
+        "id": 5207,
+        "idUrl": "stilo-abarth-24-20v-2008",
+        "nome": "Stilo Abarth 2.4 20V",
+        "ano": 2008
+      },
+      {
+        "id": 5232,
+        "idUrl": "stilo-sporting-dualogic-18-8v-flex-2008",
+        "nome": "Stilo Sporting Dualogic 1.8 8V (Flex)",
+        "ano": 2008
+      },
+      {
+        "id": 5236,
+        "idUrl": "stilo-sporting-18-8v-flex-2008",
+        "nome": "Stilo Sporting 1.8 8V (Flex)",
+        "ano": 2008
+      },
+      {
+        "id": 5193,
+        "idUrl": "stilo-dualogic-18-8v-flex-2008",
+        "nome": "Stilo Dualogic 1.8 8V (Flex)",
+        "ano": 2008
+      },
+      {
+        "id": 5279,
+        "idUrl": "stilo-18-8v-flex-2008",
+        "nome": "Stilo 1.8 8V (Flex)",
+        "ano": 2008
+      },
+      {
+        "id": 5283,
+        "idUrl": "stilo-18-16v-2008",
+        "nome": "Stilo 1.8 16V",
+        "ano": 2008
+      }
+    ],
+    "2009": [
+      {
+        "id": 5206,
+        "idUrl": "stilo-abarth-24-20v-2009",
+        "nome": "Stilo Abarth 2.4 20V",
+        "ano": 2009
+      },
+      {
+        "id": 5194,
+        "idUrl": "stilo-blackmotion-dualogic-18-8v-flex-2009",
+        "nome": "Stilo Blackmotion Dualogic 1.8 8V (Flex)",
+        "ano": 2009
+      },
+      {
+        "id": 5229,
+        "idUrl": "stilo-sporting-dualogic-18-8v-flex-2009",
+        "nome": "Stilo Sporting Dualogic 1.8 8V (Flex)",
+        "ano": 2009
+      },
+      {
+        "id": 5233,
+        "idUrl": "stilo-sporting-18-8v-flex-2009",
+        "nome": "Stilo Sporting 1.8 8V (Flex)",
+        "ano": 2009
+      },
+      {
+        "id": 5210,
+        "idUrl": "stilo-18-8v-dualogic-flex-2009",
+        "nome": "Stilo 1.8 8V Dualogic (Flex)",
+        "ano": 2009
+      },
+      {
+        "id": 5213,
+        "idUrl": "stilo-18-8v-flex-2009",
+        "nome": "Stilo 1.8 8V (Flex)",
+        "ano": 2009
+      }
+    ],
+    "2010": [
+      {
+        "id": 5196,
+        "idUrl": "stilo-blackmotion-dualogic-18-8v-flex-2010",
+        "nome": "Stilo Blackmotion Dualogic 1.8 8V (Flex)",
+        "ano": 2010
+      },
+      {
+        "id": 5231,
+        "idUrl": "stilo-sporting-dualogic-18-8v-flex-2010",
+        "nome": "Stilo Sporting Dualogic 1.8 8V (Flex)",
+        "ano": 2010
+      },
+      {
+        "id": 5235,
+        "idUrl": "stilo-sporting-18-8v-flex-2010",
+        "nome": "Stilo Sporting 1.8 8V (Flex)",
+        "ano": 2010
+      },
+      {
+        "id": 5212,
+        "idUrl": "stilo-18-8v-dualogic-flex-2010",
+        "nome": "Stilo 1.8 8V Dualogic (Flex)",
+        "ano": 2010
+      },
+      {
+        "id": 5198,
+        "idUrl": "stilo-attractive-18-8v-dualogic-flex-2010",
+        "nome": "Stilo Attractive 1.8 8V Dualogic (Flex)",
+        "ano": 2010
+      },
+      {
+        "id": 5242,
+        "idUrl": "stilo-18-8v-flex-2010",
+        "nome": "Stilo 1.8 8V (Flex)",
+        "ano": 2010
+      },
+      {
+        "id": 5200,
+        "idUrl": "stilo-attractive-18-8v-flex-2010",
+        "nome": "Stilo Attractive 1.8 8V (Flex)",
+        "ano": 2010
+      }
+    ],
+    "2011": [
+      {
+        "id": 5195,
+        "idUrl": "stilo-blackmotion-dualogic-18-8v-flex-2011",
+        "nome": "Stilo Blackmotion Dualogic 1.8 8V (Flex)",
+        "ano": 2011
+      },
+      {
+        "id": 5240,
+        "idUrl": "stilo-sporting-dualogic-18-8v-flex-2011",
+        "nome": "Stilo Sporting Dualogic 1.8 8V (Flex)",
+        "ano": 2011
+      },
+      {
+        "id": 5234,
+        "idUrl": "stilo-sporting-18-8v-flex-2011",
+        "nome": "Stilo Sporting 1.8 8V (Flex)",
+        "ano": 2011
+      },
+      {
+        "id": 5197,
+        "idUrl": "stilo-attractive-18-8v-dualogic-flex-2011",
+        "nome": "Stilo Attractive 1.8 8V Dualogic (Flex)",
+        "ano": 2011
+      },
+      {
+        "id": 5211,
+        "idUrl": "stilo-18-8v-dualogic-flex-2011",
+        "nome": "Stilo 1.8 8V Dualogic (Flex)",
+        "ano": 2011
+      },
+      {
+        "id": 5228,
+        "idUrl": "stilo-18-8v-flex-2011",
+        "nome": "Stilo 1.8 8V (Flex)",
+        "ano": 2011
+      },
+      {
+        "id": 5199,
+        "idUrl": "stilo-attractive-18-8v-flex-2011",
+        "nome": "Stilo Attractive 1.8 8V (Flex)",
+        "ano": 2011
+      }
+    ]
+  }

@@ -1,0 +1,1226 @@
+{
+    "2001": [
+      {
+        "id": 8155,
+        "idUrl": "focus-sedan-20-16v-2001",
+        "nome": "Focus Sedan 2.0 16V",
+        "ano": 2001
+      },
+      {
+        "id": 7026,
+        "idUrl": "focus-sedan-ghia-20-16v-2001",
+        "nome": "Focus Sedan Ghia 2.0 16V",
+        "ano": 2001
+      },
+      {
+        "id": 8214,
+        "idUrl": "focus-hatch-ghia-20-16v-2001",
+        "nome": "Focus Hatch Ghia 2.0 16V",
+        "ano": 2001
+      },
+      {
+        "id": 8052,
+        "idUrl": "focus-hatch-18-16v-2001",
+        "nome": "Focus Hatch 1.8 16V",
+        "ano": 2001
+      },
+      {
+        "id": 8186,
+        "idUrl": "focus-hatch-glx-18-16v-2001",
+        "nome": "Focus Hatch GLX 1.8 16V",
+        "ano": 2001
+      }
+    ],
+    "2002": [
+      {
+        "id": 6996,
+        "idUrl": "focus-sedan-glx-20-16v-2002",
+        "nome": "Focus Sedan GLX 2.0 16V",
+        "ano": 2002
+      },
+      {
+        "id": 8154,
+        "idUrl": "focus-sedan-20-16v-2002",
+        "nome": "Focus Sedan 2.0 16V",
+        "ano": 2002
+      },
+      {
+        "id": 7025,
+        "idUrl": "focus-sedan-ghia-20-16v-2002",
+        "nome": "Focus Sedan Ghia 2.0 16V",
+        "ano": 2002
+      },
+      {
+        "id": 8213,
+        "idUrl": "focus-hatch-ghia-20-16v-2002",
+        "nome": "Focus Hatch Ghia 2.0 16V",
+        "ano": 2002
+      },
+      {
+        "id": 8199,
+        "idUrl": "focus-hatch-gl-18-16v-2002",
+        "nome": "Focus Hatch GL 1.8 16V",
+        "ano": 2002
+      },
+      {
+        "id": 8050,
+        "idUrl": "focus-hatch-18-16v-2002",
+        "nome": "Focus Hatch 1.8 16V",
+        "ano": 2002
+      },
+      {
+        "id": 8185,
+        "idUrl": "focus-hatch-glx-18-16v-2002",
+        "nome": "Focus Hatch GLX 1.8 16V",
+        "ano": 2002
+      }
+    ],
+    "2003": [
+      {
+        "id": 7023,
+        "idUrl": "focus-sedan-ghia-20-16v-aut-2003",
+        "nome": "Focus Sedan Ghia 2.0 16V (Aut)",
+        "ano": 2003
+      },
+      {
+        "id": 8208,
+        "idUrl": "focus-hatch-ghia-20-16v-aut-2003",
+        "nome": "Focus Hatch Ghia 2.0 16V (Aut)",
+        "ano": 2003
+      },
+      {
+        "id": 7024,
+        "idUrl": "focus-sedan-ghia-20-16v-2003",
+        "nome": "Focus Sedan Ghia 2.0 16V",
+        "ano": 2003
+      },
+      {
+        "id": 6995,
+        "idUrl": "focus-sedan-glx-20-16v-2003",
+        "nome": "Focus Sedan GLX 2.0 16V",
+        "ano": 2003
+      },
+      {
+        "id": 8156,
+        "idUrl": "focus-sedan-20-16v-2003",
+        "nome": "Focus Sedan 2.0 16V",
+        "ano": 2003
+      },
+      {
+        "id": 8183,
+        "idUrl": "focus-hatch-glx-20-16v-2003",
+        "nome": "Focus Hatch GLX 2.0 16V",
+        "ano": 2003
+      },
+      {
+        "id": 6992,
+        "idUrl": "focus-sedan-glx-20-16v-aut-2003",
+        "nome": "Focus Sedan GLX 2.0 16V (Aut)",
+        "ano": 2003
+      },
+      {
+        "id": 7585,
+        "idUrl": "focus-sedan-20-16v-aut-2003",
+        "nome": "Focus Sedan 2.0 16V (Aut)",
+        "ano": 2003
+      },
+      {
+        "id": 8212,
+        "idUrl": "focus-hatch-ghia-20-16v-2003",
+        "nome": "Focus Hatch Ghia 2.0 16V",
+        "ano": 2003
+      },
+      {
+        "id": 8161,
+        "idUrl": "focus-hatch-xr-20-16v-2003",
+        "nome": "Focus Hatch Xr 2.0 16V",
+        "ano": 2003
+      },
+      {
+        "id": 8200,
+        "idUrl": "focus-hatch-gl-18-16v-2003",
+        "nome": "Focus Hatch GL 1.8 16V",
+        "ano": 2003
+      },
+      {
+        "id": 8051,
+        "idUrl": "focus-hatch-18-16v-2003",
+        "nome": "Focus Hatch 1.8 16V",
+        "ano": 2003
+      },
+      {
+        "id": 8187,
+        "idUrl": "focus-hatch-glx-18-16v-2003",
+        "nome": "Focus Hatch GLX 1.8 16V",
+        "ano": 2003
+      },
+      {
+        "id": 8158,
+        "idUrl": "focus-sedan-18-16v-2003",
+        "nome": "Focus Sedan 1.8 16V",
+        "ano": 2003
+      },
+      {
+        "id": 8126,
+        "idUrl": "focus-hatch-gl-16-8v-2003",
+        "nome": "Focus Hatch GL 1.6 8V",
+        "ano": 2003
+      },
+      {
+        "id": 8191,
+        "idUrl": "focus-hatch-glx-16-8v-2003",
+        "nome": "Focus Hatch GLX 1.6 8V",
+        "ano": 2003
+      }
+    ],
+    "2004": [
+      {
+        "id": 6994,
+        "idUrl": "focus-sedan-glx-20-16v-aut-2004",
+        "nome": "Focus Sedan GLX 2.0 16V (Aut)",
+        "ano": 2004
+      },
+      {
+        "id": 7022,
+        "idUrl": "focus-sedan-ghia-20-16v-aut-2004",
+        "nome": "Focus Sedan Ghia 2.0 16V (Aut)",
+        "ano": 2004
+      },
+      {
+        "id": 8205,
+        "idUrl": "focus-hatch-glx-20-16v-aut-2004",
+        "nome": "Focus Hatch GLX 2.0 16V (Aut)",
+        "ano": 2004
+      },
+      {
+        "id": 8180,
+        "idUrl": "focus-hatch-ghia-20-16v-aut-2004",
+        "nome": "Focus Hatch Ghia 2.0 16V (Aut)",
+        "ano": 2004
+      },
+      {
+        "id": 7027,
+        "idUrl": "focus-sedan-ghia-20-16v-2004",
+        "nome": "Focus Sedan Ghia 2.0 16V",
+        "ano": 2004
+      },
+      {
+        "id": 6997,
+        "idUrl": "focus-sedan-glx-20-16v-2004",
+        "nome": "Focus Sedan GLX 2.0 16V",
+        "ano": 2004
+      },
+      {
+        "id": 8182,
+        "idUrl": "focus-hatch-glx-20-16v-2004",
+        "nome": "Focus Hatch GLX 2.0 16V",
+        "ano": 2004
+      },
+      {
+        "id": 7002,
+        "idUrl": "focus-sedan-glx-16-8v-2004",
+        "nome": "Focus Sedan GLX 1.6 8V",
+        "ano": 2004
+      },
+      {
+        "id": 8211,
+        "idUrl": "focus-hatch-ghia-20-16v-2004",
+        "nome": "Focus Hatch Ghia 2.0 16V",
+        "ano": 2004
+      },
+      {
+        "id": 8190,
+        "idUrl": "focus-hatch-glx-16-8v-2004",
+        "nome": "Focus Hatch GLX 1.6 8V",
+        "ano": 2004
+      },
+      {
+        "id": 8203,
+        "idUrl": "focus-hatch-gl-16-8v-2004",
+        "nome": "Focus Hatch GL 1.6 8V",
+        "ano": 2004
+      }
+    ],
+    "2005": [
+      {
+        "id": 6954,
+        "idUrl": "focus-sedan-ghia-20-16v-duratec-aut-2005",
+        "nome": "Focus Sedan Ghia 2.0 16V Duratec (Aut)",
+        "ano": 2005
+      },
+      {
+        "id": 7028,
+        "idUrl": "focus-sedan-glx-20-16v-duratec-aut-2005",
+        "nome": "Focus Sedan GLX 2.0 16V Duratec (Aut)",
+        "ano": 2005
+      },
+      {
+        "id": 8216,
+        "idUrl": "focus-hatch-glx-20-16v-duratec-aut-2005",
+        "nome": "Focus Hatch GLX 2.0 16V Duratec (Aut)",
+        "ano": 2005
+      },
+      {
+        "id": 8210,
+        "idUrl": "focus-hatch-ghia-20-16v-aut-2005",
+        "nome": "Focus Hatch Ghia 2.0 16V (Aut)",
+        "ano": 2005
+      },
+      {
+        "id": 8139,
+        "idUrl": "focus-hatch-ghia-20-16v-duratec-aut-2005",
+        "nome": "Focus Hatch Ghia 2.0 16V Duratec (Aut)",
+        "ano": 2005
+      },
+      {
+        "id": 7033,
+        "idUrl": "focus-sedan-glx-20-16v-duratec-2005",
+        "nome": "Focus Sedan GLX 2.0 16V Duratec",
+        "ano": 2005
+      },
+      {
+        "id": 6987,
+        "idUrl": "focus-sedan-ghia-20-16v-duratec-2005",
+        "nome": "Focus Sedan Ghia 2.0 16V Duratec",
+        "ano": 2005
+      },
+      {
+        "id": 8215,
+        "idUrl": "focus-hatch-ghia-20-16v-2005",
+        "nome": "Focus Hatch Ghia 2.0 16V",
+        "ano": 2005
+      },
+      {
+        "id": 8144,
+        "idUrl": "focus-hatch-ghia-20-16v-duratec-2005",
+        "nome": "Focus Hatch Ghia 2.0 16V Duratec",
+        "ano": 2005
+      },
+      {
+        "id": 8221,
+        "idUrl": "focus-hatch-glx-20-16v-duratec-2005",
+        "nome": "Focus Hatch GLX 2.0 16V Duratec",
+        "ano": 2005
+      },
+      {
+        "id": 8181,
+        "idUrl": "focus-hatch-glx-20-16v-aut-2005",
+        "nome": "Focus Hatch GLX 2.0 16V (Aut)",
+        "ano": 2005
+      },
+      {
+        "id": 8184,
+        "idUrl": "focus-hatch-glx-20-16v-2005",
+        "nome": "Focus Hatch GLX 2.0 16V",
+        "ano": 2005
+      },
+      {
+        "id": 7000,
+        "idUrl": "focus-sedan-glx-16-8v-2005",
+        "nome": "Focus Sedan GLX 1.6 8V",
+        "ano": 2005
+      },
+      {
+        "id": 8189,
+        "idUrl": "focus-hatch-glx-16-8v-2005",
+        "nome": "Focus Hatch GLX 1.6 8V",
+        "ano": 2005
+      },
+      {
+        "id": 8202,
+        "idUrl": "focus-hatch-gl-16-8v-2005",
+        "nome": "Focus Hatch GL 1.6 8V",
+        "ano": 2005
+      }
+    ],
+    "2006": [
+      {
+        "id": 6959,
+        "idUrl": "focus-sedan-ghia-20-16v-duratec-aut-2006",
+        "nome": "Focus Sedan Ghia 2.0 16V Duratec (Aut)",
+        "ano": 2006
+      },
+      {
+        "id": 8143,
+        "idUrl": "focus-hatch-ghia-20-16v-duratec-aut-2006",
+        "nome": "Focus Hatch Ghia 2.0 16V Duratec (Aut)",
+        "ano": 2006
+      },
+      {
+        "id": 7017,
+        "idUrl": "focus-sedan-ghia-20-16v-duratec-2006",
+        "nome": "Focus Sedan Ghia 2.0 16V Duratec",
+        "ano": 2006
+      },
+      {
+        "id": 7032,
+        "idUrl": "focus-sedan-glx-20-16v-duratec-aut-2006",
+        "nome": "Focus Sedan GLX 2.0 16V Duratec (Aut)",
+        "ano": 2006
+      },
+      {
+        "id": 8232,
+        "idUrl": "focus-hatch-glx-20-16v-duratec-aut-2006",
+        "nome": "Focus Hatch GLX 2.0 16V Duratec (Aut)",
+        "ano": 2006
+      },
+      {
+        "id": 8147,
+        "idUrl": "focus-hatch-ghia-20-16v-duratec-2006",
+        "nome": "Focus Hatch Ghia 2.0 16V Duratec",
+        "ano": 2006
+      },
+      {
+        "id": 7037,
+        "idUrl": "focus-sedan-glx-20-16v-duratec-2006",
+        "nome": "Focus Sedan GLX 2.0 16V Duratec",
+        "ano": 2006
+      },
+      {
+        "id": 8225,
+        "idUrl": "focus-hatch-glx-20-16v-duratec-2006",
+        "nome": "Focus Hatch GLX 2.0 16V Duratec",
+        "ano": 2006
+      },
+      {
+        "id": 7003,
+        "idUrl": "focus-sedan-glx-16-8v-2006",
+        "nome": "Focus Sedan GLX 1.6 8V",
+        "ano": 2006
+      },
+      {
+        "id": 8194,
+        "idUrl": "focus-hatch-glx-16-8v-2006",
+        "nome": "Focus Hatch GLX 1.6 8V",
+        "ano": 2006
+      },
+      {
+        "id": 8070,
+        "idUrl": "focus-hatch-gl-16-8v-2006",
+        "nome": "Focus Hatch GL 1.6 8V",
+        "ano": 2006
+      }
+    ],
+    "2007": [
+      {
+        "id": 6957,
+        "idUrl": "focus-sedan-ghia-20-16v-duratec-aut-2007",
+        "nome": "Focus Sedan Ghia 2.0 16V Duratec (Aut)",
+        "ano": 2007
+      },
+      {
+        "id": 8142,
+        "idUrl": "focus-hatch-ghia-20-16v-duratec-aut-2007",
+        "nome": "Focus Hatch Ghia 2.0 16V Duratec (Aut)",
+        "ano": 2007
+      },
+      {
+        "id": 7016,
+        "idUrl": "focus-sedan-ghia-20-16v-duratec-2007",
+        "nome": "Focus Sedan Ghia 2.0 16V Duratec",
+        "ano": 2007
+      },
+      {
+        "id": 7031,
+        "idUrl": "focus-sedan-glx-20-16v-duratec-aut-2007",
+        "nome": "Focus Sedan GLX 2.0 16V Duratec (Aut)",
+        "ano": 2007
+      },
+      {
+        "id": 8220,
+        "idUrl": "focus-hatch-glx-20-16v-duratec-aut-2007",
+        "nome": "Focus Hatch GLX 2.0 16V Duratec (Aut)",
+        "ano": 2007
+      },
+      {
+        "id": 7036,
+        "idUrl": "focus-sedan-glx-20-16v-duratec-2007",
+        "nome": "Focus Sedan GLX 2.0 16V Duratec",
+        "ano": 2007
+      },
+      {
+        "id": 8224,
+        "idUrl": "focus-hatch-glx-20-16v-duratec-2007",
+        "nome": "Focus Hatch GLX 2.0 16V Duratec",
+        "ano": 2007
+      },
+      {
+        "id": 8146,
+        "idUrl": "focus-hatch-ghia-20-16v-duratec-2007",
+        "nome": "Focus Hatch Ghia 2.0 16V Duratec",
+        "ano": 2007
+      },
+      {
+        "id": 7008,
+        "idUrl": "focus-sedan-gl-16-8v-2007",
+        "nome": "Focus Sedan GL 1.6 8V",
+        "ano": 2007
+      },
+      {
+        "id": 8192,
+        "idUrl": "focus-hatch-glx-16-8v-2007",
+        "nome": "Focus Hatch GLX 1.6 8V",
+        "ano": 2007
+      },
+      {
+        "id": 8124,
+        "idUrl": "focus-hatch-gl-16-8v-2007",
+        "nome": "Focus Hatch GL 1.6 8V",
+        "ano": 2007
+      }
+    ],
+    "2008": [
+      {
+        "id": 7030,
+        "idUrl": "focus-sedan-glx-20-16v-duratec-aut-2008",
+        "nome": "Focus Sedan GLX 2.0 16V Duratec (Aut)",
+        "ano": 2008
+      },
+      {
+        "id": 8218,
+        "idUrl": "focus-hatch-glx-20-16v-duratec-aut-2008",
+        "nome": "Focus Hatch GLX 2.0 16V Duratec (Aut)",
+        "ano": 2008
+      },
+      {
+        "id": 7035,
+        "idUrl": "focus-sedan-glx-20-16v-duratec-2008",
+        "nome": "Focus Sedan GLX 2.0 16V Duratec",
+        "ano": 2008
+      },
+      {
+        "id": 8223,
+        "idUrl": "focus-hatch-glx-20-16v-duratec-2008",
+        "nome": "Focus Hatch GLX 2.0 16V Duratec",
+        "ano": 2008
+      },
+      {
+        "id": 6956,
+        "idUrl": "focus-sedan-ghia-20-16v-duratec-aut-2008",
+        "nome": "Focus Sedan Ghia 2.0 16V Duratec (Aut)",
+        "ano": 2008
+      },
+      {
+        "id": 8141,
+        "idUrl": "focus-hatch-ghia-20-16v-duratec-aut-2008",
+        "nome": "Focus Hatch Ghia 2.0 16V Duratec (Aut)",
+        "ano": 2008
+      },
+      {
+        "id": 6988,
+        "idUrl": "focus-sedan-ghia-20-16v-duratec-2008",
+        "nome": "Focus Sedan Ghia 2.0 16V Duratec",
+        "ano": 2008
+      },
+      {
+        "id": 8145,
+        "idUrl": "focus-hatch-ghia-20-16v-duratec-2008",
+        "nome": "Focus Hatch Ghia 2.0 16V Duratec",
+        "ano": 2008
+      },
+      {
+        "id": 7001,
+        "idUrl": "focus-sedan-glx-16-8v-2008",
+        "nome": "Focus Sedan GLX 1.6 8V",
+        "ano": 2008
+      },
+      {
+        "id": 7007,
+        "idUrl": "focus-sedan-gl-16-8v-2008",
+        "nome": "Focus Sedan GL 1.6 8V",
+        "ano": 2008
+      },
+      {
+        "id": 8193,
+        "idUrl": "focus-hatch-glx-16-8v-2008",
+        "nome": "Focus Hatch GLX 1.6 8V",
+        "ano": 2008
+      },
+      {
+        "id": 8125,
+        "idUrl": "focus-hatch-gl-16-8v-2008",
+        "nome": "Focus Hatch GL 1.6 8V",
+        "ano": 2008
+      }
+    ],
+    "2009": [
+      {
+        "id": 6955,
+        "idUrl": "focus-sedan-ghia-20-16v-duratec-aut-2009",
+        "nome": "Focus Sedan Ghia 2.0 16V Duratec (Aut)",
+        "ano": 2009
+      },
+      {
+        "id": 7029,
+        "idUrl": "focus-sedan-glx-20-16v-duratec-aut-2009",
+        "nome": "Focus Sedan GLX 2.0 16V Duratec (Aut)",
+        "ano": 2009
+      },
+      {
+        "id": 8217,
+        "idUrl": "focus-hatch-glx-20-16v-duratec-aut-2009",
+        "nome": "Focus Hatch GLX 2.0 16V Duratec (Aut)",
+        "ano": 2009
+      },
+      {
+        "id": 7034,
+        "idUrl": "focus-sedan-glx-20-16v-duratec-2009",
+        "nome": "Focus Sedan GLX 2.0 16V Duratec",
+        "ano": 2009
+      },
+      {
+        "id": 8222,
+        "idUrl": "focus-hatch-glx-20-16v-duratec-2009",
+        "nome": "Focus Hatch GLX 2.0 16V Duratec",
+        "ano": 2009
+      },
+      {
+        "id": 8151,
+        "idUrl": "focus-hatch-ghia-20-16v-flex-2009",
+        "nome": "Focus Hatch Ghia 2.0 16V (Flex)",
+        "ano": 2009
+      },
+      {
+        "id": 8140,
+        "idUrl": "focus-hatch-ghia-20-16v-duratec-aut-2009",
+        "nome": "Focus Hatch Ghia 2.0 16V Duratec (Aut)",
+        "ano": 2009
+      },
+      {
+        "id": 7013,
+        "idUrl": "focus-sedan-ghia-20-16v-duratec-2009",
+        "nome": "Focus Sedan Ghia 2.0 16V Duratec",
+        "ano": 2009
+      },
+      {
+        "id": 6999,
+        "idUrl": "focus-sedan-glx-16-8v-flex-2009",
+        "nome": "Focus Sedan GLX 1.6 8V (Flex)",
+        "ano": 2009
+      },
+      {
+        "id": 7366,
+        "idUrl": "focus-sedan-gl-16-flex-2009",
+        "nome": "Focus Sedan GL 1.6 (Flex)",
+        "ano": 2009
+      },
+      {
+        "id": 8201,
+        "idUrl": "focus-hatch-gl-16-8v-flex-2009",
+        "nome": "Focus Hatch GL 1.6 8V (Flex)",
+        "ano": 2009
+      }
+    ],
+    "2010": [
+      {
+        "id": 7019,
+        "idUrl": "focus-sedan-ghia-20-16v-flex-aut-2010",
+        "nome": "Focus Sedan Ghia 2.0 16V (Flex) (Aut)",
+        "ano": 2010
+      },
+      {
+        "id": 8149,
+        "idUrl": "focus-hatch-ghia-20-16v-flex-aut-2010",
+        "nome": "Focus Hatch Ghia 2.0 16V (Flex) (Aut)",
+        "ano": 2010
+      },
+      {
+        "id": 7021,
+        "idUrl": "focus-sedan-ghia-20-16v-flex-2010",
+        "nome": "Focus Sedan Ghia 2.0 16V (Flex)",
+        "ano": 2010
+      },
+      {
+        "id": 6991,
+        "idUrl": "focus-sedan-glx-20-16v-flex-2010",
+        "nome": "Focus Sedan GLX 2.0 16V (Flex)",
+        "ano": 2010
+      },
+      {
+        "id": 7014,
+        "idUrl": "focus-sedan-glx-20-16v-flex-aut-2010",
+        "nome": "Focus Sedan GLX 2.0 16V (Flex) (Aut)",
+        "ano": 2010
+      },
+      {
+        "id": 8229,
+        "idUrl": "focus-hatch-glx-20-16v-flex-aut-2010",
+        "nome": "Focus Hatch GLX 2.0 16V (Flex) (Aut)",
+        "ano": 2010
+      },
+      {
+        "id": 8178,
+        "idUrl": "focus-hatch-ghia-20-16v-flex-2010",
+        "nome": "Focus Hatch Ghia 2.0 16V (Flex)",
+        "ano": 2010
+      },
+      {
+        "id": 8206,
+        "idUrl": "focus-hatch-glx-20-16v-flex-2010",
+        "nome": "Focus Hatch GLX 2.0 16V (Flex)",
+        "ano": 2010
+      },
+      {
+        "id": 8159,
+        "idUrl": "focus-sedan-16-16v-glx-flex-2010",
+        "nome": "Focus Sedan 1.6 16V GLX (Flex)",
+        "ano": 2010
+      },
+      {
+        "id": 8160,
+        "idUrl": "focus-sedan-16-16v-flex-2010",
+        "nome": "Focus Sedan 1.6 16V (Flex)",
+        "ano": 2010
+      },
+      {
+        "id": 8049,
+        "idUrl": "focus-hatch-gl-16-16v-flex-2010",
+        "nome": "Focus Hatch GL 1.6 16V (Flex)",
+        "ano": 2010
+      },
+      {
+        "id": 8198,
+        "idUrl": "focus-hatch-glx-16-16v-flex-2010",
+        "nome": "Focus Hatch GLX 1.6 16V (Flex)",
+        "ano": 2010
+      },
+      {
+        "id": 8188,
+        "idUrl": "focus-hatch-glx-16-8v-flex-2010",
+        "nome": "Focus Hatch GLX 1.6 8V (Flex)",
+        "ano": 2010
+      }
+    ],
+    "2011": [
+      {
+        "id": 7018,
+        "idUrl": "focus-sedan-ghia-20-16v-flex-aut-2011",
+        "nome": "Focus Sedan Ghia 2.0 16V (Flex) (Aut)",
+        "ano": 2011
+      },
+      {
+        "id": 6941,
+        "idUrl": "focus-sedan-titanium-20-16v-aut-2011",
+        "nome": "Focus Sedan Titanium 2.0 16V  (Aut)",
+        "ano": 2011
+      },
+      {
+        "id": 8148,
+        "idUrl": "focus-hatch-ghia-20-16v-flex-aut-2011",
+        "nome": "Focus Hatch Ghia 2.0 16V (Flex) (Aut)",
+        "ano": 2011
+      },
+      {
+        "id": 7020,
+        "idUrl": "focus-sedan-ghia-20-16v-flex-2011",
+        "nome": "Focus Sedan Ghia 2.0 16V (Flex)",
+        "ano": 2011
+      },
+      {
+        "id": 8172,
+        "idUrl": "focus-hatch-titanium-20-16v-aut-2011",
+        "nome": "Focus Hatch Titanium 2.0 16V (Aut)",
+        "ano": 2011
+      },
+      {
+        "id": 8175,
+        "idUrl": "focus-hatch-titanium-20-16v-2011",
+        "nome": "Focus Hatch Titanium 2.0 16V",
+        "ano": 2011
+      },
+      {
+        "id": 7006,
+        "idUrl": "focus-sedan-glx-16-16v-flex-2011",
+        "nome": "Focus Sedan GLX 1.6 16V (Flex)",
+        "ano": 2011
+      },
+      {
+        "id": 7011,
+        "idUrl": "focus-sedan-gl-16-16v-flex-2011",
+        "nome": "Focus Sedan GL 1.6 16V (Flex)",
+        "ano": 2011
+      },
+      {
+        "id": 6990,
+        "idUrl": "focus-sedan-glx-20-16v-flex-2011",
+        "nome": "Focus Sedan GLX 2.0 16V (Flex)",
+        "ano": 2011
+      },
+      {
+        "id": 7039,
+        "idUrl": "focus-sedan-glx-20-16v-flex-aut-2011",
+        "nome": "Focus Sedan GLX 2.0 16V (Flex) (Aut)",
+        "ano": 2011
+      },
+      {
+        "id": 8228,
+        "idUrl": "focus-hatch-glx-20-16v-flex-aut-2011",
+        "nome": "Focus Hatch GLX 2.0 16V (Flex) (Aut)",
+        "ano": 2011
+      },
+      {
+        "id": 8207,
+        "idUrl": "focus-hatch-glx-20-16v-flex-2011",
+        "nome": "Focus Hatch GLX 2.0 16V (Flex)",
+        "ano": 2011
+      },
+      {
+        "id": 8179,
+        "idUrl": "focus-hatch-ghia-20-16v-flex-2011",
+        "nome": "Focus Hatch Ghia 2.0 16V (Flex)",
+        "ano": 2011
+      },
+      {
+        "id": 8048,
+        "idUrl": "focus-hatch-gl-16-16v-flex-2011",
+        "nome": "Focus Hatch GL 1.6 16V (Flex)",
+        "ano": 2011
+      },
+      {
+        "id": 8197,
+        "idUrl": "focus-hatch-glx-16-16v-flex-2011",
+        "nome": "Focus Hatch GLX 1.6 16V (Flex)",
+        "ano": 2011
+      }
+    ],
+    "2012": [
+      {
+        "id": 6940,
+        "idUrl": "focus-sedan-titanium-20-16v-aut-2012",
+        "nome": "Focus Sedan Titanium 2.0 16V  (Aut)",
+        "ano": 2012
+      },
+      {
+        "id": 8171,
+        "idUrl": "focus-hatch-titanium-20-16v-aut-2012",
+        "nome": "Focus Hatch Titanium 2.0 16V (Aut)",
+        "ano": 2012
+      },
+      {
+        "id": 8174,
+        "idUrl": "focus-hatch-titanium-20-16v-2012",
+        "nome": "Focus Hatch Titanium 2.0 16V",
+        "ano": 2012
+      },
+      {
+        "id": 7015,
+        "idUrl": "focus-sedan-glx-20-16v-flex-aut-2012",
+        "nome": "Focus Sedan GLX 2.0 16V (Flex) (Aut)",
+        "ano": 2012
+      },
+      {
+        "id": 8227,
+        "idUrl": "focus-hatch-glx-20-16v-flex-aut-2012",
+        "nome": "Focus Hatch GLX 2.0 16V (Flex) (Aut)",
+        "ano": 2012
+      },
+      {
+        "id": 7010,
+        "idUrl": "focus-sedan-gl-16-16v-flex-2012",
+        "nome": "Focus Sedan GL 1.6 16V (Flex)",
+        "ano": 2012
+      },
+      {
+        "id": 6989,
+        "idUrl": "focus-sedan-glx-20-16v-flex-2012",
+        "nome": "Focus Sedan GLX 2.0 16V (Flex)",
+        "ano": 2012
+      },
+      {
+        "id": 8231,
+        "idUrl": "focus-hatch-glx-20-16v-flex-2012",
+        "nome": "Focus Hatch GLX 2.0 16V (Flex)",
+        "ano": 2012
+      },
+      {
+        "id": 8047,
+        "idUrl": "focus-hatch-gl-16-16v-flex-2012",
+        "nome": "Focus Hatch GL 1.6 16V (Flex)",
+        "ano": 2012
+      },
+      {
+        "id": 7005,
+        "idUrl": "focus-sedan-glx-16-16v-flex-2012",
+        "nome": "Focus Sedan GLX 1.6 16V (Flex)",
+        "ano": 2012
+      },
+      {
+        "id": 8196,
+        "idUrl": "focus-hatch-glx-16-16v-flex-2012",
+        "nome": "Focus Hatch GLX 1.6 16V (Flex)",
+        "ano": 2012
+      }
+    ],
+    "2013": [
+      {
+        "id": 6939,
+        "idUrl": "focus-sedan-titanium-20-16v-aut-2013",
+        "nome": "Focus Sedan Titanium 2.0 16V (Aut)",
+        "ano": 2013
+      },
+      {
+        "id": 8170,
+        "idUrl": "focus-hatch-titanium-20-16v-aut-2013",
+        "nome": "Focus Hatch Titanium 2.0 16V (Aut)",
+        "ano": 2013
+      },
+      {
+        "id": 8173,
+        "idUrl": "focus-hatch-titanium-20-16v-2013",
+        "nome": "Focus Hatch Titanium 2.0 16V",
+        "ano": 2013
+      },
+      {
+        "id": 7038,
+        "idUrl": "focus-sedan-glx-20-16v-flex-aut-2013",
+        "nome": "Focus Sedan GLX 2.0 16V (Flex) (Aut)",
+        "ano": 2013
+      },
+      {
+        "id": 8226,
+        "idUrl": "focus-hatch-glx-20-16v-flex-aut-2013",
+        "nome": "Focus Hatch GLX 2.0 16V (Flex) (Aut)",
+        "ano": 2013
+      },
+      {
+        "id": 7012,
+        "idUrl": "focus-sedan-glx-20-16v-flex-2013",
+        "nome": "Focus Sedan GLX 2.0 16V (Flex)",
+        "ano": 2013
+      },
+      {
+        "id": 7004,
+        "idUrl": "focus-sedan-glx-16-16v-flex-2013",
+        "nome": "Focus Sedan GLX 1.6 16V (Flex)",
+        "ano": 2013
+      },
+      {
+        "id": 7009,
+        "idUrl": "focus-sedan-gl-16-16v-flex-2013",
+        "nome": "Focus Sedan GL 1.6 16V (Flex)",
+        "ano": 2013
+      },
+      {
+        "id": 8230,
+        "idUrl": "focus-hatch-glx-20-16v-flex-2013",
+        "nome": "Focus Hatch GLX 2.0 16V (Flex)",
+        "ano": 2013
+      },
+      {
+        "id": 8046,
+        "idUrl": "focus-hatch-gl-16-16v-flex-2013",
+        "nome": "Focus Hatch GL 1.6 16V (Flex)",
+        "ano": 2013
+      },
+      {
+        "id": 8195,
+        "idUrl": "focus-hatch-glx-16-16v-flex-2013",
+        "nome": "Focus Hatch GLX 1.6 16V (Flex)",
+        "ano": 2013
+      }
+    ],
+    "2014": [
+      {
+        "id": 6938,
+        "idUrl": "focus-sedan-titanium-20-16v-powershift-2014",
+        "nome": "Focus Sedan Titanium 2.0 16V PowerShift",
+        "ano": 2014
+      },
+      {
+        "id": 6958,
+        "idUrl": "focus-sedan-titanium-plus-20-16v-powershift-aut-2014",
+        "nome": "Focus Sedan Titanium Plus 2.0 16V PowerShift (Aut)",
+        "ano": 2014
+      },
+      {
+        "id": 8165,
+        "idUrl": "focus-hatch-titanium-plus-20-16v-powershift-aut-2014",
+        "nome": "Focus Hatch Titanium Plus 2.0 16V PowerShift (Aut)",
+        "ano": 2014
+      },
+      {
+        "id": 8130,
+        "idUrl": "focus-hatch-se-16-16v-tivct-powershift-aut-2014",
+        "nome": "Focus Hatch SE 1.6 16V TiVCT PowerShift (Aut)",
+        "ano": 2014
+      },
+      {
+        "id": 8136,
+        "idUrl": "focus-hatch-s-16-16v-tivct-powershift-aut-2014",
+        "nome": "Focus Hatch S 1.6 16V TiVCT PowerShift (Aut)",
+        "ano": 2014
+      },
+      {
+        "id": 8134,
+        "idUrl": "focus-hatch-se-16-16v-tivct-2014",
+        "nome": "Focus Hatch SE 1.6 16V TiVCT",
+        "ano": 2014
+      },
+      {
+        "id": 8138,
+        "idUrl": "focus-hatch-s-16-16v-tivct-2014",
+        "nome": "Focus Hatch S 1.6 16V TiVCT",
+        "ano": 2014
+      },
+      {
+        "id": 6944,
+        "idUrl": "focus-sedan-se-plus-20-16v-powershift-aut-2014",
+        "nome": "Focus Sedan SE Plus 2.0 16V PowerShift (Aut)",
+        "ano": 2014
+      },
+      {
+        "id": 6948,
+        "idUrl": "focus-sedan-se-20-16v-powershift-aut-2014",
+        "nome": "Focus Sedan SE 2.0 16V PowerShift (Aut)",
+        "ano": 2014
+      },
+      {
+        "id": 6952,
+        "idUrl": "focus-sedan-s-20-16v-powershift-aut-2014",
+        "nome": "Focus Sedan S 2.0 16V PowerShift (Aut)",
+        "ano": 2014
+      },
+      {
+        "id": 8128,
+        "idUrl": "focus-hatch-se-20-16v-powershift-aut-2014",
+        "nome": "Focus Hatch SE 2.0 16V PowerShift (Aut)",
+        "ano": 2014
+      },
+      {
+        "id": 8177,
+        "idUrl": "focus-hatch-se-plus-20-16v-powershift-aut-2014",
+        "nome": "Focus Hatch SE Plus 2.0 16V PowerShift (Aut)",
+        "ano": 2014
+      },
+      {
+        "id": 6950,
+        "idUrl": "focus-sedan-s-powershift-16-16v-tivct-2014",
+        "nome": "Focus Sedan S PowerShift 1.6 16V TiVCT",
+        "ano": 2014
+      },
+      {
+        "id": 6953,
+        "idUrl": "focus-sedan-s-16-16v-tivct-2014",
+        "nome": "Focus Sedan S 1.6 16V TiVCT",
+        "ano": 2014
+      }
+    ],
+    "2015": [
+      {
+        "id": 6937,
+        "idUrl": "focus-sedan-titanium-20-16v-powershift-2015",
+        "nome": "Focus Sedan Titanium 2.0 16V PowerShift",
+        "ano": 2015
+      },
+      {
+        "id": 6960,
+        "idUrl": "focus-sedan-titanium-plus-20-16v-powershift-aut-2015",
+        "nome": "Focus Sedan Titanium Plus 2.0 16V PowerShift (Aut)",
+        "ano": 2015
+      },
+      {
+        "id": 8164,
+        "idUrl": "focus-hatch-titanium-plus-20-16v-powershift-aut-2015",
+        "nome": "Focus Hatch Titanium Plus 2.0 16V PowerShift (Aut)",
+        "ano": 2015
+      },
+      {
+        "id": 8129,
+        "idUrl": "focus-hatch-se-16-16v-tivct-powershift-aut-2015",
+        "nome": "Focus Hatch SE 1.6 16V TiVCT PowerShift (Aut)",
+        "ano": 2015
+      },
+      {
+        "id": 8135,
+        "idUrl": "focus-hatch-s-16-16v-tivct-powershift-aut-2015",
+        "nome": "Focus Hatch S 1.6 16V TiVCT PowerShift (Aut)",
+        "ano": 2015
+      },
+      {
+        "id": 8133,
+        "idUrl": "focus-hatch-se-16-16v-tivct-2015",
+        "nome": "Focus Hatch SE 1.6 16V TiVCT",
+        "ano": 2015
+      },
+      {
+        "id": 8137,
+        "idUrl": "focus-hatch-s-16-16v-tivct-2015",
+        "nome": "Focus Hatch S 1.6 16V TiVCT",
+        "ano": 2015
+      },
+      {
+        "id": 6947,
+        "idUrl": "focus-sedan-se-20-16v-powershift-aut-2015",
+        "nome": "Focus Sedan SE 2.0 16V PowerShift (Aut)",
+        "ano": 2015
+      },
+      {
+        "id": 6951,
+        "idUrl": "focus-sedan-s-20-16v-powershift-aut-2015",
+        "nome": "Focus Sedan S 2.0 16V PowerShift (Aut)",
+        "ano": 2015
+      },
+      {
+        "id": 8127,
+        "idUrl": "focus-hatch-se-20-16v-powershift-aut-2015",
+        "nome": "Focus Hatch SE 2.0 16V PowerShift (Aut)",
+        "ano": 2015
+      }
+    ],
+    "2016": [
+      {
+        "id": 8163,
+        "idUrl": "focus-hatch-titanium-plus-20-powershift-2016",
+        "nome": "Focus Hatch Titanium Plus 2.0 PowerShift",
+        "ano": 2016
+      },
+      {
+        "id": 8167,
+        "idUrl": "focus-hatch-titanium-20-powershift-2016",
+        "nome": "Focus Hatch Titanium 2.0 PowerShift",
+        "ano": 2016
+      },
+      {
+        "id": 6936,
+        "idUrl": "focus-sedan-titanium-20-powershift-2016",
+        "nome": "Focus Sedan Titanium 2.0 PowerShift",
+        "ano": 2016
+      },
+      {
+        "id": 6985,
+        "idUrl": "focus-sedan-titanium-plus-20-powershift-2016",
+        "nome": "Focus Sedan Titanium Plus 2.0 PowerShift",
+        "ano": 2016
+      },
+      {
+        "id": 8132,
+        "idUrl": "focus-hatch-se-16-16v-tivct-2016",
+        "nome": "Focus Hatch SE 1.6 16V TiVCT",
+        "ano": 2016
+      },
+      {
+        "id": 8150,
+        "idUrl": "focus-hatch-se-plus-16-tivct-2016",
+        "nome": "Focus Hatch SE Plus 1.6 TiVCT",
+        "ano": 2016
+      },
+      {
+        "id": 8153,
+        "idUrl": "focus-hatch-se-plus-20-powershift-2016",
+        "nome": "Focus Hatch SE Plus 2.0 PowerShift",
+        "ano": 2016
+      },
+      {
+        "id": 6943,
+        "idUrl": "focus-sedan-se-plus-20-powershift-2016",
+        "nome": "Focus Sedan SE Plus 2.0 PowerShift",
+        "ano": 2016
+      },
+      {
+        "id": 6946,
+        "idUrl": "focus-sedan-se-20-powershift-2016",
+        "nome": "Focus Sedan SE 2.0 PowerShift",
+        "ano": 2016
+      }
+    ],
+    "2017": [
+      {
+        "id": 8162,
+        "idUrl": "focus-hatch-titanium-plus-20-powershift-2017",
+        "nome": "Focus Hatch Titanium Plus 2.0 PowerShift",
+        "ano": 2017
+      },
+      {
+        "id": 8166,
+        "idUrl": "focus-hatch-titanium-20-powershift-2017",
+        "nome": "Focus Hatch Titanium 2.0 PowerShift",
+        "ano": 2017
+      },
+      {
+        "id": 6935,
+        "idUrl": "focus-sedan-titanium-20-powershift-2017",
+        "nome": "Focus Sedan Titanium 2.0 PowerShift",
+        "ano": 2017
+      },
+      {
+        "id": 6961,
+        "idUrl": "focus-sedan-titanium-plus-20-powershift-2017",
+        "nome": "Focus Sedan Titanium Plus 2.0 PowerShift",
+        "ano": 2017
+      },
+      {
+        "id": 8131,
+        "idUrl": "focus-hatch-se-16-16v-tivct-2017",
+        "nome": "Focus Hatch SE 1.6 16V TiVCT",
+        "ano": 2017
+      },
+      {
+        "id": 8152,
+        "idUrl": "focus-hatch-se-plus-16-tivct-2017",
+        "nome": "Focus Hatch SE Plus 1.6 TiVCT",
+        "ano": 2017
+      },
+      {
+        "id": 8176,
+        "idUrl": "focus-hatch-se-plus-20-powershift-2017",
+        "nome": "Focus Hatch SE Plus 2.0 PowerShift",
+        "ano": 2017
+      },
+      {
+        "id": 6942,
+        "idUrl": "focus-sedan-se-plus-20-powershift-2017",
+        "nome": "Focus Sedan SE Plus 2.0 PowerShift",
+        "ano": 2017
+      },
+      {
+        "id": 6945,
+        "idUrl": "focus-sedan-se-20-powershift-2017",
+        "nome": "Focus Sedan SE 2.0 PowerShift",
+        "ano": 2017
+      }
+    ],
+    "2018": [
+      {
+        "id": 22095,
+        "idUrl": "focus-hatch-titanium-20-powershift-2018",
+        "nome": "Focus Hatch Titanium 2.0 PowerShift",
+        "ano": 2018
+      },
+      {
+        "id": 22097,
+        "idUrl": "focus-hatch-titanium-plus-20-powershift-2018",
+        "nome": "Focus Hatch Titanium Plus 2.0 PowerShift",
+        "ano": 2018
+      },
+      {
+        "id": 22093,
+        "idUrl": "focus-hatch-se-16-2018",
+        "nome": "Focus Hatch SE 1.6",
+        "ano": 2018
+      },
+      {
+        "id": 22094,
+        "idUrl": "focus-hatch-se-plus-16-2018",
+        "nome": "Focus Hatch SE Plus 1.6",
+        "ano": 2018
+      },
+      {
+        "id": 22092,
+        "idUrl": "focus-hatch-se-20-powershift-2018",
+        "nome": "Focus Hatch SE 2.0 PowerShift",
+        "ano": 2018
+      },
+      {
+        "id": 22096,
+        "idUrl": "focus-hatch-se-plus-20-powershift-2018",
+        "nome": "Focus Hatch SE Plus 2.0 PowerShift",
+        "ano": 2018
+      },
+      {
+        "id": 22150,
+        "idUrl": "ford-focus-sedan-se-plus-20-at-2018",
+        "nome": "Ford Focus Sedan SE Plus 2.0 AT",
+        "ano": 2018
+      }
+    ]
+  }

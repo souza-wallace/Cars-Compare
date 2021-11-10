@@ -1,0 +1,946 @@
+{
+    "1999": [
+      {
+        "id": 5897,
+        "idUrl": "strada-working-15-mpi-cab-estendida-1999",
+        "nome": "Strada Working 1.5 Mpi (Cab Estendida)",
+        "ano": 1999
+      },
+      {
+        "id": 5855,
+        "idUrl": "strada-working-15-mpi-cab-simples-1999",
+        "nome": "Strada Working 1.5 MPi (Cab Simples)",
+        "ano": 1999
+      },
+      {
+        "id": 5716,
+        "idUrl": "strada-lx-16-mpi-16v-cab-simples-1999",
+        "nome": "Strada LX 1.6 MPi 16V (Cab Simples)",
+        "ano": 1999
+      },
+      {
+        "id": 5720,
+        "idUrl": "strada-lx-16-mpi-16v-cab-estendida-1999",
+        "nome": "Strada LX 1.6 MPi 16V (Cab Estendida)",
+        "ano": 1999
+      },
+      {
+        "id": 5740,
+        "idUrl": "strada-trekking-16-mpi-cab-simples-1999",
+        "nome": "Strada Trekking 1.6 MPi (Cab Simples)",
+        "ano": 1999
+      }
+    ],
+    "2000": [
+      {
+        "id": 5896,
+        "idUrl": "strada-working-15-mpi-cab-estendida-2000",
+        "nome": "Strada Working 1.5 Mpi (Cab Estendida)",
+        "ano": 2000
+      },
+      {
+        "id": 5876,
+        "idUrl": "strada-working-15-mpi-cab-simples-2000",
+        "nome": "Strada Working 1.5 MPi (Cab Simples)",
+        "ano": 2000
+      },
+      {
+        "id": 5718,
+        "idUrl": "strada-lx-16-mpi-16v-cab-simples-2000",
+        "nome": "Strada LX 1.6 MPi 16V (Cab Simples)",
+        "ano": 2000
+      },
+      {
+        "id": 5719,
+        "idUrl": "strada-lx-16-mpi-16v-cab-estendida-2000",
+        "nome": "Strada LX 1.6 MPi 16V (Cab Estendida)",
+        "ano": 2000
+      },
+      {
+        "id": 5742,
+        "idUrl": "strada-trekking-16-mpi-cab-simples-2000",
+        "nome": "Strada Trekking 1.6 MPi (Cab Simples)",
+        "ano": 2000
+      }
+    ],
+    "2001": [
+      {
+        "id": 5737,
+        "idUrl": "strada-lx-16-16v-nova-serie-cab-estendida-2001",
+        "nome": "Strada LX 1.6 16V (nova série) (Cab Estendida)",
+        "ano": 2001
+      },
+      {
+        "id": 5898,
+        "idUrl": "strada-working-15-mpi-cab-estendida-2001",
+        "nome": "Strada Working 1.5 Mpi (Cab Estendida)",
+        "ano": 2001
+      },
+      {
+        "id": 5878,
+        "idUrl": "strada-working-15-mpi-nova-serie-cab-estendida-2001",
+        "nome": "Strada Working 1.5 MPi (nova série) (Cab Estendida)",
+        "ano": 2001
+      },
+      {
+        "id": 5900,
+        "idUrl": "strada-working-15-mpi-nova-serie-cab-simples-2001",
+        "nome": "Strada Working 1.5 MPi (nova série) (Cab Simples)",
+        "ano": 2001
+      },
+      {
+        "id": 5857,
+        "idUrl": "strada-working-15-mpi-cab-simples-2001",
+        "nome": "Strada Working 1.5 MPi (Cab Simples)",
+        "ano": 2001
+      },
+      {
+        "id": 5892,
+        "idUrl": "strada-working-16-mpi-16v-cab-estendida-2001",
+        "nome": "Strada Working 1.6 MPi 16V (Cab Estendida)",
+        "ano": 2001
+      },
+      {
+        "id": 5887,
+        "idUrl": "strada-working-mtv-16-mpi-16v-cab-estendida-2001",
+        "nome": "Strada Working Mtv 1.6 MPi 16V (Cab Estendida)",
+        "ano": 2001
+      },
+      {
+        "id": 5721,
+        "idUrl": "strada-lx-16-mpi-16v-cab-estendida-2001",
+        "nome": "Strada LX 1.6 MPi 16V (Cab Estendida)",
+        "ano": 2001
+      }
+    ],
+    "2002": [
+      {
+        "id": 5879,
+        "idUrl": "strada-working-15-mpi-nova-serie-cab-estendida-2002",
+        "nome": "Strada Working 1.5 MPi (nova série) (Cab Estendida)",
+        "ano": 2002
+      },
+      {
+        "id": 5722,
+        "idUrl": "strada-lx-16-16v-nova-serie-cab-estendida-2002",
+        "nome": "Strada LX 1.6 16V (nova série) (Cab Estendida)",
+        "ano": 2002
+      },
+      {
+        "id": 5225,
+        "idUrl": "strada-adventure-16-16v-cab-estendida-2002",
+        "nome": "Strada Adventure 1.6 16V (Cab Estendida)",
+        "ano": 2002
+      },
+      {
+        "id": 5899,
+        "idUrl": "strada-working-15-mpi-nova-serie-cab-simples-2002",
+        "nome": "Strada Working 1.5 MPi (nova série) (Cab Simples)",
+        "ano": 2002
+      },
+      {
+        "id": 5893,
+        "idUrl": "strada-working-16-16v-cab-simples-2002",
+        "nome": "Strada Working 1.6 16V (Cab Simples)",
+        "ano": 2002
+      }
+    ],
+    "2003": [
+      {
+        "id": 5770,
+        "idUrl": "strada-adventure-18-8v-cab-estendida-2003",
+        "nome": "Strada Adventure 1.8 8V (Cab Estendida)",
+        "ano": 2003
+      },
+      {
+        "id": 5777,
+        "idUrl": "strada-fire-13-8v-cab-estendida-2003",
+        "nome": "Strada Fire 1.3 8V (Cab Estendida)",
+        "ano": 2003
+      },
+      {
+        "id": 5796,
+        "idUrl": "strada-fire-13-8v-cab-simples-2003",
+        "nome": "Strada Fire 1.3 8V (Cab Simples)",
+        "ano": 2003
+      },
+      {
+        "id": 5891,
+        "idUrl": "strada-working-18-8v-cab-estendida-2003",
+        "nome": "Strada Working 1.8 8V (Cab Estendida)",
+        "ano": 2003
+      },
+      {
+        "id": 5888,
+        "idUrl": "strada-working-18-8v-cab-simples-2003",
+        "nome": "Strada Working 1.8 8V (Cab Simples)",
+        "ano": 2003
+      }
+    ],
+    "2004": [
+      {
+        "id": 5772,
+        "idUrl": "strada-adventure-18-8v-cab-estendida-2004",
+        "nome": "Strada Adventure 1.8 8V (Cab Estendida)",
+        "ano": 2004
+      },
+      {
+        "id": 5799,
+        "idUrl": "strada-fire-13-8v-cab-estendida-2004",
+        "nome": "Strada Fire 1.3 8V (Cab Estendida)",
+        "ano": 2004
+      },
+      {
+        "id": 5795,
+        "idUrl": "strada-fire-13-8v-cab-simples-2004",
+        "nome": "Strada Fire 1.3 8V (Cab Simples)",
+        "ano": 2004
+      },
+      {
+        "id": 5739,
+        "idUrl": "strada-trekking-18-cab-simples-2004",
+        "nome": "Strada Trekking 1.8 (Cab Simples)",
+        "ano": 2004
+      },
+      {
+        "id": 5902,
+        "idUrl": "strada-working-18-8v-cab-estendida-2004",
+        "nome": "Strada Working 1.8 8V (Cab Estendida)",
+        "ano": 2004
+      },
+      {
+        "id": 5889,
+        "idUrl": "strada-working-18-8v-cab-simples-2004",
+        "nome": "Strada Working 1.8 8V (Cab Simples)",
+        "ano": 2004
+      }
+    ],
+    "2005": [
+      {
+        "id": 5763,
+        "idUrl": "strada-adventure-18-8v-flex-cab-estendida-2005",
+        "nome": "Strada Adventure 1.8 8V (Flex) (Cab Estendida)",
+        "ano": 2005
+      },
+      {
+        "id": 5733,
+        "idUrl": "strada-trekking-18-8v-flex-cab-estendida-2005",
+        "nome": "Strada Trekking 1.8 8V (Flex) (Cab Estendida)",
+        "ano": 2005
+      },
+      {
+        "id": 5775,
+        "idUrl": "strada-fire-13-8v-cab-estendida-2005",
+        "nome": "Strada Fire 1.3 8V (Cab Estendida)",
+        "ano": 2005
+      },
+      {
+        "id": 5798,
+        "idUrl": "strada-fire-13-8v-cab-simples-2005",
+        "nome": "Strada Fire 1.3 8V (Cab Simples)",
+        "ano": 2005
+      },
+      {
+        "id": 5727,
+        "idUrl": "strada-trekking-18-8v-flex-cab-simples-2005",
+        "nome": "Strada Trekking 1.8 8V (Flex) (Cab Simples)",
+        "ano": 2005
+      }
+    ],
+    "2006": [
+      {
+        "id": 5766,
+        "idUrl": "strada-adventure-18-8v-flex-cab-estendida-2006",
+        "nome": "Strada Adventure 1.8 8V (Flex) (Cab Estendida)",
+        "ano": 2006
+      },
+      {
+        "id": 5749,
+        "idUrl": "strada-trekking-18-8v-flex-cab-estendida-2006",
+        "nome": "Strada Trekking 1.8 8V (Flex) (Cab Estendida)",
+        "ano": 2006
+      },
+      {
+        "id": 5793,
+        "idUrl": "strada-fire-14-flex-cab-estendida-2006",
+        "nome": "Strada Fire 1.4 (Flex) (Cab Estendida)",
+        "ano": 2006
+      },
+      {
+        "id": 5710,
+        "idUrl": "strada-trekking-14-flex-cab-estendida-2006",
+        "nome": "Strada Trekking 1.4 (Flex) (Cab Estendida)",
+        "ano": 2006
+      },
+      {
+        "id": 5785,
+        "idUrl": "strada-fire-14-flex-cab-simples-2006",
+        "nome": "Strada Fire 1.4 (Flex) (Cab Simples)",
+        "ano": 2006
+      },
+      {
+        "id": 5704,
+        "idUrl": "strada-trekking-14-flex-cab-simples-2006",
+        "nome": "Strada Trekking 1.4 (Flex) (Cab Simples)",
+        "ano": 2006
+      },
+      {
+        "id": 5732,
+        "idUrl": "strada-trekking-18-8v-flex-cab-simples-2006",
+        "nome": "Strada Trekking 1.8 8V (Flex) (Cab Simples)",
+        "ano": 2006
+      }
+    ],
+    "2007": [
+      {
+        "id": 5714,
+        "idUrl": "strada-original-adventure-18-8v-flex-cab-estendida-2007",
+        "nome": "Strada Original Adventure 1.8 8V (Flex) (Cab Estendida)",
+        "ano": 2007
+      },
+      {
+        "id": 5765,
+        "idUrl": "strada-adventure-18-8v-flex-cab-estendida-2007",
+        "nome": "Strada Adventure 1.8 8V (Flex) (Cab Estendida)",
+        "ano": 2007
+      },
+      {
+        "id": 5774,
+        "idUrl": "strada-adventure-try-on-18-8v-flex-cab-estendida-2007",
+        "nome": "Strada Adventure Try On 1.8 8V (Flex) (Cab Estendida)",
+        "ano": 2007
+      },
+      {
+        "id": 5738,
+        "idUrl": "strada-trekking-18-8v-flex-cab-estendida-2007",
+        "nome": "Strada Trekking 1.8 8V (Flex) (Cab Estendida)",
+        "ano": 2007
+      },
+      {
+        "id": 5709,
+        "idUrl": "strada-trekking-14-flex-cab-estendida-2007",
+        "nome": "Strada Trekking 1.4 (Flex) (Cab Estendida)",
+        "ano": 2007
+      },
+      {
+        "id": 5703,
+        "idUrl": "strada-trekking-14-flex-cab-simples-2007",
+        "nome": "Strada Trekking 1.4 (Flex) (Cab Simples)",
+        "ano": 2007
+      },
+      {
+        "id": 5792,
+        "idUrl": "strada-fire-14-flex-cab-estendida-2007",
+        "nome": "Strada Fire 1.4 (Flex) (Cab Estendida)",
+        "ano": 2007
+      },
+      {
+        "id": 5784,
+        "idUrl": "strada-fire-14-flex-cab-simples-2007",
+        "nome": "Strada Fire 1.4 (Flex) (Cab Simples)",
+        "ano": 2007
+      },
+      {
+        "id": 5731,
+        "idUrl": "strada-trekking-18-8v-flex-cab-simples-2007",
+        "nome": "Strada Trekking 1.8 8V (Flex) (Cab Simples)",
+        "ano": 2007
+      }
+    ],
+    "2008": [
+      {
+        "id": 5715,
+        "idUrl": "strada-original-adventure-18-8v-flex-cab-estendida-2008",
+        "nome": "Strada Original Adventure 1.8 8V (Flex) (Cab Estendida)",
+        "ano": 2008
+      },
+      {
+        "id": 5764,
+        "idUrl": "strada-adventure-18-8v-flex-cab-estendida-2008",
+        "nome": "Strada Adventure 1.8 8V (Flex) (Cab Estendida)",
+        "ano": 2008
+      },
+      {
+        "id": 5736,
+        "idUrl": "strada-trekking-18-8v-flex-cab-estendida-2008",
+        "nome": "Strada Trekking 1.8 8V (Flex) (Cab Estendida)",
+        "ano": 2008
+      },
+      {
+        "id": 5702,
+        "idUrl": "strada-trekking-14-flex-cab-simples-2008",
+        "nome": "Strada Trekking 1.4 (Flex) (Cab Simples)",
+        "ano": 2008
+      },
+      {
+        "id": 5708,
+        "idUrl": "strada-trekking-14-flex-cab-estendida-2008",
+        "nome": "Strada Trekking 1.4 (Flex) (Cab Estendida)",
+        "ano": 2008
+      },
+      {
+        "id": 5791,
+        "idUrl": "strada-fire-14-flex-cab-estendida-2008",
+        "nome": "Strada Fire 1.4 (Flex) (Cab Estendida)",
+        "ano": 2008
+      },
+      {
+        "id": 5783,
+        "idUrl": "strada-fire-14-flex-cab-simples-2008",
+        "nome": "Strada Fire 1.4 (Flex) (Cab Simples)",
+        "ano": 2008
+      },
+      {
+        "id": 5730,
+        "idUrl": "strada-trekking-18-8v-flex-cab-simples-2008",
+        "nome": "Strada Trekking 1.8 8V (Flex) (Cab Simples)",
+        "ano": 2008
+      }
+    ],
+    "2009": [
+      {
+        "id": 5754,
+        "idUrl": "strada-adventure-locker-18-8v-flex-cab-estendida-2009",
+        "nome": "Strada Adventure Locker 1.8 8V (Flex) (Cab Estendida)",
+        "ano": 2009
+      },
+      {
+        "id": 5756,
+        "idUrl": "strada-adventure-locker-18-8v-flex-cab-dupla-2009",
+        "nome": "Strada Adventure Locker 1.8 8V (Flex) (Cab Dupla)",
+        "ano": 2009
+      },
+      {
+        "id": 5767,
+        "idUrl": "strada-adventure-18-8v-flex-cab-dupla-2009",
+        "nome": "Strada Adventure 1.8 8V (Flex) (Cab Dupla)",
+        "ano": 2009
+      },
+      {
+        "id": 5734,
+        "idUrl": "strada-trekking-18-8v-flex-cab-estendida-2009",
+        "nome": "Strada Trekking 1.8 8V (Flex) (Cab Estendida)",
+        "ano": 2009
+      },
+      {
+        "id": 5705,
+        "idUrl": "strada-trekking-14-flex-cab-estendida-2009",
+        "nome": "Strada Trekking 1.4 (Flex) (Cab Estendida)",
+        "ano": 2009
+      },
+      {
+        "id": 5723,
+        "idUrl": "strada-trekking-14-flex-cab-simples-2009",
+        "nome": "Strada Trekking 1.4 (Flex) (Cab Simples)",
+        "ano": 2009
+      },
+      {
+        "id": 5789,
+        "idUrl": "strada-fire-14-flex-cab-estendida-2009",
+        "nome": "Strada Fire 1.4 (Flex) (Cab Estendida)",
+        "ano": 2009
+      },
+      {
+        "id": 5780,
+        "idUrl": "strada-fire-14-flex-cab-simples-2009",
+        "nome": "Strada Fire 1.4 (Flex) (Cab Simples)",
+        "ano": 2009
+      },
+      {
+        "id": 5728,
+        "idUrl": "strada-trekking-18-8v-flex-cab-simples-2009",
+        "nome": "Strada Trekking 1.8 8V (Flex) (Cab Simples)",
+        "ano": 2009
+      }
+    ],
+    "2010": [
+      {
+        "id": 5768,
+        "idUrl": "strada-adventure-18-8v-flex-cab-dupla-2010",
+        "nome": "Strada Adventure 1.8 8V (Flex) (Cab Dupla)",
+        "ano": 2010
+      },
+      {
+        "id": 5755,
+        "idUrl": "strada-adventure-locker-18-8v-flex-cab-estendida-2010",
+        "nome": "Strada Adventure Locker 1.8 8V (Flex) (Cab Estendida)",
+        "ano": 2010
+      },
+      {
+        "id": 5874,
+        "idUrl": "strada-working-14-flex-cab-dupla-2010",
+        "nome": "Strada Working 1.4 (Flex) (Cab Dupla)",
+        "ano": 2010
+      },
+      {
+        "id": 5735,
+        "idUrl": "strada-trekking-18-8v-flex-cab-estendida-2010",
+        "nome": "Strada Trekking 1.8 8V (Flex) (Cab Estendida)",
+        "ano": 2010
+      },
+      {
+        "id": 5707,
+        "idUrl": "strada-trekking-14-flex-cab-estendida-2010",
+        "nome": "Strada Trekking 1.4 (Flex) (Cab Estendida)",
+        "ano": 2010
+      },
+      {
+        "id": 5872,
+        "idUrl": "strada-working-14-flex-cab-estendida-2010",
+        "nome": "Strada Working 1.4 (Flex) (Cab Estendida)",
+        "ano": 2010
+      },
+      {
+        "id": 5790,
+        "idUrl": "strada-fire-14-flex-cab-estendida-2010",
+        "nome": "Strada Fire 1.4 (Flex) (Cab Estendida)",
+        "ano": 2010
+      },
+      {
+        "id": 5724,
+        "idUrl": "strada-trekking-14-flex-cab-simples-2010",
+        "nome": "Strada Trekking 1.4 (Flex) (Cab Simples)",
+        "ano": 2010
+      },
+      {
+        "id": 5869,
+        "idUrl": "strada-working-14-flex-cab-simples-2010",
+        "nome": "Strada Working 1.4 (Flex) (Cab Simples)",
+        "ano": 2010
+      },
+      {
+        "id": 5782,
+        "idUrl": "strada-fire-14-flex-cab-simples-2010",
+        "nome": "Strada Fire 1.4 (Flex) (Cab Simples)",
+        "ano": 2010
+      },
+      {
+        "id": 5729,
+        "idUrl": "strada-trekking-18-8v-flex-cab-simples-2010",
+        "nome": "Strada Trekking 1.8 8V (Flex) (Cab Simples)",
+        "ano": 2010
+      }
+    ],
+    "2011": [
+      {
+        "id": 5773,
+        "idUrl": "strada-adventure-18-16v-etorq-cab-dupla-2011",
+        "nome": "Strada Adventure 1.8 16V E.TorQ (Cab Dupla)",
+        "ano": 2011
+      },
+      {
+        "id": 5873,
+        "idUrl": "strada-working-14-flex-cab-dupla-2011",
+        "nome": "Strada Working 1.4 (Flex) (Cab Dupla)",
+        "ano": 2011
+      },
+      {
+        "id": 5757,
+        "idUrl": "strada-adventure-locker-18-16v-etorq-cab-estendida-2011",
+        "nome": "Strada Adventure Locker 1.8 16V E.TorQ (Cab Estendida)",
+        "ano": 2011
+      },
+      {
+        "id": 5871,
+        "idUrl": "strada-working-14-flex-cab-estendida-2011",
+        "nome": "Strada Working 1.4 (Flex) (Cab Estendida)",
+        "ano": 2011
+      },
+      {
+        "id": 5713,
+        "idUrl": "strada-sporting-18-16v-cab-estendida-flex-2011",
+        "nome": "Strada Sporting 1.8 16V (Cab Estendida) (Flex)",
+        "ano": 2011
+      },
+      {
+        "id": 5706,
+        "idUrl": "strada-trekking-14-flex-cab-estendida-2011",
+        "nome": "Strada Trekking 1.4 (Flex) (Cab Estendida)",
+        "ano": 2011
+      },
+      {
+        "id": 5868,
+        "idUrl": "strada-working-14-flex-cab-simples-2011",
+        "nome": "Strada Working 1.4 (Flex) (Cab Simples)",
+        "ano": 2011
+      },
+      {
+        "id": 5800,
+        "idUrl": "strada-fire-14-flex-cab-estendida-2011",
+        "nome": "Strada Fire 1.4 (Flex) (Cab Estendida)",
+        "ano": 2011
+      },
+      {
+        "id": 5725,
+        "idUrl": "strada-trekking-14-flex-cab-simples-2011",
+        "nome": "Strada Trekking 1.4 (Flex) (Cab Simples)",
+        "ano": 2011
+      },
+      {
+        "id": 5781,
+        "idUrl": "strada-fire-14-flex-cab-simples-2011",
+        "nome": "Strada Fire 1.4 (Flex) (Cab Simples)",
+        "ano": 2011
+      }
+    ],
+    "2012": [
+      {
+        "id": 5223,
+        "idUrl": "strada-adventure-18-16v-flex-cab-dupla-2012",
+        "nome": "Strada Adventure 1.8 16V (Flex) (Cab Dupla)",
+        "ano": 2012
+      },
+      {
+        "id": 5867,
+        "idUrl": "strada-working-14-flexcab-dupla-2012",
+        "nome": "Strada Working 1.4 (Flex)(Cab Dupla)",
+        "ano": 2012
+      },
+      {
+        "id": 5759,
+        "idUrl": "strada-adventure-dualogic-18-16v-flex-cab-dupla-2012",
+        "nome": "Strada Adventure Dualogic 1.8 16V (Flex) (Cab Dupla)",
+        "ano": 2012
+      },
+      {
+        "id": 5218,
+        "idUrl": "strada-adventure-18-16v-flexcab-estendida-2012",
+        "nome": "Strada Adventure 1.8 16V (Flex)(Cab Estendida)",
+        "ano": 2012
+      },
+      {
+        "id": 5712,
+        "idUrl": "strada-sporting-18-16v-flex-2012",
+        "nome": "Strada Sporting 1.8 16V (Flex)",
+        "ano": 2012
+      },
+      {
+        "id": 5861,
+        "idUrl": "strada-working-14flex-cab-estendida-2012",
+        "nome": "Strada Working 1.4(Flex) (Cab Estendida)",
+        "ano": 2012
+      },
+      {
+        "id": 5726,
+        "idUrl": "strada-trekking-14flex-cab-estendida-2012",
+        "nome": "Strada Trekking 1.4(Flex) (Cab Estendida)",
+        "ano": 2012
+      },
+      {
+        "id": 5750,
+        "idUrl": "strada-working-14-flex-2012",
+        "nome": "Strada Working 1.4 (Flex)",
+        "ano": 2012
+      },
+      {
+        "id": 5787,
+        "idUrl": "strada-fire-14-flex-cab-estendida-2012",
+        "nome": "Strada Fire 1.4 (Flex) (Cab Estendida)",
+        "ano": 2012
+      },
+      {
+        "id": 5711,
+        "idUrl": "strada-trekking-14-flex-2012",
+        "nome": "Strada Trekking 1.4 (Flex)",
+        "ano": 2012
+      },
+      {
+        "id": 5794,
+        "idUrl": "strada-fire-14-flex-2012",
+        "nome": "Strada Fire 1.4 (Flex)",
+        "ano": 2012
+      }
+    ],
+    "2013": [
+      {
+        "id": 5753,
+        "idUrl": "strada-adventure-mangalarga-18-flex-cabine-dupla-2013",
+        "nome": "Strada Adventure Mangalarga 1.8 (Flex) (Cabine Dupla)",
+        "ano": 2013
+      },
+      {
+        "id": 5222,
+        "idUrl": "strada-adventure-18-16v-flex-cab-dupla-2013",
+        "nome": "Strada Adventure 1.8 16V (Flex) (Cab Dupla)",
+        "ano": 2013
+      },
+      {
+        "id": 5758,
+        "idUrl": "strada-adventure-dualogic-18-16v-flex-cab-dupla-2013",
+        "nome": "Strada Adventure Dualogic 1.8 16V (Flex) (Cab Dupla)",
+        "ano": 2013
+      },
+      {
+        "id": 5747,
+        "idUrl": "strada-trekking-16-16v-flex-cab-dupla-2013",
+        "nome": "Strada Trekking 1.6 16V (Flex) (Cab Dupla)",
+        "ano": 2013
+      },
+      {
+        "id": 5866,
+        "idUrl": "strada-working-14-flexcab-dupla-2013",
+        "nome": "Strada Working 1.4 (Flex)(Cab Dupla)",
+        "ano": 2013
+      },
+      {
+        "id": 5394,
+        "idUrl": "strada-adventure-18-16v-flexcab-estendida-2013",
+        "nome": "Strada Adventure 1.8 16V (Flex)(Cab Estendida)",
+        "ano": 2013
+      },
+      {
+        "id": 5743,
+        "idUrl": "strada-trekking-16-16v-flex-cab-estendida-2013",
+        "nome": "Strada Trekking 1.6 16V (Flex) (Cab Estendida)",
+        "ano": 2013
+      },
+      {
+        "id": 5860,
+        "idUrl": "strada-working-14flex-cab-estendida-2013",
+        "nome": "Strada Working 1.4(Flex) (Cab Estendida)",
+        "ano": 2013
+      },
+      {
+        "id": 5748,
+        "idUrl": "strada-trekking-16-16v-flex-2013",
+        "nome": "Strada Trekking 1.6 16V (Flex)",
+        "ano": 2013
+      },
+      {
+        "id": 5802,
+        "idUrl": "strada-working-14-flex-2013",
+        "nome": "Strada Working 1.4 (Flex)",
+        "ano": 2013
+      }
+    ],
+    "2014": [
+      {
+        "id": 5221,
+        "idUrl": "strada-adventure-18-16v-flex-cab-dupla-2014",
+        "nome": "Strada Adventure 1.8 16V (Flex) (Cab Dupla)",
+        "ano": 2014
+      },
+      {
+        "id": 5746,
+        "idUrl": "strada-trekking-16-16v-flex-cab-dupla-2014",
+        "nome": "Strada Trekking 1.6 16V (Flex) (Cab Dupla)",
+        "ano": 2014
+      },
+      {
+        "id": 5865,
+        "idUrl": "strada-working-14-flexcab-dupla-2014",
+        "nome": "Strada Working 1.4 (Flex)(Cab Dupla)",
+        "ano": 2014
+      },
+      {
+        "id": 5497,
+        "idUrl": "strada-adventure-18-16v-flexcab-estendida-2014",
+        "nome": "Strada Adventure 1.8 16V (Flex)(Cab Estendida)",
+        "ano": 2014
+      },
+      {
+        "id": 5859,
+        "idUrl": "strada-working-14flex-cab-estendida-2014",
+        "nome": "Strada Working 1.4(Flex) (Cab Estendida)",
+        "ano": 2014
+      },
+      {
+        "id": 5852,
+        "idUrl": "strada-working-14-flex-2014",
+        "nome": "Strada Working 1.4 (Flex)",
+        "ano": 2014
+      }
+    ],
+    "2015": [
+      {
+        "id": 5220,
+        "idUrl": "strada-adventure-18-16v-flex-cab-dupla-2015",
+        "nome": "Strada Adventure 1.8 16V (Flex) (Cab Dupla)",
+        "ano": 2015
+      },
+      {
+        "id": 22328,
+        "idUrl": "strada-aventure-locker-18-16v-dualogic-cd-2015",
+        "nome": "Strada Aventure Locker 1.8 16V Dualogic CD",
+        "ano": 2015
+      },
+      {
+        "id": 5864,
+        "idUrl": "strada-working-14-flexcab-dupla-2015",
+        "nome": "Strada Working 1.4 (Flex)(Cab Dupla)",
+        "ano": 2015
+      },
+      {
+        "id": 5745,
+        "idUrl": "strada-trekking-16-16v-flex-cab-dupla-2015",
+        "nome": "Strada Trekking 1.6 16V (Flex) (Cab Dupla)",
+        "ano": 2015
+      },
+      {
+        "id": 5801,
+        "idUrl": "strada-adventure-18-16v-flexcab-estendida-2015",
+        "nome": "Strada Adventure 1.8 16V (Flex)(Cab Estendida)",
+        "ano": 2015
+      },
+      {
+        "id": 5858,
+        "idUrl": "strada-working-14flex-cab-estendida-2015",
+        "nome": "Strada Working 1.4(Flex) (Cab Estendida)",
+        "ano": 2015
+      },
+      {
+        "id": 5803,
+        "idUrl": "strada-working-14-flex-2015",
+        "nome": "Strada Working 1.4 (Flex)",
+        "ano": 2015
+      }
+    ],
+    "2016": [
+      {
+        "id": 5219,
+        "idUrl": "strada-adventure-18-16v-flex-cab-dupla-2016",
+        "nome": "Strada Adventure 1.8 16V (Flex) (Cab Dupla)",
+        "ano": 2016
+      },
+      {
+        "id": 5744,
+        "idUrl": "strada-trekking-16-16v-flex-cab-dupla-2016",
+        "nome": "Strada Trekking 1.6 16V (Flex) (Cab Dupla)",
+        "ano": 2016
+      },
+      {
+        "id": 5863,
+        "idUrl": "strada-working-14-flexcab-dupla-2016",
+        "nome": "Strada Working 1.4 (Flex)(Cab Dupla)",
+        "ano": 2016
+      },
+      {
+        "id": 5498,
+        "idUrl": "strada-adventure-18-16v-flexcab-estendida-2016",
+        "nome": "Strada Adventure 1.8 16V (Flex)(Cab Estendida)",
+        "ano": 2016
+      },
+      {
+        "id": 5870,
+        "idUrl": "strada-working-14-flex-cab-estendida-2016",
+        "nome": "Strada Working 1.4 (Flex) (Cab Estendida)",
+        "ano": 2016
+      },
+      {
+        "id": 5875,
+        "idUrl": "strada-working-14-flex-2016",
+        "nome": "Strada Working 1.4 (Flex)",
+        "ano": 2016
+      }
+    ],
+    "2017": [
+      {
+        "id": 5762,
+        "idUrl": "strada-adventure-18-etorq-flex-cab-dupla-2017",
+        "nome": "Strada Adventure 1.8 E.torQ (Flex) (Cab Dupla)",
+        "ano": 2017
+      },
+      {
+        "id": 5760,
+        "idUrl": "strada-adventure-18-etorq-dualogic-flex-cab-dupla-2017",
+        "nome": "Strada Adventure 1.8 E.torQ Dualogic (Flex) (Cab Dupla)",
+        "ano": 2017
+      },
+      {
+        "id": 5752,
+        "idUrl": "strada-hard-working-14-fire-flex-cab-dupla-2017",
+        "nome": "Strada Hard Working 1.4 Fire (Flex) (Cab Dupla)",
+        "ano": 2017
+      },
+      {
+        "id": 5761,
+        "idUrl": "strada-adventure-18-etorq-flex-cab-estendida-2017",
+        "nome": "Strada Adventure 1.8 E.torQ (Flex) (Cab Estendida)",
+        "ano": 2017
+      },
+      {
+        "id": 5788,
+        "idUrl": "strada-hard-working-14-fire-flex-cab-estendida-2017",
+        "nome": "Strada Hard Working 1.4 Fire (Flex) (Cab Estendida)",
+        "ano": 2017
+      },
+      {
+        "id": 5885,
+        "idUrl": "strada-working-plus-14-fire-flex-2017",
+        "nome": "Strada Working Plus 1.4 Fire (Flex)",
+        "ano": 2017
+      },
+      {
+        "id": 5778,
+        "idUrl": "strada-hard-working-14-fire-flex-2017",
+        "nome": "Strada Hard Working 1.4 Fire (Flex)",
+        "ano": 2017
+      },
+      {
+        "id": 5862,
+        "idUrl": "strada-working-14-fire-flex-2017",
+        "nome": "Strada Working 1.4 Fire (Flex)",
+        "ano": 2017
+      }
+    ],
+    "2018": [
+      {
+        "id": 22153,
+        "idUrl": "fiat-strada-adventure-2018-cd-2018",
+        "nome": "Fiat Strada Adventure 2018 CD",
+        "ano": 2018
+      },
+      {
+        "id": 22326,
+        "idUrl": "strada-hard-working-14-8v-fire-flex-ce-2018",
+        "nome": "Strada Hard Working 1.4 8V Fire Flex CE",
+        "ano": 2018
+      }
+    ],
+    "2019": [
+      {
+        "id": 22331,
+        "idUrl": "strada-adventure-18-16v-cd-2019",
+        "nome": "Strada Adventure 1.8 16V CD",
+        "ano": 2019
+      }
+    ],
+    "2021": [
+      {
+        "id": 22489,
+        "idUrl": "strada-hard-working-14-cs-2021",
+        "nome": "Strada Hard Working 1.4 CS",
+        "ano": 2021
+      },
+      {
+        "id": 22490,
+        "idUrl": "strada-freedom-13-cs-2021",
+        "nome": "Strada Freedom 1.3 CS",
+        "ano": 2021
+      },
+      {
+        "id": 22491,
+        "idUrl": "strada-endurance-14-cs-2021",
+        "nome": "Strada Endurance 1.4 CS",
+        "ano": 2021
+      },
+      {
+        "id": 22492,
+        "idUrl": "strada-freedom-13-cd-2021",
+        "nome": "Strada Freedom 1.3 CD",
+        "ano": 2021
+      },
+      {
+        "id": 22493,
+        "idUrl": "strada-endurance-14-cd-2021",
+        "nome": "Strada Endurance 1.4 CD",
+        "ano": 2021
+      },
+      {
+        "id": 22494,
+        "idUrl": "strada-volcano-13-cd-2021",
+        "nome": "Strada Volcano 1.3 CD",
+        "ano": 2021
+      }
+    ]
+  }

@@ -1,0 +1,52 @@
+{
+    "2015": [
+      {
+        "id": 1469,
+        "idUrl": "x4-30-xdrive35i-m-sport-2015",
+        "nome": "X4 3.0 xDrive35i M Sport",
+        "ano": 2015
+      },
+      {
+        "id": 1466,
+        "idUrl": "x4-20-xdrive28i-x-line-2015",
+        "nome": "X4 2.0 xDrive28i X Line",
+        "ano": 2015
+      }
+    ],
+    "2016": [
+      {
+        "id": 1470,
+        "idUrl": "x4-30-xdrive35i-m-sport-2016",
+        "nome": "X4 3.0 xDrive35i M Sport",
+        "ano": 2016
+      },
+      {
+        "id": 1468,
+        "idUrl": "x4-20-xdrive28i-x-line-2016",
+        "nome": "X4 2.0 xDrive28i X Line",
+        "ano": 2016
+      }
+    ],
+    "2017": [
+      {
+        "id": 1471,
+        "idUrl": "x4-30-xdrive35i-m-sport-2017",
+        "nome": "X4 3.0 xDrive35i M Sport",
+        "ano": 2017
+      },
+      {
+        "id": 1480,
+        "idUrl": "x4-20-xdrive28i-x-line-2017",
+        "nome": "X4 2.0 xDrive28i X Line",
+        "ano": 2017
+      }
+    ],
+    "2018": [
+      {
+        "id": 22118,
+        "idUrl": "bmw-x4-xdrive-28i-20-2018",
+        "nome": "BMW X4 xDrive 28i 2.0",
+        "ano": 2018
+      }
+    ]
+  }

@@ -1,0 +1,582 @@
+{
+    "2002": [
+      {
+        "id": 4479,
+        "idUrl": "c3-glx-16-16v-2002",
+        "nome": "C3 GLX 1.6 16V",
+        "ano": 2002
+      }
+    ],
+    "2003": [
+      {
+        "id": 4599,
+        "idUrl": "c3-exclusive-16-16v-2003",
+        "nome": "C3 Exclusive 1.6 16V",
+        "ano": 2003
+      },
+      {
+        "id": 4480,
+        "idUrl": "c3-glx-16-16v-2003",
+        "nome": "C3 GLX 1.6 16V",
+        "ano": 2003
+      },
+      {
+        "id": 4467,
+        "idUrl": "c3-glx-14-8v-2003",
+        "nome": "C3 GLX 1.4 8V",
+        "ano": 2003
+      }
+    ],
+    "2004": [
+      {
+        "id": 4468,
+        "idUrl": "c3-glx-14-8v-2004",
+        "nome": "C3 GLX 1.4 8V",
+        "ano": 2004
+      },
+      {
+        "id": 4497,
+        "idUrl": "c3-exclusive-16-16v-ocimar-versolato-2004",
+        "nome": "C3 Exclusive 1.6 16V Ocimar Versolato",
+        "ano": 2004
+      },
+      {
+        "id": 4600,
+        "idUrl": "c3-exclusive-16-16v-2004",
+        "nome": "C3 Exclusive 1.6 16V",
+        "ano": 2004
+      },
+      {
+        "id": 4481,
+        "idUrl": "c3-glx-16-16v-2004",
+        "nome": "C3 GLX 1.6 16V",
+        "ano": 2004
+      }
+    ],
+    "2005": [
+      {
+        "id": 4478,
+        "idUrl": "c3-glx-16-16v-2005",
+        "nome": "C3 GLX 1.6 16V",
+        "ano": 2005
+      },
+      {
+        "id": 4496,
+        "idUrl": "c3-exclusive-16-16v-ocimar-versolato-2005",
+        "nome": "C3 Exclusive 1.6 16V Ocimar Versolato",
+        "ano": 2005
+      },
+      {
+        "id": 4598,
+        "idUrl": "c3-exclusive-16-16v-2005",
+        "nome": "C3 Exclusive 1.6 16V",
+        "ano": 2005
+      },
+      {
+        "id": 4482,
+        "idUrl": "c3-glx-14-8v-2005",
+        "nome": "C3 GLX 1.4 8V",
+        "ano": 2005
+      }
+    ],
+    "2006": [
+      {
+        "id": 4503,
+        "idUrl": "c3-glx-16-16v-flex-2006",
+        "nome": "C3 GLX 1.6 16V (flex)",
+        "ano": 2006
+      },
+      {
+        "id": 4488,
+        "idUrl": "c3-exclusive-16-16v-flex-2006",
+        "nome": "C3 Exclusive 1.6 16V (flex)",
+        "ano": 2006
+      },
+      {
+        "id": 4522,
+        "idUrl": "c3-xtr-16-16v-flex-2006",
+        "nome": "C3 XTR 1.6 16V (flex)",
+        "ano": 2006
+      },
+      {
+        "id": 4469,
+        "idUrl": "c3-glx-14-8v-2006",
+        "nome": "C3 GLX 1.4 8V",
+        "ano": 2006
+      },
+      {
+        "id": 4471,
+        "idUrl": "c3-glx-14-8v-flex-2006",
+        "nome": "C3 GLX 1.4 8V (flex)",
+        "ano": 2006
+      }
+    ],
+    "2007": [
+      {
+        "id": 4515,
+        "idUrl": "c3-xtr-16-16v-flex-2007",
+        "nome": "C3 XTR 1.6 16V (flex)",
+        "ano": 2007
+      },
+      {
+        "id": 4504,
+        "idUrl": "c3-glx-16-16v-flex-2007",
+        "nome": "C3 GLX 1.6 16V (flex)",
+        "ano": 2007
+      },
+      {
+        "id": 4489,
+        "idUrl": "c3-exclusive-16-16v-flex-2007",
+        "nome": "C3 Exclusive 1.6 16V (flex)",
+        "ano": 2007
+      },
+      {
+        "id": 4590,
+        "idUrl": "c3-exclusive-14-8v-flex-2007",
+        "nome": "C3 Exclusive 1.4 8V (flex)",
+        "ano": 2007
+      },
+      {
+        "id": 4472,
+        "idUrl": "c3-glx-14-8v-flex-2007",
+        "nome": "C3 GLX 1.4 8V (flex)",
+        "ano": 2007
+      },
+      {
+        "id": 4508,
+        "idUrl": "c3-xtr-14-8v-flex-2007",
+        "nome": "C3 XTR 1.4 8V (flex)",
+        "ano": 2007
+      }
+    ],
+    "2008": [
+      {
+        "id": 4516,
+        "idUrl": "c3-xtr-16-16v-flex-2008",
+        "nome": "C3 XTR 1.6 16V (flex)",
+        "ano": 2008
+      },
+      {
+        "id": 4490,
+        "idUrl": "c3-exclusive-16-16v-flex-2008",
+        "nome": "C3 Exclusive 1.6 16V (flex)",
+        "ano": 2008
+      },
+      {
+        "id": 4509,
+        "idUrl": "c3-xtr-14-8v-flex-2008",
+        "nome": "C3 XTR 1.4 8V (flex)",
+        "ano": 2008
+      },
+      {
+        "id": 4591,
+        "idUrl": "c3-exclusive-14-8v-flex-2008",
+        "nome": "C3 Exclusive 1.4 8V (flex)",
+        "ano": 2008
+      },
+      {
+        "id": 4473,
+        "idUrl": "c3-glx-14-8v-flex-2008",
+        "nome": "C3 GLX 1.4 8V (flex)",
+        "ano": 2008
+      },
+      {
+        "id": 4505,
+        "idUrl": "c3-glx-16-16v-flex-2008",
+        "nome": "C3 GLX 1.6 16V (flex)",
+        "ano": 2008
+      }
+    ],
+    "2009": [
+      {
+        "id": 4518,
+        "idUrl": "c3-xtr-16-16v-flex-2009",
+        "nome": "C3 XTR 1.6 16V (flex)",
+        "ano": 2009
+      },
+      {
+        "id": 4502,
+        "idUrl": "c3-exclusive-16-16v-flex-aut-2009",
+        "nome": "C3 Exclusive 1.6 16V (flex) (aut)",
+        "ano": 2009
+      },
+      {
+        "id": 4511,
+        "idUrl": "c3-xtr-14-8v-flex-2009",
+        "nome": "C3 XTR 1.4 8V (flex)",
+        "ano": 2009
+      },
+      {
+        "id": 4528,
+        "idUrl": "c3-glx-16-16v-flex-aut-2009",
+        "nome": "C3 GLX 1.6 16V (flex) (aut)",
+        "ano": 2009
+      },
+      {
+        "id": 4492,
+        "idUrl": "c3-exclusive-16-16v-flex-2009",
+        "nome": "C3 Exclusive 1.6 16V (flex)",
+        "ano": 2009
+      },
+      {
+        "id": 4601,
+        "idUrl": "c3-exclusive-14-8v-flex-2009",
+        "nome": "C3 Exclusive 1.4 8V (flex)",
+        "ano": 2009
+      },
+      {
+        "id": 4526,
+        "idUrl": "c3-glx-16-16v-flex-2009",
+        "nome": "C3 GLX 1.6 16V (flex)",
+        "ano": 2009
+      },
+      {
+        "id": 4475,
+        "idUrl": "c3-glx-14-8v-flex-2009",
+        "nome": "C3 GLX 1.4 8V (flex)",
+        "ano": 2009
+      }
+    ],
+    "2010": [
+      {
+        "id": 4517,
+        "idUrl": "c3-xtr-16-16v-flex-2010",
+        "nome": "C3 XTR 1.6 16V (flex)",
+        "ano": 2010
+      },
+      {
+        "id": 4527,
+        "idUrl": "c3-glx-16-16v-flex-aut-2010",
+        "nome": "C3 GLX 1.6 16V (flex) (aut)",
+        "ano": 2010
+      },
+      {
+        "id": 4495,
+        "idUrl": "c3-exclusive-16-16v-flex-aut-2010",
+        "nome": "C3 Exclusive 1.6 16V (flex) (aut)",
+        "ano": 2010
+      },
+      {
+        "id": 4491,
+        "idUrl": "c3-exclusive-16-16v-flex-2010",
+        "nome": "C3 Exclusive 1.6 16V (flex)",
+        "ano": 2010
+      },
+      {
+        "id": 4510,
+        "idUrl": "c3-xtr-14-8v-flex-2010",
+        "nome": "C3 XTR 1.4 8V (flex)",
+        "ano": 2010
+      },
+      {
+        "id": 4593,
+        "idUrl": "c3-exclusive-14-8v-flex-2010",
+        "nome": "C3 Exclusive 1.4 8V (flex)",
+        "ano": 2010
+      },
+      {
+        "id": 4474,
+        "idUrl": "c3-glx-14-8v-flex-2010",
+        "nome": "C3 GLX 1.4 8V (flex)",
+        "ano": 2010
+      }
+    ],
+    "2011": [
+      {
+        "id": 4519,
+        "idUrl": "c3-xtr-16-16v-flex-2011",
+        "nome": "C3 XTR 1.6 16V (flex)",
+        "ano": 2011
+      },
+      {
+        "id": 4544,
+        "idUrl": "c3-exclusive-16-16v-flexaut-2011",
+        "nome": "C3 Exclusive 1.6 16V (Flex)(aut)",
+        "ano": 2011
+      },
+      {
+        "id": 4485,
+        "idUrl": "c3-exclusive-solaris-16-16v-flex-2011",
+        "nome": "C3 Exclusive Solaris 1.6 16V (flex)",
+        "ano": 2011
+      },
+      {
+        "id": 4494,
+        "idUrl": "c3-exclusive-16-16v-flex-2011",
+        "nome": "C3 Exclusive 1.6 16V (flex)",
+        "ano": 2011
+      },
+      {
+        "id": 4512,
+        "idUrl": "c3-xtr-14-8v-flex-2011",
+        "nome": "C3 XTR 1.4 8V (flex)",
+        "ano": 2011
+      },
+      {
+        "id": 4594,
+        "idUrl": "c3-exclusive-14-8v-flex-2011",
+        "nome": "C3 Exclusive 1.4 8V (flex)",
+        "ano": 2011
+      },
+      {
+        "id": 4476,
+        "idUrl": "c3-glx-14-8v-flex-2011",
+        "nome": "C3 GLX 1.4 8V (flex)",
+        "ano": 2011
+      },
+      {
+        "id": 4535,
+        "idUrl": "c3-plus-14-8v-flex-2011",
+        "nome": "C3 Plus 1.4 8V (flex)",
+        "ano": 2011
+      }
+    ],
+    "2012": [
+      {
+        "id": 4484,
+        "idUrl": "c3-exclusive-solaris-16-16v-flex-aut-2012",
+        "nome": "C3 Exclusive Solaris 1.6 16V (flex) (aut)",
+        "ano": 2012
+      },
+      {
+        "id": 4523,
+        "idUrl": "c3-exclusive-16-16v-flexaut-2012",
+        "nome": "C3 Exclusive 1.6 16V (Flex)(aut)",
+        "ano": 2012
+      },
+      {
+        "id": 4595,
+        "idUrl": "c3-exclusive-14-8v-flex-2012",
+        "nome": "C3 Exclusive 1.4 8V (flex)",
+        "ano": 2012
+      },
+      {
+        "id": 4514,
+        "idUrl": "c3-xtr-14-8v-flex-2012",
+        "nome": "C3 XTR 1.4 8V (flex)",
+        "ano": 2012
+      },
+      {
+        "id": 4477,
+        "idUrl": "c3-glx-14-8v-flex-2012",
+        "nome": "C3 GLX 1.4 8V (flex)",
+        "ano": 2012
+      }
+    ],
+    "2013": [
+      {
+        "id": 4486,
+        "idUrl": "c3-exclusive-16-16v-flexaut-2013",
+        "nome": "C3 Exclusive 1.6 16V (Flex)(aut)",
+        "ano": 2013
+      },
+      {
+        "id": 4545,
+        "idUrl": "c3-exclusive-16-16v-flex-2013",
+        "nome": "C3 Exclusive 1.6 16V (Flex)",
+        "ano": 2013
+      },
+      {
+        "id": 4537,
+        "idUrl": "c3-tendance-15-8v-flex-2013",
+        "nome": "C3 Tendance 1.5 8V (Flex)",
+        "ano": 2013
+      },
+      {
+        "id": 4530,
+        "idUrl": "c3-origine-15-8v-flex-2013",
+        "nome": "C3 Origine 1.5 8V (Flex)",
+        "ano": 2013
+      }
+    ],
+    "2014": [
+      {
+        "id": 4487,
+        "idUrl": "c3-exclusive-16-16v-flexaut-2014",
+        "nome": "C3 Exclusive 1.6 16V (Flex)(aut)",
+        "ano": 2014
+      },
+      {
+        "id": 4602,
+        "idUrl": "c3-exclusive-16-16v-flex-2014",
+        "nome": "C3 Exclusive 1.6 16V (Flex)",
+        "ano": 2014
+      },
+      {
+        "id": 4520,
+        "idUrl": "c3-xbox-one-edition-16-flex-2014",
+        "nome": "C3 Xbox One Edition 1.6 (Flex)",
+        "ano": 2014
+      },
+      {
+        "id": 4538,
+        "idUrl": "c3-tendance-15-8v-flex-2014",
+        "nome": "C3 Tendance 1.5 8V (Flex)",
+        "ano": 2014
+      },
+      {
+        "id": 4531,
+        "idUrl": "c3-origine-15-8v-flex-2014",
+        "nome": "C3 Origine 1.5 8V (Flex)",
+        "ano": 2014
+      }
+    ],
+    "2015": [
+      {
+        "id": 4499,
+        "idUrl": "c3-exclusive-16-vti-120-flex-aut-2015",
+        "nome": "C3 Exclusive 1.6 VTI 120 (Flex) (Aut)",
+        "ano": 2015
+      },
+      {
+        "id": 4525,
+        "idUrl": "c3-tendance-16-vti-120-flex-aut-2015",
+        "nome": "C3 Tendance 1.6 VTI 120 (Flex) (Aut)",
+        "ano": 2015
+      },
+      {
+        "id": 4498,
+        "idUrl": "c3-exclusive-16-vti-120-flex-2015",
+        "nome": "C3 Exclusive 1.6 VTI 120 (Flex)",
+        "ano": 2015
+      },
+      {
+        "id": 4596,
+        "idUrl": "c3-exclusive-15-8v-flex-2015",
+        "nome": "C3 Exclusive 1.5 8V (Flex)",
+        "ano": 2015
+      },
+      {
+        "id": 4539,
+        "idUrl": "c3-tendance-15-8v-flex-2015",
+        "nome": "C3 Tendance 1.5 8V (Flex)",
+        "ano": 2015
+      },
+      {
+        "id": 4587,
+        "idUrl": "c3-attraction-15-8v-flex-2015",
+        "nome": "C3 Attraction 1.5 8V (Flex)",
+        "ano": 2015
+      },
+      {
+        "id": 4532,
+        "idUrl": "c3-origine-15-8v-flex-2015",
+        "nome": "C3 Origine 1.5 8V (Flex)",
+        "ano": 2015
+      }
+    ],
+    "2016": [
+      {
+        "id": 4500,
+        "idUrl": "c3-exclusive-16-vti-120-flex-aut-2016",
+        "nome": "C3 Exclusive 1.6 VTI 120 (Flex) (Aut)",
+        "ano": 2016
+      },
+      {
+        "id": 4506,
+        "idUrl": "c3-tendance-select-16-flex-aut-2016",
+        "nome": "C3 Tendance Select 1.6 (Flex) (Aut)",
+        "ano": 2016
+      },
+      {
+        "id": 4533,
+        "idUrl": "c3-tendance-16-vti-120-flex-aut-2016",
+        "nome": "C3 Tendance 1.6 VTI 120 (Flex) (Aut)",
+        "ano": 2016
+      },
+      {
+        "id": 4597,
+        "idUrl": "c3-exclusive-15-8v-flex-2016",
+        "nome": "C3 Exclusive 1.5 8V (Flex)",
+        "ano": 2016
+      },
+      {
+        "id": 4534,
+        "idUrl": "c3-origine-15-8v-flex-2016",
+        "nome": "C3 Origine 1.5 8V (Flex)",
+        "ano": 2016
+      },
+      {
+        "id": 4588,
+        "idUrl": "c3-attraction-15-8v-flex-2016",
+        "nome": "C3 Attraction 1.5 8V (Flex)",
+        "ano": 2016
+      },
+      {
+        "id": 4540,
+        "idUrl": "c3-tendance-15-8v-flex-2016",
+        "nome": "C3 Tendance 1.5 8V (Flex)",
+        "ano": 2016
+      }
+    ],
+    "2017": [
+      {
+        "id": 4501,
+        "idUrl": "c3-exclusive-16-vti-120-flex-aut-2017",
+        "nome": "C3 Exclusive 1.6 VTI 120 (Flex) (Aut)",
+        "ano": 2017
+      },
+      {
+        "id": 4507,
+        "idUrl": "c3-tendance-style-edition-16-vti-120-flex-aut-2017",
+        "nome": "C3 Tendance Style Edition 1.6 VTI 120 (Flex) (Aut)",
+        "ano": 2017
+      },
+      {
+        "id": 4524,
+        "idUrl": "c3-tendance-16-vti-120-flex-aut-2017",
+        "nome": "C3 Tendance 1.6 VTI 120 (Flex) (Aut)",
+        "ano": 2017
+      },
+      {
+        "id": 4513,
+        "idUrl": "c3-tendance-puretech-12-12v-flex-2017",
+        "nome": "C3 Tendance Puretech 1.2 12V (Flex)",
+        "ano": 2017
+      },
+      {
+        "id": 4536,
+        "idUrl": "c3-puretech-style-edition-12-12v-flex-2017",
+        "nome": "C3 Puretech Style Edition 1.2 12V (Flex)",
+        "ano": 2017
+      },
+      {
+        "id": 4541,
+        "idUrl": "c3-tendance-15-8v-flex-2017",
+        "nome": "C3 Tendance 1.5 8V (Flex)",
+        "ano": 2017
+      },
+      {
+        "id": 4589,
+        "idUrl": "c3-attraction-15-8v-flex-2017",
+        "nome": "C3 Attraction 1.5 8V (Flex)",
+        "ano": 2017
+      },
+      {
+        "id": 4586,
+        "idUrl": "c3-attraction-12-12v-flex-2017",
+        "nome": "C3 Attraction 1.2 12V (Flex)",
+        "ano": 2017
+      },
+      {
+        "id": 4529,
+        "idUrl": "c3-origine-12-12v-flex-2017",
+        "nome": "C3 Origine 1.2 12V (Flex)",
+        "ano": 2017
+      },
+      {
+        "id": 4542,
+        "idUrl": "c3-origine-15-8v-flex-2017",
+        "nome": "C3 Origine 1.5 8V (Flex)",
+        "ano": 2017
+      }
+    ],
+    "2018": [
+      {
+        "id": 22158,
+        "idUrl": "citroen-c3-exclusive-16-at-2018",
+        "nome": "Citroen C3 Exclusive 1.6 AT",
+        "ano": 2018
+      }
+    ]
+  }

@@ -1,0 +1,314 @@
+{
+    "2007": [
+      {
+        "id": 2107,
+        "idUrl": "prisma-maxx-14-flex-2007",
+        "nome": "Prisma Maxx 1.4 (Flex)",
+        "ano": 2007
+      },
+      {
+        "id": 2145,
+        "idUrl": "prisma-joy-14-flex-2007",
+        "nome": "Prisma Joy 1.4 (Flex)",
+        "ano": 2007
+      }
+    ],
+    "2008": [
+      {
+        "id": 2106,
+        "idUrl": "prisma-maxx-14-flex-2008",
+        "nome": "Prisma Maxx 1.4 (Flex)",
+        "ano": 2008
+      },
+      {
+        "id": 2108,
+        "idUrl": "prisma-maxx-10-flex-2008",
+        "nome": "Prisma Maxx 1.0 (Flex)",
+        "ano": 2008
+      },
+      {
+        "id": 2129,
+        "idUrl": "prisma-joy-14-flex-2008",
+        "nome": "Prisma Joy 1.4 (Flex)",
+        "ano": 2008
+      }
+    ],
+    "2009": [
+      {
+        "id": 2103,
+        "idUrl": "prisma-maxx-14-flex-2009",
+        "nome": "Prisma Maxx 1.4 (Flex)",
+        "ano": 2009
+      },
+      {
+        "id": 2110,
+        "idUrl": "prisma-maxx-10-flex-2009",
+        "nome": "Prisma Maxx 1.0 (Flex)",
+        "ano": 2009
+      },
+      {
+        "id": 2112,
+        "idUrl": "prisma-joy-14-flex-2009",
+        "nome": "Prisma Joy 1.4 (Flex)",
+        "ano": 2009
+      },
+      {
+        "id": 2188,
+        "idUrl": "prisma-joy-10-flex-2009",
+        "nome": "Prisma Joy 1.0 (Flex)",
+        "ano": 2009
+      }
+    ],
+    "2010": [
+      {
+        "id": 2105,
+        "idUrl": "prisma-maxx-14-flex-2010",
+        "nome": "Prisma Maxx 1.4 (Flex)",
+        "ano": 2010
+      },
+      {
+        "id": 2109,
+        "idUrl": "prisma-maxx-10-flex-2010",
+        "nome": "Prisma Maxx 1.0 (Flex)",
+        "ano": 2010
+      },
+      {
+        "id": 2111,
+        "idUrl": "prisma-joy-14-flex-2010",
+        "nome": "Prisma Joy 1.4 (Flex)",
+        "ano": 2010
+      },
+      {
+        "id": 2176,
+        "idUrl": "prisma-joy-10-flex-2010",
+        "nome": "Prisma Joy 1.0 (Flex)",
+        "ano": 2010
+      }
+    ],
+    "2011": [
+      {
+        "id": 2104,
+        "idUrl": "prisma-maxx-14-flex-2011",
+        "nome": "Prisma Maxx 1.4 (Flex)",
+        "ano": 2011
+      },
+      {
+        "id": 2146,
+        "idUrl": "prisma-joy-10-flex-2011",
+        "nome": "Prisma Joy 1.0 (Flex)",
+        "ano": 2011
+      }
+    ],
+    "2012": [
+      {
+        "id": 2196,
+        "idUrl": "prisma-14-8v-lt-econoflex-2012",
+        "nome": "Prisma 1.4 8V LT Econoflex",
+        "ano": 2012
+      },
+      {
+        "id": 2173,
+        "idUrl": "prisma-10-8v-ls-flex-2012",
+        "nome": "Prisma 1.0 8V LS (Flex)",
+        "ano": 2012
+      }
+    ],
+    "2013": [
+      {
+        "id": 2183,
+        "idUrl": "prisma-14-spe4-ltz-2013",
+        "nome": "Prisma 1.4 SPE/4 LTZ",
+        "ano": 2013
+      },
+      {
+        "id": 2190,
+        "idUrl": "prisma-14-spe4-lt-2013",
+        "nome": "Prisma 1.4 SPE/4 LT",
+        "ano": 2013
+      },
+      {
+        "id": 2200,
+        "idUrl": "prisma-10-spe4-lt-2013",
+        "nome": "Prisma 1.0 SPE/4 LT",
+        "ano": 2013
+      }
+    ],
+    "2014": [
+      {
+        "id": 2179,
+        "idUrl": "prisma-14-spe4-ltz-aut-2014",
+        "nome": "Prisma 1.4 SPE/4 LTZ (Aut)",
+        "ano": 2014
+      },
+      {
+        "id": 2186,
+        "idUrl": "prisma-14-spe4-lt-aut-2014",
+        "nome": "Prisma 1.4 SPE/4 LT (Aut)",
+        "ano": 2014
+      },
+      {
+        "id": 2182,
+        "idUrl": "prisma-14-spe4-ltz-2014",
+        "nome": "Prisma 1.4 SPE/4 LTZ",
+        "ano": 2014
+      },
+      {
+        "id": 2202,
+        "idUrl": "prisma-14-spe4-lt-2014",
+        "nome": "Prisma 1.4 SPE/4 LT",
+        "ano": 2014
+      },
+      {
+        "id": 2199,
+        "idUrl": "prisma-10-spe4-lt-2014",
+        "nome": "Prisma 1.0 SPE/4 LT",
+        "ano": 2014
+      }
+    ],
+    "2015": [
+      {
+        "id": 2178,
+        "idUrl": "prisma-14-spe4-ltz-aut-2015",
+        "nome": "Prisma 1.4 SPE/4 LTZ (Aut)",
+        "ano": 2015
+      },
+      {
+        "id": 2185,
+        "idUrl": "prisma-14-spe4-lt-aut-2015",
+        "nome": "Prisma 1.4 SPE/4 LT (Aut)",
+        "ano": 2015
+      },
+      {
+        "id": 2181,
+        "idUrl": "prisma-14-spe4-ltz-2015",
+        "nome": "Prisma 1.4 SPE/4 LTZ",
+        "ano": 2015
+      },
+      {
+        "id": 2189,
+        "idUrl": "prisma-14-spe4-lt-2015",
+        "nome": "Prisma 1.4 SPE/4 LT",
+        "ano": 2015
+      },
+      {
+        "id": 2174,
+        "idUrl": "prisma-10-spe4-advantage-2015",
+        "nome": "Prisma 1.0 SPE/4 Advantage",
+        "ano": 2015
+      },
+      {
+        "id": 2198,
+        "idUrl": "prisma-10-spe4-lt-2015",
+        "nome": "Prisma 1.0 SPE/4 LT",
+        "ano": 2015
+      }
+    ],
+    "2016": [
+      {
+        "id": 2177,
+        "idUrl": "prisma-14-spe4-ltz-aut-2016",
+        "nome": "Prisma 1.4 SPE/4 LTZ (Aut)",
+        "ano": 2016
+      },
+      {
+        "id": 2195,
+        "idUrl": "prisma-14-spe4-advantage-aut-2016",
+        "nome": "Prisma 1.4 SPE/4 Advantage (Aut)",
+        "ano": 2016
+      },
+      {
+        "id": 2184,
+        "idUrl": "prisma-14-spe4-lt-aut-2016",
+        "nome": "Prisma 1.4 SPE/4 LT (Aut)",
+        "ano": 2016
+      },
+      {
+        "id": 2180,
+        "idUrl": "prisma-14-spe4-ltz-2016",
+        "nome": "Prisma 1.4 SPE/4 LTZ",
+        "ano": 2016
+      },
+      {
+        "id": 2187,
+        "idUrl": "prisma-14-spe4-lt-2016",
+        "nome": "Prisma 1.4 SPE/4 LT",
+        "ano": 2016
+      },
+      {
+        "id": 2197,
+        "idUrl": "prisma-10-spe4-lt-2016",
+        "nome": "Prisma 1.0 SPE/4 LT",
+        "ano": 2016
+      }
+    ],
+    "2017": [
+      {
+        "id": 2191,
+        "idUrl": "prisma-14-spe4-eco-ltz-aut-2017",
+        "nome": "Prisma 1.4 SPE/4 Eco LTZ (Aut)",
+        "ano": 2017
+      },
+      {
+        "id": 2193,
+        "idUrl": "prisma-14-spe4-eco-lt-aut-2017",
+        "nome": "Prisma 1.4 SPE/4 Eco LT (Aut)",
+        "ano": 2017
+      },
+      {
+        "id": 2192,
+        "idUrl": "prisma-14-spe4-eco-ltz-2017",
+        "nome": "Prisma 1.4 SPE/4 Eco LTZ",
+        "ano": 2017
+      },
+      {
+        "id": 2194,
+        "idUrl": "prisma-14-spe4-eco-lt-2017",
+        "nome": "Prisma 1.4 SPE/4 Eco LT",
+        "ano": 2017
+      },
+      {
+        "id": 2201,
+        "idUrl": "prisma-10-spe4-eco-joy-2017",
+        "nome": "Prisma 1.0 SPE/4 Eco Joy",
+        "ano": 2017
+      }
+    ],
+    "2018": [
+      {
+        "id": 21537,
+        "idUrl": "prisma-14-spe4-eco-ltz-aut-2018",
+        "nome": "Prisma 1.4 SPE/4 Eco LTZ (Aut)",
+        "ano": 2018
+      },
+      {
+        "id": 22036,
+        "idUrl": "prisma-14-advantage-aut-2018",
+        "nome": "Prisma 1.4 Advantage (Aut)",
+        "ano": 2018
+      },
+      {
+        "id": 21536,
+        "idUrl": "prisma-14-spe4-eco-lt-aut-2018",
+        "nome": "Prisma 1.4 SPE/4 Eco LT (Aut)",
+        "ano": 2018
+      },
+      {
+        "id": 21521,
+        "idUrl": "prisma-14-spe4-eco-ltz-2018",
+        "nome": "Prisma 1.4 SPE/4 Eco LTZ",
+        "ano": 2018
+      },
+      {
+        "id": 21535,
+        "idUrl": "prisma-14-spe4-eco-lt-2018",
+        "nome": "Prisma 1.4 SPE/4 Eco LT",
+        "ano": 2018
+      },
+      {
+        "id": 21520,
+        "idUrl": "prisma-10-spe4-eco-joy-2018",
+        "nome": "Prisma 1.0 SPE/4 Eco Joy",
+        "ano": 2018
+      }
+    ]
+  }

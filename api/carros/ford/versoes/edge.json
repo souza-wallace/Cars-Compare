@@ -1,0 +1,112 @@
+{
+    "2009": [
+      {
+        "id": 7640,
+        "idUrl": "edge-sel-35-v6-2009",
+        "nome": "Edge SEL 3.5 V6",
+        "ano": 2009
+      }
+    ],
+    "2010": [
+      {
+        "id": 7648,
+        "idUrl": "edge-limited-35-4wd-2010",
+        "nome": "Edge Limited 3.5 4WD",
+        "ano": 2010
+      },
+      {
+        "id": 7641,
+        "idUrl": "edge-sel-35-v6-2010",
+        "nome": "Edge SEL 3.5 V6",
+        "ano": 2010
+      }
+    ],
+    "2011": [
+      {
+        "id": 7663,
+        "idUrl": "edge-sel-35-v6-2011",
+        "nome": "Edge SEL 3.5 V6",
+        "ano": 2011
+      }
+    ],
+    "2012": [
+      {
+        "id": 7644,
+        "idUrl": "edge-limited-35-fwd-2012",
+        "nome": "Edge Limited 3.5 FWD",
+        "ano": 2012
+      },
+      {
+        "id": 7645,
+        "idUrl": "edge-limited-35-awd-2012",
+        "nome": "Edge Limited 3.5 AWD",
+        "ano": 2012
+      },
+      {
+        "id": 7665,
+        "idUrl": "edge-sel-35-v6-2012",
+        "nome": "Edge SEL 3.5 V6",
+        "ano": 2012
+      }
+    ],
+    "2013": [
+      {
+        "id": 7646,
+        "idUrl": "edge-limited-35-awd-2013",
+        "nome": "Edge Limited 3.5 AWD",
+        "ano": 2013
+      },
+      {
+        "id": 7643,
+        "idUrl": "edge-limited-35-fwd-2013",
+        "nome": "Edge Limited 3.5 FWD",
+        "ano": 2013
+      }
+    ],
+    "2014": [
+      {
+        "id": 7652,
+        "idUrl": "edge-35-v6-limited-4wd-2014",
+        "nome": "Edge 3.5 V6 Limited 4WD",
+        "ano": 2014
+      },
+      {
+        "id": 7651,
+        "idUrl": "edge-35-v6-sel-fwd-aut-2014",
+        "nome": "Edge 3.5 V6 SEL FWD (Aut)",
+        "ano": 2014
+      }
+    ],
+    "2016": [
+      {
+        "id": 7650,
+        "idUrl": "edge-35-v6-titanium-4wd-aut-2016",
+        "nome": "Edge 3.5 V6 Titanium 4WD (Aut)",
+        "ano": 2016
+      }
+    ],
+    "2017": [
+      {
+        "id": 21961,
+        "idUrl": "edge-35-v6-titanium-4wd-aut-2017",
+        "nome": "Edge 3.5 V6 Titanium 4WD Aut",
+        "ano": 2017
+      }
+    ],
+    "2018": [
+      {
+        "id": 22116,
+        "idUrl": "edge-titanium-35-v6-awd-2018",
+        "nome": "Edge Titanium 3.5 V6 AWD",
+        "ano": 2018
+      }
+    ],
+    "2019": [
+      {
+        "id": 22316,
+        "idUrl": "edge-st-27-v6-2019",
+        "nome": "Edge ST 2.7 V6",
+        "ano": 2019
+      }
+    ]
+  }

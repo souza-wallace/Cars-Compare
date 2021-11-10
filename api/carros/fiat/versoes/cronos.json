@@ -1,0 +1,66 @@
+{
+    "2019": [
+      {
+        "id": 22043,
+        "idUrl": "cronos-precision-18-16v-flex-aut-2019",
+        "nome": "Cronos Precision 1.8 16V (Flex) (Aut)",
+        "ano": 2019
+      },
+      {
+        "id": 22042,
+        "idUrl": "cronos-precision-18-16v-flex-2019",
+        "nome": "Cronos Precision 1.8 16V Flex",
+        "ano": 2019
+      },
+      {
+        "id": 22040,
+        "idUrl": "cronos-drive-13-8v-flex-2019",
+        "nome": "Cronos Drive 1.3 8V Flex",
+        "ano": 2019
+      },
+      {
+        "id": 22044,
+        "idUrl": "cronos-13-8v-flex-2019",
+        "nome": "Cronos 1.3 8V Flex",
+        "ano": 2019
+      },
+      {
+        "id": 22041,
+        "idUrl": "cronos-drive-13-gsr-8v-flex-2019",
+        "nome": "Cronos Drive 1.3 GSR 8V Flex",
+        "ano": 2019
+      }
+    ],
+    "2020": [
+      {
+        "id": 22371,
+        "idUrl": "cronos-hgt-18-aut-2020",
+        "nome": "Cronos HGT 1.8 (Aut)",
+        "ano": 2020
+      },
+      {
+        "id": 22372,
+        "idUrl": "cronos-precision-18-16v-flex-aut-2020",
+        "nome": "Cronos Precision 1.8 16V (Flex) (Aut)",
+        "ano": 2020
+      },
+      {
+        "id": 22374,
+        "idUrl": "cronos-drive-13-8v-flex-2020",
+        "nome": "Cronos Drive 1.3 8V Flex",
+        "ano": 2020
+      },
+      {
+        "id": 22373,
+        "idUrl": "cronos-13-8v-flex-2020",
+        "nome": "Cronos 1.3 8V Flex",
+        "ano": 2020
+      },
+      {
+        "id": 22450,
+        "idUrl": "cronos-sdesign-13-8v-flex-2020",
+        "nome": "Cronos S-Design 1.3 8V Flex",
+        "ano": 2020
+      }
+    ]
+  }

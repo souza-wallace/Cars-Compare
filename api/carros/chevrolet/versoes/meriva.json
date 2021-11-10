@@ -1,0 +1,262 @@
+{
+    "2003": [
+      {
+        "id": 2393,
+        "idUrl": "meriva-18-16v-2003",
+        "nome": "Meriva 1.8 16V",
+        "ano": 2003
+      },
+      {
+        "id": 2390,
+        "idUrl": "meriva-18-8v-2003",
+        "nome": "Meriva 1.8 8V",
+        "ano": 2003
+      }
+    ],
+    "2004": [
+      {
+        "id": 2387,
+        "idUrl": "meriva-18-8v-flex-2004",
+        "nome": "Meriva 1.8 8V (Flex)",
+        "ano": 2004
+      },
+      {
+        "id": 2391,
+        "idUrl": "meriva-18-16v-2004",
+        "nome": "Meriva 1.8 16V",
+        "ano": 2004
+      },
+      {
+        "id": 2388,
+        "idUrl": "meriva-18-8v-2004",
+        "nome": "Meriva 1.8 8V",
+        "ano": 2004
+      }
+    ],
+    "2005": [
+      {
+        "id": 2424,
+        "idUrl": "meriva-maxx-18-flex-2005",
+        "nome": "Meriva Maxx 1.8 (Flex)",
+        "ano": 2005
+      },
+      {
+        "id": 2420,
+        "idUrl": "meriva-premium-18-flex-2005",
+        "nome": "Meriva Premium 1.8 (Flex)",
+        "ano": 2005
+      },
+      {
+        "id": 2432,
+        "idUrl": "meriva-joy-18-flex-2005",
+        "nome": "Meriva Joy 1.8 (Flex)",
+        "ano": 2005
+      }
+    ],
+    "2006": [
+      {
+        "id": 2414,
+        "idUrl": "meriva-ss-18-flex-2006",
+        "nome": "Meriva SS 1.8 (Flex)",
+        "ano": 2006
+      },
+      {
+        "id": 2423,
+        "idUrl": "meriva-premium-18-flex-2006",
+        "nome": "Meriva Premium 1.8 (Flex)",
+        "ano": 2006
+      },
+      {
+        "id": 2440,
+        "idUrl": "meriva-maxx-18-flex-2006",
+        "nome": "Meriva Maxx 1.8 (Flex)",
+        "ano": 2006
+      },
+      {
+        "id": 2435,
+        "idUrl": "meriva-joy-18-flex-2006",
+        "nome": "Meriva Joy 1.8 (Flex)",
+        "ano": 2006
+      }
+    ],
+    "2007": [
+      {
+        "id": 2383,
+        "idUrl": "meriva-ss-18-flex-2007",
+        "nome": "Meriva SS 1.8 (Flex)",
+        "ano": 2007
+      },
+      {
+        "id": 2421,
+        "idUrl": "meriva-premium-18-flex-2007",
+        "nome": "Meriva Premium 1.8 (Flex)",
+        "ano": 2007
+      },
+      {
+        "id": 2427,
+        "idUrl": "meriva-maxx-18-flex-2007",
+        "nome": "Meriva Maxx 1.8 (Flex)",
+        "ano": 2007
+      },
+      {
+        "id": 2434,
+        "idUrl": "meriva-joy-18-flex-2007",
+        "nome": "Meriva Joy 1.8 (Flex)",
+        "ano": 2007
+      }
+    ],
+    "2008": [
+      {
+        "id": 2382,
+        "idUrl": "meriva-ss-18-flex-2008",
+        "nome": "Meriva SS 1.8 (Flex)",
+        "ano": 2008
+      },
+      {
+        "id": 2419,
+        "idUrl": "meriva-premium-18-flex-easytronic-2008",
+        "nome": "Meriva Premium 1.8 (Flex) (easytronic)",
+        "ano": 2008
+      },
+      {
+        "id": 2422,
+        "idUrl": "meriva-premium-18-flex-2008",
+        "nome": "Meriva Premium 1.8 (Flex)",
+        "ano": 2008
+      },
+      {
+        "id": 2425,
+        "idUrl": "meriva-maxx-18-flex-2008",
+        "nome": "Meriva Maxx 1.8 (Flex)",
+        "ano": 2008
+      },
+      {
+        "id": 2433,
+        "idUrl": "meriva-joy-18-flex-2008",
+        "nome": "Meriva Joy 1.8 (Flex)",
+        "ano": 2008
+      }
+    ],
+    "2009": [
+      {
+        "id": 2416,
+        "idUrl": "meriva-premium-18-flex-easytronic-2009",
+        "nome": "Meriva Premium 1.8 (Flex) (easytronic)",
+        "ano": 2009
+      },
+      {
+        "id": 2349,
+        "idUrl": "meriva-ss-18-flex-easytronic-2009",
+        "nome": "Meriva SS 1.8 (Flex) (easytronic)",
+        "ano": 2009
+      },
+      {
+        "id": 2429,
+        "idUrl": "meriva-maxx-14-flex-2009",
+        "nome": "Meriva Maxx 1.4 (Flex)",
+        "ano": 2009
+      },
+      {
+        "id": 2426,
+        "idUrl": "meriva-expression-18-flex-easytronic-2009",
+        "nome": "Meriva Expression 1.8 (Flex) (easytronic)",
+        "ano": 2009
+      },
+      {
+        "id": 2437,
+        "idUrl": "meriva-joy-14-flex-2009",
+        "nome": "Meriva Joy 1.4 (Flex)",
+        "ano": 2009
+      }
+    ],
+    "2010": [
+      {
+        "id": 2418,
+        "idUrl": "meriva-premium-18-flex-easytronic-2010",
+        "nome": "Meriva Premium 1.8 (Flex) (easytronic)",
+        "ano": 2010
+      },
+      {
+        "id": 2366,
+        "idUrl": "meriva-ss-18-flex-easytronic-2010",
+        "nome": "Meriva SS 1.8 (Flex) (easytronic)",
+        "ano": 2010
+      },
+      {
+        "id": 2431,
+        "idUrl": "meriva-maxx-14-flex-2010",
+        "nome": "Meriva Maxx 1.4 (Flex)",
+        "ano": 2010
+      },
+      {
+        "id": 2396,
+        "idUrl": "meriva-expression-18-flex-easytronic-2010",
+        "nome": "Meriva Expression 1.8 (Flex) (easytronic)",
+        "ano": 2010
+      },
+      {
+        "id": 2439,
+        "idUrl": "meriva-joy-14-flex-2010",
+        "nome": "Meriva Joy 1.4 (Flex)",
+        "ano": 2010
+      }
+    ],
+    "2011": [
+      {
+        "id": 2417,
+        "idUrl": "meriva-premium-18-flex-easytronic-2011",
+        "nome": "Meriva Premium 1.8 (Flex) (easytronic)",
+        "ano": 2011
+      },
+      {
+        "id": 2430,
+        "idUrl": "meriva-maxx-14-flex-2011",
+        "nome": "Meriva Maxx 1.4 (Flex)",
+        "ano": 2011
+      },
+      {
+        "id": 2412,
+        "idUrl": "meriva-expression-18-flex-easytronic-2011",
+        "nome": "Meriva Expression 1.8 (Flex) (easytronic)",
+        "ano": 2011
+      },
+      {
+        "id": 2438,
+        "idUrl": "meriva-joy-14-flex-2011",
+        "nome": "Meriva Joy 1.4 (Flex)",
+        "ano": 2011
+      }
+    ],
+    "2012": [
+      {
+        "id": 2384,
+        "idUrl": "meriva-collection-14-flex-2012",
+        "nome": "Meriva Collection 1.4 (Flex)",
+        "ano": 2012
+      },
+      {
+        "id": 2415,
+        "idUrl": "meriva-premium-18-flex-easytronic-2012",
+        "nome": "Meriva Premium 1.8 (Flex) (easytronic)",
+        "ano": 2012
+      },
+      {
+        "id": 2428,
+        "idUrl": "meriva-maxx-14-flex-2012",
+        "nome": "Meriva Maxx 1.4 (Flex)",
+        "ano": 2012
+      },
+      {
+        "id": 2413,
+        "idUrl": "meriva-expression-18-flex-easytronic-2012",
+        "nome": "Meriva Expression 1.8 (Flex) (easytronic)",
+        "ano": 2012
+      },
+      {
+        "id": 2436,
+        "idUrl": "meriva-joy-14-flex-2012",
+        "nome": "Meriva Joy 1.4 (Flex)",
+        "ano": 2012
+      }
+    ]
+  }

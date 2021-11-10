@@ -1,0 +1,110 @@
+{
+    "1985": [
+      {
+        "id": 2150,
+        "idUrl": "opala-coupe-diplomata-41-1985",
+        "nome": "Opala Coupe Diplomata 4.1",
+        "ano": 1985
+      },
+      {
+        "id": 2151,
+        "idUrl": "opala-coupe-diplomata-25-1985",
+        "nome": "Opala Coupe Diplomata 2.5",
+        "ano": 1985
+      },
+      {
+        "id": 2164,
+        "idUrl": "opala-sedan-diplomata-41-1985",
+        "nome": "Opala Sedan Diplomata 4.1",
+        "ano": 1985
+      },
+      {
+        "id": 2165,
+        "idUrl": "opala-sedan-diplomata-25-1985",
+        "nome": "Opala Sedan Diplomata 2.5",
+        "ano": 1985
+      },
+      {
+        "id": 2152,
+        "idUrl": "opala-coupe-comodoro-41-1985",
+        "nome": "Opala Coupe Comodoro 4.1",
+        "ano": 1985
+      },
+      {
+        "id": 2154,
+        "idUrl": "opala-coupe-comodoro-25-1985",
+        "nome": "Opala Coupe Comodoro 2.5",
+        "ano": 1985
+      },
+      {
+        "id": 2169,
+        "idUrl": "opala-sedan-comodoro-25-1985",
+        "nome": "Opala Sedan Comodoro 2.5",
+        "ano": 1985
+      },
+      {
+        "id": 2147,
+        "idUrl": "opala-coupe-l-41-1985",
+        "nome": "Opala Coupe L 4.1",
+        "ano": 1985
+      },
+      {
+        "id": 2148,
+        "idUrl": "opala-coupe-l-25-1985",
+        "nome": "Opala Coupe L 2.5",
+        "ano": 1985
+      },
+      {
+        "id": 2159,
+        "idUrl": "opala-sedan-l-41-1985",
+        "nome": "Opala Sedan L 4.1",
+        "ano": 1985
+      }
+    ],
+    "1987": [
+      {
+        "id": 2162,
+        "idUrl": "opala-sedan-diplomata-se-41-1987",
+        "nome": "Opala Sedan Diplomata SE 4.1",
+        "ano": 1987
+      },
+      {
+        "id": 2163,
+        "idUrl": "opala-sedan-diplomata-se-25-1987",
+        "nome": "Opala Sedan Diplomata SE 2.5",
+        "ano": 1987
+      },
+      {
+        "id": 2166,
+        "idUrl": "opala-sedan-comodoro-sle-41-1987",
+        "nome": "Opala Sedan Comodoro SLE 4.1",
+        "ano": 1987
+      },
+      {
+        "id": 2167,
+        "idUrl": "opala-sedan-comodoro-sle-25-1987",
+        "nome": "Opala Sedan Comodoro SLE 2.5",
+        "ano": 1987
+      },
+      {
+        "id": 2156,
+        "idUrl": "opala-sedan-sl-41-1987",
+        "nome": "Opala Sedan SL 4.1",
+        "ano": 1987
+      },
+      {
+        "id": 2157,
+        "idUrl": "opala-sedan-sl-25-1987",
+        "nome": "Opala Sedan SL 2.5",
+        "ano": 1987
+      }
+    ],
+    "1992": [
+      {
+        "id": 2161,
+        "idUrl": "opala-sedan-diplomata-se-41-collector-1992",
+        "nome": "Opala Sedan Diplomata SE 4.1 Collector",
+        "ano": 1992
+      }
+    ]
+  }

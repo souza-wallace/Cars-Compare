@@ -1,0 +1,520 @@
+{
+    "2001": [
+      {
+        "id": 3252,
+        "idUrl": "celta-10-2001",
+        "nome": "Celta 1.0",
+        "ano": 2001
+      }
+    ],
+    "2002": [
+      {
+        "id": 3187,
+        "idUrl": "celta-super-10-vhc-2002",
+        "nome": "Celta Super 1.0 VHC",
+        "ano": 2002
+      },
+      {
+        "id": 3251,
+        "idUrl": "celta-10-vhc-2002",
+        "nome": "Celta 1.0 VHC",
+        "ano": 2002
+      },
+      {
+        "id": 3254,
+        "idUrl": "celta-10-2002",
+        "nome": "Celta 1.0",
+        "ano": 2002
+      }
+    ],
+    "2003": [
+      {
+        "id": 3210,
+        "idUrl": "celta-piquet-10-vhc-2003",
+        "nome": "Celta Piquet 1.0 VHC",
+        "ano": 2003
+      },
+      {
+        "id": 3247,
+        "idUrl": "celta-10-vhc-4p-2003",
+        "nome": "Celta 1.0 VHC 4p",
+        "ano": 2003
+      },
+      {
+        "id": 3249,
+        "idUrl": "celta-10-vhc-2p-2003",
+        "nome": "Celta 1.0 VHC 2p",
+        "ano": 2003
+      }
+    ],
+    "2004": [
+      {
+        "id": 3186,
+        "idUrl": "celta-super-10-vhc-2004",
+        "nome": "Celta Super 1.0 VHC",
+        "ano": 2004
+      },
+      {
+        "id": 3215,
+        "idUrl": "celta-14-vhc-4p-2004",
+        "nome": "Celta 1.4 VHC 4p",
+        "ano": 2004
+      },
+      {
+        "id": 3246,
+        "idUrl": "celta-14-vhc-2p-2004",
+        "nome": "Celta 1.4 VHC 2p",
+        "ano": 2004
+      },
+      {
+        "id": 3248,
+        "idUrl": "celta-10-vhc-4p-2004",
+        "nome": "Celta 1.0 VHC 4p",
+        "ano": 2004
+      }
+    ],
+    "2005": [
+      {
+        "id": 3827,
+        "idUrl": "celta-super-14-4p-2005",
+        "nome": "Celta Super 1.4 4p",
+        "ano": 2005
+      },
+      {
+        "id": 3188,
+        "idUrl": "celta-spirit-14-4p-2005",
+        "nome": "Celta Spirit 1.4 4p",
+        "ano": 2005
+      },
+      {
+        "id": 3835,
+        "idUrl": "celta-super-10-vhc-flex-4p-2005",
+        "nome": "Celta Super 1.0 VHC (Flex) 4p",
+        "ano": 2005
+      },
+      {
+        "id": 3211,
+        "idUrl": "celta-life-14-4p-2005",
+        "nome": "Celta Life 1.4 4p",
+        "ano": 2005
+      },
+      {
+        "id": 3200,
+        "idUrl": "celta-spirit-10-vhc-4p-2005",
+        "nome": "Celta Spirit 1.0 VHC 4p",
+        "ano": 2005
+      },
+      {
+        "id": 3831,
+        "idUrl": "celta-super-10-vhc-2p-2005",
+        "nome": "Celta Super 1.0 VHC 2p",
+        "ano": 2005
+      },
+      {
+        "id": 3164,
+        "idUrl": "celta-life-10-vhc-4p-2005",
+        "nome": "Celta Life 1.0 VHC 4p",
+        "ano": 2005
+      },
+      {
+        "id": 3828,
+        "idUrl": "celta-super-14-2p-2005",
+        "nome": "Celta Super 1.4 2p",
+        "ano": 2005
+      },
+      {
+        "id": 3191,
+        "idUrl": "celta-spirit-14-2p-2005",
+        "nome": "Celta Spirit 1.4 2p",
+        "ano": 2005
+      },
+      {
+        "id": 3201,
+        "idUrl": "celta-spirit-10-vhc-2p-2005",
+        "nome": "Celta Spirit 1.0 VHC 2p",
+        "ano": 2005
+      },
+      {
+        "id": 3165,
+        "idUrl": "celta-life-10-vhc-2p-2005",
+        "nome": "Celta Life 1.0 VHC 2p",
+        "ano": 2005
+      },
+      {
+        "id": 3183,
+        "idUrl": "celta-life-14-2p-2005",
+        "nome": "Celta Life 1.4 2p",
+        "ano": 2005
+      }
+    ],
+    "2006": [
+      {
+        "id": 3825,
+        "idUrl": "celta-super-14-4p-2006",
+        "nome": "Celta Super 1.4 4p",
+        "ano": 2006
+      },
+      {
+        "id": 3832,
+        "idUrl": "celta-super-10-vhc-flex-4p-2006",
+        "nome": "Celta Super 1.0 VHC (Flex) 4p",
+        "ano": 2006
+      },
+      {
+        "id": 3189,
+        "idUrl": "celta-spirit-14-4p-2006",
+        "nome": "Celta Spirit 1.4 4p",
+        "ano": 2006
+      },
+      {
+        "id": 3830,
+        "idUrl": "celta-super-14-2p-2006",
+        "nome": "Celta Super 1.4 2p",
+        "ano": 2006
+      },
+      {
+        "id": 3202,
+        "idUrl": "celta-spirit-10-vhc-flex-4p-2006",
+        "nome": "Celta Spirit 1.0 VHC (Flex) 4p",
+        "ano": 2006
+      },
+      {
+        "id": 3193,
+        "idUrl": "celta-spirit-14-2p-2006",
+        "nome": "Celta Spirit 1.4 2p",
+        "ano": 2006
+      },
+      {
+        "id": 3185,
+        "idUrl": "celta-life-14-4p-2006",
+        "nome": "Celta Life 1.4 4p",
+        "ano": 2006
+      },
+      {
+        "id": 3167,
+        "idUrl": "celta-life-10-vhc-flex-4p-2006",
+        "nome": "Celta Life 1.0 VHC (Flex) 4p",
+        "ano": 2006
+      },
+      {
+        "id": 3511,
+        "idUrl": "celta-super-10-vhc-flex-2p-2006",
+        "nome": "Celta Super 1.0 VHC (Flex) 2p",
+        "ano": 2006
+      },
+      {
+        "id": 3207,
+        "idUrl": "celta-spirit-10-vhc-flex-2p-2006",
+        "nome": "Celta Spirit 1.0 VHC (Flex) 2p",
+        "ano": 2006
+      },
+      {
+        "id": 3172,
+        "idUrl": "celta-life-10-vhc-flex-2p-2006",
+        "nome": "Celta Life 1.0 VHC (Flex) 2p",
+        "ano": 2006
+      },
+      {
+        "id": 3157,
+        "idUrl": "celta-life-14-2p-2006",
+        "nome": "Celta Life 1.4 2p",
+        "ano": 2006
+      }
+    ],
+    "2007": [
+      {
+        "id": 3826,
+        "idUrl": "celta-super-14-4p-2007",
+        "nome": "Celta Super 1.4 4p",
+        "ano": 2007
+      },
+      {
+        "id": 3190,
+        "idUrl": "celta-spirit-14-4p-2007",
+        "nome": "Celta Spirit 1.4 4p",
+        "ano": 2007
+      },
+      {
+        "id": 3512,
+        "idUrl": "celta-super-10-vhc-flex-2p-2007",
+        "nome": "Celta Super 1.0 VHC (Flex) 2p",
+        "ano": 2007
+      },
+      {
+        "id": 3833,
+        "idUrl": "celta-super-10-vhc-flex-4p-2007",
+        "nome": "Celta Super 1.0 VHC (Flex) 4p",
+        "ano": 2007
+      },
+      {
+        "id": 3184,
+        "idUrl": "celta-life-14-4p-2007",
+        "nome": "Celta Life 1.4 4p",
+        "ano": 2007
+      },
+      {
+        "id": 3203,
+        "idUrl": "celta-spirit-10-vhc-flex-4p-2007",
+        "nome": "Celta Spirit 1.0 VHC (Flex) 4p",
+        "ano": 2007
+      },
+      {
+        "id": 3829,
+        "idUrl": "celta-super-14-2p-2007",
+        "nome": "Celta Super 1.4 2p",
+        "ano": 2007
+      },
+      {
+        "id": 3192,
+        "idUrl": "celta-spirit-14-2p-2007",
+        "nome": "Celta Spirit 1.4 2p",
+        "ano": 2007
+      },
+      {
+        "id": 3206,
+        "idUrl": "celta-spirit-10-vhc-flex-2p-2007",
+        "nome": "Celta Spirit 1.0 VHC (Flex) 2p",
+        "ano": 2007
+      },
+      {
+        "id": 3169,
+        "idUrl": "celta-life-10-vhc-flex-4p-2007",
+        "nome": "Celta Life 1.0 VHC (Flex) 4p",
+        "ano": 2007
+      },
+      {
+        "id": 3170,
+        "idUrl": "celta-life-10-vhc-flex-2p-2007",
+        "nome": "Celta Life 1.0 VHC (Flex) 2p",
+        "ano": 2007
+      },
+      {
+        "id": 3182,
+        "idUrl": "celta-life-14-2p-2007",
+        "nome": "Celta Life 1.4 2p",
+        "ano": 2007
+      }
+    ],
+    "2008": [
+      {
+        "id": 3834,
+        "idUrl": "celta-super-10-vhc-flex-4p-2008",
+        "nome": "Celta Super 1.0 VHC (Flex) 4p",
+        "ano": 2008
+      },
+      {
+        "id": 3204,
+        "idUrl": "celta-spirit-10-vhc-flex-4p-2008",
+        "nome": "Celta Spirit 1.0 VHC (Flex) 4p",
+        "ano": 2008
+      },
+      {
+        "id": 3168,
+        "idUrl": "celta-life-10-vhc-flex-4p-2008",
+        "nome": "Celta Life 1.0 VHC (Flex) 4p",
+        "ano": 2008
+      },
+      {
+        "id": 3513,
+        "idUrl": "celta-super-10-vhc-flex-2p-2008",
+        "nome": "Celta Super 1.0 VHC (Flex) 2p",
+        "ano": 2008
+      },
+      {
+        "id": 3205,
+        "idUrl": "celta-spirit-10-vhc-flex-2p-2008",
+        "nome": "Celta Spirit 1.0 VHC (Flex) 2p",
+        "ano": 2008
+      },
+      {
+        "id": 3171,
+        "idUrl": "celta-life-10-vhc-flex-2p-2008",
+        "nome": "Celta Life 1.0 VHC (Flex) 2p",
+        "ano": 2008
+      }
+    ],
+    "2009": [
+      {
+        "id": 3836,
+        "idUrl": "celta-super-10-vhc-flex-4p-2009",
+        "nome": "Celta Super 1.0 VHC (Flex) 4P\t",
+        "ano": 2009
+      },
+      {
+        "id": 3194,
+        "idUrl": "celta-spirit-10-vhce-flex-4p-2009",
+        "nome": "Celta Spirit 1.0 VHCE (Flex) 4p",
+        "ano": 2009
+      },
+      {
+        "id": 3160,
+        "idUrl": "celta-life-10-vhce-flex-4p-2009",
+        "nome": "Celta Life 1.0 VHCE (Flex) 4p",
+        "ano": 2009
+      },
+      {
+        "id": 3392,
+        "idUrl": "celta-super-10-vhc-flex-2p-2009",
+        "nome": "Celta Super 1.0 VHC (Flex) 2P",
+        "ano": 2009
+      },
+      {
+        "id": 3197,
+        "idUrl": "celta-spirit-10-vhce-flex-2p-2009",
+        "nome": "Celta Spirit 1.0 VHCE (Flex) 2p",
+        "ano": 2009
+      },
+      {
+        "id": 3162,
+        "idUrl": "celta-life-10-vhce-flex-2p-2009",
+        "nome": "Celta Life 1.0 VHCE (Flex) 2p",
+        "ano": 2009
+      },
+      {
+        "id": 3166,
+        "idUrl": "celta-life-10-vhc-flex4p-2009",
+        "nome": "Celta Life 1.0 VHC (Flex)4p",
+        "ano": 2009
+      }
+    ],
+    "2010": [
+      {
+        "id": 3195,
+        "idUrl": "celta-spirit-10-vhce-flex-4p-2010",
+        "nome": "Celta Spirit 1.0 VHCE (Flex) 4p",
+        "ano": 2010
+      },
+      {
+        "id": 3158,
+        "idUrl": "celta-life-10-vhce-flex-4p-2010",
+        "nome": "Celta Life 1.0 VHCE (Flex) 4p",
+        "ano": 2010
+      },
+      {
+        "id": 3208,
+        "idUrl": "celta-spirit-10-vhc-flex-2010",
+        "nome": "Celta Spirit 1.0 VHC (Flex)",
+        "ano": 2010
+      },
+      {
+        "id": 3212,
+        "idUrl": "celta-spirit-10-vhce-flex-2p-2010",
+        "nome": "Celta Spirit 1.0 VHCE (Flex) 2p",
+        "ano": 2010
+      },
+      {
+        "id": 3161,
+        "idUrl": "celta-life-10-vhce-flex-2p-2010",
+        "nome": "Celta Life 1.0 VHCE (Flex) 2p",
+        "ano": 2010
+      }
+    ],
+    "2011": [
+      {
+        "id": 3196,
+        "idUrl": "celta-spirit-10-vhce-flex-4p-2011",
+        "nome": "Celta Spirit 1.0 VHCE (Flex) 4p",
+        "ano": 2011
+      },
+      {
+        "id": 3199,
+        "idUrl": "celta-spirit-10-vhce-flex-2p-2011",
+        "nome": "Celta Spirit 1.0 VHCE (Flex) 2p",
+        "ano": 2011
+      },
+      {
+        "id": 3159,
+        "idUrl": "celta-life-10-vhce-flex-4p-2011",
+        "nome": "Celta Life 1.0 VHCE (Flex) 4p",
+        "ano": 2011
+      },
+      {
+        "id": 3163,
+        "idUrl": "celta-life-10-vhce-flex-2p-2011",
+        "nome": "Celta Life 1.0 VHCE (Flex) 2p",
+        "ano": 2011
+      }
+    ],
+    "2012": [
+      {
+        "id": 3177,
+        "idUrl": "celta-lt-10-flex-2012",
+        "nome": "Celta LT 1.0 (Flex)",
+        "ano": 2012
+      },
+      {
+        "id": 3180,
+        "idUrl": "celta-ls-10-flex-4p-2012",
+        "nome": "Celta LS 1.0 (Flex) 4p",
+        "ano": 2012
+      },
+      {
+        "id": 3213,
+        "idUrl": "celta-ls-10-flex-2p-2012",
+        "nome": "Celta LS 1.0 (Flex) 2p",
+        "ano": 2012
+      }
+    ],
+    "2013": [
+      {
+        "id": 3176,
+        "idUrl": "celta-lt-10-flex-2013",
+        "nome": "Celta LT 1.0 (Flex)",
+        "ano": 2013
+      },
+      {
+        "id": 3179,
+        "idUrl": "celta-ls-10-flex-4p-2013",
+        "nome": "Celta LS 1.0 (Flex) 4p",
+        "ano": 2013
+      },
+      {
+        "id": 3198,
+        "idUrl": "celta-ls-10-flex-2p-2013",
+        "nome": "Celta LS 1.0 (Flex) 2p",
+        "ano": 2013
+      }
+    ],
+    "2014": [
+      {
+        "id": 3175,
+        "idUrl": "celta-lt-10-flex-2014",
+        "nome": "Celta LT 1.0 (Flex)",
+        "ano": 2014
+      },
+      {
+        "id": 3214,
+        "idUrl": "celta-advantage-10l-flex-2014",
+        "nome": "Celta Advantage 1.0L (Flex)",
+        "ano": 2014
+      },
+      {
+        "id": 3178,
+        "idUrl": "celta-ls-10-flex-4p-2014",
+        "nome": "Celta LS 1.0 (Flex) 4p",
+        "ano": 2014
+      },
+      {
+        "id": 3181,
+        "idUrl": "celta-ls-10-flex-2p-2014",
+        "nome": "Celta LS 1.0 (Flex) 2p",
+        "ano": 2014
+      }
+    ],
+    "2015": [
+      {
+        "id": 3174,
+        "idUrl": "celta-lt-10-flex-2015",
+        "nome": "Celta LT 1.0 (Flex)",
+        "ano": 2015
+      }
+    ],
+    "2016": [
+      {
+        "id": 3173,
+        "idUrl": "celta-lt-10-flex-2016",
+        "nome": "Celta LT 1.0 (Flex)",
+        "ano": 2016
+      }
+    ]
+  }

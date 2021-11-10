@@ -1,0 +1,170 @@
+{
+    "1989": [
+      {
+        "id": 3663,
+        "idUrl": "kadett-hatch-gs-20-1989",
+        "nome": "Kadett Hatch GS 2.0",
+        "ano": 1989
+      },
+      {
+        "id": 3749,
+        "idUrl": "kadett-hatch-sl-18-1989",
+        "nome": "Kadett Hatch SL 1.8",
+        "ano": 1989
+      },
+      {
+        "id": 2798,
+        "idUrl": "kadett-hatch-sle-18-1989",
+        "nome": "Kadett Hatch SLE 1.8",
+        "ano": 1989
+      }
+    ],
+    "1990": [
+      {
+        "id": 2404,
+        "idUrl": "kadett-hatch-turim-18-1990",
+        "nome": "Kadett Hatch Turim 1.8",
+        "ano": 1990
+      }
+    ],
+    "1991": [
+      {
+        "id": 3662,
+        "idUrl": "kadett-hatch-gsi-20-mpfi-1991",
+        "nome": "Kadett Hatch GSi 2.0 MPFi",
+        "ano": 1991
+      },
+      {
+        "id": 2409,
+        "idUrl": "kadett-hatch-sle-18-efi-1991",
+        "nome": "Kadett Hatch SLE 1.8 EFi",
+        "ano": 1991
+      },
+      {
+        "id": 3037,
+        "idUrl": "kadett-hatch-sl-18-efi-1991",
+        "nome": "Kadett Hatch SL 1.8 EFi",
+        "ano": 1991
+      }
+    ],
+    "1993": [
+      {
+        "id": 3666,
+        "idUrl": "kadett-hatch-gls-18-efi-aut-1993",
+        "nome": "Kadett Hatch GLS 1.8 EFi (Aut)",
+        "ano": 1993
+      },
+      {
+        "id": 3667,
+        "idUrl": "kadett-hatch-gls-18-efi-1993",
+        "nome": "Kadett Hatch GLS 1.8 EFi",
+        "ano": 1993
+      },
+      {
+        "id": 3675,
+        "idUrl": "kadett-hatch-gl-18-efi-1993",
+        "nome": "Kadett Hatch GL 1.8 EFi",
+        "ano": 1993
+      },
+      {
+        "id": 3038,
+        "idUrl": "kadett-hatch-lite-18-efi-1993",
+        "nome": "Kadett Hatch Lite 1.8 EFi",
+        "ano": 1993
+      }
+    ],
+    "1994": [
+      {
+        "id": 3670,
+        "idUrl": "kadett-hatch-gl-20-efi-1994",
+        "nome": "Kadett Hatch GL 2.0 EFi",
+        "ano": 1994
+      },
+      {
+        "id": 3673,
+        "idUrl": "kadett-hatch-gl-18-efi-1994",
+        "nome": "Kadett Hatch GL 1.8 EFi",
+        "ano": 1994
+      }
+    ],
+    "1995": [
+      {
+        "id": 2403,
+        "idUrl": "kadett-conversivel-gsi-20-mpfi-1995",
+        "nome": "Kadett Conversivel GSi 2.0 MPFi",
+        "ano": 1995
+      },
+      {
+        "id": 2407,
+        "idUrl": "kadett-hatch-sport-20-efi-1995",
+        "nome": "Kadett Hatch Sport 2.0 EFi",
+        "ano": 1995
+      },
+      {
+        "id": 3672,
+        "idUrl": "kadett-hatch-gl-18-efi-1995",
+        "nome": "Kadett Hatch GL 1.8 EFi",
+        "ano": 1995
+      }
+    ],
+    "1996": [
+      {
+        "id": 2406,
+        "idUrl": "kadett-hatch-sport-20-efi-1996",
+        "nome": "Kadett Hatch Sport 2.0 EFi",
+        "ano": 1996
+      },
+      {
+        "id": 3671,
+        "idUrl": "kadett-hatch-gl-18-efi-1996",
+        "nome": "Kadett Hatch GL 1.8 EFi",
+        "ano": 1996
+      }
+    ],
+    "1997": [
+      {
+        "id": 2405,
+        "idUrl": "kadett-hatch-sport-20-mpfi-1997",
+        "nome": "Kadett Hatch Sport 2.0 MPFi",
+        "ano": 1997
+      },
+      {
+        "id": 2408,
+        "idUrl": "kadett-hatch-sport-20-efi-1997",
+        "nome": "Kadett Hatch Sport 2.0 EFi",
+        "ano": 1997
+      },
+      {
+        "id": 3668,
+        "idUrl": "kadett-hatch-gl-20-mpfi-1997",
+        "nome": "Kadett Hatch GL 2.0 MPFi",
+        "ano": 1997
+      },
+      {
+        "id": 3664,
+        "idUrl": "kadett-hatch-gls-20-mpfi-1997",
+        "nome": "Kadett Hatch GLS 2.0 MPFi",
+        "ano": 1997
+      },
+      {
+        "id": 3688,
+        "idUrl": "kadett-hatch-gl-18-efi-1997",
+        "nome": "Kadett Hatch GL 1.8 EFi",
+        "ano": 1997
+      }
+    ],
+    "1998": [
+      {
+        "id": 3665,
+        "idUrl": "kadett-hatch-gls-20-mpfi-1998",
+        "nome": "Kadett Hatch GLS 2.0 MPFi",
+        "ano": 1998
+      },
+      {
+        "id": 3669,
+        "idUrl": "kadett-hatch-gl-20-mpfi-1998",
+        "nome": "Kadett Hatch GL 2.0 MPFi",
+        "ano": 1998
+      }
+    ]
+  }

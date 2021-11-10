@@ -1,0 +1,216 @@
+{
+    "2015": [
+      {
+        "id": 6739,
+        "idUrl": "ka-sedan-sel-15-16v-flex-2015",
+        "nome": "Ka Sedan SEL 1.5 16v (Flex)",
+        "ano": 2015
+      },
+      {
+        "id": 6801,
+        "idUrl": "ka-sedan-se-plus-15-16v-flex-2015",
+        "nome": "Ka Sedan SE Plus 1.5 16v (Flex)",
+        "ano": 2015
+      },
+      {
+        "id": 6809,
+        "idUrl": "ka-sedan-se-15-16v-flex-2015",
+        "nome": "Ka Sedan SE 1.5 16v (Flex)",
+        "ano": 2015
+      },
+      {
+        "id": 6805,
+        "idUrl": "ka-sedan-se-plus-10-flex-2015",
+        "nome": "Ka Sedan SE Plus 1.0 (Flex)",
+        "ano": 2015
+      },
+      {
+        "id": 6813,
+        "idUrl": "ka-sedan-se-10-flex-2015",
+        "nome": "Ka Sedan SE 1.0 (Flex)",
+        "ano": 2015
+      },
+      {
+        "id": 6771,
+        "idUrl": "ka-sedan-sel-10-flex-2015",
+        "nome": "Ka Sedan SEL 1.0 (Flex)",
+        "ano": 2015
+      }
+    ],
+    "2016": [
+      {
+        "id": 6738,
+        "idUrl": "ka-sedan-sel-15-16v-flex-2016",
+        "nome": "Ka Sedan SEL 1.5 16v (Flex)",
+        "ano": 2016
+      },
+      {
+        "id": 6800,
+        "idUrl": "ka-sedan-se-plus-15-16v-flex-2016",
+        "nome": "Ka Sedan SE Plus 1.5 16v (Flex)",
+        "ano": 2016
+      },
+      {
+        "id": 6808,
+        "idUrl": "ka-sedan-se-15-16v-flex-2016",
+        "nome": "Ka Sedan SE 1.5 16v (Flex)",
+        "ano": 2016
+      },
+      {
+        "id": 6743,
+        "idUrl": "ka-sedan-sel-10-flex-2016",
+        "nome": "Ka Sedan SEL 1.0 (Flex)",
+        "ano": 2016
+      },
+      {
+        "id": 6804,
+        "idUrl": "ka-sedan-se-plus-10-flex-2016",
+        "nome": "Ka Sedan SE Plus 1.0 (Flex)",
+        "ano": 2016
+      },
+      {
+        "id": 6812,
+        "idUrl": "ka-sedan-se-10-flex-2016",
+        "nome": "Ka Sedan SE 1.0 (Flex)",
+        "ano": 2016
+      }
+    ],
+    "2017": [
+      {
+        "id": 6734,
+        "idUrl": "ka-sedan-sel-plus-15-16v-flex-2017",
+        "nome": "Ka Sedan SEL Plus 1.5 16v (Flex)\t",
+        "ano": 2017
+      },
+      {
+        "id": 6737,
+        "idUrl": "ka-sedan-sel-15-16v-flex-2017",
+        "nome": "Ka Sedan SEL 1.5 16v (Flex)",
+        "ano": 2017
+      },
+      {
+        "id": 6772,
+        "idUrl": "ka-sedan-se-plus-15-16v-flex-2017",
+        "nome": "Ka Sedan SE Plus 1.5 16v (Flex)",
+        "ano": 2017
+      },
+      {
+        "id": 6807,
+        "idUrl": "ka-sedan-se-15-16v-flex-2017",
+        "nome": "Ka Sedan SE 1.5 16v (Flex)",
+        "ano": 2017
+      },
+      {
+        "id": 6803,
+        "idUrl": "ka-sedan-se-plus-10-flex-2017",
+        "nome": "Ka Sedan SE Plus 1.0 (Flex)",
+        "ano": 2017
+      },
+      {
+        "id": 6811,
+        "idUrl": "ka-sedan-se-10-flex-2017",
+        "nome": "Ka Sedan SE 1.0 (Flex)",
+        "ano": 2017
+      },
+      {
+        "id": 6741,
+        "idUrl": "ka-sedan-sel-10-flex-2017",
+        "nome": "Ka Sedan SEL 1.0 (Flex)",
+        "ano": 2017
+      }
+    ],
+    "2018": [
+      {
+        "id": 6735,
+        "idUrl": "ka-sedan-sel-plus-15-16v-flex-2018",
+        "nome": "Ka Sedan SEL Plus 1.5 16v (Flex)",
+        "ano": 2018
+      },
+      {
+        "id": 6736,
+        "idUrl": "ka-sedan-sel-15-16v-flex-2018",
+        "nome": "Ka Sedan SEL 1.5 16v (Flex)",
+        "ano": 2018
+      },
+      {
+        "id": 21929,
+        "idUrl": "ka-sedan-advanced-15-flex-2018",
+        "nome": "Ka Sedan Advanced 1.5 Flex",
+        "ano": 2018
+      },
+      {
+        "id": 6797,
+        "idUrl": "ka-sedan-se-plus-15-16v-flex-2018",
+        "nome": "Ka Sedan SE Plus 1.5 16v (Flex)",
+        "ano": 2018
+      },
+      {
+        "id": 6806,
+        "idUrl": "ka-sedan-se-15-16v-flex-2018",
+        "nome": "Ka Sedan SE 1.5 16v (Flex)",
+        "ano": 2018
+      },
+      {
+        "id": 6802,
+        "idUrl": "ka-sedan-se-plus-10-flex-2018",
+        "nome": "Ka Sedan SE Plus 1.0 (Flex)",
+        "ano": 2018
+      },
+      {
+        "id": 6810,
+        "idUrl": "ka-sedan-se-10-flex-2018",
+        "nome": "Ka Sedan SE 1.0 (Flex)",
+        "ano": 2018
+      },
+      {
+        "id": 6740,
+        "idUrl": "ka-sedan-sel-10-flex-2018",
+        "nome": "Ka Sedan SEL 1.0 (Flex)",
+        "ano": 2018
+      }
+    ],
+    "2020": [
+      {
+        "id": 22382,
+        "idUrl": "ka-sedan-titanium-15-aut-2020",
+        "nome": "Ka Sedan Titanium 1.5 (Aut)",
+        "ano": 2020
+      },
+      {
+        "id": 22383,
+        "idUrl": "ka-sedan-se-plus-15-aut-2020",
+        "nome": "Ka Sedan SE Plus 1.5 (Aut)",
+        "ano": 2020
+      },
+      {
+        "id": 22384,
+        "idUrl": "ka-sedan-se-15-aut-2020",
+        "nome": "Ka Sedan SE 1.5 (Aut)",
+        "ano": 2020
+      },
+      {
+        "id": 22380,
+        "idUrl": "ka-sedan-se-plus-15-2020",
+        "nome": "Ka Sedan SE Plus 1.5",
+        "ano": 2020
+      },
+      {
+        "id": 22381,
+        "idUrl": "ka-sedan-se-15-2020",
+        "nome": "Ka Sedan SE 1.5",
+        "ano": 2020
+      },
+      {
+        "id": 22385,
+        "idUrl": "ka-sedan-se-10-2020",
+        "nome": "Ka Sedan SE 1.0",
+        "ano": 2020
+      },
+      {
+        "id": 22386,
+        "idUrl": "ka-sedan-se-plus-10-2020",
+        "nome": "Ka Sedan SE Plus 1.0",
+        "ano": 2020
+      }
+    ]
+  }

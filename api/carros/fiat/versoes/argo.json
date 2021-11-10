@@ -1,0 +1,134 @@
+{
+    "2018": [
+      {
+        "id": 21811,
+        "idUrl": "argo-hgt-18-at6 -16v-flex-4p-2018",
+        "nome": "Argo HGT 18 AT6  16v (Flex) 4P",
+        "ano": 2018
+      },
+      {
+        "id": 21810,
+        "idUrl": "argo-hgt-18-16v-flex-4p-2018",
+        "nome": "Argo HGT 18 16v (Flex) 4P",
+        "ano": 2018
+      },
+      {
+        "id": 21814,
+        "idUrl": "argo-precision-18-at6-16v-flex-4p-2018",
+        "nome": "Argo Precision 18 AT6 16v (Flex) 4P",
+        "ano": 2018
+      },
+      {
+        "id": 21813,
+        "idUrl": "argo-precision-18-16v-flex-4p-2018",
+        "nome": "Argo Precision 18 16v (Flex) 4P",
+        "ano": 2018
+      },
+      {
+        "id": 21807,
+        "idUrl": "argo-drive-13-8v-gsr-flex-4p-2018",
+        "nome": "Argo Drive 13 8v GSR (Flex) 4P",
+        "ano": 2018
+      },
+      {
+        "id": 21809,
+        "idUrl": "argo-drive-13-8v-flex-4p-2018",
+        "nome": "Argo Drive 13 8v (Flex) 4P",
+        "ano": 2018
+      },
+      {
+        "id": 21806,
+        "idUrl": "argo-drive-10-6v-flex-4p-2018",
+        "nome": "Argo Drive 10 6v (Flex) 4P",
+        "ano": 2018
+      },
+      {
+        "id": 21812,
+        "idUrl": "argo-opening-edition-mopar-18-at6-flex-4p-2018",
+        "nome": "Argo Opening Edition Mopar 18 AT6 (Flex) 4P",
+        "ano": 2018
+      },
+      {
+        "id": 21991,
+        "idUrl": "argo-10-6v-flex-4p-2018",
+        "nome": "Argo 10 6v (Flex) 4P",
+        "ano": 2018
+      }
+    ],
+    "2019": [
+      {
+        "id": 22279,
+        "idUrl": "argo-hgt-18-16v-aut-2019",
+        "nome": "Argo HGT 1.8 16v (Aut)",
+        "ano": 2019
+      },
+      {
+        "id": 22302,
+        "idUrl": "argo-hgt-18-16v-2019",
+        "nome": "Argo HGT 1.8 16v",
+        "ano": 2019
+      },
+      {
+        "id": 22278,
+        "idUrl": "argo-precision-18-16v-aut-2019",
+        "nome": "Argo Precision 1.8 16v (Aut)",
+        "ano": 2019
+      },
+      {
+        "id": 22282,
+        "idUrl": "argo-precision-18-16v-2019",
+        "nome": "Argo Precision 1.8 16v",
+        "ano": 2019
+      },
+      {
+        "id": 22281,
+        "idUrl": "argo-drive-13-8v-gsr-2019",
+        "nome": "Argo Drive 1.3 8v GSR",
+        "ano": 2019
+      },
+      {
+        "id": 22280,
+        "idUrl": "argo-drive-13-8v-2019",
+        "nome": "Argo Drive 1.3 8v",
+        "ano": 2019
+      },
+      {
+        "id": 22277,
+        "idUrl": "argo-drive-10-6v-2019",
+        "nome": "Argo Drive 1.0 6v",
+        "ano": 2019
+      },
+      {
+        "id": 22276,
+        "idUrl": "argo-10-6v-2019",
+        "nome": "Argo 1.0 6v",
+        "ano": 2019
+      },
+      {
+        "id": 22560,
+        "idUrl": "argo-trekking-13-8v-2019",
+        "nome": "Argo Trekking 1.3 8v",
+        "ano": 2019
+      },
+      {
+        "id": 22317,
+        "idUrl": "argo-trekking-14-8v-2019",
+        "nome": "Argo Trekking 1.4 8v",
+        "ano": 2019
+      }
+    ],
+    "2020": [
+      {
+        "id": 22451,
+        "idUrl": "argo-sdesign-13-8v-2020",
+        "nome": "Argo S-Design 1.3 8v",
+        "ano": 2020
+      },
+      {
+        "id": 22452,
+        "idUrl": "argo-sdesign-10-6v-2020",
+        "nome": "Argo S-Design 1.0 6v",
+        "ano": 2020
+      }
+    ]
+  }

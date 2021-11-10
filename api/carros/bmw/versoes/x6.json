@@ -1,0 +1,178 @@
+{
+    "2009": [
+      {
+        "id": 1344,
+        "idUrl": "x6-xdrive50i-2009",
+        "nome": "X6 xDrive50i",
+        "ano": 2009
+      },
+      {
+        "id": 1285,
+        "idUrl": "x6-xdrive35i-2009",
+        "nome": "X6 xDrive35i",
+        "ano": 2009
+      }
+    ],
+    "2010": [
+      {
+        "id": 1315,
+        "idUrl": "x6-xdrive50i-2010",
+        "nome": "X6 xDrive50i",
+        "ano": 2010
+      },
+      {
+        "id": 1284,
+        "idUrl": "x6-44-xdrive-4wd-2010",
+        "nome": "X6 4.4 xDrive 4WD",
+        "ano": 2010
+      },
+      {
+        "id": 1273,
+        "idUrl": "x6-44-xdrive-m-4wd-2010",
+        "nome": "X6 4.4 xDrive M 4WD",
+        "ano": 2010
+      },
+      {
+        "id": 1341,
+        "idUrl": "x6-xdrive35i-2010",
+        "nome": "X6 xDrive35i",
+        "ano": 2010
+      }
+    ],
+    "2011": [
+      {
+        "id": 1274,
+        "idUrl": "x6-44-xdrive-m-4wd-2011",
+        "nome": "X6 4.4 xDrive M 4WD",
+        "ano": 2011
+      },
+      {
+        "id": 1345,
+        "idUrl": "x6-xdrive50i-2011",
+        "nome": "X6 xDrive50i",
+        "ano": 2011
+      },
+      {
+        "id": 1314,
+        "idUrl": "x6-xdrive35i-2011",
+        "nome": "X6 xDrive35i",
+        "ano": 2011
+      }
+    ],
+    "2012": [
+      {
+        "id": 1275,
+        "idUrl": "x6-44-xdrive-m-4wd-2012",
+        "nome": "X6 4.4 xDrive M 4WD",
+        "ano": 2012
+      },
+      {
+        "id": 1346,
+        "idUrl": "x6-xdrive50i-2012",
+        "nome": "X6 xDrive50i",
+        "ano": 2012
+      },
+      {
+        "id": 1267,
+        "idUrl": "x6-30-xdrive35i-2012",
+        "nome": "X6 3.0 xDrive35i",
+        "ano": 2012
+      }
+    ],
+    "2013": [
+      {
+        "id": 1279,
+        "idUrl": "x6-44-xdrive50i-2013",
+        "nome": "X6 4.4 xDrive50i",
+        "ano": 2013
+      },
+      {
+        "id": 1277,
+        "idUrl": "x6-44-xdrive-m-4wd-2013",
+        "nome": "X6 4.4 xDrive M 4WD",
+        "ano": 2013
+      },
+      {
+        "id": 1269,
+        "idUrl": "x6-30-xdrive35i-2013",
+        "nome": "X6 3.0 xDrive35i",
+        "ano": 2013
+      }
+    ],
+    "2014": [
+      {
+        "id": 1276,
+        "idUrl": "x6-44-xdrive-m-4wd-2014",
+        "nome": "X6 4.4 xDrive M 4WD",
+        "ano": 2014
+      },
+      {
+        "id": 1278,
+        "idUrl": "x6-44-xdrive50i-2014",
+        "nome": "X6 4.4 xDrive50i",
+        "ano": 2014
+      },
+      {
+        "id": 1268,
+        "idUrl": "x6-30-xdrive35i-2014",
+        "nome": "X6 3.0 xDrive35i",
+        "ano": 2014
+      }
+    ],
+    "2015": [
+      {
+        "id": 1280,
+        "idUrl": "x6-44-xdrive50i-2015",
+        "nome": "X6 4.4 xDrive50i",
+        "ano": 2015
+      },
+      {
+        "id": 1282,
+        "idUrl": "x6-44-xdrive50i-m-sport-2015",
+        "nome": "X6 4.4 xDrive50i M Sport",
+        "ano": 2015
+      }
+    ],
+    "2016": [
+      {
+        "id": 1281,
+        "idUrl": "x6-44-xdrive50i-m-sport-2016",
+        "nome": "X6 4.4 xDrive50i M Sport",
+        "ano": 2016
+      },
+      {
+        "id": 1283,
+        "idUrl": "x6-m-44-2016",
+        "nome": "X6 M 4.4",
+        "ano": 2016
+      },
+      {
+        "id": 1270,
+        "idUrl": "x6-30-xdrive35i-2016",
+        "nome": "X6 3.0 xDrive35i",
+        "ano": 2016
+      }
+    ],
+    "2017": [
+      {
+        "id": 21495,
+        "idUrl": "x6-44-m-2017",
+        "nome": "X6 4.4 M",
+        "ano": 2017
+      },
+      {
+        "id": 1272,
+        "idUrl": "x6-30-xdrive35i-2017",
+        "nome": "X6 3.0 xDrive35i",
+        "ano": 2017
+      }
+    ],
+    "2018": [
+      {
+        "id": 22119,
+        "idUrl": "bmw-x6-xdrive-35i-30-2018",
+        "nome": "BMW X6 xDrive 35i 3.0",
+        "ano": 2018
+      }
+    ]
+  }

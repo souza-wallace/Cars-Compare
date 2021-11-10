@@ -1,0 +1,90 @@
+{
+    "2010": [
+      {
+        "id": 3388,
+        "idUrl": "agile-ltz-14-8v-flex-2010",
+        "nome": "Agile LTZ 1.4 8V (Flex)",
+        "ano": 2010
+      },
+      {
+        "id": 3363,
+        "idUrl": "agile-lt-14-8v-flex-2010",
+        "nome": "Agile LT 1.4 8V (Flex)",
+        "ano": 2010
+      }
+    ],
+    "2011": [
+      {
+        "id": 3387,
+        "idUrl": "agile-ltz-14-8v-flex-2011",
+        "nome": "Agile LTZ 1.4 8V (Flex)",
+        "ano": 2011
+      },
+      {
+        "id": 3377,
+        "idUrl": "agile-lt-14-8v-flex-2011",
+        "nome": "Agile LT 1.4 8V (Flex)",
+        "ano": 2011
+      }
+    ],
+    "2012": [
+      {
+        "id": 3386,
+        "idUrl": "agile-ltz-14-8v-flex-2012",
+        "nome": "Agile LTZ 1.4 8V (Flex)",
+        "ano": 2012
+      },
+      {
+        "id": 3364,
+        "idUrl": "agile-lt-14-8v-flex-2012",
+        "nome": "Agile LT 1.4 8V (Flex)",
+        "ano": 2012
+      }
+    ],
+    "2013": [
+      {
+        "id": 3385,
+        "idUrl": "agile-ltz-14-8v-flex-2013",
+        "nome": "Agile LTZ 1.4 8V (Flex)",
+        "ano": 2013
+      },
+      {
+        "id": 3384,
+        "idUrl": "agile-ltz-14-8v-flex-easytronic-2013",
+        "nome": "Agile LTZ 1.4 8V (Flex) Easytronic",
+        "ano": 2013
+      },
+      {
+        "id": 3390,
+        "idUrl": "agile-lt-14-8v-flex-2013",
+        "nome": "Agile LT 1.4 8V (Flex)",
+        "ano": 2013
+      }
+    ],
+    "2014": [
+      {
+        "id": 3335,
+        "idUrl": "agile-effect-14-flex-2014",
+        "nome": "Agile Effect 1.4 (Flex)",
+        "ano": 2014
+      },
+      {
+        "id": 3389,
+        "idUrl": "agile-ltz-14-flex-2014",
+        "nome": "Agile LTZ 1.4 (Flex)",
+        "ano": 2014
+      },
+      {
+        "id": 3347,
+        "idUrl": "agile-effect-easytronic-14-flex-2014",
+        "nome": "Agile Effect Easytronic 1.4 (Flex)",
+        "ano": 2014
+      },
+      {
+        "id": 3383,
+        "idUrl": "agile-ltz-easytronic-14-flex-2014",
+        "nome": "Agile LTZ Easytronic 1.4 (Flex)",
+        "ano": 2014
+      }
+    ]
+  }

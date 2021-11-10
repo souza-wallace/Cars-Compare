@@ -1,0 +1,25 @@
+
+{
+    "2019": [
+      {
+        "id": 22304,
+        "idUrl": "arrizo-5-rxt-15-turbo-2019",
+        "nome": "Arrizo 5 RXT 1.5 Turbo",
+        "ano": 2019
+      },
+      {
+        "id": 22305,
+        "idUrl": "arrizo-5-rx-15-turbo-aut-2019",
+        "nome": "Arrizo 5 RX 1.5 Turbo (Aut)",
+        "ano": 2019
+      }
+    ],
+    "2020": [
+      {
+        "id": 22443,
+        "idUrl": "arrizo-5e-2020",
+        "nome": "Arrizo 5e",
+        "ano": 2020
+      }
+    ]
+  }

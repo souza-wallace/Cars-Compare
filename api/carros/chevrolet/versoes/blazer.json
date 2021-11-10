@@ -1,0 +1,538 @@
+{
+    "1996": [
+      {
+        "id": 3108,
+        "idUrl": "blazer-dlx-4x2-43-sfi-v6-1996",
+        "nome": "Blazer DLX 4x2 4.3 SFi V6",
+        "ano": 1996
+      },
+      {
+        "id": 3121,
+        "idUrl": "blazer-dlx-4x2-22-efi-1996",
+        "nome": "Blazer DLX 4x2 2.2 EFi",
+        "ano": 1996
+      },
+      {
+        "id": 3400,
+        "idUrl": "blazer-4x2-22-efi-1996",
+        "nome": "Blazer 4x2 2.2 EFi",
+        "ano": 1996
+      }
+    ],
+    "1997": [
+      {
+        "id": 3107,
+        "idUrl": "blazer-dlx-4x2-43-sfi-v6-1997",
+        "nome": "Blazer DLX 4x2 4.3 SFi V6",
+        "ano": 1997
+      },
+      {
+        "id": 3398,
+        "idUrl": "blazer-4x2-22-mpfi-1997",
+        "nome": "Blazer 4x2 2.2 MPFi",
+        "ano": 1997
+      },
+      {
+        "id": 3402,
+        "idUrl": "blazer-4x2-22-efi-1997",
+        "nome": "Blazer 4x2 2.2 EFi",
+        "ano": 1997
+      },
+      {
+        "id": 3150,
+        "idUrl": "blazer-dlx-executive-4x2-43-sfi-v6-1997",
+        "nome": "Blazer DLX Executive 4x2 4.3 SFi V6",
+        "ano": 1997
+      },
+      {
+        "id": 3118,
+        "idUrl": "blazer-dlx-4x2-22-mpfi-1997",
+        "nome": "Blazer DLX 4x2 2.2 MPFi",
+        "ano": 1997
+      }
+    ],
+    "1998": [
+      {
+        "id": 3102,
+        "idUrl": "blazer-dlx-4x4-25-1998",
+        "nome": "Blazer DLX 4x4 2.5",
+        "ano": 1998
+      },
+      {
+        "id": 3113,
+        "idUrl": "blazer-dlx-4x2-25-1998",
+        "nome": "Blazer DLX 4x2 2.5",
+        "ano": 1998
+      },
+      {
+        "id": 3422,
+        "idUrl": "blazer-4x2-25-1998",
+        "nome": "Blazer 4x2 2.5",
+        "ano": 1998
+      },
+      {
+        "id": 3140,
+        "idUrl": "blazer-dlx-executive-4x4-43-sfi-v6-1998",
+        "nome": "Blazer DLX Executive 4x4 4.3 SFi V6",
+        "ano": 1998
+      },
+      {
+        "id": 3149,
+        "idUrl": "blazer-dlx-executive-4x2-43-sfi-v6-1998",
+        "nome": "Blazer DLX Executive 4x2 4.3 SFi V6",
+        "ano": 1998
+      },
+      {
+        "id": 3106,
+        "idUrl": "blazer-dlx-4x2-43-sfi-v6-1998",
+        "nome": "Blazer DLX 4x2 4.3 SFi V6",
+        "ano": 1998
+      },
+      {
+        "id": 3126,
+        "idUrl": "blazer-dlx-4x4-43-sfi-v6-1998",
+        "nome": "Blazer DLX 4x4 4.3 SFi V6",
+        "ano": 1998
+      },
+      {
+        "id": 3397,
+        "idUrl": "blazer-4x2-22-mpfi-1998",
+        "nome": "Blazer 4x2 2.2 MPFi",
+        "ano": 1998
+      },
+      {
+        "id": 3119,
+        "idUrl": "blazer-dlx-4x2-22-mpfi-1998",
+        "nome": "Blazer DLX 4x2 2.2 MPFi",
+        "ano": 1998
+      },
+      {
+        "id": 3423,
+        "idUrl": "blazer-4x2-43-sfi-v6-1998",
+        "nome": "Blazer 4x2 4.3 SFi V6",
+        "ano": 1998
+      }
+    ],
+    "1999": [
+      {
+        "id": 3101,
+        "idUrl": "blazer-dlx-4x4-25-1999",
+        "nome": "Blazer DLX 4x4 2.5",
+        "ano": 1999
+      },
+      {
+        "id": 3395,
+        "idUrl": "blazer-4x2-25-1999",
+        "nome": "Blazer 4x2 2.5",
+        "ano": 1999
+      },
+      {
+        "id": 3117,
+        "idUrl": "blazer-dlx-4x2-22-mpfi-1999",
+        "nome": "Blazer DLX 4x2 2.2 MPFi",
+        "ano": 1999
+      },
+      {
+        "id": 3138,
+        "idUrl": "blazer-dlx-executive-4x4-43-sfi-v6-1999",
+        "nome": "Blazer DLX Executive 4x4 4.3 SFi V6",
+        "ano": 1999
+      },
+      {
+        "id": 3148,
+        "idUrl": "blazer-dlx-executive-4x2-43-sfi-v6-1999",
+        "nome": "Blazer DLX Executive 4x2 4.3 SFi V6",
+        "ano": 1999
+      },
+      {
+        "id": 3110,
+        "idUrl": "blazer-dlx-4x2-43-sfi-v6-1999",
+        "nome": "Blazer DLX 4x2 4.3 SFi V6",
+        "ano": 1999
+      },
+      {
+        "id": 3152,
+        "idUrl": "blazer-dlx-4x4-43-sfi-v6-1999",
+        "nome": "Blazer DLX 4x4 4.3 SFi V6",
+        "ano": 1999
+      },
+      {
+        "id": 3396,
+        "idUrl": "blazer-4x2-22-mpfi-1999",
+        "nome": "Blazer 4x2 2.2 MPFi",
+        "ano": 1999
+      },
+      {
+        "id": 3449,
+        "idUrl": "blazer-4x2-43-sfi-v6-1999",
+        "nome": "Blazer 4x2 4.3 SFi V6",
+        "ano": 1999
+      }
+    ],
+    "2000": [
+      {
+        "id": 3103,
+        "idUrl": "blazer-dlx-4x4-25-2000",
+        "nome": "Blazer DLX 4x4 2.5",
+        "ano": 2000
+      },
+      {
+        "id": 3399,
+        "idUrl": "blazer-4x2-22-mpfi-2000",
+        "nome": "Blazer 4x2 2.2 MPFi",
+        "ano": 2000
+      },
+      {
+        "id": 3137,
+        "idUrl": "blazer-dlx-executive-4x4-43-sfi-v6-2000",
+        "nome": "Blazer DLX Executive 4x4 4.3 SFi V6",
+        "ano": 2000
+      },
+      {
+        "id": 3143,
+        "idUrl": "blazer-dlx-executive-4x2-43-sfi-v6-nova-serie-aut-2000",
+        "nome": "Blazer DLX Executive 4x2 4.3 SFi V6 (nova série) (Aut)",
+        "ano": 2000
+      },
+      {
+        "id": 3146,
+        "idUrl": "blazer-dlx-executive-4x2-43-sfi-v6-nova-serie-2000",
+        "nome": "Blazer DLX Executive 4x2 4.3 SFi V6 (nova série)",
+        "ano": 2000
+      },
+      {
+        "id": 3151,
+        "idUrl": "blazer-dlx-executive-4x2-43-sfi-v6-2000",
+        "nome": "Blazer DLX Executive 4x2 4.3 SFi V6",
+        "ano": 2000
+      },
+      {
+        "id": 3105,
+        "idUrl": "blazer-dlx-4x2-43-sfi-v6-2000",
+        "nome": "Blazer DLX 4x2 4.3 SFi V6",
+        "ano": 2000
+      },
+      {
+        "id": 3125,
+        "idUrl": "blazer-dlx-4x4-43-sfi-v6-2000",
+        "nome": "Blazer DLX 4x4 4.3 SFi V6",
+        "ano": 2000
+      },
+      {
+        "id": 3446,
+        "idUrl": "blazer-4x2-43-sfi-v6-nova-serie-2000",
+        "nome": "Blazer 4x2 4.3 SFi V6 (nova série)",
+        "ano": 2000
+      },
+      {
+        "id": 3448,
+        "idUrl": "blazer-4x2-43-sfi-v6-2000",
+        "nome": "Blazer 4x2 4.3 SFi V6",
+        "ano": 2000
+      }
+    ],
+    "2001": [
+      {
+        "id": 3098,
+        "idUrl": "blazer-dlx-4x4-28-nova-serie-2001",
+        "nome": "Blazer DLX 4x4 2.8  (nova série)",
+        "ano": 2001
+      },
+      {
+        "id": 3144,
+        "idUrl": "blazer-dlx-executive-4x2-43-sfi-v6-nova-serie-aut-2001",
+        "nome": "Blazer DLX Executive 4x2 4.3 SFi V6 (nova série) (Aut)",
+        "ano": 2001
+      },
+      {
+        "id": 3147,
+        "idUrl": "blazer-dlx-executive-4x2-43-sfi-v6-nova-serie-2001",
+        "nome": "Blazer DLX Executive 4x2 4.3 SFi V6 (nova série)",
+        "ano": 2001
+      },
+      {
+        "id": 3104,
+        "idUrl": "blazer-dlx-4x2-43-sfi-v6-2001",
+        "nome": "Blazer DLX 4x2 4.3 SFi V6",
+        "ano": 2001
+      },
+      {
+        "id": 3447,
+        "idUrl": "blazer-4x2-43-sfi-v6-nova-serie-2001",
+        "nome": "Blazer 4x2 4.3 SFi V6 (nova série)",
+        "ano": 2001
+      },
+      {
+        "id": 3097,
+        "idUrl": "blazer-std-4x2-24-mpfi-2001",
+        "nome": "Blazer STD 4x2 2.4 MPFi",
+        "ano": 2001
+      }
+    ],
+    "2002": [
+      {
+        "id": 3099,
+        "idUrl": "blazer-dlx-4x4-28-nova-serie-2002",
+        "nome": "Blazer DLX 4x4 2.8  (nova série)",
+        "ano": 2002
+      },
+      {
+        "id": 3142,
+        "idUrl": "blazer-dlx-executive-4x2-43-sfi-v6-nova-serie-aut-2002",
+        "nome": "Blazer DLX Executive 4x2 4.3 SFi V6 (nova série) (Aut)",
+        "ano": 2002
+      },
+      {
+        "id": 3145,
+        "idUrl": "blazer-dlx-executive-4x2-43-sfi-v6-nova-serie-2002",
+        "nome": "Blazer DLX Executive 4x2 4.3 SFi V6 (nova série)",
+        "ano": 2002
+      },
+      {
+        "id": 3153,
+        "idUrl": "blazer-dlx-executive-4x2-43-v6-2002",
+        "nome": "Blazer DLX Executive 4x2 4.3 V6",
+        "ano": 2002
+      },
+      {
+        "id": 3139,
+        "idUrl": "blazer-std-4x2-24-mpfi-2002",
+        "nome": "Blazer STD 4x2 2.4 MPFi",
+        "ano": 2002
+      }
+    ],
+    "2003": [
+      {
+        "id": 3123,
+        "idUrl": "blazer-dlx-4x4-28-nova-serie-2003",
+        "nome": "Blazer DLX 4x4 2.8  (nova série)",
+        "ano": 2003
+      },
+      {
+        "id": 3444,
+        "idUrl": "blazer-4x4-28-2003",
+        "nome": "Blazer 4x4 2.8",
+        "ano": 2003
+      },
+      {
+        "id": 3135,
+        "idUrl": "blazer-executive-4x2-43-v6-2003",
+        "nome": "Blazer Executive 4x2 4.3 V6",
+        "ano": 2003
+      },
+      {
+        "id": 3141,
+        "idUrl": "blazer-dlx-executive-4x2-43-sfi-v6-nova-serie-aut-2003",
+        "nome": "Blazer DLX Executive 4x2 4.3 SFi V6 (nova série) (Aut)",
+        "ano": 2003
+      },
+      {
+        "id": 3096,
+        "idUrl": "blazer-std-4x2-24-mpfi-2003",
+        "nome": "Blazer STD 4x2 2.4 MPFi",
+        "ano": 2003
+      }
+    ],
+    "2004": [
+      {
+        "id": 3124,
+        "idUrl": "blazer-dlx-4x4-28-nova-serie-2004",
+        "nome": "Blazer DLX 4x4 2.8  (nova série)",
+        "ano": 2004
+      },
+      {
+        "id": 3445,
+        "idUrl": "blazer-4x4-28-2004",
+        "nome": "Blazer 4x4 2.8",
+        "ano": 2004
+      },
+      {
+        "id": 3133,
+        "idUrl": "blazer-executive-4x4-28-2004",
+        "nome": "Blazer Executive 4x4 2.8",
+        "ano": 2004
+      },
+      {
+        "id": 3128,
+        "idUrl": "blazer-std-4x2-24-mpfi-2004",
+        "nome": "Blazer STD 4x2 2.4 MPFi",
+        "ano": 2004
+      }
+    ],
+    "2005": [
+      {
+        "id": 3134,
+        "idUrl": "blazer-executive-4x4-28-2005",
+        "nome": "Blazer Executive 4x4 2.8",
+        "ano": 2005
+      },
+      {
+        "id": 3424,
+        "idUrl": "blazer-colina-4x4-28-2005",
+        "nome": "Blazer Colina 4x4 2.8",
+        "ano": 2005
+      },
+      {
+        "id": 3080,
+        "idUrl": "blazer-tornado-4x2-24-mpfi-2005",
+        "nome": "Blazer Tornado 4x2 2.4 MPFi",
+        "ano": 2005
+      },
+      {
+        "id": 3434,
+        "idUrl": "blazer-advantage-4x2-24-mpfi-2005",
+        "nome": "Blazer Advantage 4x2 2.4 MPFi",
+        "ano": 2005
+      },
+      {
+        "id": 3425,
+        "idUrl": "blazer-colina-4x2-24-mpfi-2005",
+        "nome": "Blazer Colina 4x2 2.4 MPFi",
+        "ano": 2005
+      }
+    ],
+    "2006": [
+      {
+        "id": 3132,
+        "idUrl": "blazer-executive-4x4-28-turbo-2006",
+        "nome": "Blazer Executive 4x4 2.8 Turbo",
+        "ano": 2006
+      },
+      {
+        "id": 3275,
+        "idUrl": "blazer-colina-4x4-28-turbo-2006",
+        "nome": "Blazer Colina 4x4 2.8 Turbo",
+        "ano": 2006
+      },
+      {
+        "id": 3432,
+        "idUrl": "blazer-advantage-4x2-24-mpfi-2006",
+        "nome": "Blazer Advantage 4x2 2.4 MPFi",
+        "ano": 2006
+      },
+      {
+        "id": 3441,
+        "idUrl": "blazer-advantage-4x2-24-2006",
+        "nome": "Blazer Advantage 4x2 2.4",
+        "ano": 2006
+      },
+      {
+        "id": 3450,
+        "idUrl": "blazer-advantage-4x2-24-flex-2006",
+        "nome": "Blazer Advantage 4x2 2.4 (Flex)",
+        "ano": 2006
+      },
+      {
+        "id": 3428,
+        "idUrl": "blazer-colina-4x2-24-mpfi-2006",
+        "nome": "Blazer Colina 4x2 2.4 MPFi",
+        "ano": 2006
+      }
+    ],
+    "2007": [
+      {
+        "id": 3131,
+        "idUrl": "blazer-executive-4x4-28-turbo-2007",
+        "nome": "Blazer Executive 4x4 2.8 Turbo",
+        "ano": 2007
+      },
+      {
+        "id": 3274,
+        "idUrl": "blazer-colina-4x4-28-turbo-2007",
+        "nome": "Blazer Colina 4x4 2.8 Turbo",
+        "ano": 2007
+      },
+      {
+        "id": 3440,
+        "idUrl": "blazer-advantage-4x2-24-flex-2007",
+        "nome": "Blazer Advantage 4x2 2.4 (Flex)",
+        "ano": 2007
+      },
+      {
+        "id": 3442,
+        "idUrl": "blazer-advantage-4x2-24-2007",
+        "nome": "Blazer Advantage 4x2 2.4",
+        "ano": 2007
+      },
+      {
+        "id": 3427,
+        "idUrl": "blazer-colina-4x2-24-mpfi-2007",
+        "nome": "Blazer Colina 4x2 2.4 MPFi",
+        "ano": 2007
+      },
+      {
+        "id": 3431,
+        "idUrl": "blazer-colina-4x2-24-flex-2007",
+        "nome": "Blazer Colina 4x2 2.4 (Flex)",
+        "ano": 2007
+      }
+    ],
+    "2008": [
+      {
+        "id": 3130,
+        "idUrl": "blazer-executive-4x4-28-turbo-2008",
+        "nome": "Blazer Executive 4x4 2.8 Turbo",
+        "ano": 2008
+      },
+      {
+        "id": 3273,
+        "idUrl": "blazer-colina-4x4-28-turbo-2008",
+        "nome": "Blazer Colina 4x4 2.8 Turbo",
+        "ano": 2008
+      },
+      {
+        "id": 3439,
+        "idUrl": "blazer-advantage-4x2-24-flex-2008",
+        "nome": "Blazer Advantage 4x2 2.4 (Flex)",
+        "ano": 2008
+      },
+      {
+        "id": 3430,
+        "idUrl": "blazer-colina-4x2-24-flex-2008",
+        "nome": "Blazer Colina 4x2 2.4 (Flex)",
+        "ano": 2008
+      }
+    ],
+    "2009": [
+      {
+        "id": 3129,
+        "idUrl": "blazer-executive-4x4-28-turbo-2009",
+        "nome": "Blazer Executive 4x4 2.8 Turbo",
+        "ano": 2009
+      },
+      {
+        "id": 3243,
+        "idUrl": "blazer-colina-4x4-28-turbo-2009",
+        "nome": "Blazer Colina 4x4 2.8 Turbo",
+        "ano": 2009
+      },
+      {
+        "id": 3435,
+        "idUrl": "blazer-advantage-4x2-24-flex-2009",
+        "nome": "Blazer Advantage 4x2 2.4 (Flex)",
+        "ano": 2009
+      },
+      {
+        "id": 3429,
+        "idUrl": "blazer-colina-4x2-24-flex-2009",
+        "nome": "Blazer Colina 4x2 2.4 (Flex)",
+        "ano": 2009
+      }
+    ],
+    "2010": [
+      {
+        "id": 3438,
+        "idUrl": "blazer-advantage-4x2-24-flex-2010",
+        "nome": "Blazer Advantage 4x2 2.4 (Flex)",
+        "ano": 2010
+      }
+    ],
+    "2011": [
+      {
+        "id": 3437,
+        "idUrl": "blazer-advantage-4x2-24-flex-2011",
+        "nome": "Blazer Advantage 4x2 2.4 (Flex)",
+        "ano": 2011
+      }
+    ]
+  }

@@ -1,0 +1,114 @@
+{
+    "1991": [
+      {
+        "id": 3095,
+        "idUrl": "camaro-coupe-z28-57-v8-1991",
+        "nome": "Camaro Coupe Z28 5.7 V8",
+        "ano": 1991
+      },
+      {
+        "id": 3068,
+        "idUrl": "camaro-coupe-rs-50-v8-1991",
+        "nome": "Camaro Coupe Rs 5.0 V8",
+        "ano": 1991
+      }
+    ],
+    "1992": [
+      {
+        "id": 3235,
+        "idUrl": "camaro-targa-z28-57-1992",
+        "nome": "Camaro Targa Z28 5.7",
+        "ano": 1992
+      },
+      {
+        "id": 3070,
+        "idUrl": "camaro-conversivel-sport-50-1992",
+        "nome": "Camaro Conversivel Sport 5.0",
+        "ano": 1992
+      }
+    ],
+    "1994": [
+      {
+        "id": 3069,
+        "idUrl": "camaro-conversivel-z28-57-1994",
+        "nome": "Camaro Conversivel Z28 5.7",
+        "ano": 1994
+      }
+    ],
+    "2010": [
+      {
+        "id": 3236,
+        "idUrl": "camaro-ss-62-v8-2010",
+        "nome": "Camaro SS 6.2 V8",
+        "ano": 2010
+      }
+    ],
+    "2011": [
+      {
+        "id": 3077,
+        "idUrl": "camaro-62-2ss-aut-2011",
+        "nome": "Camaro 6.2 2SS (Aut)",
+        "ano": 2011
+      }
+    ],
+    "2012": [
+      {
+        "id": 3076,
+        "idUrl": "camaro-62-2ss-aut-2012",
+        "nome": "Camaro 6.2 2SS (Aut)",
+        "ano": 2012
+      }
+    ],
+    "2013": [
+      {
+        "id": 3075,
+        "idUrl": "camaro-62-2ss-aut-2013",
+        "nome": "Camaro 6.2 2SS (Aut)",
+        "ano": 2013
+      }
+    ],
+    "2014": [
+      {
+        "id": 3072,
+        "idUrl": "camaro-62-ss-conversivel-2014",
+        "nome": "Camaro 6.2 SS Conversível",
+        "ano": 2014
+      },
+      {
+        "id": 3074,
+        "idUrl": "camaro-62-ss-2014",
+        "nome": "Camaro 6.2 SS",
+        "ano": 2014
+      }
+    ],
+    "2015": [
+      {
+        "id": 3073,
+        "idUrl": "camaro-62-ss-conversivel-2015",
+        "nome": "Camaro 6.2 SS Conversível",
+        "ano": 2015
+      },
+      {
+        "id": 3239,
+        "idUrl": "camaro-ss-62-2015",
+        "nome": "Camaro SS 6.2",
+        "ano": 2015
+      }
+    ],
+    "2017": [
+      {
+        "id": 3237,
+        "idUrl": "camaro-ss-62-50th-anniversary-edition-2017",
+        "nome": "Camaro SS 6.2 50th Anniversary Edition",
+        "ano": 2017
+      }
+    ],
+    "2019": [
+      {
+        "id": 22252,
+        "idUrl": "camaro-cupe-ss-62-v8-2019",
+        "nome": "Camaro Cupê SS 6.2 V8",
+        "ano": 2019
+      }
+    ]
+  }

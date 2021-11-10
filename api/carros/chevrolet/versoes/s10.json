@@ -1,0 +1,1816 @@
+{
+    "1996": [
+      {
+        "id": 2260,
+        "idUrl": "s10-luxe-4x2-22-efi-cab-dupla-1996",
+        "nome": "S10 Luxe 4x2 2.2 EFi (Cab Dupla)",
+        "ano": 1996
+      },
+      {
+        "id": 2259,
+        "idUrl": "s10-luxe-4x2-22-efi-cab-estendida-1996",
+        "nome": "S10 Luxe 4x2 2.2 EFi (Cab Estendida)",
+        "ano": 1996
+      },
+      {
+        "id": 22506,
+        "idUrl": "s10-luxe-4x2-25-ce-1996",
+        "nome": "S10 Luxe 4x2 2.5 CE",
+        "ano": 1996
+      },
+      {
+        "id": 2240,
+        "idUrl": "s10-luxe-4x2-43-sfi-v6-cab-estendida-1996",
+        "nome": "S10 Luxe 4x2 4.3 SFi V6 (Cab Estendida)",
+        "ano": 1996
+      },
+      {
+        "id": 2251,
+        "idUrl": "s10-luxe-4x2-25-cab-estendida-1996",
+        "nome": "S10 Luxe 4x2 2.5 (Cab Estendida)",
+        "ano": 1996
+      },
+      {
+        "id": 22505,
+        "idUrl": "s10-luxe-4x2-43-sfi-v6-ce-1996",
+        "nome": "S10 Luxe 4x2 4.3 SFi V6 CE",
+        "ano": 1996
+      }
+    ],
+    "1997": [
+      {
+        "id": 2252,
+        "idUrl": "s10-luxe-4x2-25-cab-estendida-1997",
+        "nome": "S10 Luxe 4x2 2.5 (Cab Estendida)",
+        "ano": 1997
+      },
+      {
+        "id": 2245,
+        "idUrl": "s10-luxe-4x2-43-sfi-v6-cab-dupla-1997",
+        "nome": "S10 Luxe 4x2 4.3 SFi V6 (Cab Dupla)",
+        "ano": 1997
+      },
+      {
+        "id": 2239,
+        "idUrl": "s10-luxe-4x2-43-sfi-v6-cab-estendida-1997",
+        "nome": "S10 Luxe 4x2 4.3 SFi V6 (Cab Estendida)",
+        "ano": 1997
+      },
+      {
+        "id": 2234,
+        "idUrl": "s10-luxe-4x2-22-efi-cab-dupla-1997",
+        "nome": "S10 Luxe 4x2 2.2 EFi (Cab Dupla)",
+        "ano": 1997
+      },
+      {
+        "id": 2258,
+        "idUrl": "s10-luxe-4x2-22-mpfi-cab-dupla-1997",
+        "nome": "S10 Luxe 4x2 2.2 MPFi (Cab Dupla)",
+        "ano": 1997
+      },
+      {
+        "id": 2897,
+        "idUrl": "s10-4x2-25-cab-simples-1997",
+        "nome": "S10 4x2 2.5 (Cab Simples)",
+        "ano": 1997
+      },
+      {
+        "id": 2144,
+        "idUrl": "s10-4x2-25-cab-dupla-1997",
+        "nome": "S10 4x2 2.5 (Cab Dupla)",
+        "ano": 1997
+      },
+      {
+        "id": 2256,
+        "idUrl": "s10-luxe-4x2-22-mpfi-cab-estendida-1997",
+        "nome": "S10 Luxe 4x2 2.2 MPFi (Cab Estendida)",
+        "ano": 1997
+      },
+      {
+        "id": 2826,
+        "idUrl": "s10-luxe-4x2-22-efi-cab-simples-1997",
+        "nome": "S10 Luxe 4x2 2.2 EFi (Cab Simples)",
+        "ano": 1997
+      },
+      {
+        "id": 2120,
+        "idUrl": "s10-4x2-22-mpfi-cab-dupla-1997",
+        "nome": "S10 4x2 2.2 MPFi (Cab Dupla)",
+        "ano": 1997
+      },
+      {
+        "id": 2122,
+        "idUrl": "s10-4x2-22-efi-cab-dupla-1997",
+        "nome": "S10 4x2 2.2 EFi (Cab Dupla)",
+        "ano": 1997
+      }
+    ],
+    "1998": [
+      {
+        "id": 2253,
+        "idUrl": "s10-luxe-4x2-25-cab-dupla-1998",
+        "nome": "S10 Luxe 4x2 2.5 (Cab Dupla)",
+        "ano": 1998
+      },
+      {
+        "id": 2236,
+        "idUrl": "s10-luxe-4x4-25-cab-dupla-1998",
+        "nome": "S10 Luxe 4x4 2.5 (Cab Dupla)",
+        "ano": 1998
+      },
+      {
+        "id": 2828,
+        "idUrl": "s10-luxe-4x2-25-cab-simples-1998",
+        "nome": "S10 Luxe 4x2 2.5 (Cab Simples)",
+        "ano": 1998
+      },
+      {
+        "id": 2852,
+        "idUrl": "s10-luxe-4x4-25-cab-simples-1998",
+        "nome": "S10 Luxe 4x4 2.5 (Cab Simples)",
+        "ano": 1998
+      },
+      {
+        "id": 2117,
+        "idUrl": "s10-4x2-25-cab-dupla-1998",
+        "nome": "S10 4x2 2.5 (Cab Dupla)",
+        "ano": 1998
+      },
+      {
+        "id": 2893,
+        "idUrl": "s10-4x4-25-mpfi-cab-simples-1998",
+        "nome": "S10 4x4 2.5 MPFi (Cab Simples)",
+        "ano": 1998
+      },
+      {
+        "id": 2896,
+        "idUrl": "s10-4x2-25-cab-simples-1998",
+        "nome": "S10 4x2 2.5 (Cab Simples)",
+        "ano": 1998
+      },
+      {
+        "id": 2287,
+        "idUrl": "s10-4x4-25-cab-dupla-1998",
+        "nome": "S10 4x4 2.5 (Cab Dupla)",
+        "ano": 1998
+      },
+      {
+        "id": 2562,
+        "idUrl": "s10-luxe-4x4-43-sfi-v6-cab-dupla-1998",
+        "nome": "S10 Luxe 4x4 4.3 SFi V6 (Cab Dupla)",
+        "ano": 1998
+      },
+      {
+        "id": 2244,
+        "idUrl": "s10-luxe-4x2-43-sfi-v6-cab-dupla-1998",
+        "nome": "S10 Luxe 4x2 4.3 SFi V6 (Cab Dupla)",
+        "ano": 1998
+      },
+      {
+        "id": 2246,
+        "idUrl": "s10-luxe-4x2-43-sfi-cab-dupla-1998",
+        "nome": "S10 Luxe 4x2 4.3 SFi (Cab Dupla)",
+        "ano": 1998
+      },
+      {
+        "id": 2883,
+        "idUrl": "s10-luxe-4x4-43-sfi-v6-cab-estendida-1998",
+        "nome": "S10 Luxe 4x4 4.3 SFi V6 (Cab Estendida)",
+        "ano": 1998
+      },
+      {
+        "id": 2241,
+        "idUrl": "s10-luxe-4x2-43-sfi-v6-cab-estendida-1998",
+        "nome": "S10 Luxe 4x2 4.3 SFi V6 (Cab Estendida)",
+        "ano": 1998
+      },
+      {
+        "id": 2855,
+        "idUrl": "s10-luxe-4x2-43-sfi-v6-cab-simples-1998",
+        "nome": "S10 Luxe 4x2 4.3 SFi V6 (Cab Simples)",
+        "ano": 1998
+      },
+      {
+        "id": 2257,
+        "idUrl": "s10-luxe-4x2-22-mpfi-cab-estendida-1998",
+        "nome": "S10 Luxe 4x2 2.2 MPFi (Cab Estendida)",
+        "ano": 1998
+      },
+      {
+        "id": 2119,
+        "idUrl": "s10-4x2-22-mpfi-cab-dupla-1998",
+        "nome": "S10 4x2 2.2 MPFi (Cab Dupla)",
+        "ano": 1998
+      },
+      {
+        "id": 2827,
+        "idUrl": "s10-luxe-4x2-22-efi-cab-simples-1998",
+        "nome": "S10 Luxe 4x2 2.2 EFi (Cab Simples)",
+        "ano": 1998
+      },
+      {
+        "id": 2825,
+        "idUrl": "s10-champ-4x2-43-sfi-v6-cab-simples-1998",
+        "nome": "S10 Champ 4x2 4.3 SFi V6 (Cab Simples)",
+        "ano": 1998
+      },
+      {
+        "id": 2900,
+        "idUrl": "s10-4x2-22-mpfi-cab-simples-1998",
+        "nome": "S10 4x2 2.2 MPFi (Cab Simples)",
+        "ano": 1998
+      }
+    ],
+    "1999": [
+      {
+        "id": 2237,
+        "idUrl": "s10-luxe-4x4-25-cab-dupla-1999",
+        "nome": "S10 Luxe 4x4 2.5 (Cab Dupla)",
+        "ano": 1999
+      },
+      {
+        "id": 2853,
+        "idUrl": "s10-luxe-4x4-25-cab-simples-1999",
+        "nome": "S10 Luxe 4x4 2.5 (Cab Simples)",
+        "ano": 1999
+      },
+      {
+        "id": 2894,
+        "idUrl": "s10-4x4-25-cab-simples-1999",
+        "nome": "S10 4x4 2.5 (Cab Simples)",
+        "ano": 1999
+      },
+      {
+        "id": 2203,
+        "idUrl": "s10-4x2-25-cab-dupla-1999",
+        "nome": "S10 4x2 2.5 (Cab Dupla)",
+        "ano": 1999
+      },
+      {
+        "id": 2286,
+        "idUrl": "s10-4x4-25-cab-dupla-1999",
+        "nome": "S10 4x4 2.5 (Cab Dupla)",
+        "ano": 1999
+      },
+      {
+        "id": 2885,
+        "idUrl": "s10-luxe-4x4-43-sfi-v6-cab-dupla-1999",
+        "nome": "S10 Luxe 4x4 4.3 SFi V6 (Cab Dupla)",
+        "ano": 1999
+      },
+      {
+        "id": 2242,
+        "idUrl": "s10-luxe-4x2-43-sfi-v6-cab-dupla-1999",
+        "nome": "S10 Luxe 4x2 4.3 SFi V6 (Cab Dupla)",
+        "ano": 1999
+      },
+      {
+        "id": 2224,
+        "idUrl": "s10-executive-4x4-43-sfi-v6-cab-dupla-1999",
+        "nome": "S10 Executive 4x4 4.3 SFi V6 (Cab Dupla)",
+        "ano": 1999
+      },
+      {
+        "id": 2255,
+        "idUrl": "s10-luxe-4x2-22-mpfi-cab-estendida-1999",
+        "nome": "S10 Luxe 4x2 2.2 MPFi (Cab Estendida)",
+        "ano": 1999
+      },
+      {
+        "id": 2884,
+        "idUrl": "s10-luxe-4x4-43-sfi-v6-cab-estendida-1999",
+        "nome": "S10 Luxe 4x4 4.3 SFi V6 (Cab Estendida)",
+        "ano": 1999
+      },
+      {
+        "id": 2238,
+        "idUrl": "s10-luxe-4x2-43-sfi-v6-cab-estendida-1999",
+        "nome": "S10 Luxe 4x2 4.3 SFi V6 (Cab Estendida)",
+        "ano": 1999
+      },
+      {
+        "id": 2118,
+        "idUrl": "s10-4x2-22-mpfi-cab-dupla-1999",
+        "nome": "S10 4x2 2.2 MPFi (Cab Dupla)",
+        "ano": 1999
+      },
+      {
+        "id": 2851,
+        "idUrl": "s10-luxe-4x4-43-sfi-v6-cab-simples-1999",
+        "nome": "S10 Luxe 4x4 4.3 SFi V6 (Cab Simples)",
+        "ano": 1999
+      },
+      {
+        "id": 2854,
+        "idUrl": "s10-luxe-4x2-43-sfi-v6-cab-simples-1999",
+        "nome": "S10 Luxe 4x2 4.3 SFi V6 (Cab Simples)",
+        "ano": 1999
+      },
+      {
+        "id": 2297,
+        "idUrl": "s10-executive-4x2-43-sfi-v6-cab-dupla-1999",
+        "nome": "S10 Executive 4x2 4.3 SFi V6 (Cab Dupla)",
+        "ano": 1999
+      },
+      {
+        "id": 2901,
+        "idUrl": "s10-4x2-22-mpfi-cab-simples-1999",
+        "nome": "S10 4x2 2.2 MPFi (Cab Simples)",
+        "ano": 1999
+      }
+    ],
+    "2000": [
+      {
+        "id": 2235,
+        "idUrl": "s10-luxe-4x4-28-cab-dupla-2000",
+        "nome": "S10 Luxe 4x4 2.8 (Cab Dupla)",
+        "ano": 2000
+      },
+      {
+        "id": 2250,
+        "idUrl": "s10-luxe-4x2-28-cab-dupla-2000",
+        "nome": "S10 Luxe 4x2 2.8 (Cab Dupla)",
+        "ano": 2000
+      },
+      {
+        "id": 2283,
+        "idUrl": "s10-4x4-28-nova-serie-cab-dupla-2000",
+        "nome": "S10 4x4 2.8 (nova série) (Cab Dupla)",
+        "ano": 2000
+      },
+      {
+        "id": 2284,
+        "idUrl": "s10-4x4-28-cab-dupla-2000",
+        "nome": "S10 4x4 2.8 (Cab Dupla)",
+        "ano": 2000
+      },
+      {
+        "id": 2205,
+        "idUrl": "s10-4x2-28-cab-dupla-2000",
+        "nome": "S10 4x2 2.8 (Cab Dupla)",
+        "ano": 2000
+      },
+      {
+        "id": 2290,
+        "idUrl": "s10-4x2-28-nova-serie-cab-dupla-2000",
+        "nome": "S10 4x2 2.8 (nova série) (Cab Dupla)",
+        "ano": 2000
+      },
+      {
+        "id": 2891,
+        "idUrl": "s10-4x4-28-cab-simples-2000",
+        "nome": "S10 4x4 2.8 (Cab Simples)",
+        "ano": 2000
+      },
+      {
+        "id": 2892,
+        "idUrl": "s10-4x4-28-nova-serie-cab-simples-2000",
+        "nome": "S10 4x4 2.8  (nova série) (Cab Simples)",
+        "ano": 2000
+      },
+      {
+        "id": 2204,
+        "idUrl": "s10-4x2-25-cab-dupla-2000",
+        "nome": "S10 4x2 2.5 (Cab Dupla)",
+        "ano": 2000
+      },
+      {
+        "id": 2285,
+        "idUrl": "s10-4x4-25-cab-dupla-2000",
+        "nome": "S10 4x4 2.5 (Cab Dupla)",
+        "ano": 2000
+      },
+      {
+        "id": 2223,
+        "idUrl": "s10-executive-4x4-43-sfi-v6-cab-dupla-2000",
+        "nome": "S10 Executive 4x4 4.3 SFi V6 (Cab Dupla)",
+        "ano": 2000
+      },
+      {
+        "id": 2895,
+        "idUrl": "s10-4x2-28-cab-simples-2000",
+        "nome": "S10 4x2 2.8 (Cab Simples)",
+        "ano": 2000
+      },
+      {
+        "id": 2295,
+        "idUrl": "s10-executive-4x2-43-sfi-v6-nova-serie-cab-dupla-2000",
+        "nome": "S10 Executive 4x2 4.3 SFi V6 (nova série) (Cab Dupla)",
+        "ano": 2000
+      },
+      {
+        "id": 2298,
+        "idUrl": "s10-executive-4x2-43-sfi-v6-cab-dupla-2000",
+        "nome": "S10 Executive 4x2 4.3 SFi V6 (Cab Dupla)",
+        "ano": 2000
+      },
+      {
+        "id": 2121,
+        "idUrl": "s10-4x2-22-mpfi-cab-dupla-2000",
+        "nome": "S10 4x2 2.2 MPFi (Cab Dupla)",
+        "ano": 2000
+      },
+      {
+        "id": 2829,
+        "idUrl": "s10-luxe-4x2-43-sfi-v6-cab-simples-2000",
+        "nome": "S10 Luxe 4x2 4.3 SFi V6 (Cab Simples)",
+        "ano": 2000
+      },
+      {
+        "id": 2842,
+        "idUrl": "s10-barretos-4x2-22-mpfi-cab-simples-2000",
+        "nome": "S10 Barretos 4x2 2.2 MPFi (Cab Simples)",
+        "ano": 2000
+      },
+      {
+        "id": 2903,
+        "idUrl": "s10-4x2-22-mpfi-cab-simples-2000",
+        "nome": "S10 4x2 2.2 MPFi (Cab Simples)",
+        "ano": 2000
+      },
+      {
+        "id": 2875,
+        "idUrl": "s10-std-4x2-24-mpfi-cab-dupla-2000",
+        "nome": "S10 STD 4x2 2.4 MPFi (Cab Dupla)",
+        "ano": 2000
+      },
+      {
+        "id": 22504,
+        "idUrl": "s10-std-4x2-24-mpfi-cd-2000",
+        "nome": "S10 STD 4x2 2.4 MPFi CD",
+        "ano": 2000
+      }
+    ],
+    "2001": [
+      {
+        "id": 2561,
+        "idUrl": "s10-luxe-4x4-28-cab-dupla-2001",
+        "nome": "S10 Luxe 4x4 2.8 (Cab Dupla)",
+        "ano": 2001
+      },
+      {
+        "id": 2261,
+        "idUrl": "s10-luxe-4x2-28-cab-dupla-2001",
+        "nome": "S10 Luxe 4x2 2.8 (Cab Dupla)",
+        "ano": 2001
+      },
+      {
+        "id": 2271,
+        "idUrl": "s10-barretos-std-4x2-28-cab-dupla-2001",
+        "nome": "S10 Barretos STD 4x2 2.8 (Cab Dupla)",
+        "ano": 2001
+      },
+      {
+        "id": 2273,
+        "idUrl": "s10-barretos-luxe-4x2-28-cab-dupla-2001",
+        "nome": "S10 Barretos Luxe 4x2 2.8 (Cab Dupla)",
+        "ano": 2001
+      },
+      {
+        "id": 2272,
+        "idUrl": "s10-barretos-luxe-4x4-28-cab-dupla-2001",
+        "nome": "S10 Barretos Luxe 4x4 2.8 (Cab Dupla)",
+        "ano": 2001
+      },
+      {
+        "id": 2870,
+        "idUrl": "s10-std-4x4-28-nova-serie-cab-dupla-2001",
+        "nome": "S10 STD 4x4 2.8 (nova série) (Cab Dupla)",
+        "ano": 2001
+      },
+      {
+        "id": 22501,
+        "idUrl": "s10-std-4x4-28-turbo-cs-2001",
+        "nome": "S10 STD 4x4 2.8 Turbo CS",
+        "ano": 2001
+      },
+      {
+        "id": 2871,
+        "idUrl": "s10-std-4x2-28-nova-serie-cab-dupla-2001",
+        "nome": "S10 STD 4x2 2.8 (nova série) (Cab Dupla)",
+        "ano": 2001
+      },
+      {
+        "id": 2849,
+        "idUrl": "s10-std-4x2-28-turbo-cab-simples-2001",
+        "nome": "S10 STD 4X2 2.8 Turbo (Cab Simples)",
+        "ano": 2001
+      },
+      {
+        "id": 2874,
+        "idUrl": "s10-std-4x2-24-mpfi-cab-dupla-2001",
+        "nome": "S10 STD 4x2 2.4 MPFi (Cab Dupla)",
+        "ano": 2001
+      },
+      {
+        "id": 22509,
+        "idUrl": "s10-barretos-std-4x4-28-cd-2001",
+        "nome": "S10 Barretos STD 4x4 2.8 CD",
+        "ano": 2001
+      },
+      {
+        "id": 2296,
+        "idUrl": "s10-executive-4x2-43-sfi-v6-nova-serie-cab-dupla-2001",
+        "nome": "S10 Executive 4x2 4.3 SFi V6 (nova série) (Cab Dupla)",
+        "ano": 2001
+      },
+      {
+        "id": 2898,
+        "idUrl": "s10-4x2-24-mpfi-cab-simples-2001",
+        "nome": "S10 4x2 2.4 MPFi (Cab Simples)",
+        "ano": 2001
+      },
+      {
+        "id": 2847,
+        "idUrl": "s10-std-4x4-28-turbo-cab-simples-2001",
+        "nome": "S10 STD 4X4 2.8 Turbo (Cab Simples)",
+        "ano": 2001
+      },
+      {
+        "id": 2254,
+        "idUrl": "s10-luxe-4x2-22-mpfi-cab-estendida-2001",
+        "nome": "S10 Luxe 4x2 2.2 MPFi (Cab Estendida)",
+        "ano": 2001
+      },
+      {
+        "id": 2270,
+        "idUrl": "s10-barretos-std-4x4-28-cab-dupla-2001",
+        "nome": "S10 Barretos STD 4x4 2.8 (Cab Dupla)",
+        "ano": 2001
+      },
+      {
+        "id": 22507,
+        "idUrl": "s10-luxe-4x2-22-mpfi-ce-2001",
+        "nome": "S10 Luxe 4x2 2.2 MPFi CE",
+        "ano": 2001
+      }
+    ],
+    "2002": [
+      {
+        "id": 2248,
+        "idUrl": "s10-luxe-4x2-28-cab-dupla-2002",
+        "nome": "S10 Luxe 4x2 2.8 (Cab Dupla)",
+        "ano": 2002
+      },
+      {
+        "id": 2263,
+        "idUrl": "s10-executive-4x4-28-cab-dupla-2002",
+        "nome": "S10 Executive 4x4 2.8 (Cab Dupla)",
+        "ano": 2002
+      },
+      {
+        "id": 2868,
+        "idUrl": "s10-sertoes-4x4-28-cab-dupla-2002",
+        "nome": "S10 Sertoes 4x4 2.8 (Cab Dupla)",
+        "ano": 2002
+      },
+      {
+        "id": 2441,
+        "idUrl": "s10-luxe-4x4-28-cab-dupla-2002",
+        "nome": "S10 Luxe 4x4 2.8 (Cab Dupla)",
+        "ano": 2002
+      },
+      {
+        "id": 2282,
+        "idUrl": "s10-4x4-28-nova-serie-cab-dupla-2002",
+        "nome": "S10 4x4 2.8 (nova série) (Cab Dupla)",
+        "ano": 2002
+      },
+      {
+        "id": 2289,
+        "idUrl": "s10-4x2-28-nova-serie-cab-dupla-2002",
+        "nome": "S10 4x2 2.8 (nova série) (Cab Dupla)",
+        "ano": 2002
+      },
+      {
+        "id": 2846,
+        "idUrl": "s10-sertoes-4x4-28-cab-simples-2002",
+        "nome": "S10 Sertoes 4x4 2.8 (Cab Simples)",
+        "ano": 2002
+      },
+      {
+        "id": 2886,
+        "idUrl": "s10-std-4x2-24-mpfi-cab-dupla-2002",
+        "nome": "S10 STD 4x2 2.4 MPFi (Cab Dupla)",
+        "ano": 2002
+      }
+    ],
+    "2003": [
+      {
+        "id": 2249,
+        "idUrl": "s10-luxe-4x2-28-cab-dupla-2003",
+        "nome": "S10 Luxe 4x2 2.8 (Cab Dupla)",
+        "ano": 2003
+      },
+      {
+        "id": 2262,
+        "idUrl": "s10-executive-4x4-28-cab-dupla-2003",
+        "nome": "S10 Executive 4x4 2.8 (Cab Dupla)",
+        "ano": 2003
+      },
+      {
+        "id": 2560,
+        "idUrl": "s10-luxe-4x4-28-cab-dupla-2003",
+        "nome": "S10 Luxe 4x4 2.8 (Cab Dupla)",
+        "ano": 2003
+      },
+      {
+        "id": 2867,
+        "idUrl": "s10-sertoes-4x4-28-cab-dupla-2003",
+        "nome": "S10 Sertoes 4x4 2.8 (Cab Dupla)",
+        "ano": 2003
+      },
+      {
+        "id": 2281,
+        "idUrl": "s10-4x4-28-nova-serie-cab-dupla-2003",
+        "nome": "S10 4x4 2.8 (nova série) (Cab Dupla)",
+        "ano": 2003
+      },
+      {
+        "id": 2288,
+        "idUrl": "s10-4x2-28-nova-serie-cab-dupla-2003",
+        "nome": "S10 4x2 2.8 (nova série) (Cab Dupla)",
+        "ano": 2003
+      },
+      {
+        "id": 2873,
+        "idUrl": "s10-std-4x2-24-mpfi-cab-dupla-2003",
+        "nome": "S10 STD 4x2 2.4 MPFi (Cab Dupla)",
+        "ano": 2003
+      },
+      {
+        "id": 2899,
+        "idUrl": "s10-4x2-24-mpfi-cab-simples-2003",
+        "nome": "S10 4x2 2.4 MPFi (Cab Simples)",
+        "ano": 2003
+      }
+    ],
+    "2004": [
+      {
+        "id": 2247,
+        "idUrl": "s10-executive-4x4-28-cab-dupla-2004",
+        "nome": "S10 Executive 4x4 2.8 (Cab Dupla)",
+        "ano": 2004
+      },
+      {
+        "id": 22508,
+        "idUrl": "s10-executive-4x2-28-cd-2004",
+        "nome": "S10 Executive 4x2 2.8 CD",
+        "ano": 2004
+      },
+      {
+        "id": 2866,
+        "idUrl": "s10-sertoes-4x4-28-cab-dupla-2004",
+        "nome": "S10 Sertoes 4x4 2.8 (Cab Dupla)",
+        "ano": 2004
+      },
+      {
+        "id": 2310,
+        "idUrl": "s10-dlx-4x4-28-turbo-cab-dupla-2004",
+        "nome": "S10 DLX 4X4 2.8 Turbo (Cab Dupla)",
+        "ano": 2004
+      },
+      {
+        "id": 2876,
+        "idUrl": "s10-std-4x4-28-turbo-cab-dupla-2004",
+        "nome": "S10 STD 4X4 2.8 Turbo (Cab Dupla)",
+        "ano": 2004
+      },
+      {
+        "id": 22502,
+        "idUrl": "s10-std-4x4-28-turbo-cs-2004",
+        "nome": "S10 STD 4x4 2.8 Turbo CS",
+        "ano": 2004
+      },
+      {
+        "id": 2311,
+        "idUrl": "s10-dlx-4x2-28-turbo-cab-dupla-2004",
+        "nome": "S10 DLX 4X2 2.8 Turbo (Cab Dupla)",
+        "ano": 2004
+      },
+      {
+        "id": 2877,
+        "idUrl": "s10-std-4x2-28-turbo-cab-dupla-2004",
+        "nome": "S10 STD 4X2 2.8 Turbo (Cab Dupla)",
+        "ano": 2004
+      },
+      {
+        "id": 22512,
+        "idUrl": "s10-colina-4x2-28-cd-2004",
+        "nome": "S10 Colina 4x2 2.8 CD",
+        "ano": 2004
+      },
+      {
+        "id": 2850,
+        "idUrl": "s10-std-4x2-28-turbo-cab-simples-2004",
+        "nome": "S10 STD 4X2 2.8 Turbo (Cab Simples)",
+        "ano": 2004
+      },
+      {
+        "id": 2312,
+        "idUrl": "s10-dlx-4x2-24-cab-dupla-2004",
+        "nome": "S10 DLX 4X2 2.4 (Cab Dupla)",
+        "ano": 2004
+      },
+      {
+        "id": 2878,
+        "idUrl": "s10-std-4x2-24-cab-dupla-2004",
+        "nome": "S10 STD 4X2 2.4 (Cab Dupla)",
+        "ano": 2004
+      },
+      {
+        "id": 22510,
+        "idUrl": "s10-colina-4x2-24-cs-2004",
+        "nome": "S10 Colina 4x2 2.4 CS",
+        "ano": 2004
+      },
+      {
+        "id": 2305,
+        "idUrl": "s10-executive-4x2-28-cab-dupla-2004",
+        "nome": "S10 Executive 4x2 2.8 (Cab Dupla)",
+        "ano": 2004
+      },
+      {
+        "id": 2820,
+        "idUrl": "s10-colina-4x2-28-cab-simples-2004",
+        "nome": "S10 Colina 4x2 2.8 (Cab Simples)",
+        "ano": 2004
+      },
+      {
+        "id": 2824,
+        "idUrl": "s10-colina-4x2-24-cab-simples-2004",
+        "nome": "S10 Colina 4x2 2.4 (Cab Simples)",
+        "ano": 2004
+      },
+      {
+        "id": 2319,
+        "idUrl": "s10-colina-4x4-28-cab-dupla-2004",
+        "nome": "S10 Colina 4x4 2.8 (Cab Dupla)",
+        "ano": 2004
+      },
+      {
+        "id": 2848,
+        "idUrl": "s10-std-4x4-28-turbo-cab-simples-2004",
+        "nome": "S10 STD 4X4 2.8 Turbo (Cab Simples)",
+        "ano": 2004
+      },
+      {
+        "id": 22564,
+        "idUrl": "s10-tornado-4x2-24-cd-2004",
+        "nome": "S10 Tornado 4x2 2.4 CD",
+        "ano": 2004
+      },
+      {
+        "id": 2864,
+        "idUrl": "s10-tornado-4x2-24-cab-dupla-2004",
+        "nome": "S10 Tornado 4x2 2.4 (Cab Dupla)",
+        "ano": 2004
+      },
+      {
+        "id": 2267,
+        "idUrl": "s10-colina-4x2-28-cab-dupla-2004",
+        "nome": "S10 Colina 4x2 2.8 (Cab Dupla)",
+        "ano": 2004
+      },
+      {
+        "id": 22511,
+        "idUrl": "s10-colina-4x2-28-cs-2004",
+        "nome": "S10 Colina 4x2 2.8 CS",
+        "ano": 2004
+      }
+    ],
+    "2005": [
+      {
+        "id": 2869,
+        "idUrl": "s10-sertoes-4x4-28-cab-dupla-2005",
+        "nome": "S10 Sertoes 4x4 2.8 (Cab Dupla)",
+        "ano": 2005
+      },
+      {
+        "id": 2264,
+        "idUrl": "s10-executive-4x4-28-cab-dupla-2005",
+        "nome": "S10 Executive 4x4 2.8 (Cab Dupla)",
+        "ano": 2005
+      },
+      {
+        "id": 2863,
+        "idUrl": "s10-tornado-4x2-28-cab-dupla-2005",
+        "nome": "S10 Tornado 4x2 2.8 (Cab Dupla)",
+        "ano": 2005
+      },
+      {
+        "id": 2889,
+        "idUrl": "s10-tornado-4x4-28-cab-dupla-2005",
+        "nome": "S10 Tornado 4x4 2.8 (Cab Dupla)",
+        "ano": 2005
+      },
+      {
+        "id": 2320,
+        "idUrl": "s10-colina-4x4-28-cab-dupla-2005",
+        "nome": "S10 Colina 4x4 2.8 (Cab Dupla)",
+        "ano": 2005
+      },
+      {
+        "id": 2268,
+        "idUrl": "s10-colina-4x2-28-cab-dupla-2005",
+        "nome": "S10 Colina 4x2 2.8 (Cab Dupla)",
+        "ano": 2005
+      },
+      {
+        "id": 2306,
+        "idUrl": "s10-executive-4x2-28-cab-dupla-2005",
+        "nome": "S10 Executive 4x2 2.8 (Cab Dupla)",
+        "ano": 2005
+      },
+      {
+        "id": 2821,
+        "idUrl": "s10-colina-4x2-28-cab-simples-2005",
+        "nome": "S10 Colina 4x2 2.8 (Cab Simples)",
+        "ano": 2005
+      },
+      {
+        "id": 2813,
+        "idUrl": "s10-colina-4x4-28-cab-simples-2005",
+        "nome": "S10 Colina 4x4 2.8 (Cab Simples)",
+        "ano": 2005
+      },
+      {
+        "id": 2269,
+        "idUrl": "s10-colina-4x2-24-cab-dupla-2005",
+        "nome": "S10 Colina 4x2 2.4 (Cab Dupla)",
+        "ano": 2005
+      },
+      {
+        "id": 2865,
+        "idUrl": "s10-tornado-4x2-24-cab-dupla-2005",
+        "nome": "S10 Tornado 4x2 2.4 (Cab Dupla)",
+        "ano": 2005
+      },
+      {
+        "id": 2823,
+        "idUrl": "s10-colina-4x2-24-cab-simples-2005",
+        "nome": "S10 Colina 4x2 2.4 (Cab Simples)",
+        "ano": 2005
+      }
+    ],
+    "2006": [
+      {
+        "id": 2879,
+        "idUrl": "s10-rodeio-4x4-28-turbo-electronic-cab-dupla-2006",
+        "nome": "S10 Rodeio 4x4 2.8 Turbo Electronic (Cab Dupla)",
+        "ano": 2006
+      },
+      {
+        "id": 2230,
+        "idUrl": "s10-executive-4x4-28-turbo-electronic-cab-dupla-2006",
+        "nome": "S10 Executive 4x4 2.8 Turbo Electronic (Cab Dupla)",
+        "ano": 2006
+      },
+      {
+        "id": 2862,
+        "idUrl": "s10-tornado-4x2-28-turbo-electronic-cab-dupla-2006",
+        "nome": "S10 Tornado 4x2 2.8 Turbo Electronic (Cab Dupla)",
+        "ano": 2006
+      },
+      {
+        "id": 2915,
+        "idUrl": "s10-tornado-4x4-28-turbo-electronic-cab-dupla-2006",
+        "nome": "S10 Tornado 4x4 2.8 Turbo Electronic (Cab Dupla)",
+        "ano": 2006
+      },
+      {
+        "id": 2318,
+        "idUrl": "s10-colina-4x4-28-turbo-electronic-cab-dupla-2006",
+        "nome": "S10 Colina 4x4 2.8 Turbo Electronic (Cab Dupla)",
+        "ano": 2006
+      },
+      {
+        "id": 2266,
+        "idUrl": "s10-colina-4x2-28-turbo-electronic-cab-dupla-2006",
+        "nome": "S10 Colina 4x2 2.8 Turbo Electronic (Cab Dupla)",
+        "ano": 2006
+      },
+      {
+        "id": 2304,
+        "idUrl": "s10-executive-4x2-28-turbo-electronic-cab-dupla-2006",
+        "nome": "S10 Executive 4x2 2.8 Turbo Electronic (Cab Dupla)",
+        "ano": 2006
+      },
+      {
+        "id": 2819,
+        "idUrl": "s10-colina-4x2-28-turbo-electronic-cab-simples-2006",
+        "nome": "S10 Colina 4x2 2.8 Turbo Electronic (Cab Simples)",
+        "ano": 2006
+      },
+      {
+        "id": 2812,
+        "idUrl": "s10-colina-4x4-28-turbo-electronic-cab-simples-2006",
+        "nome": "S10 Colina 4x4 2.8 Turbo Electronic (Cab Simples)",
+        "ano": 2006
+      },
+      {
+        "id": 2280,
+        "idUrl": "s10-advantage-4x2-24-cab-dupla-2006",
+        "nome": "S10 Advantage 4x2 2.4 (Cab Dupla)",
+        "ano": 2006
+      }
+    ],
+    "2007": [
+      {
+        "id": 2229,
+        "idUrl": "s10-executive-4x4-28-turbo-electronic-cab-dupla-2007",
+        "nome": "S10 Executive 4x4 2.8 Turbo Electronic (Cab Dupla)",
+        "ano": 2007
+      },
+      {
+        "id": 2861,
+        "idUrl": "s10-tornado-4x2-28-turbo-electronic-cab-dupla-2007",
+        "nome": "S10 Tornado 4x2 2.8 Turbo Electronic (Cab Dupla)",
+        "ano": 2007
+      },
+      {
+        "id": 2914,
+        "idUrl": "s10-tornado-4x4-28-turbo-electronic-cab-dupla-2007",
+        "nome": "S10 Tornado 4x4 2.8 Turbo Electronic (Cab Dupla)",
+        "ano": 2007
+      },
+      {
+        "id": 2317,
+        "idUrl": "s10-colina-4x4-28-turbo-electronic-cab-dupla-2007",
+        "nome": "S10 Colina 4x4 2.8 Turbo Electronic (Cab Dupla)",
+        "ano": 2007
+      },
+      {
+        "id": 2265,
+        "idUrl": "s10-colina-4x2-28-turbo-electronic-cab-dupla-2007",
+        "nome": "S10 Colina 4x2 2.8 Turbo Electronic (Cab Dupla)",
+        "ano": 2007
+      },
+      {
+        "id": 2818,
+        "idUrl": "s10-colina-4x2-28-turbo-electronic-cab-simples-2007",
+        "nome": "S10 Colina 4x2 2.8 Turbo Electronic (Cab Simples)",
+        "ano": 2007
+      },
+      {
+        "id": 2811,
+        "idUrl": "s10-colina-4x4-28-turbo-electronic-cab-simples-2007",
+        "nome": "S10 Colina 4x4 2.8 Turbo Electronic (Cab Simples)",
+        "ano": 2007
+      },
+      {
+        "id": 2303,
+        "idUrl": "s10-executive-4x2-28-turbo-electronic-cab-dupla-2007",
+        "nome": "S10 Executive 4x2 2.8 Turbo Electronic (Cab Dupla)",
+        "ano": 2007
+      },
+      {
+        "id": 2279,
+        "idUrl": "s10-advantage-4x2-24-cab-dupla-2007",
+        "nome": "S10 Advantage 4x2 2.4 (Cab Dupla)",
+        "ano": 2007
+      },
+      {
+        "id": 2291,
+        "idUrl": "s10-advantage-4x2-24-flex-cab-dupla-2007",
+        "nome": "S10 Advantage 4x2 2.4 (Flex) (Cab Dupla)",
+        "ano": 2007
+      },
+      {
+        "id": 22503,
+        "idUrl": "s10-tornado-4x2-24-cd-2007",
+        "nome": "S10 Tornado 4x2 2.4 CD",
+        "ano": 2007
+      },
+      {
+        "id": 2822,
+        "idUrl": "s10-colina-4x2-24-flex-cab-simples-2007",
+        "nome": "S10 Colina 4x2 2.4 (Flex) (Cab Simples)",
+        "ano": 2007
+      },
+      {
+        "id": 2845,
+        "idUrl": "s10-tornado-4x2-24-cab-simples-2007",
+        "nome": "S10 Tornado 4x2 2.4 (Cab Simples)",
+        "ano": 2007
+      }
+    ],
+    "2008": [
+      {
+        "id": 2228,
+        "idUrl": "s10-executive-4x4-28-turbo-electronic-cab-dupla-2008",
+        "nome": "S10 Executive 4x4 2.8 Turbo Electronic (Cab Dupla)",
+        "ano": 2008
+      },
+      {
+        "id": 2860,
+        "idUrl": "s10-tornado-4x2-28-turbo-electronic-cab-dupla-2008",
+        "nome": "S10 Tornado 4x2 2.8 Turbo Electronic (Cab Dupla)",
+        "ano": 2008
+      },
+      {
+        "id": 2913,
+        "idUrl": "s10-tornado-4x4-28-turbo-electronic-cab-dupla-2008",
+        "nome": "S10 Tornado 4x4 2.8 Turbo Electronic (Cab Dupla)",
+        "ano": 2008
+      },
+      {
+        "id": 2316,
+        "idUrl": "s10-colina-4x4-28-turbo-electronic-cab-dupla-2008",
+        "nome": "S10 Colina 4x4 2.8 Turbo Electronic (Cab Dupla)",
+        "ano": 2008
+      },
+      {
+        "id": 2277,
+        "idUrl": "s10-colina-4x2-28-turbo-electronic-cab-dupla-2008",
+        "nome": "S10 Colina 4x2 2.8 Turbo Electronic (Cab Dupla)",
+        "ano": 2008
+      },
+      {
+        "id": 2302,
+        "idUrl": "s10-executive-4x2-28-turbo-electronic-cab-dupla-2008",
+        "nome": "S10 Executive 4x2 2.8 Turbo Electronic (Cab Dupla)",
+        "ano": 2008
+      },
+      {
+        "id": 2817,
+        "idUrl": "s10-colina-4x2-28-turbo-electronic-cab-simples-2008",
+        "nome": "S10 Colina 4x2 2.8 Turbo Electronic (Cab Simples)",
+        "ano": 2008
+      },
+      {
+        "id": 2810,
+        "idUrl": "s10-colina-4x4-28-turbo-electronic-cab-simples-2008",
+        "nome": "S10 Colina 4x4 2.8 Turbo Electronic (Cab Simples)",
+        "ano": 2008
+      },
+      {
+        "id": 2278,
+        "idUrl": "s10-advantage-4x2-24-flex-cab-dupla-2008",
+        "nome": "S10 Advantage 4x2 2.4 (Flex) (Cab Dupla)",
+        "ano": 2008
+      },
+      {
+        "id": 22551,
+        "idUrl": "s10-advantage-4x2-24-flex-cs-2008",
+        "nome": "S10 Advantage 4x2 2.4 Flex CS",
+        "ano": 2008
+      },
+      {
+        "id": 2857,
+        "idUrl": "s10-advantage-4x2-24-flex-cab-simples-2008",
+        "nome": "S10 Advantage 4x2 2.4 (Flex) (Cab Simples)",
+        "ano": 2008
+      }
+    ],
+    "2009": [
+      {
+        "id": 2225,
+        "idUrl": "s10-executive-4x4-28-turbo-electronic-cab-dupla-2009",
+        "nome": "S10 Executive 4x4 2.8 Turbo Electronic (Cab Dupla)",
+        "ano": 2009
+      },
+      {
+        "id": 2299,
+        "idUrl": "s10-executive-4x2-28-turbo-electronic-cab-dupla-2009",
+        "nome": "S10 Executive 4x2 2.8 Turbo Electronic (Cab Dupla)",
+        "ano": 2009
+      },
+      {
+        "id": 2902,
+        "idUrl": "s10-tornado-4x2-28-turbo-electronic-cab-dupla-2009",
+        "nome": "S10 Tornado 4x2 2.8 Turbo Electronic (Cab Dupla)",
+        "ano": 2009
+      },
+      {
+        "id": 2910,
+        "idUrl": "s10-tornado-4x4-28-turbo-electronic-cab-dupla-2009",
+        "nome": "S10 Tornado 4x4 2.8 Turbo Electronic (Cab Dupla)",
+        "ano": 2009
+      },
+      {
+        "id": 2313,
+        "idUrl": "s10-colina-4x4-28-turbo-electronic-cab-dupla-2009",
+        "nome": "S10 Colina 4x4 2.8 Turbo Electronic (Cab Dupla)",
+        "ano": 2009
+      },
+      {
+        "id": 2294,
+        "idUrl": "s10-colina-4x2-28-turbo-electronic-cab-dupla-2009",
+        "nome": "S10 Colina 4x2 2.8 Turbo Electronic (Cab Dupla)",
+        "ano": 2009
+      },
+      {
+        "id": 2807,
+        "idUrl": "s10-colina-4x4-28-turbo-electronic-cab-simples-2009",
+        "nome": "S10 Colina 4x4 2.8 Turbo Electronic (Cab Simples)",
+        "ano": 2009
+      },
+      {
+        "id": 2814,
+        "idUrl": "s10-colina-4x2-28-turbo-electronic-cab-simples-2009",
+        "nome": "S10 Colina 4x2 2.8 Turbo Electronic (Cab Simples)",
+        "ano": 2009
+      },
+      {
+        "id": 2308,
+        "idUrl": "s10-executive-4x2-24-flex-cab-dupla-2009",
+        "nome": "S10 Executive 4x2 2.4 (Flex) (Cab Dupla)",
+        "ano": 2009
+      },
+      {
+        "id": 2274,
+        "idUrl": "s10-advantage-4x2-24-flex-cab-dupla-2009",
+        "nome": "S10 Advantage 4x2 2.4 (Flex) (Cab Dupla)",
+        "ano": 2009
+      },
+      {
+        "id": 2858,
+        "idUrl": "s10-advantage-4x2-24-flex-cab-simples-2009",
+        "nome": "S10 Advantage 4x2 2.4 (Flex) (Cab Simples)",
+        "ano": 2009
+      }
+    ],
+    "2010": [
+      {
+        "id": 2227,
+        "idUrl": "s10-executive-4x4-28-turbo-electronic-cab-dupla-2010",
+        "nome": "S10 Executive 4x4 2.8 Turbo Electronic (Cab Dupla)",
+        "ano": 2010
+      },
+      {
+        "id": 2301,
+        "idUrl": "s10-executive-4x2-28-turbo-electronic-cab-dupla-2010",
+        "nome": "S10 Executive 4x2 2.8 Turbo Electronic (Cab Dupla)",
+        "ano": 2010
+      },
+      {
+        "id": 2872,
+        "idUrl": "s10-tornado-4x2-28-turbo-electronic-cab-dupla-2010",
+        "nome": "S10 Tornado 4x2 2.8 Turbo Electronic (Cab Dupla)",
+        "ano": 2010
+      },
+      {
+        "id": 2912,
+        "idUrl": "s10-tornado-4x4-28-turbo-electronic-cab-dupla-2010",
+        "nome": "S10 Tornado 4x4 2.8 Turbo Electronic (Cab Dupla)",
+        "ano": 2010
+      },
+      {
+        "id": 2315,
+        "idUrl": "s10-colina-4x4-28-turbo-electronic-cab-dupla-2010",
+        "nome": "S10 Colina 4x4 2.8 Turbo Electronic (Cab Dupla)",
+        "ano": 2010
+      },
+      {
+        "id": 2293,
+        "idUrl": "s10-colina-4x2-28-turbo-electronic-cab-dupla-2010",
+        "nome": "S10 Colina 4x2 2.8 Turbo Electronic (Cab Dupla)",
+        "ano": 2010
+      },
+      {
+        "id": 2816,
+        "idUrl": "s10-colina-4x2-28-turbo-electronic-cab-simples-2010",
+        "nome": "S10 Colina 4x2 2.8 Turbo Electronic (Cab Simples)",
+        "ano": 2010
+      },
+      {
+        "id": 2809,
+        "idUrl": "s10-colina-4x4-28-turbo-electronic-cab-simples-2010",
+        "nome": "S10 Colina 4x4 2.8 Turbo Electronic (Cab Simples)",
+        "ano": 2010
+      },
+      {
+        "id": 2309,
+        "idUrl": "s10-executive-4x2-24-flex-cab-dupla-2010",
+        "nome": "S10 Executive 4x2 2.4 (Flex) (Cab Dupla)",
+        "ano": 2010
+      },
+      {
+        "id": 2276,
+        "idUrl": "s10-advantage-4x2-24-flex-cab-dupla-2010",
+        "nome": "S10 Advantage 4x2 2.4 (Flex) (Cab Dupla)",
+        "ano": 2010
+      },
+      {
+        "id": 2890,
+        "idUrl": "s10-advantage-4x2-24-flex-cab-simples-2010",
+        "nome": "S10 Advantage 4x2 2.4 (Flex) (Cab Simples)",
+        "ano": 2010
+      }
+    ],
+    "2011": [
+      {
+        "id": 2880,
+        "idUrl": "s10-rodeio-28-td-4x4-cab-dupla-turbo-2011",
+        "nome": "S10 Rodeio 2.8 TD 4X4  (Cab Dupla) TURBO",
+        "ano": 2011
+      },
+      {
+        "id": 2226,
+        "idUrl": "s10-executive-4x4-28-turbo-electronic-cab-dupla-2011",
+        "nome": "S10 Executive 4x4 2.8 Turbo Electronic (Cab Dupla)",
+        "ano": 2011
+      },
+      {
+        "id": 2300,
+        "idUrl": "s10-executive-4x2-28-turbo-electronic-cab-dupla-2011",
+        "nome": "S10 Executive 4x2 2.8 Turbo Electronic (Cab Dupla)",
+        "ano": 2011
+      },
+      {
+        "id": 2881,
+        "idUrl": "s10-rodeio-28-td-4x2-cab-dupla-turbo-2011",
+        "nome": "S10 Rodeio 2.8 TD 4X2  (Cab Dupla) TURBO",
+        "ano": 2011
+      },
+      {
+        "id": 2888,
+        "idUrl": "s10-tornado-4x2-28-turbo-electronic-cab-dupla-2011",
+        "nome": "S10 Tornado 4x2 2.8 Turbo Electronic (Cab Dupla)",
+        "ano": 2011
+      },
+      {
+        "id": 2911,
+        "idUrl": "s10-tornado-4x4-28-turbo-electronic-cab-dupla-2011",
+        "nome": "S10 Tornado 4x4 2.8 Turbo Electronic (Cab Dupla)",
+        "ano": 2011
+      },
+      {
+        "id": 2307,
+        "idUrl": "s10-colina-4x2-28-turbo-electronic-cab-dupla-2011",
+        "nome": "S10 Colina 4x2 2.8 Turbo Electronic (Cab Dupla)",
+        "ano": 2011
+      },
+      {
+        "id": 2314,
+        "idUrl": "s10-colina-4x4-28-turbo-electronic-cab-dupla-2011",
+        "nome": "S10 Colina 4x4 2.8 Turbo Electronic (Cab Dupla)",
+        "ano": 2011
+      },
+      {
+        "id": 2808,
+        "idUrl": "s10-colina-4x4-28-turbo-electronic-cab-simples-2011",
+        "nome": "S10 Colina 4x4 2.8 Turbo Electronic (Cab Simples)",
+        "ano": 2011
+      },
+      {
+        "id": 2815,
+        "idUrl": "s10-colina-4x2-28-turbo-electronic-cab-simples-2011",
+        "nome": "S10 Colina 4x2 2.8 Turbo Electronic (Cab Simples)",
+        "ano": 2011
+      },
+      {
+        "id": 2321,
+        "idUrl": "s10-executive-4x2-24-flex-cab-dupla-2011",
+        "nome": "S10 Executive 4x2 2.4 (Flex) (Cab Dupla)",
+        "ano": 2011
+      },
+      {
+        "id": 2882,
+        "idUrl": "s10-rodeio-24-flexpower-4x2-cab-dupla-2011",
+        "nome": "S10 Rodeio 2.4 Flexpower 4X2  (Cab Dupla)",
+        "ano": 2011
+      },
+      {
+        "id": 2275,
+        "idUrl": "s10-advantage-4x2-24-flex-cab-dupla-2011",
+        "nome": "S10 Advantage 4x2 2.4 (Flex) (Cab Dupla)",
+        "ano": 2011
+      },
+      {
+        "id": 2859,
+        "idUrl": "s10-advantage-4x2-24-flex-cab-simples-2011",
+        "nome": "S10 Advantage 4x2 2.4 (Flex) (Cab Simples)",
+        "ano": 2011
+      }
+    ],
+    "2013": [
+      {
+        "id": 2233,
+        "idUrl": "s10-ltz-28-diesel-cab-dupla-4x4-aut-2013",
+        "nome": "S10 LTZ 2.8 diesel (Cab Dupla) 4x4 (Aut)",
+        "ano": 2013
+      },
+      {
+        "id": 2212,
+        "idUrl": "s10-lt-28-td-4x4-cab-dupla-aut-2013",
+        "nome": "S10 LT 2.8 TD 4x4 (Cab Dupla) (Aut)",
+        "ano": 2013
+      },
+      {
+        "id": 2210,
+        "idUrl": "s10-lt-28-diesel-cab-dupla-4x4-2013",
+        "nome": "S10 LT 2.8 diesel (Cab Dupla) 4x4",
+        "ano": 2013
+      },
+      {
+        "id": 2213,
+        "idUrl": "s10-lt-28-td-4x2-cab-dupla-aut-2013",
+        "nome": "S10 LT 2.8 TD 4x2 (Cab Dupla) (Aut)",
+        "ano": 2013
+      },
+      {
+        "id": 2231,
+        "idUrl": "s10-ltz-28-diesel-cab-dupla-4x2-2013",
+        "nome": "S10 LTZ 2.8 diesel (Cab Dupla) 4x2",
+        "ano": 2013
+      },
+      {
+        "id": 2232,
+        "idUrl": "s10-ltz-28-diesel-cab-dupla-4x2-aut-2013",
+        "nome": "S10 LTZ 2.8 diesel (Cab Dupla) 4x2 (Aut)",
+        "ano": 2013
+      },
+      {
+        "id": 2211,
+        "idUrl": "s10-lt-28-diesel-cab-dupla-4x2-2013",
+        "nome": "S10 LT 2.8 diesel (Cab Dupla) 4x2",
+        "ano": 2013
+      },
+      {
+        "id": 2219,
+        "idUrl": "s10-ls-28-diesel-cab-dupla-4x2-2013",
+        "nome": "S10 LS 2.8 diesel (Cab Dupla) 4x2",
+        "ano": 2013
+      },
+      {
+        "id": 2802,
+        "idUrl": "s10-ls-28-diesel-cab-simples-4x4-2013",
+        "nome": "S10 LS 2.8 diesel (Cab Simples) 4x4",
+        "ano": 2013
+      },
+      {
+        "id": 2218,
+        "idUrl": "s10-ls-28-diesel-cab-dupla-4x4-2013",
+        "nome": "S10 LS 2.8 diesel (Cab Dupla) 4x4",
+        "ano": 2013
+      },
+      {
+        "id": 2209,
+        "idUrl": "s10-ltz-24-4x2-cab-dupla-flex-2013",
+        "nome": "S10 LTZ 2.4 4x2 (Cab Dupla) (Flex)",
+        "ano": 2013
+      },
+      {
+        "id": 2803,
+        "idUrl": "s10-ls-28-td-4x2-cab-simples-2013",
+        "nome": "S10 LS 2.8 TD 4x2 (Cab Simples)",
+        "ano": 2013
+      },
+      {
+        "id": 2217,
+        "idUrl": "s10-lt-24-4x2-cab-dupla-flex-2013",
+        "nome": "S10 LT 2.4 4x2 (Cab Dupla) (Flex)",
+        "ano": 2013
+      },
+      {
+        "id": 2222,
+        "idUrl": "s10-ls-24-4x2-cab-dupla-flex-2013",
+        "nome": "S10 LS 2.4 4x2 (Cab Dupla) (Flex)",
+        "ano": 2013
+      },
+      {
+        "id": 2801,
+        "idUrl": "s10-lt-24-flex-cab-simples-4x2-2013",
+        "nome": "S10 LT 2.4 (Flex) (Cab Simples) 4x2",
+        "ano": 2013
+      },
+      {
+        "id": 2806,
+        "idUrl": "s10-ls-24-flex-cab-simples-4x2-2013",
+        "nome": "S10 LS 2.4 (Flex) (Cab Simples) 4x2",
+        "ano": 2013
+      }
+    ],
+    "2014": [
+      {
+        "id": 2126,
+        "idUrl": "s10-28-ctdi-4x4-ltz-cab-dupla-aut-2014",
+        "nome": "S10 2.8 CTDi 4x4 LTZ (Cab Dupla) (Aut)",
+        "ano": 2014
+      },
+      {
+        "id": 2135,
+        "idUrl": "s10-28-ctdi-4x2-ltz-cab-dupla-aut-2014",
+        "nome": "S10 2.8 CTDi 4x2 LTZ (Cab Dupla) (Aut)",
+        "ano": 2014
+      },
+      {
+        "id": 2128,
+        "idUrl": "s10-28-ctdi-4x4-lt-cab-dupla-aut-2014",
+        "nome": "S10 2.8 CTDi 4x4 LT (Cab Dupla) (Aut)",
+        "ano": 2014
+      },
+      {
+        "id": 2143,
+        "idUrl": "s10-28-ctdi-4x4-lt-cab-dupla-2014",
+        "nome": "S10 2.8 CTDi 4x4 LT (Cab Dupla)",
+        "ano": 2014
+      },
+      {
+        "id": 2137,
+        "idUrl": "s10-28-ctdi-4x2-lt-cab-dupla-aut-2014",
+        "nome": "S10 2.8 CTDi 4x2 LT (Cab Dupla) (Aut)",
+        "ano": 2014
+      },
+      {
+        "id": 2138,
+        "idUrl": "s10-28-ctdi-4x2-lt-cab-dupla-2014",
+        "nome": "S10 2.8 CTDi 4x2 LT (Cab Dupla)",
+        "ano": 2014
+      },
+      {
+        "id": 2908,
+        "idUrl": "s10-28-ctdi-4x4-ls-cab-simples-2014",
+        "nome": "S10 2.8 CTDi 4x4 LS (Cab Simples)",
+        "ano": 2014
+      },
+      {
+        "id": 2132,
+        "idUrl": "s10-28-ctdi-4x4-ls-cab-dupla-2014",
+        "nome": "S10 2.8 CTDi 4x4 LS (Cab Dupla)",
+        "ano": 2014
+      },
+      {
+        "id": 2208,
+        "idUrl": "s10-ltz-24-4x2-cab-dupla-flex-2014",
+        "nome": "S10 LTZ 2.4 4x2 (Cab Dupla) (Flex)",
+        "ano": 2014
+      },
+      {
+        "id": 2101,
+        "idUrl": "s10-24-lt-4x2-cab-dupla-flex-2014",
+        "nome": "S10 2.4 LT 4x2 (Cab Dupla) (Flex)",
+        "ano": 2014
+      },
+      {
+        "id": 2221,
+        "idUrl": "s10-ls-24-4x2-cab-dupla-flex-2014",
+        "nome": "S10 LS 2.4 4x2 (Cab Dupla) (Flex)",
+        "ano": 2014
+      },
+      {
+        "id": 2805,
+        "idUrl": "s10-ls-24-flex-cab-simples-4x2-2014",
+        "nome": "S10 LS 2.4 (Flex) (Cab Simples) 4x2",
+        "ano": 2014
+      }
+    ],
+    "2015": [
+      {
+        "id": 2125,
+        "idUrl": "s10-28-ctdi-4x4-ltz-cab-dupla-aut-2015",
+        "nome": "S10 2.8 CTDi 4x4 LTZ (Cab Dupla) (Aut)",
+        "ano": 2015
+      },
+      {
+        "id": 2134,
+        "idUrl": "s10-28-ctdi-4x2-ltz-cab-dupla-aut-2015",
+        "nome": "S10 2.8 CTDi 4x2 LTZ (Cab Dupla) (Aut)",
+        "ano": 2015
+      },
+      {
+        "id": 2127,
+        "idUrl": "s10-28-ctdi-4x4-lt-cab-dupla-aut-2015",
+        "nome": "S10 2.8 CTDi 4x4 LT (Cab Dupla) (Aut)",
+        "ano": 2015
+      },
+      {
+        "id": 2130,
+        "idUrl": "s10-28-ctdi-4x4-lt-cab-dupla-2015",
+        "nome": "S10 2.8 CTDi 4x4 LT (Cab Dupla)",
+        "ano": 2015
+      },
+      {
+        "id": 2136,
+        "idUrl": "s10-28-ctdi-4x2-lt-cab-dupla-aut-2015",
+        "nome": "S10 2.8 CTDi 4x2 LT (Cab Dupla) (Aut)",
+        "ano": 2015
+      },
+      {
+        "id": 2214,
+        "idUrl": "s10-lt-28-ctdi-4x2-cab-dupla-2015",
+        "nome": "S10 LT 2.8 CTDi 4x2 (Cab Dupla)",
+        "ano": 2015
+      },
+      {
+        "id": 2907,
+        "idUrl": "s10-28-ctdi-4x4-ls-cab-simples-2015",
+        "nome": "S10 2.8 CTDi 4x4 LS (Cab Simples)",
+        "ano": 2015
+      },
+      {
+        "id": 2206,
+        "idUrl": "s10-ltz-25-4x4-cab-dupla-flex-2015",
+        "nome": "S10 LTZ 2.5 4x4 (Cab Dupla) (Flex)",
+        "ano": 2015
+      },
+      {
+        "id": 2131,
+        "idUrl": "s10-28-ctdi-4x4-ls-cab-dupla-2015",
+        "nome": "S10 2.8 CTDi 4x4 LS (Cab Dupla)",
+        "ano": 2015
+      },
+      {
+        "id": 2207,
+        "idUrl": "s10-ltz-25-4x2-cab-dupla-flex-2015",
+        "nome": "S10 LTZ 2.5 4x2 (Cab Dupla) (Flex)",
+        "ano": 2015
+      },
+      {
+        "id": 2215,
+        "idUrl": "s10-lt-25-4x4-cab-dupla-flex-2015",
+        "nome": "S10 LT 2.5 4x4 (Cab Dupla) (Flex)",
+        "ano": 2015
+      },
+      {
+        "id": 2216,
+        "idUrl": "s10-lt-25-4x2-cab-dupla-flex-2015",
+        "nome": "S10 LT 2.5 4x2 (Cab Dupla) (Flex)",
+        "ano": 2015
+      },
+      {
+        "id": 2220,
+        "idUrl": "s10-ls-24-4x2-cab-dupla-flex-2015",
+        "nome": "S10 LS 2.4 4x2 (Cab Dupla) (Flex)",
+        "ano": 2015
+      },
+      {
+        "id": 2804,
+        "idUrl": "s10-ls-24-flex-cab-simples-4x2-2015",
+        "nome": "S10 LS 2.4 (Flex) (Cab Simples) 4x2",
+        "ano": 2015
+      }
+    ],
+    "2016": [
+      {
+        "id": 2123,
+        "idUrl": "s10-28-ctdi-high-country-4wd-2016",
+        "nome": "S10 2.8 CTDi High Country 4WD",
+        "ano": 2016
+      },
+      {
+        "id": 2124,
+        "idUrl": "s10-28-ctdi-4x4-ltz-cab-dupla-aut-2016",
+        "nome": "S10 2.8 CTDi 4x4 LTZ (Cab Dupla) (Aut)",
+        "ano": 2016
+      },
+      {
+        "id": 2133,
+        "idUrl": "s10-28-ctdi-4x2-ltz-cab-dupla-aut-2016",
+        "nome": "S10 2.8 CTDi 4x2 LTZ (Cab Dupla) (Aut)",
+        "ano": 2016
+      },
+      {
+        "id": 2113,
+        "idUrl": "s10-28-ctdi-cabine-dupla-lt-4wd-aut-2016",
+        "nome": "S10 2.8 CTDI Cabine Dupla LT 4WD (Aut)",
+        "ano": 2016
+      },
+      {
+        "id": 2089,
+        "idUrl": "s10-28-ctdi-cabine-dupla-lt-4wd-2016",
+        "nome": "S10 2.8 CTDI Cabine Dupla LT 4WD",
+        "ano": 2016
+      },
+      {
+        "id": 2142,
+        "idUrl": "s10-28-ctdi-cabine-dupla-lt-4x2-aut-2016",
+        "nome": "S10 2.8 CTDI Cabine Dupla LT 4x2 (Aut)",
+        "ano": 2016
+      },
+      {
+        "id": 2115,
+        "idUrl": "s10-28-ctdi-cabine-dupla-lt-4x2-2016",
+        "nome": "S10 2.8 CTDI Cabine Dupla LT 4x2",
+        "ano": 2016
+      },
+      {
+        "id": 2091,
+        "idUrl": "s10-28-ctdi-cabine-dupla-ls-4wd-2016",
+        "nome": "S10 2.8 CTDI Cabine Dupla LS 4WD",
+        "ano": 2016
+      },
+      {
+        "id": 22550,
+        "idUrl": "s10-28-ctdi-chassi-cabine-4x4-2016",
+        "nome": "S10 2.8 CTDi Chassi Cabine 4x4",
+        "ano": 2016
+      },
+      {
+        "id": 2906,
+        "idUrl": "s10-28-ctdi-4x4-ls-cab-simples-2016",
+        "nome": "S10 2.8 CTDi 4x4 LS (Cab Simples)",
+        "ano": 2016
+      },
+      {
+        "id": 2096,
+        "idUrl": "s10-25-ecotec-sidi-cabine-dupla-ltz-2016",
+        "nome": "S10 2.5 ECOTEC SIDI Cabine Dupla LTZ",
+        "ano": 2016
+      },
+      {
+        "id": 2099,
+        "idUrl": "s10-25-ecotec-sidi-cabine-dupla-lt-2016",
+        "nome": "S10 2.5 ECOTEC SIDI Cabine Dupla LT",
+        "ano": 2016
+      },
+      {
+        "id": 2102,
+        "idUrl": "s10-24-advantage-cab-dupla-2016",
+        "nome": "S10 2.4 Advantage (Cab Dupla)",
+        "ano": 2016
+      },
+      {
+        "id": 2093,
+        "idUrl": "s10-25-freeride-cab-dupla-2016",
+        "nome": "S10 2.5 Freeride (Cab Dupla)",
+        "ano": 2016
+      },
+      {
+        "id": 2909,
+        "idUrl": "s10-24-chassi-cabine-flex-2016",
+        "nome": "S10 2.4 Chassi Cabine (Flex) ",
+        "ano": 2016
+      },
+      {
+        "id": 2904,
+        "idUrl": "s10-28-ctdi-chassi-cabine-4wd-2016",
+        "nome": "S10 2.8 CTDi Chassi Cabine 4WD",
+        "ano": 2016
+      }
+    ],
+    "2017": [
+      {
+        "id": 2092,
+        "idUrl": "s10-28-ctdi-cd-high-country-4wd-aut-2017",
+        "nome": "S10 2.8 CTDI CD High Country 4WD (Aut)",
+        "ano": 2017
+      },
+      {
+        "id": 2140,
+        "idUrl": "s10-28-ctdi-cabine-dupla-ltz-4wd-aut-2017",
+        "nome": "S10 2.8 CTDI Cabine Dupla LTZ 4WD (Aut)",
+        "ano": 2017
+      },
+      {
+        "id": 2139,
+        "idUrl": "s10-28-ctdi-cabine-dupla-ltz-4x2-aut-2017",
+        "nome": "S10 2.8 CTDI Cabine Dupla LTZ 4x2 (Aut)",
+        "ano": 2017
+      },
+      {
+        "id": 2114,
+        "idUrl": "s10-28-ctdi-cabine-dupla-lt-4wd-aut-2017",
+        "nome": "S10 2.8 CTDI Cabine Dupla LT 4WD (Aut)",
+        "ano": 2017
+      },
+      {
+        "id": 2088,
+        "idUrl": "s10-28-ctdi-cabine-dupla-lt-4wd-2017",
+        "nome": "S10 2.8 CTDI Cabine Dupla LT 4WD ",
+        "ano": 2017
+      },
+      {
+        "id": 2141,
+        "idUrl": "s10-28-ctdi-cabine-dupla-lt-4x2-aut-2017",
+        "nome": "S10 2.8 CTDI Cabine Dupla LT 4x2 (Aut)",
+        "ano": 2017
+      },
+      {
+        "id": 2090,
+        "idUrl": "s10-28-ctdi-cabine-dupla-ls-4wd-2017",
+        "nome": "S10 2.8 CTDI Cabine Dupla LS 4WD",
+        "ano": 2017
+      },
+      {
+        "id": 2116,
+        "idUrl": "s10-28-ctdi-cabine-dupla-lt-4x2-2017",
+        "nome": "S10 2.8 CTDI Cabine Dupla LT 4x2",
+        "ano": 2017
+      },
+      {
+        "id": 2905,
+        "idUrl": "s10-28-ctdi-cabine-simples-ls-4wd-2017",
+        "nome": "S10 2.8 CTDi Cabine Simples LS 4WD",
+        "ano": 2017
+      },
+      {
+        "id": 2916,
+        "idUrl": "s10-28-ctdi-chassi-cabine-ls-4wd-2017",
+        "nome": "S10 2.8 CTDi Chassi Cabine LS 4WD",
+        "ano": 2017
+      },
+      {
+        "id": 2095,
+        "idUrl": "s10-25-ecotec-sidi-cabine-dupla-ltz-4wd-2017",
+        "nome": "S10 2.5 ECOTEC SIDI Cabine Dupla LTZ 4WD",
+        "ano": 2017
+      },
+      {
+        "id": 2094,
+        "idUrl": "s10-25-ecotec-sidi-cabine-dupla-ltz-4x2-2017",
+        "nome": "S10 2.5 ECOTEC SIDI Cabine Dupla LTZ 4x2",
+        "ano": 2017
+      },
+      {
+        "id": 2098,
+        "idUrl": "s10-25-ecotec-sidi-cabine-dupla-lt-4wd-2017",
+        "nome": "S10 2.5 ECOTEC SIDI Cabine Dupla LT 4WD",
+        "ano": 2017
+      },
+      {
+        "id": 2097,
+        "idUrl": "s10-25-ecotec-sidi-cabine-dupla-lt-4x2-2017",
+        "nome": "S10 2.5 ECOTEC SIDI Cabine Dupla LT 4x2",
+        "ano": 2017
+      },
+      {
+        "id": 2100,
+        "idUrl": "s10-25-ecotec-sidi-cabine-dupla-advantage-2017",
+        "nome": "S10 2.5 ECOTEC SIDI Cabine Dupla Advantage",
+        "ano": 2017
+      }
+    ],
+    "2018": [
+      {
+        "id": 21505,
+        "idUrl": "s10-28-ctdi-cabine-dupla-high-country-4wd-aut-2018",
+        "nome": "S10 2.8 CTDI Cabine Dupla High Country 4WD (Aut)",
+        "ano": 2018
+      },
+      {
+        "id": 21509,
+        "idUrl": "s10-28-ctdi-cabine-dupla-ltz-4wd-aut-2018",
+        "nome": "S10 2.8 CTDI Cabine Dupla LTZ 4WD (Aut)",
+        "ano": 2018
+      },
+      {
+        "id": 22198,
+        "idUrl": "s10-high-country-28-turbo-4x4-at-cd-2018",
+        "nome": "S10 High Country 2.8 Turbo 4x4 AT CD",
+        "ano": 2018
+      },
+      {
+        "id": 21508,
+        "idUrl": "s10-28-ctdi-cabine-dupla-lt-4wd-aut-2018",
+        "nome": "S10 2.8 CTDI Cabine Dupla LT 4WD (Aut)",
+        "ano": 2018
+      },
+      {
+        "id": 21507,
+        "idUrl": "s10-28-ctdi-cabine-dupla-lt-4wd-2018",
+        "nome": "S10 2.8 CTDI Cabine Dupla LT 4WD",
+        "ano": 2018
+      },
+      {
+        "id": 21503,
+        "idUrl": "s10-25-ecotec-sidi-cabine-dupla-ltz-4wd-aut-2018",
+        "nome": "S10 2.5 ECOTEC SIDI Cabine Dupla LTZ 4WD (Aut)",
+        "ano": 2018
+      },
+      {
+        "id": 21504,
+        "idUrl": "s10-25-ecotec-sidi-cabine-dupla-ltz-4x2-aut-2018",
+        "nome": "S10 2.5 ECOTEC SIDI Cabine Dupla LTZ 4x2 (Aut)",
+        "ano": 2018
+      },
+      {
+        "id": 21506,
+        "idUrl": "s10-28-ctdi-cabine-dupla-ls-4wd-2018",
+        "nome": "S10 2.8 CTDI Cabine Dupla LS 4WD",
+        "ano": 2018
+      },
+      {
+        "id": 21518,
+        "idUrl": "s10-28-ctdi-cabine-simples-ls-4wd-2018",
+        "nome": "S10 2.8 CTDi Cabine Simples LS 4WD",
+        "ano": 2018
+      },
+      {
+        "id": 22513,
+        "idUrl": "s10-28-ctdi-chassi-cabine-ls-4x4-2018",
+        "nome": "S10 2.8 CTDi Chassi Cabine LS 4x4",
+        "ano": 2018
+      },
+      {
+        "id": 21519,
+        "idUrl": "s10-25-ecotec-sidi-cabine-dupla-lt-4wd-aut-2018",
+        "nome": "S10 2.5 ECOTEC SIDI Cabine Dupla LT 4WD (Aut)",
+        "ano": 2018
+      },
+      {
+        "id": 21514,
+        "idUrl": "s10-25-ecotec-sidi-cabine-dupla-lt-4x2-aut-2018",
+        "nome": "S10 2.5 ECOTEC SIDI Cabine Dupla LT 4x2 (Aut)",
+        "ano": 2018
+      },
+      {
+        "id": 21511,
+        "idUrl": "s10-28-ctdi-chassi-cabine-ls-4wd-2018",
+        "nome": "S10 2.8 CTDi Chassi Cabine LS 4WD",
+        "ano": 2018
+      }
+    ]
+  }

@@ -1,0 +1,64 @@
+{
+    "1985": [
+      {
+        "id": 3811,
+        "idUrl": "chevette-sedan-sl-16-aut-1985",
+        "nome": "Chevette Sedan SL 1.6 (Aut)",
+        "ano": 1985
+      },
+      {
+        "id": 3819,
+        "idUrl": "chevette-sedan-16-1985",
+        "nome": "Chevette Sedan 1.6",
+        "ano": 1985
+      }
+    ],
+    "1986": [
+      {
+        "id": 3814,
+        "idUrl": "chevette-sedan-se-16-1986",
+        "nome": "Chevette Sedan SE 1.6",
+        "ano": 1986
+      }
+    ],
+    "1987": [
+      {
+        "id": 3823,
+        "idUrl": "chevette-sedan-sl-16-s-1987",
+        "nome": "Chevette Sedan SL 1.6 S",
+        "ano": 1987
+      }
+    ],
+    "1988": [
+      {
+        "id": 3839,
+        "idUrl": "chevette-sedan-sle-16-1988",
+        "nome": "Chevette Sedan SLE 1.6",
+        "ano": 1988
+      }
+    ],
+    "1990": [
+      {
+        "id": 3818,
+        "idUrl": "chevette-sedan-dl-16-1990",
+        "nome": "Chevette Sedan Dl 1.6",
+        "ano": 1990
+      }
+    ],
+    "1992": [
+      {
+        "id": 3817,
+        "idUrl": "chevette-sedan-junior-10-1992",
+        "nome": "Chevette Sedan Junior 1.0",
+        "ano": 1992
+      }
+    ],
+    "1993": [
+      {
+        "id": 3815,
+        "idUrl": "chevette-sedan-l-16-s-1993",
+        "nome": "Chevette Sedan L 1.6 S",
+        "ano": 1993
+      }
+    ]
+  }

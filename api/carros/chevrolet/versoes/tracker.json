@@ -1,0 +1,166 @@
+{
+    "2001": [
+      {
+        "id": 2646,
+        "idUrl": "tracker-4x4-20-2001",
+        "nome": "Tracker 4x4  2.0",
+        "ano": 2001
+      },
+      {
+        "id": 2800,
+        "idUrl": "tracker-20-8v-turbo-4x4-2001",
+        "nome": "Tracker  2.0 8V Turbo 4x4",
+        "ano": 2001
+      }
+    ],
+    "2002": [
+      {
+        "id": 2647,
+        "idUrl": "tracker-4x4-20-2002",
+        "nome": "Tracker 4x4  2.0",
+        "ano": 2002
+      },
+      {
+        "id": 2917,
+        "idUrl": "tracker-20-8v-turbo-4x4-2002",
+        "nome": "Tracker  2.0 8V Turbo 4x4",
+        "ano": 2002
+      }
+    ],
+    "2003": [
+      {
+        "id": 2949,
+        "idUrl": "tracker-20-8v-turbo-4x4-2003",
+        "nome": "Tracker  2.0 8V Turbo 4x4",
+        "ano": 2003
+      }
+    ],
+    "2004": [
+      {
+        "id": 2799,
+        "idUrl": "tracker-20-8v-turbo-4x4-2004",
+        "nome": "Tracker  2.0 8V Turbo 4x4",
+        "ano": 2004
+      }
+    ],
+    "2007": [
+      {
+        "id": 2645,
+        "idUrl": "tracker-4x4-20-16v-2007",
+        "nome": "Tracker 4x4 2.0 16V",
+        "ano": 2007
+      }
+    ],
+    "2008": [
+      {
+        "id": 2643,
+        "idUrl": "tracker-4x4-20-16v-2008",
+        "nome": "Tracker 4x4 2.0 16V",
+        "ano": 2008
+      }
+    ],
+    "2009": [
+      {
+        "id": 2644,
+        "idUrl": "tracker-4x4-20-16v-2009",
+        "nome": "Tracker 4x4 2.0 16V",
+        "ano": 2009
+      }
+    ],
+    "2014": [
+      {
+        "id": 2637,
+        "idUrl": "tracker-ltz-18-16v-ecotec-flex-aut-2014",
+        "nome": "Tracker LTZ 1.8 16v Ecotec (Flex) (Aut)",
+        "ano": 2014
+      },
+      {
+        "id": 2679,
+        "idUrl": "tracker-18-16v-ecotec-freerider-flex-2014",
+        "nome": "Tracker 1.8 16v Ecotec Freerider (Flex)",
+        "ano": 2014
+      }
+    ],
+    "2015": [
+      {
+        "id": 2639,
+        "idUrl": "tracker-ltz-18-16v-flex-aut-2015",
+        "nome": "Tracker LTZ 1.8 16v (Flex) (Aut)",
+        "ano": 2015
+      }
+    ],
+    "2016": [
+      {
+        "id": 2638,
+        "idUrl": "tracker-ltz-18-16v-flex-aut-2016",
+        "nome": "Tracker LTZ 1.8 16v (Flex) (Aut)",
+        "ano": 2016
+      },
+      {
+        "id": 2641,
+        "idUrl": "tracker-lt-18-16v-ecotec-flex-aut-2016",
+        "nome": "Tracker LT 1.8 16V Ecotec (Flex) (Aut)",
+        "ano": 2016
+      }
+    ],
+    "2017": [
+      {
+        "id": 2640,
+        "idUrl": "tracker-ltz-14-16v-ecotec-flex-aut-2017",
+        "nome": "Tracker LTZ 1.4 16V Ecotec (Flex) (Aut)",
+        "ano": 2017
+      },
+      {
+        "id": 2642,
+        "idUrl": "tracker-lt-14-16v-ecotec-flex-aut-2017",
+        "nome": "Tracker LT 1.4 16V Ecotec (Flex) (Aut)",
+        "ano": 2017
+      }
+    ],
+    "2018": [
+      {
+        "id": 21949,
+        "idUrl": "tracker-premier-14-flex-aut-2018",
+        "nome": "Tracker Premier 1.4 Flex Aut",
+        "ano": 2018
+      },
+      {
+        "id": 21950,
+        "idUrl": "tracker-lt-14-flex-aut-2018",
+        "nome": "Tracker LT 1.4 Flex Aut",
+        "ano": 2018
+      }
+    ],
+    "2021": [
+      {
+        "id": 22478,
+        "idUrl": "tracker-12-turbo-premier-aut-2021",
+        "nome": "Tracker 1.2 Turbo Premier (Aut)",
+        "ano": 2021
+      },
+      {
+        "id": 22479,
+        "idUrl": "tracker-12-turbo-ltz-aut-2021",
+        "nome": "Tracker 1.2 Turbo LTZ (Aut)",
+        "ano": 2021
+      },
+      {
+        "id": 22477,
+        "idUrl": "tracker-10-turbo-lt-aut-2021",
+        "nome": "Tracker 1.0 Turbo LT (Aut)",
+        "ano": 2021
+      },
+      {
+        "id": 22480,
+        "idUrl": "tracker-10-turbo-2021",
+        "nome": "Tracker 1.0 Turbo",
+        "ano": 2021
+      },
+      {
+        "id": 22481,
+        "idUrl": "tracker-12-turbo-aut-2021",
+        "nome": "Tracker 1.2 Turbo (Aut)",
+        "ano": 2021
+      }
+    ]
+  }

@@ -1,0 +1,262 @@
+{
+    "2012": [
+      {
+        "id": 3786,
+        "idUrl": "cobalt-ltz-14-8v-flex-2012",
+        "nome": "Cobalt LTZ 1.4 8V (Flex)",
+        "ano": 2012
+      },
+      {
+        "id": 3798,
+        "idUrl": "cobalt-lt-14-8v-flex-2012",
+        "nome": "Cobalt LT 1.4 8V (Flex)",
+        "ano": 2012
+      },
+      {
+        "id": 3802,
+        "idUrl": "cobalt-ls-14-8v-flex-2012",
+        "nome": "Cobalt LS 1.4 8V (Flex)",
+        "ano": 2012
+      }
+    ],
+    "2013": [
+      {
+        "id": 3838,
+        "idUrl": "cobalt-ltz-18-8v-aut-flex-2013",
+        "nome": "Cobalt LTZ 1.8 8V (Aut) (Flex)",
+        "ano": 2013
+      },
+      {
+        "id": 3792,
+        "idUrl": "cobalt-lt-18-8v-aut-flex-2013",
+        "nome": "Cobalt LT 1.8 8V (Aut) (Flex)",
+        "ano": 2013
+      },
+      {
+        "id": 3954,
+        "idUrl": "cobalt-ltz-18-8v-flex-2013",
+        "nome": "Cobalt LTZ 1.8 8V (Flex)",
+        "ano": 2013
+      },
+      {
+        "id": 3785,
+        "idUrl": "cobalt-ltz-14-8v-flex-2013",
+        "nome": "Cobalt LTZ 1.4 8V (Flex)",
+        "ano": 2013
+      },
+      {
+        "id": 3789,
+        "idUrl": "cobalt-lt-18-8v-flex-2013",
+        "nome": "Cobalt LT 1.8 8V (Flex)",
+        "ano": 2013
+      },
+      {
+        "id": 3797,
+        "idUrl": "cobalt-lt-14-8v-flex-2013",
+        "nome": "Cobalt LT 1.4 8V (Flex)",
+        "ano": 2013
+      },
+      {
+        "id": 3801,
+        "idUrl": "cobalt-ls-14-8v-flex-2013",
+        "nome": "Cobalt LS 1.4 8V (Flex)",
+        "ano": 2013
+      }
+    ],
+    "2014": [
+      {
+        "id": 3780,
+        "idUrl": "cobalt-advantage-18-8v-flex-aut-2014",
+        "nome": "Cobalt Advantage 1.8 8V (Flex) (Aut)",
+        "ano": 2014
+      },
+      {
+        "id": 3869,
+        "idUrl": "cobalt-ltz-18-8v-aut-flex-2014",
+        "nome": "Cobalt LTZ 1.8 8V (Aut) (Flex)",
+        "ano": 2014
+      },
+      {
+        "id": 3784,
+        "idUrl": "cobalt-ltz-14-8v-flex-2014",
+        "nome": "Cobalt LTZ 1.4 8V (Flex)",
+        "ano": 2014
+      },
+      {
+        "id": 3791,
+        "idUrl": "cobalt-lt-18-8v-aut-flex-2014",
+        "nome": "Cobalt LT 1.8 8V (Aut) (Flex)",
+        "ano": 2014
+      },
+      {
+        "id": 3779,
+        "idUrl": "cobalt-advantage-14-8v-flex-2014",
+        "nome": "Cobalt Advantage 1.4 8V (Flex)",
+        "ano": 2014
+      },
+      {
+        "id": 3953,
+        "idUrl": "cobalt-ltz-18-8v-flex-2014",
+        "nome": "Cobalt LTZ 1.8 8V (Flex)",
+        "ano": 2014
+      },
+      {
+        "id": 3788,
+        "idUrl": "cobalt-lt-18-8v-flex-2014",
+        "nome": "Cobalt LT 1.8 8V (Flex)",
+        "ano": 2014
+      },
+      {
+        "id": 3796,
+        "idUrl": "cobalt-lt-14-8v-flex-2014",
+        "nome": "Cobalt LT 1.4 8V (Flex)",
+        "ano": 2014
+      },
+      {
+        "id": 3800,
+        "idUrl": "cobalt-ls-14-8v-flex-2014",
+        "nome": "Cobalt LS 1.4 8V (Flex)",
+        "ano": 2014
+      }
+    ],
+    "2015": [
+      {
+        "id": 3957,
+        "idUrl": "cobalt-ltz-18-8v-aut-flex-2015",
+        "nome": "Cobalt LTZ 1.8 8V (Aut) (Flex)",
+        "ano": 2015
+      },
+      {
+        "id": 3803,
+        "idUrl": "cobalt-graphite-18-8v-flex-aut-2015",
+        "nome": "Cobalt Graphite 1.8 8V (Flex) (Aut)",
+        "ano": 2015
+      },
+      {
+        "id": 3804,
+        "idUrl": "cobalt-graphite-18-8v-flex-2015",
+        "nome": "Cobalt Graphite 1.8 8V (Flex)",
+        "ano": 2015
+      },
+      {
+        "id": 3952,
+        "idUrl": "cobalt-ltz-18-8v-flex-2015",
+        "nome": "Cobalt LTZ 1.8 8V (Flex)",
+        "ano": 2015
+      },
+      {
+        "id": 3790,
+        "idUrl": "cobalt-lt-18-8v-aut-flex-2015",
+        "nome": "Cobalt LT 1.8 8V (Aut) (Flex)",
+        "ano": 2015
+      },
+      {
+        "id": 3783,
+        "idUrl": "cobalt-ltz-14-8v-flex-2015",
+        "nome": "Cobalt LTZ 1.4 8V (Flex)",
+        "ano": 2015
+      },
+      {
+        "id": 3787,
+        "idUrl": "cobalt-lt-18-8v-flex-2015",
+        "nome": "Cobalt LT 1.8 8V (Flex)",
+        "ano": 2015
+      },
+      {
+        "id": 3795,
+        "idUrl": "cobalt-lt-14-8v-flex-2015",
+        "nome": "Cobalt LT 1.4 8V (Flex)",
+        "ano": 2015
+      },
+      {
+        "id": 3799,
+        "idUrl": "cobalt-ls-14-8v-flex-2015",
+        "nome": "Cobalt LS 1.4 8V (Flex)",
+        "ano": 2015
+      }
+    ],
+    "2016": [
+      {
+        "id": 3806,
+        "idUrl": "cobalt-elite-18-8v-flex-aut-2016",
+        "nome": "Cobalt Elite 1.8 8V (Flex) (Aut)",
+        "ano": 2016
+      },
+      {
+        "id": 3870,
+        "idUrl": "cobalt-ltz-18-8v-aut-flex-2016",
+        "nome": "Cobalt LTZ 1.8 8V (Aut) (Flex)",
+        "ano": 2016
+      },
+      {
+        "id": 3951,
+        "idUrl": "cobalt-ltz-18-8v-flex-2016",
+        "nome": "Cobalt LTZ 1.8 8V (Flex)",
+        "ano": 2016
+      },
+      {
+        "id": 3782,
+        "idUrl": "cobalt-ltz-14-8v-flex-2016",
+        "nome": "Cobalt LTZ 1.4 8V (Flex)",
+        "ano": 2016
+      },
+      {
+        "id": 3807,
+        "idUrl": "cobalt-lt-14-8v-flex-2016",
+        "nome": "Cobalt LT 1.4 8V (Flex)",
+        "ano": 2016
+      }
+    ],
+    "2017": [
+      {
+        "id": 3805,
+        "idUrl": "cobalt-elite-18-8v-flex-aut-2017",
+        "nome": "Cobalt Elite 1.8 8V (Flex) (Aut)",
+        "ano": 2017
+      },
+      {
+        "id": 3955,
+        "idUrl": "cobalt-ltz-18-8v-aut-flex-2017",
+        "nome": "Cobalt LTZ 1.8 8V (Aut) (Flex)",
+        "ano": 2017
+      },
+      {
+        "id": 3950,
+        "idUrl": "cobalt-ltz-18-8v-flex-2017",
+        "nome": "Cobalt LTZ 1.8 8V (Flex)",
+        "ano": 2017
+      },
+      {
+        "id": 3781,
+        "idUrl": "cobalt-ltz-14-8v-flex-2017",
+        "nome": "Cobalt LTZ 1.4 8V (Flex)",
+        "ano": 2017
+      },
+      {
+        "id": 3794,
+        "idUrl": "cobalt-lt-14-8v-flex-2017",
+        "nome": "Cobalt LT 1.4 8V (Flex)",
+        "ano": 2017
+      }
+    ],
+    "2018": [
+      {
+        "id": 22002,
+        "idUrl": "cobalt-elite-18-8v-flex-aut-2018",
+        "nome": "Cobalt Elite 1.8 8V Flex Aut",
+        "ano": 2018
+      },
+      {
+        "id": 22003,
+        "idUrl": "cobalt-ltz-18-8v-aut-flex-2018",
+        "nome": "Cobalt LTZ 1.8 8V Aut Flex",
+        "ano": 2018
+      },
+      {
+        "id": 22005,
+        "idUrl": "cobalt-ltz-18-8v-flex-2018",
+        "nome": "Cobalt LTZ 1.8 8V Flex",
+        "ano": 2018
+      }
+    ]
+  }

@@ -1,0 +1,1170 @@
+{
+    "1985": [
+      {
+        "id": 5600,
+        "idUrl": "uno-s-13-1985",
+        "nome": "Uno S 1.3",
+        "ano": 1985
+      },
+      {
+        "id": 5623,
+        "idUrl": "uno-sx-13-1985",
+        "nome": "Uno SX 1.3",
+        "ano": 1985
+      },
+      {
+        "id": 5543,
+        "idUrl": "uno-cs-13-1985",
+        "nome": "Uno CS 1.3",
+        "ano": 1985
+      }
+    ],
+    "1988": [
+      {
+        "id": 5643,
+        "idUrl": "uno-pick-up-lx-15-cab-simples-1988",
+        "nome": "Uno Pick Up LX 1.5 (Cab Simples)",
+        "ano": 1988
+      }
+    ],
+    "1989": [
+      {
+        "id": 5533,
+        "idUrl": "uno-cs-top-15-1989",
+        "nome": "Uno CS Top 1.5",
+        "ano": 1989
+      },
+      {
+        "id": 5523,
+        "idUrl": "uno-16-r-1989",
+        "nome": "Uno 1.6 R",
+        "ano": 1989
+      },
+      {
+        "id": 5642,
+        "idUrl": "uno-pick-up-lx-16-cab-simples-1989",
+        "nome": "Uno Pick Up LX 1.6 (Cab Simples)",
+        "ano": 1989
+      }
+    ],
+    "1990": [
+      {
+        "id": 5639,
+        "idUrl": "uno-pick-up-lx-young-16-cab-simples-1990",
+        "nome": "Uno Pick Up LX Young 1.6 (Cab Simples)",
+        "ano": 1990
+      },
+      {
+        "id": 5534,
+        "idUrl": "uno-cs-export-15-1990",
+        "nome": "Uno CS Export 1.5",
+        "ano": 1990
+      },
+      {
+        "id": 5542,
+        "idUrl": "uno-cs-15-1990",
+        "nome": "Uno CS 1.5",
+        "ano": 1990
+      },
+      {
+        "id": 5528,
+        "idUrl": "uno-mille-10-1990",
+        "nome": "Uno Mille 1.0",
+        "ano": 1990
+      }
+    ],
+    "1991": [
+      {
+        "id": 5599,
+        "idUrl": "uno-mille-brio-10-1991",
+        "nome": "Uno Mille Brio 1.0",
+        "ano": 1991
+      },
+      {
+        "id": 5644,
+        "idUrl": "uno-pick-up-heavy-duty-16-cab-simples-1991",
+        "nome": "Uno Pick Up Heavy Duty 1.6 (Cab Simples)",
+        "ano": 1991
+      },
+      {
+        "id": 5645,
+        "idUrl": "uno-pick-up-heavy-duty-15-cab-simples-1991",
+        "nome": "Uno Pick Up Heavy Duty 1.5 (Cab Simples)",
+        "ano": 1991
+      },
+      {
+        "id": 5532,
+        "idUrl": "uno-csl-16-1991",
+        "nome": "Uno CSL 1.6",
+        "ano": 1991
+      },
+      {
+        "id": 5621,
+        "idUrl": "uno-s-15-1991",
+        "nome": "Uno S 1.5",
+        "ano": 1991
+      }
+    ],
+    "1992": [
+      {
+        "id": 5540,
+        "idUrl": "uno-cs-15-ie-1992",
+        "nome": "Uno CS 1.5 IE",
+        "ano": 1992
+      },
+      {
+        "id": 5657,
+        "idUrl": "uno-mille-eletronic-10-1992",
+        "nome": "Uno Mille Eletronic 1.0",
+        "ano": 1992
+      },
+      {
+        "id": 5622,
+        "idUrl": "uno-s-15-ie-1992",
+        "nome": "Uno S 1.5 IE",
+        "ano": 1992
+      }
+    ],
+    "1993": [
+      {
+        "id": 5544,
+        "idUrl": "uno-16-r-mpi-1993",
+        "nome": "Uno 1.6 R MPi",
+        "ano": 1993
+      },
+      {
+        "id": 5539,
+        "idUrl": "uno-cs-15-ie-1993",
+        "nome": "Uno CS 1.5 IE",
+        "ano": 1993
+      },
+      {
+        "id": 5655,
+        "idUrl": "uno-mille-eletronic-10-1993",
+        "nome": "Uno Mille Eletronic 1.0",
+        "ano": 1993
+      },
+      {
+        "id": 5518,
+        "idUrl": "uno-furgao-15-ie-1993",
+        "nome": "Uno Furgao 1.5 IE",
+        "ano": 1993
+      }
+    ],
+    "1994": [
+      {
+        "id": 5646,
+        "idUrl": "uno-turbo-14-mpi-1994",
+        "nome": "Uno Turbo 1.4 MPi",
+        "ano": 1994
+      },
+      {
+        "id": 5640,
+        "idUrl": "uno-pick-up-lx-16-mpi-cab-simples-1994",
+        "nome": "Uno Pick Up LX 1.6 MPi (Cab Simples)",
+        "ano": 1994
+      },
+      {
+        "id": 5641,
+        "idUrl": "uno-pick-up-lx-16-ie-cab-simples-1994",
+        "nome": "Uno Pick Up LX 1.6 IE (Cab Simples)",
+        "ano": 1994
+      },
+      {
+        "id": 5669,
+        "idUrl": "uno-mille-elx-10-1994",
+        "nome": "Uno Mille ELX 1.0",
+        "ano": 1994
+      },
+      {
+        "id": 5654,
+        "idUrl": "uno-mille-eletronic-10-1994",
+        "nome": "Uno Mille Eletronic 1.0",
+        "ano": 1994
+      },
+      {
+        "id": 5538,
+        "idUrl": "uno-cs-15-ie-1994",
+        "nome": "Uno CS 1.5 IE",
+        "ano": 1994
+      },
+      {
+        "id": 5530,
+        "idUrl": "uno-mpi-16-mpi-1994",
+        "nome": "Uno MPi 1.6 MPi",
+        "ano": 1994
+      }
+    ],
+    "1995": [
+      {
+        "id": 5638,
+        "idUrl": "uno-pick-up-trekking-15-ie-cab-simples-1995",
+        "nome": "Uno Pick Up Trekking 1.5 IE (Cab Simples)",
+        "ano": 1995
+      },
+      {
+        "id": 5668,
+        "idUrl": "uno-mille-elx-10-1995",
+        "nome": "Uno Mille ELX 1.0",
+        "ano": 1995
+      },
+      {
+        "id": 5526,
+        "idUrl": "uno-mille-10-ie-1995",
+        "nome": "Uno Mille 1.0 IE",
+        "ano": 1995
+      },
+      {
+        "id": 5529,
+        "idUrl": "uno-mpi-16-mpi-1995",
+        "nome": "Uno MPi 1.6 MPi",
+        "ano": 1995
+      },
+      {
+        "id": 5653,
+        "idUrl": "uno-mille-eletronic-10-1995",
+        "nome": "Uno Mille Eletronic 1.0",
+        "ano": 1995
+      },
+      {
+        "id": 5537,
+        "idUrl": "uno-cs-15-ie-1995",
+        "nome": "Uno CS 1.5 IE",
+        "ano": 1995
+      }
+    ],
+    "1996": [
+      {
+        "id": 5624,
+        "idUrl": "uno-turbo-14-mpi-1996",
+        "nome": "Uno Turbo 1.4 MPi",
+        "ano": 1996
+      },
+      {
+        "id": 5637,
+        "idUrl": "uno-pick-up-trekking-15-mpi-cab-simples-1996",
+        "nome": "Uno Pick Up Trekking 1.5 MPi (Cab Simples)",
+        "ano": 1996
+      },
+      {
+        "id": 5535,
+        "idUrl": "uno-cs-15-ie-4p-1996",
+        "nome": "Uno CS 1.5 IE 4p",
+        "ano": 1996
+      },
+      {
+        "id": 5664,
+        "idUrl": "uno-mille-ep-10-ie-4p-1996",
+        "nome": "Uno Mille EP 1.0 IE 4p",
+        "ano": 1996
+      },
+      {
+        "id": 5666,
+        "idUrl": "uno-mille-ep-10-ie-1996",
+        "nome": "Uno Mille EP 1.0 IE",
+        "ano": 1996
+      },
+      {
+        "id": 5667,
+        "idUrl": "uno-mille-elx-10-4p-1996",
+        "nome": "Uno Mille ELX 1.0 4p",
+        "ano": 1996
+      },
+      {
+        "id": 5670,
+        "idUrl": "uno-mille-elx-10-1996",
+        "nome": "Uno Mille ELX 1.0",
+        "ano": 1996
+      },
+      {
+        "id": 5525,
+        "idUrl": "uno-mille-10-ie-1996",
+        "nome": "Uno Mille 1.0 IE",
+        "ano": 1996
+      },
+      {
+        "id": 5634,
+        "idUrl": "uno-pick-up-working-15-mpi-cab-simples-1996",
+        "nome": "Uno Pick Up Working 1.5 MPi (Cab Simples)",
+        "ano": 1996
+      },
+      {
+        "id": 5636,
+        "idUrl": "uno-pick-up-working-15-ie-cab-simples-1996",
+        "nome": "Uno Pick Up Working 1.5 IE (Cab Simples)",
+        "ano": 1996
+      },
+      {
+        "id": 5522,
+        "idUrl": "uno-16-mpi-1996",
+        "nome": "Uno 1.6 MPi",
+        "ano": 1996
+      },
+      {
+        "id": 5652,
+        "idUrl": "uno-mille-eletronic-10-4p-1996",
+        "nome": "Uno Mille Eletronic 1.0 4p",
+        "ano": 1996
+      },
+      {
+        "id": 5656,
+        "idUrl": "uno-mille-eletronic-10-1996",
+        "nome": "Uno Mille Eletronic 1.0",
+        "ano": 1996
+      },
+      {
+        "id": 5541,
+        "idUrl": "uno-cs-15-ie-1996",
+        "nome": "Uno CS 1.5 IE",
+        "ano": 1996
+      },
+      {
+        "id": 5516,
+        "idUrl": "uno-furgao-15-mpi-1996",
+        "nome": "Uno Furgao 1.5 MPi",
+        "ano": 1996
+      }
+    ],
+    "1997": [
+      {
+        "id": 5647,
+        "idUrl": "uno-pick-up-trekking-mtv-15-mpi-cab-simples-1997",
+        "nome": "Uno Pick Up Trekking MTV 1.5 MPi (Cab Simples)",
+        "ano": 1997
+      },
+      {
+        "id": 5611,
+        "idUrl": "uno-mille-sx-10-ie-1997",
+        "nome": "Uno Mille SX 1.0 IE",
+        "ano": 1997
+      },
+      {
+        "id": 5524,
+        "idUrl": "uno-mille-10-ie-1997",
+        "nome": "Uno Mille 1.0 IE",
+        "ano": 1997
+      },
+      {
+        "id": 5536,
+        "idUrl": "uno-cs-15-ie-1997",
+        "nome": "Uno CS 1.5 IE",
+        "ano": 1997
+      },
+      {
+        "id": 5662,
+        "idUrl": "uno-mille-ex-10-ie-1997",
+        "nome": "Uno Mille EX 1.0 IE",
+        "ano": 1997
+      },
+      {
+        "id": 5515,
+        "idUrl": "uno-furgao-15-mpi-1997",
+        "nome": "Uno Furgao 1.5 MPi",
+        "ano": 1997
+      }
+    ],
+    "1998": [
+      {
+        "id": 5607,
+        "idUrl": "uno-mille-sx-young-10-ie-1998",
+        "nome": "Uno Mille SX Young 1.0 IE",
+        "ano": 1998
+      },
+      {
+        "id": 5610,
+        "idUrl": "uno-mille-sx-10-ie-4p-1998",
+        "nome": "Uno Mille SX 1.0 IE 4p",
+        "ano": 1998
+      },
+      {
+        "id": 5612,
+        "idUrl": "uno-mille-sx-10-ie-1998",
+        "nome": "Uno Mille SX 1.0 IE",
+        "ano": 1998
+      },
+      {
+        "id": 5661,
+        "idUrl": "uno-mille-ex-10-ie-1998",
+        "nome": "Uno Mille EX 1.0 IE",
+        "ano": 1998
+      },
+      {
+        "id": 5514,
+        "idUrl": "uno-furgao-15-mpi-1998",
+        "nome": "Uno Furgao 1.5 MPi",
+        "ano": 1998
+      }
+    ],
+    "1999": [
+      {
+        "id": 5609,
+        "idUrl": "uno-mille-sx-young-10-ie-1999",
+        "nome": "Uno Mille SX Young 1.0 IE",
+        "ano": 1999
+      },
+      {
+        "id": 5660,
+        "idUrl": "uno-mille-ex-10-ie-1999",
+        "nome": "Uno Mille EX 1.0 IE",
+        "ano": 1999
+      },
+      {
+        "id": 5671,
+        "idUrl": "uno-mille-city-10-1999",
+        "nome": "Uno Mille City 1.0",
+        "ano": 1999
+      },
+      {
+        "id": 5513,
+        "idUrl": "uno-furgao-15-mpi-1999",
+        "nome": "Uno Furgao 1.5 MPi",
+        "ano": 1999
+      }
+    ],
+    "2000": [
+      {
+        "id": 5602,
+        "idUrl": "uno-mille-smart-10-ie-4p-2000",
+        "nome": "Uno Mille Smart 1.0 IE 4p",
+        "ano": 2000
+      },
+      {
+        "id": 5663,
+        "idUrl": "uno-mille-ex-10-ie-2000",
+        "nome": "Uno Mille EX 1.0 IE",
+        "ano": 2000
+      },
+      {
+        "id": 5606,
+        "idUrl": "uno-mille-smart-10-ie-2000",
+        "nome": "Uno Mille Smart 1.0 IE",
+        "ano": 2000
+      },
+      {
+        "id": 5512,
+        "idUrl": "uno-furgao-15-mpi-2000",
+        "nome": "Uno Furgao 1.5 MPi",
+        "ano": 2000
+      }
+    ],
+    "2001": [
+      {
+        "id": 5605,
+        "idUrl": "uno-mille-smart-10-ie-2001",
+        "nome": "Uno Mille Smart 1.0 IE",
+        "ano": 2001
+      },
+      {
+        "id": 5511,
+        "idUrl": "uno-furgao-15-mpi-2001",
+        "nome": "Uno Furgao 1.5 MPi",
+        "ano": 2001
+      }
+    ],
+    "2002": [
+      {
+        "id": 5688,
+        "idUrl": "uno-mille-fire-10-4p-2002",
+        "nome": "Uno Mille Fire 1.0 4p",
+        "ano": 2002
+      },
+      {
+        "id": 5603,
+        "idUrl": "uno-mille-smart-10-ie-4p-2002",
+        "nome": "Uno Mille Smart 1.0 IE 4p",
+        "ano": 2002
+      },
+      {
+        "id": 5604,
+        "idUrl": "uno-mille-smart-10-ie-2002",
+        "nome": "Uno Mille Smart 1.0 IE",
+        "ano": 2002
+      },
+      {
+        "id": 5517,
+        "idUrl": "uno-furgao-15-mpi-2002",
+        "nome": "Uno Furgao 1.5 MPi",
+        "ano": 2002
+      }
+    ],
+    "2003": [
+      {
+        "id": 5673,
+        "idUrl": "uno-mille-fire-10-2003",
+        "nome": "Uno Mille Fire 1.0",
+        "ano": 2003
+      },
+      {
+        "id": 5508,
+        "idUrl": "uno-furgao-fire-13-2003",
+        "nome": "Uno Furgao Fire 1.3",
+        "ano": 2003
+      }
+    ],
+    "2004": [
+      {
+        "id": 5674,
+        "idUrl": "uno-mille-fire-10-2004",
+        "nome": "Uno Mille Fire 1.0",
+        "ano": 2004
+      },
+      {
+        "id": 5507,
+        "idUrl": "uno-furgao-fire-13-2004",
+        "nome": "Uno Furgao Fire 1.3",
+        "ano": 2004
+      }
+    ],
+    "2005": [
+      {
+        "id": 5685,
+        "idUrl": "uno-mille-fire-10-4p-2005",
+        "nome": "Uno Mille Fire 1.0 4p",
+        "ano": 2005
+      },
+      {
+        "id": 5692,
+        "idUrl": "uno-mille-fire-10-flex-4p-2005",
+        "nome": "Uno Mille Fire 1.0 (Flex) 4P",
+        "ano": 2005
+      },
+      {
+        "id": 5675,
+        "idUrl": "uno-mille-fire-10-2005",
+        "nome": "Uno Mille Fire 1.0",
+        "ano": 2005
+      },
+      {
+        "id": 5694,
+        "idUrl": "uno-mille-fire-10-flex-2005",
+        "nome": "Uno Mille Fire 1.0 (Flex)",
+        "ano": 2005
+      },
+      {
+        "id": 5506,
+        "idUrl": "uno-furgao-fire-13-2005",
+        "nome": "Uno Furgao Fire 1.3",
+        "ano": 2005
+      }
+    ],
+    "2006": [
+      {
+        "id": 5651,
+        "idUrl": "uno-mille-fire-10-2006",
+        "nome": "Uno Mille Fire 1.0",
+        "ano": 2006
+      },
+      {
+        "id": 5687,
+        "idUrl": "uno-mille-fire-10-4p-2006",
+        "nome": "Uno Mille Fire 1.0 4p",
+        "ano": 2006
+      },
+      {
+        "id": 5691,
+        "idUrl": "uno-mille-fire-10-flex-4p-2006",
+        "nome": "Uno Mille Fire 1.0 (Flex) 4P",
+        "ano": 2006
+      },
+      {
+        "id": 5697,
+        "idUrl": "uno-mille-fire-10-flex-2006",
+        "nome": "Uno Mille Fire 1.0 (Flex)",
+        "ano": 2006
+      },
+      {
+        "id": 5510,
+        "idUrl": "uno-furgao-fire-13-2006",
+        "nome": "Uno Furgao Fire 1.3",
+        "ano": 2006
+      }
+    ],
+    "2007": [
+      {
+        "id": 5690,
+        "idUrl": "uno-mille-fire-10-flex-4p-2007",
+        "nome": "Uno Mille Fire 1.0 (Flex) 4P",
+        "ano": 2007
+      },
+      {
+        "id": 5696,
+        "idUrl": "uno-mille-fire-10-flex-2007",
+        "nome": "Uno Mille Fire 1.0 (Flex)",
+        "ano": 2007
+      },
+      {
+        "id": 5509,
+        "idUrl": "uno-furgao-fire-13-2007",
+        "nome": "Uno Furgao Fire 1.3",
+        "ano": 2007
+      }
+    ],
+    "2008": [
+      {
+        "id": 5693,
+        "idUrl": "uno-mille-fire-10-flex-4p-2008",
+        "nome": "Uno Mille Fire 1.0 (Flex) 4P",
+        "ano": 2008
+      },
+      {
+        "id": 5695,
+        "idUrl": "uno-mille-fire-10-flex-2008",
+        "nome": "Uno Mille Fire 1.0 (Flex)",
+        "ano": 2008
+      },
+      {
+        "id": 5502,
+        "idUrl": "uno-furgao-fire-13-flex-2008",
+        "nome": "Uno Furgão Fire 1.3 (Flex)",
+        "ano": 2008
+      }
+    ],
+    "2009": [
+      {
+        "id": 5686,
+        "idUrl": "uno-mille-fire-economy-way-10-flex-2p-2009",
+        "nome": "Uno Mille Fire Economy Way 1.0 (Flex) 2p",
+        "ano": 2009
+      },
+      {
+        "id": 5616,
+        "idUrl": "uno-mille-fire-economy-way-10-flex-4p-2009",
+        "nome": "Uno Mille Fire Economy Way 1.0 (Flex) 4p",
+        "ano": 2009
+      },
+      {
+        "id": 5677,
+        "idUrl": "uno-mille-fire-economy-10-flex-4p-2009",
+        "nome": "Uno Mille Fire Economy 1.0 (Flex) 4p",
+        "ano": 2009
+      },
+      {
+        "id": 5684,
+        "idUrl": "uno-mille-fire-economy-10-flex-2p-2009",
+        "nome": "Uno Mille Fire Economy 1.0 (Flex) 2p",
+        "ano": 2009
+      },
+      {
+        "id": 5501,
+        "idUrl": "uno-furgao-fire-13-flex-2009",
+        "nome": "Uno Furgão Fire 1.3 (Flex)",
+        "ano": 2009
+      }
+    ],
+    "2010": [
+      {
+        "id": 5617,
+        "idUrl": "uno-mille-fire-economy-way-10-flex-4p-2010",
+        "nome": "Uno Mille Fire Economy Way 1.0 (Flex) 4p",
+        "ano": 2010
+      },
+      {
+        "id": 5678,
+        "idUrl": "uno-mille-fire-economy-10-flex-4p-2010",
+        "nome": "Uno Mille Fire Economy 1.0 (Flex) 4p",
+        "ano": 2010
+      },
+      {
+        "id": 5635,
+        "idUrl": "uno-mille-fire-economy-way-10-flex-2p-2010",
+        "nome": "Uno Mille Fire Economy Way 1.0 (Flex) 2p",
+        "ano": 2010
+      },
+      {
+        "id": 5682,
+        "idUrl": "uno-mille-fire-economy-10-flex-2p-2010",
+        "nome": "Uno Mille Fire Economy 1.0 (Flex) 2p",
+        "ano": 2010
+      },
+      {
+        "id": 5503,
+        "idUrl": "uno-furgao-fire-13-flex-2010",
+        "nome": "Uno Furgão Fire 1.3 (Flex)",
+        "ano": 2010
+      }
+    ],
+    "2011": [
+      {
+        "id": 5560,
+        "idUrl": "uno-sporting-14-8v-flex-4p-2011",
+        "nome": "Uno Sporting 1.4 8V (Flex) 4p",
+        "ano": 2011
+      },
+      {
+        "id": 5578,
+        "idUrl": "uno-way-14-8v-flex-4p-2011",
+        "nome": "Uno Way 1.4 8V (Flex) 4p",
+        "ano": 2011
+      },
+      {
+        "id": 5580,
+        "idUrl": "uno-way-14-8v-flex-2p-2011",
+        "nome": "Uno Way 1.4 8V (Flex) 2p",
+        "ano": 2011
+      },
+      {
+        "id": 5830,
+        "idUrl": "uno-attractive-14-8v-flex-4p-2011",
+        "nome": "Uno Attractive 1.4 8V (Flex) 4p",
+        "ano": 2011
+      },
+      {
+        "id": 5832,
+        "idUrl": "uno-attractive-14-8v-flex-2p-2011",
+        "nome": "Uno Attractive 1.4 8V (Flex) 2p",
+        "ano": 2011
+      },
+      {
+        "id": 5589,
+        "idUrl": "uno-way-10-8v-flex-4p-2011",
+        "nome": "Uno Way 1.0 8V (Flex) 4p",
+        "ano": 2011
+      },
+      {
+        "id": 5591,
+        "idUrl": "uno-way-10-8v-flex-2p-2011",
+        "nome": "Uno Way 1.0 8V (Flex) 2p",
+        "ano": 2011
+      },
+      {
+        "id": 5550,
+        "idUrl": "uno-vivace-10-8v-flex-2p-2011",
+        "nome": "Uno Vivace 1.0 8V (Flex) 2p",
+        "ano": 2011
+      },
+      {
+        "id": 5572,
+        "idUrl": "uno-vivace-10-8v-flex-4p-2011",
+        "nome": "Uno Vivace 1.0 8V (Flex) 4p",
+        "ano": 2011
+      },
+      {
+        "id": 5618,
+        "idUrl": "uno-mille-fire-economy-way-10-flex-4p-2011",
+        "nome": "Uno Mille Fire Economy Way 1.0 (Flex) 4p",
+        "ano": 2011
+      },
+      {
+        "id": 5679,
+        "idUrl": "uno-mille-fire-economy-10-flex-4p-2011",
+        "nome": "Uno Mille Fire Economy 1.0 (Flex) 4p",
+        "ano": 2011
+      },
+      {
+        "id": 5649,
+        "idUrl": "uno-mille-fire-economy-way-10-flex-2p-2011",
+        "nome": "Uno Mille Fire Economy Way 1.0 (Flex) 2p",
+        "ano": 2011
+      },
+      {
+        "id": 5683,
+        "idUrl": "uno-mille-fire-economy-10-flex-2p-2011",
+        "nome": "Uno Mille Fire Economy 1.0 (Flex) 2p",
+        "ano": 2011
+      },
+      {
+        "id": 5500,
+        "idUrl": "uno-furgao-fire-13-flex-2011",
+        "nome": "Uno Furgão Fire 1.3 (Flex)",
+        "ano": 2011
+      }
+    ],
+    "2012": [
+      {
+        "id": 5559,
+        "idUrl": "uno-sporting-14-8v-flex-4p-2012",
+        "nome": "Uno Sporting 1.4 8V (Flex) 4p",
+        "ano": 2012
+      },
+      {
+        "id": 5561,
+        "idUrl": "uno-sporting-14-8v-flex-2p-2012",
+        "nome": "Uno Sporting 1.4 8V (Flex) 2p",
+        "ano": 2012
+      },
+      {
+        "id": 5577,
+        "idUrl": "uno-way-14-8v-flex-4p-2012",
+        "nome": "Uno Way 1.4 8V (Flex) 4p",
+        "ano": 2012
+      },
+      {
+        "id": 5579,
+        "idUrl": "uno-way-14-8v-flex-2p-2012",
+        "nome": "Uno Way 1.4 8V (Flex) 2p",
+        "ano": 2012
+      },
+      {
+        "id": 5648,
+        "idUrl": "uno-economy-14-8v-flex-4p-2012",
+        "nome": "Uno Economy 1.4 8V (Flex) 4P",
+        "ano": 2012
+      },
+      {
+        "id": 5829,
+        "idUrl": "uno-attractive-14-8v-flex-4p-2012",
+        "nome": "Uno Attractive 1.4 8V (Flex) 4p",
+        "ano": 2012
+      },
+      {
+        "id": 5831,
+        "idUrl": "uno-attractive-14-8v-flex-2p-2012",
+        "nome": "Uno Attractive 1.4 8V (Flex) 2p",
+        "ano": 2012
+      },
+      {
+        "id": 5588,
+        "idUrl": "uno-way-10-8v-flex-4p-2012",
+        "nome": "Uno Way 1.0 8V (Flex) 4p",
+        "ano": 2012
+      },
+      {
+        "id": 5590,
+        "idUrl": "uno-way-10-8v-flex-2p-2012",
+        "nome": "Uno Way 1.0 8V (Flex) 2p",
+        "ano": 2012
+      },
+      {
+        "id": 5573,
+        "idUrl": "uno-vivace-10-8v-flex-4p-2012",
+        "nome": "Uno Vivace 1.0 8V (Flex) 4p",
+        "ano": 2012
+      },
+      {
+        "id": 5615,
+        "idUrl": "uno-mille-fire-economy-way-10-flex-4p-2012",
+        "nome": "Uno Mille Fire Economy Way 1.0 (Flex) 4p",
+        "ano": 2012
+      },
+      {
+        "id": 5700,
+        "idUrl": "uno-economy-14-8v-flex-2p-2012",
+        "nome": "Uno Economy 1.4 8V (Flex) 2P",
+        "ano": 2012
+      },
+      {
+        "id": 5549,
+        "idUrl": "uno-vivace-10-8v-flex-2p-2012",
+        "nome": "Uno Vivace 1.0 8V (Flex) 2p",
+        "ano": 2012
+      },
+      {
+        "id": 5676,
+        "idUrl": "uno-mille-fire-economy-10-flex-4p-2012",
+        "nome": "Uno Mille Fire Economy 1.0 (Flex) 4p",
+        "ano": 2012
+      },
+      {
+        "id": 5620,
+        "idUrl": "uno-mille-fire-economy-way-10-flex-2p-2012",
+        "nome": "Uno Mille Fire Economy Way 1.0 (Flex) 2p",
+        "ano": 2012
+      },
+      {
+        "id": 5681,
+        "idUrl": "uno-mille-fire-economy-10-flex-2p-2012",
+        "nome": "Uno Mille Fire Economy 1.0 (Flex) 2p",
+        "ano": 2012
+      },
+      {
+        "id": 5499,
+        "idUrl": "uno-furgao-fire-13-flex-2012",
+        "nome": "Uno Furgão Fire 1.3 (Flex)",
+        "ano": 2012
+      }
+    ],
+    "2013": [
+      {
+        "id": 5558,
+        "idUrl": "uno-sporting-14-8v-flex-4p-2013",
+        "nome": "Uno Sporting 1.4 8V (Flex) 4p",
+        "ano": 2013
+      },
+      {
+        "id": 5613,
+        "idUrl": "uno-mille-fire-grazie-mille-10-flex-2013",
+        "nome": "Uno Mille Fire Grazie Mille 1.0 (Flex)",
+        "ano": 2013
+      },
+      {
+        "id": 5576,
+        "idUrl": "uno-way-14-8v-flex-4p-2013",
+        "nome": "Uno Way 1.4 8V (Flex) 4p",
+        "ano": 2013
+      },
+      {
+        "id": 5569,
+        "idUrl": "uno-economy-14-8v-flex-4p-2013",
+        "nome": "Uno Economy 1.4 8V (Flex) 4P",
+        "ano": 2013
+      },
+      {
+        "id": 5587,
+        "idUrl": "uno-way-10-8v-flex-4p-2013",
+        "nome": "Uno Way 1.0 8V (Flex) 4p",
+        "ano": 2013
+      },
+      {
+        "id": 5595,
+        "idUrl": "uno-vivace-10-8v-flex-4p-2013",
+        "nome": "Uno Vivace 1.0 8V (Flex) 4p",
+        "ano": 2013
+      },
+      {
+        "id": 5614,
+        "idUrl": "uno-mille-fire-economy-way-10-flex-4p-2013",
+        "nome": "Uno Mille Fire Economy Way 1.0 (Flex) 4p",
+        "ano": 2013
+      },
+      {
+        "id": 5699,
+        "idUrl": "uno-economy-14-8v-flex-2p-2013",
+        "nome": "Uno Economy 1.4 8V (Flex) 2P",
+        "ano": 2013
+      },
+      {
+        "id": 5650,
+        "idUrl": "uno-mille-fire-economy-10-flex-4p-2013",
+        "nome": "Uno Mille Fire Economy 1.0 (Flex) 4p",
+        "ano": 2013
+      },
+      {
+        "id": 5570,
+        "idUrl": "uno-vivace-10-8v-flex-2p-2013",
+        "nome": "Uno Vivace 1.0 8V (Flex) 2p",
+        "ano": 2013
+      },
+      {
+        "id": 5619,
+        "idUrl": "uno-mille-fire-economy-way-10-flex-2p-2013",
+        "nome": "Uno Mille Fire Economy Way 1.0 (Flex) 2p",
+        "ano": 2013
+      },
+      {
+        "id": 5680,
+        "idUrl": "uno-mille-fire-economy-10-flex-2p-2013",
+        "nome": "Uno Mille Fire Economy 1.0 (Flex) 2p",
+        "ano": 2013
+      },
+      {
+        "id": 5521,
+        "idUrl": "uno-13-furgao-flex-2013",
+        "nome": "Uno 1.3 Furgao Flex",
+        "ano": 2013
+      }
+    ],
+    "2014": [
+      {
+        "id": 5557,
+        "idUrl": "uno-sporting-14-8v-flex-4p-2014",
+        "nome": "Uno Sporting 1.4 8V (Flex) 4p",
+        "ano": 2014
+      },
+      {
+        "id": 5575,
+        "idUrl": "uno-way-14-8v-flex-4p-2014",
+        "nome": "Uno Way 1.4 8V (Flex) 4p",
+        "ano": 2014
+      },
+      {
+        "id": 5568,
+        "idUrl": "uno-economy-14-8v-flex-4p-2014",
+        "nome": "Uno Economy 1.4 8V (Flex) 4P",
+        "ano": 2014
+      },
+      {
+        "id": 5586,
+        "idUrl": "uno-way-10-8v-flex-4p-2014",
+        "nome": "Uno Way 1.0 8V (Flex) 4p",
+        "ano": 2014
+      },
+      {
+        "id": 5594,
+        "idUrl": "uno-vivace-10-8v-flex-4p-2014",
+        "nome": "Uno Vivace 1.0 8V (Flex) 4p",
+        "ano": 2014
+      },
+      {
+        "id": 5571,
+        "idUrl": "uno-vivace-10-8v-flex-2p-2014",
+        "nome": "Uno Vivace 1.0 8V (Flex) 2p",
+        "ano": 2014
+      },
+      {
+        "id": 5505,
+        "idUrl": "uno-furgao-10-evo-flex-2014",
+        "nome": "Uno Furgão 1.0 Evo (Flex)",
+        "ano": 2014
+      }
+    ],
+    "2015": [
+      {
+        "id": 5556,
+        "idUrl": "uno-sporting-dualogic-14-flex-2015",
+        "nome": "Uno Sporting Dualogic 1.4 (Flex)",
+        "ano": 2015
+      },
+      {
+        "id": 5563,
+        "idUrl": "uno-sporting-14-flex-4p-2015",
+        "nome": "Uno Sporting 1.4 (Flex) 4p",
+        "ano": 2015
+      },
+      {
+        "id": 5574,
+        "idUrl": "uno-way-dualogic-14-flex-2015",
+        "nome": "Uno Way Dualogic 1.4 (Flex)",
+        "ano": 2015
+      },
+      {
+        "id": 5582,
+        "idUrl": "uno-way-14-flex-4p-2015",
+        "nome": "Uno Way 1.4 (Flex) 4p",
+        "ano": 2015
+      },
+      {
+        "id": 5567,
+        "idUrl": "uno-evolution-14-flex-4p-2015",
+        "nome": "Uno Evolution 1.4 (Flex) 4p",
+        "ano": 2015
+      },
+      {
+        "id": 5593,
+        "idUrl": "uno-way-10-flex-4p-2015",
+        "nome": "Uno Way 1.0 (Flex) 4p",
+        "ano": 2015
+      },
+      {
+        "id": 5834,
+        "idUrl": "uno-attractive-10-flex-4p-2015",
+        "nome": "Uno Attractive 1.0 (Flex) 4p",
+        "ano": 2015
+      },
+      {
+        "id": 5552,
+        "idUrl": "uno-vivace-10-flex-4p-2015",
+        "nome": "Uno Vivace 1.0 (Flex) 4p",
+        "ano": 2015
+      },
+      {
+        "id": 5547,
+        "idUrl": "uno-10-evo-furgao-flex-2015",
+        "nome": "Uno 1.0 Evo Furgão (Flex)",
+        "ano": 2015
+      },
+      {
+        "id": 5554,
+        "idUrl": "uno-vivace-10-flex-2p-2015",
+        "nome": "Uno Vivace 1.0 (Flex) 2p",
+        "ano": 2015
+      }
+    ],
+    "2016": [
+      {
+        "id": 5555,
+        "idUrl": "uno-sporting-dualogic-14-flex-2016",
+        "nome": "Uno Sporting Dualogic 1.4 (Flex)",
+        "ano": 2016
+      },
+      {
+        "id": 5562,
+        "idUrl": "uno-sporting-14-flex-4p-2016",
+        "nome": "Uno Sporting 1.4 (Flex) 4p",
+        "ano": 2016
+      },
+      {
+        "id": 5566,
+        "idUrl": "uno-evolution-14-flex-4p-2016",
+        "nome": "Uno Evolution 1.4 (Flex) 4p",
+        "ano": 2016
+      },
+      {
+        "id": 5548,
+        "idUrl": "uno-way-dualogic-14-flex-2016",
+        "nome": "Uno Way Dualogic 1.4 (Flex)",
+        "ano": 2016
+      },
+      {
+        "id": 5581,
+        "idUrl": "uno-way-14-flex-4p-2016",
+        "nome": "Uno Way 1.4 (Flex) 4p",
+        "ano": 2016
+      },
+      {
+        "id": 5592,
+        "idUrl": "uno-way-10-flex-4p-2016",
+        "nome": "Uno Way 1.0 (Flex) 4p",
+        "ano": 2016
+      },
+      {
+        "id": 5701,
+        "idUrl": "uno-attractive-evo-10-flex-4p-2016",
+        "nome": "Uno Attractive EVO 1.0 (Flex) 4p",
+        "ano": 2016
+      },
+      {
+        "id": 5551,
+        "idUrl": "uno-vivace-10-flex-4p-2016",
+        "nome": "Uno Vivace 1.0 (Flex) 4p",
+        "ano": 2016
+      },
+      {
+        "id": 5546,
+        "idUrl": "uno-10-evo-furgao-flex-2016",
+        "nome": "Uno 1.0 Evo Furgão (Flex)",
+        "ano": 2016
+      },
+      {
+        "id": 5553,
+        "idUrl": "uno-vivace-10-flex-2p-2016",
+        "nome": "Uno Vivace 1.0 (Flex) 2p",
+        "ano": 2016
+      }
+    ],
+    "2017": [
+      {
+        "id": 5565,
+        "idUrl": "uno-sporting-13-firefly-flex-2017",
+        "nome": "Uno Sporting 1.3 Firefly (Flex)",
+        "ano": 2017
+      },
+      {
+        "id": 5564,
+        "idUrl": "uno-sporting-13-firefly-dualogic-flex-2017",
+        "nome": "Uno Sporting 1.3 Firefly Dualogic (Flex)",
+        "ano": 2017
+      },
+      {
+        "id": 5583,
+        "idUrl": "uno-way-13-firefly-dualogic-flex-2017",
+        "nome": "Uno Way 1.3 Firefly Dualogic (Flex)",
+        "ano": 2017
+      },
+      {
+        "id": 5585,
+        "idUrl": "uno-way-13-firefly-flex-2017",
+        "nome": "Uno Way 1.3 Firefly (Flex)",
+        "ano": 2017
+      },
+      {
+        "id": 5596,
+        "idUrl": "uno-way-10-firefly-flex-2017",
+        "nome": "Uno Way 1.0 Firefly (Flex)",
+        "ano": 2017
+      },
+      {
+        "id": 5833,
+        "idUrl": "uno-attractive-10-firefly-flex-2017",
+        "nome": "Uno Attractive 1.0 Firefly (Flex)",
+        "ano": 2017
+      }
+    ],
+    "2018": [
+      {
+        "id": 22155,
+        "idUrl": "fiat-uno-way-13-2018",
+        "nome": "Fiat UNO Way 1.3",
+        "ano": 2018
+      }
+    ]
+  }

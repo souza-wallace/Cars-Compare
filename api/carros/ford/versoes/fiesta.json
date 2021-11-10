@@ -1,0 +1,1230 @@
+{
+    "1996": [
+      {
+        "id": 8349,
+        "idUrl": "fiesta-hatch-clx-14-mpi-16v-1996",
+        "nome": "Fiesta Hatch CLX 1.4 MPi 16V",
+        "ano": 1996
+      },
+      {
+        "id": 8395,
+        "idUrl": "fiesta-hatch-10-mpi-1996",
+        "nome": "Fiesta Hatch 1.0 MPi",
+        "ano": 1996
+      },
+      {
+        "id": 8361,
+        "idUrl": "fiesta-hatch-13-i-4p-1996",
+        "nome": "Fiesta Hatch 1.3 i 4p",
+        "ano": 1996
+      },
+      {
+        "id": 8362,
+        "idUrl": "fiesta-hatch-13-i-2p-1996",
+        "nome": "Fiesta Hatch 1.3 i 2p",
+        "ano": 1996
+      }
+    ],
+    "1997": [
+      {
+        "id": 8348,
+        "idUrl": "fiesta-hatch-clx-14-mpi-16v-1997",
+        "nome": "Fiesta Hatch CLX 1.4 MPi 16V",
+        "ano": 1997
+      },
+      {
+        "id": 8368,
+        "idUrl": "fiesta-hatch-10-mpi-1997",
+        "nome": "Fiesta Hatch 1.0 MPi",
+        "ano": 1997
+      },
+      {
+        "id": 8352,
+        "idUrl": "fiesta-hatch-clx-13-mpi-1997",
+        "nome": "Fiesta Hatch CLX 1.3 MPi",
+        "ano": 1997
+      }
+    ],
+    "1998": [
+      {
+        "id": 8344,
+        "idUrl": "fiesta-hatch-clx-14-mpi-16v-4p-1998",
+        "nome": "Fiesta Hatch CLX 1.4 MPi 16V 4p",
+        "ano": 1998
+      },
+      {
+        "id": 8346,
+        "idUrl": "fiesta-hatch-clx-14-mpi-16v-2p-1998",
+        "nome": "Fiesta Hatch CLX 1.4 MPi 16V 2p",
+        "ano": 1998
+      },
+      {
+        "id": 8350,
+        "idUrl": "fiesta-hatch-clx-13-mpi-4p-1998",
+        "nome": "Fiesta Hatch CLX 1.3 MPi 4p",
+        "ano": 1998
+      },
+      {
+        "id": 8363,
+        "idUrl": "fiesta-hatch-10-mpi-4p-1998",
+        "nome": "Fiesta Hatch 1.0 MPi 4p",
+        "ano": 1998
+      },
+      {
+        "id": 8366,
+        "idUrl": "fiesta-hatch-10-mpi-2p-1998",
+        "nome": "Fiesta Hatch 1.0 MPi 2p",
+        "ano": 1998
+      },
+      {
+        "id": 8351,
+        "idUrl": "fiesta-hatch-clx-13-mpi-2p-1998",
+        "nome": "Fiesta Hatch CLX 1.3 MPi 2p",
+        "ano": 1998
+      }
+    ],
+    "1999": [
+      {
+        "id": 8347,
+        "idUrl": "fiesta-hatch-clx-14-mpi-16v-2p-1999",
+        "nome": "Fiesta Hatch CLX 1.4 MPi 16V 2p",
+        "ano": 1999
+      },
+      {
+        "id": 8365,
+        "idUrl": "fiesta-hatch-10-mpi-2p-1999",
+        "nome": "Fiesta Hatch 1.0 MPi 2p",
+        "ano": 1999
+      },
+      {
+        "id": 8370,
+        "idUrl": "fiesta-hatch-class-10-mpi-2p-1999",
+        "nome": "Fiesta Hatch Class 1.0 MPi 2p",
+        "ano": 1999
+      }
+    ],
+    "2000": [
+      {
+        "id": 8219,
+        "idUrl": "fiesta-hatch-glx-16-mpi-4p-2000",
+        "nome": "Fiesta Hatch GLX 1.6 MPi 4p",
+        "ano": 2000
+      },
+      {
+        "id": 8372,
+        "idUrl": "fiesta-hatch-glx-16-mpi-2p-2000",
+        "nome": "Fiesta Hatch GLX 1.6 MPi 2p",
+        "ano": 2000
+      },
+      {
+        "id": 8375,
+        "idUrl": "fiesta-hatch-gl-class-10-mpi-2000",
+        "nome": "Fiesta Hatch GL Class 1.0 MPi",
+        "ano": 2000
+      },
+      {
+        "id": 8377,
+        "idUrl": "fiesta-hatch-gl-10-mpi-4p-2000",
+        "nome": "Fiesta Hatch GL 1.0 MPi 4p",
+        "ano": 2000
+      },
+      {
+        "id": 8380,
+        "idUrl": "fiesta-hatch-gl-10-mpi-2p-2000",
+        "nome": "Fiesta Hatch GL 1.0 MPi 2p",
+        "ano": 2000
+      },
+      {
+        "id": 8394,
+        "idUrl": "fiesta-hatch-class-10-mpi-2000",
+        "nome": "Fiesta Hatch Class 1.0 MPi",
+        "ano": 2000
+      }
+    ],
+    "2001": [
+      {
+        "id": 8234,
+        "idUrl": "fiesta-hatch-glx-16-mpi-4p-2001",
+        "nome": "Fiesta Hatch GLX 1.6 MPi 4p",
+        "ano": 2001
+      },
+      {
+        "id": 8371,
+        "idUrl": "fiesta-hatch-glx-16-mpi-2p-2001",
+        "nome": "Fiesta Hatch GLX 1.6 MPi 2p",
+        "ano": 2001
+      },
+      {
+        "id": 8374,
+        "idUrl": "fiesta-hatch-gl-class-10-mpi-2001",
+        "nome": "Fiesta Hatch GL Class 1.0 MPi",
+        "ano": 2001
+      },
+      {
+        "id": 8378,
+        "idUrl": "fiesta-hatch-gl-10-mpi-4p-2001",
+        "nome": "Fiesta Hatch GL 1.0 MPi 4p",
+        "ano": 2001
+      },
+      {
+        "id": 8379,
+        "idUrl": "fiesta-hatch-gl-10-mpi-2p-2001",
+        "nome": "Fiesta Hatch GL 1.0 MPi 2p",
+        "ano": 2001
+      },
+      {
+        "id": 8098,
+        "idUrl": "fiesta-hatch-street-10-mpi-2001",
+        "nome": "Fiesta Hatch Street 1.0 MPi",
+        "ano": 2001
+      }
+    ],
+    "2002": [
+      {
+        "id": 8061,
+        "idUrl": "fiesta-sedan-street-16-mpi-2002",
+        "nome": "Fiesta Sedan Street 1.6 MPi",
+        "ano": 2002
+      },
+      {
+        "id": 8064,
+        "idUrl": "fiesta-sedan-street-10-mpi-2002",
+        "nome": "Fiesta Sedan Street 1.0 MPi",
+        "ano": 2002
+      },
+      {
+        "id": 8235,
+        "idUrl": "fiesta-hatch-glx-16-mpi-2p-2002",
+        "nome": "Fiesta Hatch GLX 1.6 MPi 2p",
+        "ano": 2002
+      },
+      {
+        "id": 8436,
+        "idUrl": "fiesta-hatch-glx-16-mpi-4p-2002",
+        "nome": "Fiesta Hatch GLX 1.6 MPi 4p",
+        "ano": 2002
+      },
+      {
+        "id": 8376,
+        "idUrl": "fiesta-hatch-gl-class-10-mpi-2002",
+        "nome": "Fiesta Hatch GL Class 1.0 MPi",
+        "ano": 2002
+      },
+      {
+        "id": 8121,
+        "idUrl": "fiesta-hatch-street-16-mpi-2002",
+        "nome": "Fiesta Hatch Street 1.6 MPi",
+        "ano": 2002
+      },
+      {
+        "id": 8120,
+        "idUrl": "fiesta-hatch-street-action-10-mpi-2002",
+        "nome": "Fiesta Hatch Street Action 1.0 MPi",
+        "ano": 2002
+      },
+      {
+        "id": 8381,
+        "idUrl": "fiesta-hatch-gl-10-mpi-2002",
+        "nome": "Fiesta Hatch GL 1.0 MPi",
+        "ano": 2002
+      },
+      {
+        "id": 8099,
+        "idUrl": "fiesta-hatch-street-10-mpi-2p-2002",
+        "nome": "Fiesta Hatch Street 1.0 MPi 2p",
+        "ano": 2002
+      },
+      {
+        "id": 8122,
+        "idUrl": "fiesta-hatch-street-10-mpi-4p-2002",
+        "nome": "Fiesta Hatch Street 1.0 MPi 4p",
+        "ano": 2002
+      }
+    ],
+    "2003": [
+      {
+        "id": 8060,
+        "idUrl": "fiesta-sedan-street-16-mpi-2003",
+        "nome": "Fiesta Sedan Street 1.6 MPi",
+        "ano": 2003
+      },
+      {
+        "id": 8116,
+        "idUrl": "fiesta-hatch-supercharger-10-8v-2003",
+        "nome": "Fiesta Hatch Supercharger 1.0 8V",
+        "ano": 2003
+      },
+      {
+        "id": 8389,
+        "idUrl": "fiesta-hatch-class-16-8v-2003",
+        "nome": "Fiesta Hatch Class 1.6 8V",
+        "ano": 2003
+      },
+      {
+        "id": 8091,
+        "idUrl": "fiesta-hatch-personnalite-10-8v-2003",
+        "nome": "Fiesta Hatch Personnalité 1.0 8V",
+        "ano": 2003
+      },
+      {
+        "id": 8066,
+        "idUrl": "fiesta-sedan-street-10-mpi-2003",
+        "nome": "Fiesta Sedan Street 1.0 MPi",
+        "ano": 2003
+      },
+      {
+        "id": 8123,
+        "idUrl": "fiesta-hatch-street-10-mpi-2003",
+        "nome": "Fiesta Hatch Street 1.0 MPi",
+        "ano": 2003
+      }
+    ],
+    "2004": [
+      {
+        "id": 8391,
+        "idUrl": "fiesta-hatch-class-16-8v-2004",
+        "nome": "Fiesta Hatch Class 1.6 8V",
+        "ano": 2004
+      },
+      {
+        "id": 8063,
+        "idUrl": "fiesta-sedan-street-16-mpi-2004",
+        "nome": "Fiesta Sedan Street 1.6 MPi",
+        "ano": 2004
+      },
+      {
+        "id": 8115,
+        "idUrl": "fiesta-hatch-supercharger-10-8v-2004",
+        "nome": "Fiesta Hatch Supercharger 1.0 8V",
+        "ano": 2004
+      },
+      {
+        "id": 8090,
+        "idUrl": "fiesta-hatch-personnalite-10-8v-2004",
+        "nome": "Fiesta Hatch Personnalité 1.0 8V",
+        "ano": 2004
+      },
+      {
+        "id": 8429,
+        "idUrl": "fiesta-hatch-10-2004",
+        "nome": "Fiesta Hatch 1.0",
+        "ano": 2004
+      }
+    ],
+    "2005": [
+      {
+        "id": 8035,
+        "idUrl": "fiesta-sedan-16-flex-2005",
+        "nome": "Fiesta Sedan 1.6 (Flex)",
+        "ano": 2005
+      },
+      {
+        "id": 8355,
+        "idUrl": "fiesta-hatch-16-flex-2005",
+        "nome": "Fiesta Hatch 1.6 (Flex)",
+        "ano": 2005
+      },
+      {
+        "id": 8114,
+        "idUrl": "fiesta-hatch-supercharger-10-8v-2005",
+        "nome": "Fiesta Hatch Supercharger 1.0 8V",
+        "ano": 2005
+      },
+      {
+        "id": 8023,
+        "idUrl": "fiesta-sedan-personnalite-10-2005",
+        "nome": "Fiesta Sedan Personnalité 1.0",
+        "ano": 2005
+      },
+      {
+        "id": 8089,
+        "idUrl": "fiesta-hatch-personnalite-10-8v-2005",
+        "nome": "Fiesta Hatch Personnalité 1.0 8V",
+        "ano": 2005
+      },
+      {
+        "id": 8058,
+        "idUrl": "fiesta-sedan-supercharger-10-2005",
+        "nome": "Fiesta Sedan Supercharger 1.0",
+        "ano": 2005
+      }
+    ],
+    "2006": [
+      {
+        "id": 8036,
+        "idUrl": "fiesta-sedan-16-flex-2006",
+        "nome": "Fiesta Sedan 1.6 (Flex)",
+        "ano": 2006
+      },
+      {
+        "id": 8360,
+        "idUrl": "fiesta-hatch-16-flex-2006",
+        "nome": "Fiesta Hatch 1.6 (Flex)",
+        "ano": 2006
+      },
+      {
+        "id": 8118,
+        "idUrl": "fiesta-hatch-supercharger-10-8v-2006",
+        "nome": "Fiesta Hatch Supercharger 1.0 8V",
+        "ano": 2006
+      },
+      {
+        "id": 8026,
+        "idUrl": "fiesta-sedan-personnalite-10-2006",
+        "nome": "Fiesta Sedan Personnalité 1.0",
+        "ano": 2006
+      },
+      {
+        "id": 8094,
+        "idUrl": "fiesta-hatch-personnalite-10-8v-2006",
+        "nome": "Fiesta Hatch Personnalité 1.0 8V",
+        "ano": 2006
+      },
+      {
+        "id": 8059,
+        "idUrl": "fiesta-sedan-supercharger-10-2006",
+        "nome": "Fiesta Sedan Supercharger 1.0",
+        "ano": 2006
+      }
+    ],
+    "2007": [
+      {
+        "id": 8030,
+        "idUrl": "fiesta-sedan-first-16-flex-2007",
+        "nome": "Fiesta Sedan First 1.6 (Flex)",
+        "ano": 2007
+      },
+      {
+        "id": 8040,
+        "idUrl": "fiesta-sedan-16-flex-2007",
+        "nome": "Fiesta Sedan 1.6 (Flex)",
+        "ano": 2007
+      },
+      {
+        "id": 8055,
+        "idUrl": "fiesta-sedan-trend-16-flex-2007",
+        "nome": "Fiesta Sedan Trend 1.6 (Flex)",
+        "ano": 2007
+      },
+      {
+        "id": 8353,
+        "idUrl": "fiesta-hatch-16-flex-2007",
+        "nome": "Fiesta Hatch 1.6 (Flex)",
+        "ano": 2007
+      },
+      {
+        "id": 8386,
+        "idUrl": "fiesta-hatch-first-16-flex-2007",
+        "nome": "Fiesta Hatch First 1.6 (Flex)",
+        "ano": 2007
+      },
+      {
+        "id": 8057,
+        "idUrl": "fiesta-sedan-trend-10-flex-2007",
+        "nome": "Fiesta Sedan Trend 1.0 (Flex)",
+        "ano": 2007
+      },
+      {
+        "id": 8102,
+        "idUrl": "fiesta-sedan-10-flex-2007",
+        "nome": "Fiesta Sedan 1.0 (Flex)",
+        "ano": 2007
+      },
+      {
+        "id": 8021,
+        "idUrl": "fiesta-sedan-personnalite-trend-10-2007",
+        "nome": "Fiesta Sedan Personnalité Trend 1.0",
+        "ano": 2007
+      },
+      {
+        "id": 8025,
+        "idUrl": "fiesta-sedan-personnalite-10-2007",
+        "nome": "Fiesta Sedan Personnalité 1.0",
+        "ano": 2007
+      },
+      {
+        "id": 8088,
+        "idUrl": "fiesta-hatch-personnalite-trend-10-8v-2007",
+        "nome": "Fiesta Hatch Personnalité Trend 1.0 8V",
+        "ano": 2007
+      },
+      {
+        "id": 8093,
+        "idUrl": "fiesta-hatch-personnalite-10-8v-2007",
+        "nome": "Fiesta Hatch Personnalité 1.0 8V",
+        "ano": 2007
+      },
+      {
+        "id": 8388,
+        "idUrl": "fiesta-hatch-first-10-flex-2007",
+        "nome": "Fiesta Hatch First 1.0 (Flex)",
+        "ano": 2007
+      },
+      {
+        "id": 8075,
+        "idUrl": "fiesta-hatch-street-10-8v-2007",
+        "nome": "Fiesta Hatch Street 1.0 8V",
+        "ano": 2007
+      }
+    ],
+    "2008": [
+      {
+        "id": 8024,
+        "idUrl": "fiesta-sedan-personnalite-10-2008",
+        "nome": "Fiesta Sedan Personnalité 1.0",
+        "ano": 2008
+      },
+      {
+        "id": 8029,
+        "idUrl": "fiesta-sedan-first-16-flex-2008",
+        "nome": "Fiesta Sedan First 1.6 (Flex)",
+        "ano": 2008
+      },
+      {
+        "id": 8041,
+        "idUrl": "fiesta-sedan-16-flex-2008",
+        "nome": "Fiesta Sedan 1.6 (Flex)",
+        "ano": 2008
+      },
+      {
+        "id": 8042,
+        "idUrl": "fiesta-sedan-pulse-16-flex-2008",
+        "nome": "Fiesta Sedan Pulse 1.6 (Flex)",
+        "ano": 2008
+      },
+      {
+        "id": 8054,
+        "idUrl": "fiesta-sedan-trend-16-flex-2008",
+        "nome": "Fiesta Sedan Trend 1.6 (Flex)",
+        "ano": 2008
+      },
+      {
+        "id": 8085,
+        "idUrl": "fiesta-hatch-pulse-16-flex-2008",
+        "nome": "Fiesta Hatch Pulse 1.6 (Flex)",
+        "ano": 2008
+      },
+      {
+        "id": 8354,
+        "idUrl": "fiesta-hatch-16-flex-2008",
+        "nome": "Fiesta Hatch 1.6 (Flex)",
+        "ano": 2008
+      },
+      {
+        "id": 8382,
+        "idUrl": "fiesta-hatch-fly-16-flex-2008",
+        "nome": "Fiesta Hatch Fly 1.6 (Flex)",
+        "ano": 2008
+      },
+      {
+        "id": 8385,
+        "idUrl": "fiesta-hatch-first-16-flex-2008",
+        "nome": "Fiesta Hatch First 1.6 (Flex)",
+        "ano": 2008
+      },
+      {
+        "id": 8392,
+        "idUrl": "fiesta-hatch-class-16-flex-2008",
+        "nome": "Fiesta Hatch Class 1.6 (Flex)",
+        "ano": 2008
+      },
+      {
+        "id": 8104,
+        "idUrl": "fiesta-hatch-trend-16-flex-2008",
+        "nome": "Fiesta Hatch Trend 1.6 (Flex)",
+        "ano": 2008
+      },
+      {
+        "id": 8110,
+        "idUrl": "fiesta-hatch-trail-16-flex-2008",
+        "nome": "Fiesta Hatch Trail 1.6 (Flex)",
+        "ano": 2008
+      },
+      {
+        "id": 8106,
+        "idUrl": "fiesta-hatch-trend-10-flex-2008",
+        "nome": "Fiesta Hatch Trend 1.0 (Flex)",
+        "ano": 2008
+      },
+      {
+        "id": 8113,
+        "idUrl": "fiesta-hatch-trail-10-flex-2008",
+        "nome": "Fiesta Hatch Trail 1.0 (Flex)",
+        "ano": 2008
+      },
+      {
+        "id": 8020,
+        "idUrl": "fiesta-sedan-pulse-10-flex-2008",
+        "nome": "Fiesta Sedan Pulse 1.0 (Flex)",
+        "ano": 2008
+      },
+      {
+        "id": 8028,
+        "idUrl": "fiesta-sedan-fly-10-flex-2008",
+        "nome": "Fiesta Sedan Fly 1.0 (Flex)",
+        "ano": 2008
+      },
+      {
+        "id": 8031,
+        "idUrl": "fiesta-sedan-first-10-flex-2008",
+        "nome": "Fiesta Sedan First 1.0 (Flex)",
+        "ano": 2008
+      },
+      {
+        "id": 8056,
+        "idUrl": "fiesta-sedan-trend-10-flex-2008",
+        "nome": "Fiesta Sedan Trend 1.0 (Flex)",
+        "ano": 2008
+      },
+      {
+        "id": 8072,
+        "idUrl": "fiesta-sedan-10-flex-2008",
+        "nome": "Fiesta Sedan 1.0 (Flex)",
+        "ano": 2008
+      },
+      {
+        "id": 8087,
+        "idUrl": "fiesta-hatch-pulse-10-flex-2008",
+        "nome": "Fiesta Hatch Pulse 1.0 (Flex)",
+        "ano": 2008
+      },
+      {
+        "id": 8367,
+        "idUrl": "fiesta-hatch-class-10-flex-2008",
+        "nome": "Fiesta Hatch Class 1.0 (Flex)",
+        "ano": 2008
+      },
+      {
+        "id": 8384,
+        "idUrl": "fiesta-hatch-fly-10-flex-2008",
+        "nome": "Fiesta Hatch Fly 1.0 (Flex)",
+        "ano": 2008
+      },
+      {
+        "id": 8387,
+        "idUrl": "fiesta-hatch-first-10-flex-2008",
+        "nome": "Fiesta Hatch First 1.0 (Flex)",
+        "ano": 2008
+      },
+      {
+        "id": 8425,
+        "idUrl": "fiesta-hatch-10-flex-2008",
+        "nome": "Fiesta Hatch 1.0 (Flex)",
+        "ano": 2008
+      }
+    ],
+    "2009": [
+      {
+        "id": 8032,
+        "idUrl": "fiesta-sedan-class-16-flex-2009",
+        "nome": "Fiesta Sedan Class 1.6 (Flex)",
+        "ano": 2009
+      },
+      {
+        "id": 8037,
+        "idUrl": "fiesta-sedan-16-flex-2009",
+        "nome": "Fiesta Sedan 1.6 (Flex)",
+        "ano": 2009
+      },
+      {
+        "id": 8358,
+        "idUrl": "fiesta-hatch-16-flex-2009",
+        "nome": "Fiesta Hatch 1.6 (Flex)",
+        "ano": 2009
+      },
+      {
+        "id": 8108,
+        "idUrl": "fiesta-hatch-trail-16-flex-2009",
+        "nome": "Fiesta Hatch Trail 1.6 (Flex)",
+        "ano": 2009
+      },
+      {
+        "id": 8097,
+        "idUrl": "fiesta-sedan-10-flex-2009",
+        "nome": "Fiesta Sedan 1.0 (Flex)",
+        "ano": 2009
+      },
+      {
+        "id": 8111,
+        "idUrl": "fiesta-hatch-trail-10-flex-2009",
+        "nome": "Fiesta Hatch Trail 1.0 (Flex)",
+        "ano": 2009
+      },
+      {
+        "id": 8086,
+        "idUrl": "fiesta-hatch-pulse-10-flex-2009",
+        "nome": "Fiesta Hatch Pulse 1.0 (Flex)",
+        "ano": 2009
+      },
+      {
+        "id": 8369,
+        "idUrl": "fiesta-hatch-class-10-flex-2009",
+        "nome": "Fiesta Hatch Class 1.0 (Flex)",
+        "ano": 2009
+      },
+      {
+        "id": 8383,
+        "idUrl": "fiesta-hatch-fly-10-flex-2009",
+        "nome": "Fiesta Hatch Fly 1.0 (Flex)",
+        "ano": 2009
+      },
+      {
+        "id": 8397,
+        "idUrl": "fiesta-hatch-10-flex-2009",
+        "nome": "Fiesta Hatch 1.0 (Flex)",
+        "ano": 2009
+      }
+    ],
+    "2010": [
+      {
+        "id": 8109,
+        "idUrl": "fiesta-hatch-trail-16-flex-2010",
+        "nome": "Fiesta Hatch Trail 1.6 (Flex)",
+        "ano": 2010
+      },
+      {
+        "id": 8039,
+        "idUrl": "fiesta-sedan-16-flex-2010",
+        "nome": "Fiesta Sedan 1.6 (Flex)",
+        "ano": 2010
+      },
+      {
+        "id": 8359,
+        "idUrl": "fiesta-hatch-16-flex-2010",
+        "nome": "Fiesta Hatch 1.6 (Flex)",
+        "ano": 2010
+      },
+      {
+        "id": 8101,
+        "idUrl": "fiesta-sedan-10-flex-2010",
+        "nome": "Fiesta Sedan 1.0 (Flex)",
+        "ano": 2010
+      },
+      {
+        "id": 8112,
+        "idUrl": "fiesta-hatch-trail-10-flex-2010",
+        "nome": "Fiesta Hatch Trail 1.0 (Flex)",
+        "ano": 2010
+      },
+      {
+        "id": 8427,
+        "idUrl": "fiesta-hatch-10-flex-2010",
+        "nome": "Fiesta Hatch 1.0 (Flex)",
+        "ano": 2010
+      }
+    ],
+    "2011": [
+      {
+        "id": 6831,
+        "idUrl": "new-fiesta-sedan-se-16-16v-flex-2011",
+        "nome": "New Fiesta Sedan SE 1.6 16V (Flex)",
+        "ano": 2011
+      },
+      {
+        "id": 8038,
+        "idUrl": "fiesta-sedan-16-flex-2011",
+        "nome": "Fiesta Sedan 1.6 (Flex)",
+        "ano": 2011
+      },
+      {
+        "id": 8357,
+        "idUrl": "fiesta-hatch-16-flex-2011",
+        "nome": "Fiesta Hatch 1.6 (Flex)",
+        "ano": 2011
+      },
+      {
+        "id": 8100,
+        "idUrl": "fiesta-sedan-10-flex-2011",
+        "nome": "Fiesta Sedan 1.0 (Flex)",
+        "ano": 2011
+      },
+      {
+        "id": 8426,
+        "idUrl": "fiesta-hatch-10-flex-2011",
+        "nome": "Fiesta Hatch 1.0 (Flex)",
+        "ano": 2011
+      }
+    ],
+    "2012": [
+      {
+        "id": 6830,
+        "idUrl": "new-fiesta-sedan-se-16-16v-flex-2012",
+        "nome": "New Fiesta Sedan SE 1.6 16V (Flex)",
+        "ano": 2012
+      },
+      {
+        "id": 6930,
+        "idUrl": "new-fiesta-hatch-se-16-16v-flex-2012",
+        "nome": "New Fiesta Hatch SE 1.6 16V (Flex)",
+        "ano": 2012
+      },
+      {
+        "id": 8034,
+        "idUrl": "fiesta-sedan-16-rocam-flex-2012",
+        "nome": "Fiesta Sedan 1.6 Rocam (Flex)",
+        "ano": 2012
+      },
+      {
+        "id": 8356,
+        "idUrl": "fiesta-hatch-16-flex-2012",
+        "nome": "Fiesta Hatch 1.6 (Flex)",
+        "ano": 2012
+      },
+      {
+        "id": 8071,
+        "idUrl": "fiesta-sedan-10-rocam-flex-2012",
+        "nome": "Fiesta Sedan 1.0 Rocam (Flex)",
+        "ano": 2012
+      },
+      {
+        "id": 8396,
+        "idUrl": "fiesta-hatch-10-flex-2012",
+        "nome": "Fiesta Hatch 1.0 (Flex)",
+        "ano": 2012
+      }
+    ],
+    "2013": [
+      {
+        "id": 6829,
+        "idUrl": "new-fiesta-sedan-se-16-16v-flex-2013",
+        "nome": "New Fiesta Sedan SE 1.6 16V (Flex)",
+        "ano": 2013
+      },
+      {
+        "id": 6929,
+        "idUrl": "new-fiesta-hatch-se-16-16v-flex-2013",
+        "nome": "New Fiesta Hatch SE 1.6 16V (Flex)",
+        "ano": 2013
+      },
+      {
+        "id": 8083,
+        "idUrl": "fiesta-hatch-rocam-16-flex-2013",
+        "nome": "Fiesta Hatch Rocam 1.6 (Flex)",
+        "ano": 2013
+      },
+      {
+        "id": 8019,
+        "idUrl": "fiesta-sedan-pulse-10-flex-2013",
+        "nome": "Fiesta Sedan Pulse 1.0 (Flex)",
+        "ano": 2013
+      },
+      {
+        "id": 8027,
+        "idUrl": "fiesta-sedan-fly-10-rocam-flex-2013",
+        "nome": "Fiesta Sedan Fly 1.0 Rocam (Flex)",
+        "ano": 2013
+      },
+      {
+        "id": 8033,
+        "idUrl": "fiesta-sedan-16-rocam-flex-2013",
+        "nome": "Fiesta Sedan 1.6 Rocam (Flex)",
+        "ano": 2013
+      },
+      {
+        "id": 8043,
+        "idUrl": "fiesta-sedan-10-rocam-flex-2013",
+        "nome": "Fiesta Sedan 1.0 Rocam (Flex)",
+        "ano": 2013
+      },
+      {
+        "id": 8081,
+        "idUrl": "fiesta-hatch-rocam-pulse-10-flex-2013",
+        "nome": "Fiesta Hatch Rocam Pulse 1.0 (Flex)",
+        "ano": 2013
+      },
+      {
+        "id": 8082,
+        "idUrl": "fiesta-hatch-rocam-fly-10-flex-2013",
+        "nome": "Fiesta Hatch Rocam Fly 1.0 (Flex)",
+        "ano": 2013
+      },
+      {
+        "id": 8084,
+        "idUrl": "fiesta-hatch-rocam-10-flex-2013",
+        "nome": "Fiesta Hatch Rocam 1.0 (Flex)",
+        "ano": 2013
+      }
+    ],
+    "2014": [
+      {
+        "id": 6836,
+        "idUrl": "new-fiesta-sedan-16-titanium-powershift-aut-2014",
+        "nome": "New Fiesta Sedan 1.6 Titanium PowerShift (Aut)",
+        "ano": 2014
+      },
+      {
+        "id": 6879,
+        "idUrl": "new-fiesta-titanium-16-16v-powershift-2014",
+        "nome": "New Fiesta Titanium 1.6 16V PowerShift",
+        "ano": 2014
+      },
+      {
+        "id": 6838,
+        "idUrl": "new-fiesta-sedan-16-titanium-2014",
+        "nome": "New Fiesta Sedan 1.6 Titanium",
+        "ano": 2014
+      },
+      {
+        "id": 6909,
+        "idUrl": "new-fiesta-titanium-16-16v-2014",
+        "nome": "New Fiesta Titanium 1.6 16V",
+        "ano": 2014
+      },
+      {
+        "id": 6842,
+        "idUrl": "new-fiesta-sedan-16-se-powershift-aut-2014",
+        "nome": "New Fiesta Sedan 1.6 SE PowerShift (Aut)",
+        "ano": 2014
+      },
+      {
+        "id": 6918,
+        "idUrl": "new-fiesta-se-16-16v-powershift-2014",
+        "nome": "New Fiesta SE 1.6 16V PowerShift",
+        "ano": 2014
+      },
+      {
+        "id": 6922,
+        "idUrl": "new-fiesta-se-16-16v-2014",
+        "nome": "New Fiesta SE 1.6 16V",
+        "ano": 2014
+      },
+      {
+        "id": 6925,
+        "idUrl": "new-fiesta-se-15-16v-2014",
+        "nome": "New Fiesta SE 1.5 16V",
+        "ano": 2014
+      },
+      {
+        "id": 6928,
+        "idUrl": "new-fiesta-s-15-16v-2014",
+        "nome": "New Fiesta S 1.5 16V",
+        "ano": 2014
+      },
+      {
+        "id": 6845,
+        "idUrl": "new-fiesta-sedan-16-se-2014",
+        "nome": "New Fiesta Sedan 1.6 SE",
+        "ano": 2014
+      },
+      {
+        "id": 8067,
+        "idUrl": "fiesta-sedan-se-plus-16-rocam-flex-2014",
+        "nome": "Fiesta Sedan SE Plus 1.6 RoCam (Flex)",
+        "ano": 2014
+      },
+      {
+        "id": 8076,
+        "idUrl": "fiesta-hatch-se-rocam-16-flex-2014",
+        "nome": "Fiesta Hatch SE Rocam 1.6 (Flex)",
+        "ano": 2014
+      },
+      {
+        "id": 8431,
+        "idUrl": "fiesta-hatch-se-plus-16-rocam-flex-2014",
+        "nome": "Fiesta Hatch  SE Plus 1.6 RoCam (Flex)",
+        "ano": 2014
+      },
+      {
+        "id": 8068,
+        "idUrl": "fiesta-sedan-se-plus-10-rocam-flex-2014",
+        "nome": "Fiesta Sedan SE Plus 1.0 RoCam (Flex)",
+        "ano": 2014
+      },
+      {
+        "id": 8069,
+        "idUrl": "fiesta-sedan-se-10-rocam-flex-2014",
+        "nome": "Fiesta Sedan SE 1.0 RoCam (Flex)",
+        "ano": 2014
+      },
+      {
+        "id": 8077,
+        "idUrl": "fiesta-hatch-se-plus-10-rocam-flex-2014",
+        "nome": "Fiesta Hatch SE Plus 1.0 RoCam (Flex)",
+        "ano": 2014
+      },
+      {
+        "id": 8078,
+        "idUrl": "fiesta-hatch-se-10-rocam-flex-2014",
+        "nome": "Fiesta Hatch SE 1.0 RoCam (Flex)",
+        "ano": 2014
+      },
+      {
+        "id": 8080,
+        "idUrl": "fiesta-hatch-s-plus-10-rocam-flex-2014",
+        "nome": "Fiesta Hatch S Plus 1.0 RoCam (Flex)",
+        "ano": 2014
+      }
+    ],
+    "2015": [
+      {
+        "id": 6833,
+        "idUrl": "new-fiesta-sedan-16-titanium-powershift-plus-aut-2015",
+        "nome": "New Fiesta Sedan 1.6 Titanium PowerShift Plus (Aut)",
+        "ano": 2015
+      },
+      {
+        "id": 6835,
+        "idUrl": "new-fiesta-sedan-16-titanium-powershift-aut-2015",
+        "nome": "New Fiesta Sedan 1.6 Titanium PowerShift (Aut)",
+        "ano": 2015
+      },
+      {
+        "id": 6851,
+        "idUrl": "new-fiesta-titanium-16-16v-powershift-2015",
+        "nome": "New Fiesta Titanium 1.6 16V PowerShift",
+        "ano": 2015
+      },
+      {
+        "id": 6837,
+        "idUrl": "new-fiesta-sedan-16-titanium-2015",
+        "nome": "New Fiesta Sedan 1.6 Titanium",
+        "ano": 2015
+      },
+      {
+        "id": 6908,
+        "idUrl": "new-fiesta-titanium-16-16v-2015",
+        "nome": "New Fiesta Titanium 1.6 16V",
+        "ano": 2015
+      },
+      {
+        "id": 6841,
+        "idUrl": "new-fiesta-sedan-16-se-powershift-aut-2015",
+        "nome": "New Fiesta Sedan 1.6 SE PowerShift (Aut)",
+        "ano": 2015
+      },
+      {
+        "id": 6844,
+        "idUrl": "new-fiesta-sedan-16-se-2015",
+        "nome": "New Fiesta Sedan 1.6 SE",
+        "ano": 2015
+      },
+      {
+        "id": 6917,
+        "idUrl": "new-fiesta-se-16-16v-powershift-2015",
+        "nome": "New Fiesta SE 1.6 16V PowerShift",
+        "ano": 2015
+      },
+      {
+        "id": 6921,
+        "idUrl": "new-fiesta-se-16-16v-2015",
+        "nome": "New Fiesta SE 1.6 16V",
+        "ano": 2015
+      },
+      {
+        "id": 6924,
+        "idUrl": "new-fiesta-se-15-16v-2015",
+        "nome": "New Fiesta SE 1.5 16V",
+        "ano": 2015
+      },
+      {
+        "id": 6927,
+        "idUrl": "new-fiesta-s-15-16v-2015",
+        "nome": "New Fiesta S 1.5 16V",
+        "ano": 2015
+      },
+      {
+        "id": 6911,
+        "idUrl": "new-fiesta-sport-16-16v-2015",
+        "nome": "New Fiesta Sport 1.6 16v",
+        "ano": 2015
+      }
+    ],
+    "2016": [
+      {
+        "id": 6832,
+        "idUrl": "new-fiesta-sedan-16-titanium-powershift-plus-aut-2016",
+        "nome": "New Fiesta Sedan 1.6 Titanium PowerShift Plus (Aut)",
+        "ano": 2016
+      },
+      {
+        "id": 6834,
+        "idUrl": "new-fiesta-sedan-16-titanium-powershift-aut-2016",
+        "nome": "New Fiesta Sedan 1.6 Titanium PowerShift (Aut)",
+        "ano": 2016
+      },
+      {
+        "id": 6849,
+        "idUrl": "new-fiesta-titanium-16-16v-powershift-2016",
+        "nome": "New Fiesta Titanium 1.6 16V PowerShift",
+        "ano": 2016
+      },
+      {
+        "id": 6880,
+        "idUrl": "new-fiesta-titanium-16-16v-2016",
+        "nome": "New Fiesta Titanium 1.6 16V",
+        "ano": 2016
+      },
+      {
+        "id": 6839,
+        "idUrl": "new-fiesta-sedan-16-sel-plus-powershift-aut-2016",
+        "nome": "New Fiesta Sedan 1.6 SEL Plus  PowerShift (Aut)",
+        "ano": 2016
+      },
+      {
+        "id": 6840,
+        "idUrl": "new-fiesta-sedan-16-se-powershift-aut-2016",
+        "nome": "New Fiesta Sedan 1.6 SE PowerShift (Aut)",
+        "ano": 2016
+      },
+      {
+        "id": 6910,
+        "idUrl": "new-fiesta-sport-16-16v-2016",
+        "nome": "New Fiesta Sport 1.6 16v",
+        "ano": 2016
+      },
+      {
+        "id": 6916,
+        "idUrl": "new-fiesta-se-16-16v-powershift-2016",
+        "nome": "New Fiesta SE 1.6 16V PowerShift",
+        "ano": 2016
+      },
+      {
+        "id": 6843,
+        "idUrl": "new-fiesta-sedan-16-se-2016",
+        "nome": "New Fiesta Sedan 1.6 SE",
+        "ano": 2016
+      },
+      {
+        "id": 6923,
+        "idUrl": "new-fiesta-se-15-16v-2016",
+        "nome": "New Fiesta SE 1.5 16V",
+        "ano": 2016
+      },
+      {
+        "id": 6926,
+        "idUrl": "new-fiesta-s-15-16v-2016",
+        "nome": "New Fiesta S 1.5 16V",
+        "ano": 2016
+      }
+    ],
+    "2017": [
+      {
+        "id": 6847,
+        "idUrl": "new-fiesta-titanium-plus-10-ecoboost-powershift-2017",
+        "nome": "New Fiesta Titanium Plus 1.0 EcoBoost PowerShift",
+        "ano": 2017
+      },
+      {
+        "id": 21976,
+        "idUrl": "new-fiesta-sedan-16-titanium-powershift-aut-2017",
+        "nome": "New Fiesta Sedan 1.6 Titanium PowerShift Aut",
+        "ano": 2017
+      },
+      {
+        "id": 6846,
+        "idUrl": "new-fiesta-titanium-plus-16-16v-powershift-2017",
+        "nome": "New Fiesta Titanium Plus 1.6 16V PowerShift",
+        "ano": 2017
+      },
+      {
+        "id": 6848,
+        "idUrl": "new-fiesta-titanium-16-16v-powershift-2017",
+        "nome": "New Fiesta Titanium 1.6 16V PowerShift",
+        "ano": 2017
+      },
+      {
+        "id": 21975,
+        "idUrl": "new-fiesta-sedan-16-titanium-powershift-plus-aut-2017",
+        "nome": "New Fiesta Sedan 1.6 Titanium PowerShift Plus Aut",
+        "ano": 2017
+      },
+      {
+        "id": 6905,
+        "idUrl": "new-fiesta-titanium-16-16v-2017",
+        "nome": "New Fiesta Titanium 1.6 16V",
+        "ano": 2017
+      },
+      {
+        "id": 21977,
+        "idUrl": "new-fiesta-sedan-16-sel-flex-aut-2017",
+        "nome": "New Fiesta Sedan 1.6 SEL Flex Aut",
+        "ano": 2017
+      },
+      {
+        "id": 6914,
+        "idUrl": "new-fiesta-sel-16-16v-2017",
+        "nome": "New Fiesta SEL 1.6 16V",
+        "ano": 2017
+      },
+      {
+        "id": 6913,
+        "idUrl": "new-fiesta-sel-16-16v-powershift-2017",
+        "nome": "New Fiesta SEL 1.6 16V PowerShift",
+        "ano": 2017
+      },
+      {
+        "id": 21978,
+        "idUrl": "new-fiesta-sedan-16-sel-flex-2017",
+        "nome": "New Fiesta Sedan 1.6 SEL Flex",
+        "ano": 2017
+      },
+      {
+        "id": 6912,
+        "idUrl": "new-fiesta-sel-16-16v-style-2017",
+        "nome": "New Fiesta SEL 1.6 16V Style",
+        "ano": 2017
+      },
+      {
+        "id": 6915,
+        "idUrl": "new-fiesta-se-16-16v-style-2017",
+        "nome": "New Fiesta SE 1.6 16V Style",
+        "ano": 2017
+      },
+      {
+        "id": 6919,
+        "idUrl": "new-fiesta-se-16-16v-2017",
+        "nome": "New Fiesta SE 1.6 16V",
+        "ano": 2017
+      }
+    ],
+    "2018": [
+      {
+        "id": 21986,
+        "idUrl": "new-fiesta-sel-10-16v-style-ecoboost-aut-2018",
+        "nome": "New Fiesta SEL 1.0 16V Style Ecoboost Aut",
+        "ano": 2018
+      },
+      {
+        "id": 21981,
+        "idUrl": "new-fiesta-titanium-plus-16-16v-aut-2018",
+        "nome": "New Fiesta Titanium Plus 1.6 16V Aut",
+        "ano": 2018
+      },
+      {
+        "id": 21982,
+        "idUrl": "new-fiesta-titanium-16-16v-aut-2018",
+        "nome": "New Fiesta Titanium 1.6 16V Aut",
+        "ano": 2018
+      },
+      {
+        "id": 21987,
+        "idUrl": "new-fiesta-sel-16-16v-2018",
+        "nome": "New Fiesta SEL 1.6 16V",
+        "ano": 2018
+      },
+      {
+        "id": 21980,
+        "idUrl": "new-fiesta-se-16-16v-plus-aut-2018",
+        "nome": "New Fiesta SE 1.6 16V Plus Aut",
+        "ano": 2018
+      },
+      {
+        "id": 21985,
+        "idUrl": "new-fiesta-sel-16-16v-aut-2018",
+        "nome": "New Fiesta SEL 1.6 16V Aut",
+        "ano": 2018
+      },
+      {
+        "id": 21984,
+        "idUrl": "new-fiesta-se-16-16v-style-2018",
+        "nome": "New Fiesta SE 1.6 16V Style",
+        "ano": 2018
+      },
+      {
+        "id": 21983,
+        "idUrl": "new-fiesta-se-16-16v-2018",
+        "nome": "New Fiesta SE 1.6 16V",
+        "ano": 2018
+      }
+    ]
+  }

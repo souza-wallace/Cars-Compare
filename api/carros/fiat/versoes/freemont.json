@@ -1,0 +1,58 @@
+{
+    "2012": [
+      {
+        "id": 6609,
+        "idUrl": "freemont-24-16v-precision-aut-2012",
+        "nome": "Freemont 2.4 16V Precision (Aut)",
+        "ano": 2012
+      },
+      {
+        "id": 6613,
+        "idUrl": "freemont-24-16v-emotion-aut-2012",
+        "nome": "Freemont 2.4 16V  Emotion (Aut)",
+        "ano": 2012
+      }
+    ],
+    "2013": [
+      {
+        "id": 6608,
+        "idUrl": "freemont-24-16v-precision-aut-2013",
+        "nome": "Freemont 2.4 16V Precision (Aut)",
+        "ano": 2013
+      },
+      {
+        "id": 6612,
+        "idUrl": "freemont-24-16v-emotion-aut-2013",
+        "nome": "Freemont 2.4 16V  Emotion (Aut)",
+        "ano": 2013
+      }
+    ],
+    "2014": [
+      {
+        "id": 6607,
+        "idUrl": "freemont-24-16v-precision-aut-2014",
+        "nome": "Freemont 2.4 16V Precision (Aut)",
+        "ano": 2014
+      },
+      {
+        "id": 6611,
+        "idUrl": "freemont-24-16v-emotion-aut-2014",
+        "nome": "Freemont 2.4 16V  Emotion (Aut)",
+        "ano": 2014
+      }
+    ],
+    "2015": [
+      {
+        "id": 6606,
+        "idUrl": "freemont-24-16v-precision-aut-2015",
+        "nome": "Freemont 2.4 16V Precision (Aut)",
+        "ano": 2015
+      },
+      {
+        "id": 6610,
+        "idUrl": "freemont-24-16v-emotion-aut-2015",
+        "nome": "Freemont 2.4 16V Emotion (Aut)",
+        "ano": 2015
+      }
+    ]
+  }
