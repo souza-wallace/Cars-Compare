@@ -7,8 +7,8 @@ const vm = new Vue({
         selected: '',
         nomeCarro: '',
         anos: [],
-        ano: ''
-
+        ano: '',
+        fotoDestaque: ''
     },
     methods: {
         fetchCarros() {
@@ -25,11 +25,9 @@ const vm = new Vue({
               .then(r => r.json())
               .then(r => {
                 this.marcas = r;
-               // console.log(r)
               })
           },
           fetchVersoes(id) {            
-              console.log(this.nome)
               fetch(`api/carros/${this.selected}/versoes/${this.nomeFormatado}.json`)
               .then(r => r.json())
               .then(r => {
@@ -48,7 +46,6 @@ const vm = new Vue({
             return ''            
         },
         versaoAno(){
-            //console.log('entrou')
             return this.versoes[this.ano]
         }
     },

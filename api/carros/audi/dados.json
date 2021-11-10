@@ -45,15 +45,7 @@
       "id": 45,
       "idUrl": "a1",
       "nome": "A1",
-      "fotoDestaque": {
-        "id": 46010,
-        "largura": 209,
-        "altura": 139,
-        "nome": "carro/audi/a1/destaque",
-        "url": "//cdn.autopapo.com.br/carro/audi/a1/destaque-v1.png",
-        "mimeType": "image/png"
-      },
-      "emProducao": true
+      "imagem": "api/carros/audi/destaque/a1.jpg"
     },
     {
       "id": 46,
