@@ -1,0 +1,886 @@
+{
+    "1985": [
+      {
+        "id": 17996,
+        "idUrl": "parati-s-16-1985",
+        "nome": "Parati S 1.6",
+        "ano": 1985
+      },
+      {
+        "id": 18014,
+        "idUrl": "parati-plus-16-1985",
+        "nome": "Parati Plus 1.6",
+        "ano": 1985
+      },
+      {
+        "id": 18015,
+        "idUrl": "parati-ls-16-1985",
+        "nome": "Parati LS 1.6",
+        "ano": 1985
+      }
+    ],
+    "1986": [
+      {
+        "id": 17834,
+        "idUrl": "parati-gl-16-1986",
+        "nome": "Parati GL 1.6",
+        "ano": 1986
+      },
+      {
+        "id": 17812,
+        "idUrl": "parati-c-16-1986",
+        "nome": "Parati C 1.6",
+        "ano": 1986
+      }
+    ],
+    "1987": [
+      {
+        "id": 17830,
+        "idUrl": "parati-gl-18-1987",
+        "nome": "Parati GL 1.8",
+        "ano": 1987
+      }
+    ],
+    "1988": [
+      {
+        "id": 17823,
+        "idUrl": "parati-gls-18-1988",
+        "nome": "Parati GLS 1.8",
+        "ano": 1988
+      },
+      {
+        "id": 17788,
+        "idUrl": "parati-club-16-1988",
+        "nome": "Parati Club 1.6",
+        "ano": 1988
+      }
+    ],
+    "1992": [
+      {
+        "id": 17822,
+        "idUrl": "parati-gls-18-s-1992",
+        "nome": "Parati GLS 1.8 S",
+        "ano": 1992
+      }
+    ],
+    "1994": [
+      {
+        "id": 18042,
+        "idUrl": "parati-surf-18-1994",
+        "nome": "Parati Surf 1.8",
+        "ano": 1994
+      }
+    ],
+    "1995": [
+      {
+        "id": 17920,
+        "idUrl": "parati-gli-18-1995",
+        "nome": "Parati GLi 1.8",
+        "ano": 1995
+      }
+    ],
+    "1996": [
+      {
+        "id": 17850,
+        "idUrl": "parati-glsi-20-1996",
+        "nome": "Parati GLSi 2.0",
+        "ano": 1996
+      },
+      {
+        "id": 17799,
+        "idUrl": "parati-cli-18-1996",
+        "nome": "Parati CLi 1.8",
+        "ano": 1996
+      },
+      {
+        "id": 17813,
+        "idUrl": "parati-atlanta-18-i-1996",
+        "nome": "Parati Atlanta 1.8 i",
+        "ano": 1996
+      },
+      {
+        "id": 17814,
+        "idUrl": "parati-cli-16-1996",
+        "nome": "Parati CLi 1.6",
+        "ano": 1996
+      },
+      {
+        "id": 17841,
+        "idUrl": "parati-atlanta-16-i-1996",
+        "nome": "Parati Atlanta 1.6 i",
+        "ano": 1996
+      }
+    ],
+    "1997": [
+      {
+        "id": 17786,
+        "idUrl": "parati-club-18-mi-1997",
+        "nome": "Parati Club 1.8 Mi",
+        "ano": 1997
+      },
+      {
+        "id": 17818,
+        "idUrl": "parati-glsi-20-1997",
+        "nome": "Parati GLSI 2.0",
+        "ano": 1997
+      },
+      {
+        "id": 17825,
+        "idUrl": "parati-gl-18-mi-1997",
+        "nome": "Parati GL 1.8 Mi",
+        "ano": 1997
+      },
+      {
+        "id": 17800,
+        "idUrl": "parati-cl-18-mi-2p-1997",
+        "nome": "Parati CL 1.8 MI 2p",
+        "ano": 1997
+      },
+      {
+        "id": 17821,
+        "idUrl": "parati-gls-20-mi-1997",
+        "nome": "Parati GLS 2.0 MI",
+        "ano": 1997
+      },
+      {
+        "id": 17808,
+        "idUrl": "parati-cl-16-mi-1997",
+        "nome": "Parati CL 1.6 MI",
+        "ano": 1997
+      },
+      {
+        "id": 17831,
+        "idUrl": "parati-gl-16-mi-2p-1997",
+        "nome": "Parati GL 1.6 MI 2p",
+        "ano": 1997
+      },
+      {
+        "id": 17833,
+        "idUrl": "parati-gl-16-mi-1997",
+        "nome": "Parati GL 1.6 MI",
+        "ano": 1997
+      }
+    ],
+    "1998": [
+      {
+        "id": 17921,
+        "idUrl": "parati-gti-16v-20-mi-1998",
+        "nome": "Parati GTI 16V 2.0 MI",
+        "ano": 1998
+      },
+      {
+        "id": 18019,
+        "idUrl": "parati-gti-16v-20-mi-2p-1998",
+        "nome": "Parati GTI 16V 2.0 MI 2p",
+        "ano": 1998
+      },
+      {
+        "id": 17787,
+        "idUrl": "parati-club-18-mi-1998",
+        "nome": "Parati Club 1.8 MI",
+        "ano": 1998
+      },
+      {
+        "id": 17828,
+        "idUrl": "parati-gl-18-mi-1998",
+        "nome": "Parati GL 1.8 MI",
+        "ano": 1998
+      },
+      {
+        "id": 17801,
+        "idUrl": "parati-cl-18-mi-1998",
+        "nome": "Parati CL 1.8 MI",
+        "ano": 1998
+      },
+      {
+        "id": 17804,
+        "idUrl": "parati-cl-16-mi-2p-1998",
+        "nome": "Parati CL 1.6 MI 2p",
+        "ano": 1998
+      },
+      {
+        "id": 17806,
+        "idUrl": "parati-cl-16-mi-1998",
+        "nome": "Parati CL 1.6 MI",
+        "ano": 1998
+      },
+      {
+        "id": 17820,
+        "idUrl": "parati-gls-20-mi-1998",
+        "nome": "Parati GLS 2.0 MI",
+        "ano": 1998
+      },
+      {
+        "id": 17827,
+        "idUrl": "parati-gl-18-mi-2p-1998",
+        "nome": "Parati GL 1.8 MI 2p",
+        "ano": 1998
+      }
+    ],
+    "1999": [
+      {
+        "id": 17988,
+        "idUrl": "parati-gti-16v-20-mi-1999",
+        "nome": "Parati GTI 16V 2.0 MI",
+        "ano": 1999
+      },
+      {
+        "id": 18017,
+        "idUrl": "parati-gti-16v-20-mi-g3-1999",
+        "nome": "Parati GTI 16V 2.0 MI G3",
+        "ano": 1999
+      },
+      {
+        "id": 17819,
+        "idUrl": "parati-gls-20-mi-1999",
+        "nome": "Parati GLS 2.0 MI",
+        "ano": 1999
+      },
+      {
+        "id": 17829,
+        "idUrl": "parati-gl-18-mi-1999",
+        "nome": "Parati GL 1.8 MI",
+        "ano": 1999
+      },
+      {
+        "id": 17802,
+        "idUrl": "parati-cl-18-mi-1999",
+        "nome": "Parati CL 1.8 MI",
+        "ano": 1999
+      },
+      {
+        "id": 17805,
+        "idUrl": "parati-cl-16-mi-1999",
+        "nome": "Parati CL 1.6 MI",
+        "ano": 1999
+      },
+      {
+        "id": 17888,
+        "idUrl": "parati-16v-10-mi-g3-1999",
+        "nome": "Parati 16V 1.0 MI G3",
+        "ano": 1999
+      },
+      {
+        "id": 17890,
+        "idUrl": "parati-16v-10-mi-1999",
+        "nome": "Parati 16V 1.0 MI",
+        "ano": 1999
+      }
+    ],
+    "2000": [
+      {
+        "id": 18018,
+        "idUrl": "parati-gti-16v-20-mi-g3-2000",
+        "nome": "Parati GTI 16V 2.0 MI G3",
+        "ano": 2000
+      },
+      {
+        "id": 18020,
+        "idUrl": "parati-gti-16v-20-mi-2000",
+        "nome": "Parati GTI 16V 2.0 MI",
+        "ano": 2000
+      },
+      {
+        "id": 18028,
+        "idUrl": "parati-turbo-16v-10-mi-2000",
+        "nome": "Parati Turbo 16V 1.0 MI",
+        "ano": 2000
+      },
+      {
+        "id": 17900,
+        "idUrl": "parati-16-mi-g3-2000",
+        "nome": "Parati 1.6 MI G3",
+        "ano": 2000
+      },
+      {
+        "id": 17893,
+        "idUrl": "parati-18-mi-g3-2000",
+        "nome": "Parati 1.8 MI G3",
+        "ano": 2000
+      },
+      {
+        "id": 17910,
+        "idUrl": "parati-20-mi-g3-2000",
+        "nome": "Parati 2.0 MI G3",
+        "ano": 2000
+      },
+      {
+        "id": 17889,
+        "idUrl": "parati-16v-10-mi-g3-2000",
+        "nome": "Parati 16V 1.0 MI G3",
+        "ano": 2000
+      }
+    ],
+    "2001": [
+      {
+        "id": 18027,
+        "idUrl": "parati-turbo-16v-10-mi-2001",
+        "nome": "Parati Turbo 16V 1.0 MI",
+        "ano": 2001
+      },
+      {
+        "id": 18048,
+        "idUrl": "parati-turbo-sportline-16v-10-mi-2001",
+        "nome": "Parati Turbo Sportline 16V 1.0 MI",
+        "ano": 2001
+      },
+      {
+        "id": 17899,
+        "idUrl": "parati-16-mi-g3-2001",
+        "nome": "Parati 1.6 MI G3",
+        "ano": 2001
+      },
+      {
+        "id": 17892,
+        "idUrl": "parati-18-mi-g3-2001",
+        "nome": "Parati 1.8 MI G3",
+        "ano": 2001
+      },
+      {
+        "id": 17896,
+        "idUrl": "parati-18-mi-2001",
+        "nome": "Parati 1.8 MI",
+        "ano": 2001
+      },
+      {
+        "id": 17851,
+        "idUrl": "parati-20-mi-g3-2001",
+        "nome": "Parati 2.0 MI G3",
+        "ano": 2001
+      },
+      {
+        "id": 17995,
+        "idUrl": "parati-summer-16v-10-mi-2001",
+        "nome": "Parati Summer 16V 1.0 MI",
+        "ano": 2001
+      },
+      {
+        "id": 17848,
+        "idUrl": "parati-fun-16v-10-mi-2001",
+        "nome": "Parati Fun 16V 1.0 MI",
+        "ano": 2001
+      },
+      {
+        "id": 17998,
+        "idUrl": "parati-plus-16v-10-mi-g3-2001",
+        "nome": "Parati Plus 16V 1.0 MI G3",
+        "ano": 2001
+      }
+    ],
+    "2002": [
+      {
+        "id": 18031,
+        "idUrl": "parati-track-field-20-mi-2002",
+        "nome": "Parati Track Field 2.0 MI",
+        "ano": 2002
+      },
+      {
+        "id": 17887,
+        "idUrl": "parati-20-mi-g3-2002",
+        "nome": "Parati 2.0 MI G3",
+        "ano": 2002
+      },
+      {
+        "id": 17895,
+        "idUrl": "parati-18-mi-g3-2002",
+        "nome": "Parati 1.8 MI G3",
+        "ano": 2002
+      },
+      {
+        "id": 17989,
+        "idUrl": "parati-turbo-sportline-16v-10-mi-2002",
+        "nome": "Parati Turbo Sportline 16V 1.0 MI",
+        "ano": 2002
+      },
+      {
+        "id": 18026,
+        "idUrl": "parati-turbo-16v-10-mi-2002",
+        "nome": "Parati Turbo 16V 1.0 MI",
+        "ano": 2002
+      },
+      {
+        "id": 17912,
+        "idUrl": "parati-10-turbo-2002",
+        "nome": "Parati 1.0 Turbo",
+        "ano": 2002
+      },
+      {
+        "id": 17902,
+        "idUrl": "parati-16-mi-g3-2002",
+        "nome": "Parati 1.6 MI G3",
+        "ano": 2002
+      },
+      {
+        "id": 17913,
+        "idUrl": "parati-16-alcool-2002",
+        "nome": "Parati 1.6 (Álcool)",
+        "ano": 2002
+      },
+      {
+        "id": 18050,
+        "idUrl": "parati-tour-20-mi-2002",
+        "nome": "Parati Tour 2.0 MI",
+        "ano": 2002
+      },
+      {
+        "id": 18053,
+        "idUrl": "parati-tour-comfortline-18-mi-2002",
+        "nome": "Parati Tour Comfortline 1.8 MI",
+        "ano": 2002
+      },
+      {
+        "id": 18054,
+        "idUrl": "parati-tour-sportline-20-mi-2002",
+        "nome": "Parati Tour Sportline 2.0 MI",
+        "ano": 2002
+      },
+      {
+        "id": 17993,
+        "idUrl": "parati-sunset-16v-10-mi-2002",
+        "nome": "Parati Sunset 16V 1.0 MI",
+        "ano": 2002
+      },
+      {
+        "id": 17997,
+        "idUrl": "parati-plus-16v-10-mi-g3-2002",
+        "nome": "Parati Plus 16V 1.0 MI G3",
+        "ano": 2002
+      }
+    ],
+    "2003": [
+      {
+        "id": 18030,
+        "idUrl": "parati-track-field-20-mi-2003",
+        "nome": "Parati Track Field 2.0 MI",
+        "ano": 2003
+      },
+      {
+        "id": 17816,
+        "idUrl": "parati-comfortline-20-mi-2003",
+        "nome": "Parati Comfortline 2.0 MI",
+        "ano": 2003
+      },
+      {
+        "id": 17839,
+        "idUrl": "parati-crossover-20-mi-2003",
+        "nome": "Parati Crossover 2.0 MI",
+        "ano": 2003
+      },
+      {
+        "id": 17843,
+        "idUrl": "parati-crossover-turbo-16v-10-mi-2003",
+        "nome": "Parati Crossover Turbo 16V 1.0 MI",
+        "ano": 2003
+      },
+      {
+        "id": 17844,
+        "idUrl": "parati-evidence-18-mi-2003",
+        "nome": "Parati Evidence 1.8 MI",
+        "ano": 2003
+      },
+      {
+        "id": 17846,
+        "idUrl": "parati-evidence-turbo-16v-10-mi-2003",
+        "nome": "Parati Evidence Turbo 16V 1.0 MI",
+        "ano": 2003
+      },
+      {
+        "id": 18052,
+        "idUrl": "parati-tour-comfortline-18-mi-2003",
+        "nome": "Parati Tour Comfortline 1.8 MI",
+        "ano": 2003
+      },
+      {
+        "id": 18038,
+        "idUrl": "parati-track-field-16-mi-flex-2003",
+        "nome": "Parati Track Field 1.6 MI (Flex)",
+        "ano": 2003
+      },
+      {
+        "id": 17791,
+        "idUrl": "parati-city-16-mi-flex-2003",
+        "nome": "Parati City 1.6 MI (Flex)",
+        "ano": 2003
+      },
+      {
+        "id": 17794,
+        "idUrl": "parati-city-16-mi-2003",
+        "nome": "Parati City 1.6 MI",
+        "ano": 2003
+      },
+      {
+        "id": 17796,
+        "idUrl": "parati-city-16-alcool-2003",
+        "nome": "Parati City 1.6 (Álcool)",
+        "ano": 2003
+      },
+      {
+        "id": 17898,
+        "idUrl": "parati-16-mi-g3-2003",
+        "nome": "Parati 1.6 MI G3",
+        "ano": 2003
+      },
+      {
+        "id": 18002,
+        "idUrl": "parati-plus-18-mi-g3-2003",
+        "nome": "Parati Plus 1.8 MI G3",
+        "ano": 2003
+      },
+      {
+        "id": 17891,
+        "idUrl": "parati-18-mi-g3-2003",
+        "nome": "Parati 1.8 MI G3",
+        "ano": 2003
+      },
+      {
+        "id": 17979,
+        "idUrl": "parati-turbo-sportline-16v-10-mi-2003",
+        "nome": "Parati Turbo Sportline 16V 1.0 MI",
+        "ano": 2003
+      },
+      {
+        "id": 18025,
+        "idUrl": "parati-turbo-16v-10-mi-2003",
+        "nome": "Parati Turbo 16V 1.0 MI",
+        "ano": 2003
+      },
+      {
+        "id": 18000,
+        "idUrl": "parati-plus-16v-10-mi-g3-2003",
+        "nome": "Parati Plus 16V 1.0 MI G3",
+        "ano": 2003
+      }
+    ],
+    "2004": [
+      {
+        "id": 18029,
+        "idUrl": "parati-track-field-20-mi-2004",
+        "nome": "Parati Track Field 2.0 MI",
+        "ano": 2004
+      },
+      {
+        "id": 17817,
+        "idUrl": "parati-comfortline-20-mi-2004",
+        "nome": "Parati Comfortline 2.0 MI",
+        "ano": 2004
+      },
+      {
+        "id": 18037,
+        "idUrl": "parati-track-field-16-mi-flex-2004",
+        "nome": "Parati Track Field 1.6 MI (Flex)",
+        "ano": 2004
+      },
+      {
+        "id": 17790,
+        "idUrl": "parati-city-16-mi-flex-2004",
+        "nome": "Parati City 1.6 MI (Flex)",
+        "ano": 2004
+      },
+      {
+        "id": 17795,
+        "idUrl": "parati-city-16-mi-2004",
+        "nome": "Parati City 1.6 MI",
+        "ano": 2004
+      },
+      {
+        "id": 17797,
+        "idUrl": "parati-city-16-alcool-2004",
+        "nome": "Parati City 1.6 (Álcool)",
+        "ano": 2004
+      },
+      {
+        "id": 17840,
+        "idUrl": "parati-crossover-20-mi-2004",
+        "nome": "Parati Crossover 2.0 MI",
+        "ano": 2004
+      },
+      {
+        "id": 17842,
+        "idUrl": "parati-crossover-turbo-16v-10-mi-2004",
+        "nome": "Parati Crossover Turbo 16V 1.0 MI",
+        "ano": 2004
+      },
+      {
+        "id": 18001,
+        "idUrl": "parati-plus-18-mi-g3-2004",
+        "nome": "Parati Plus 1.8 MI G3",
+        "ano": 2004
+      },
+      {
+        "id": 17990,
+        "idUrl": "parati-turbo-sportline-16v-10-mi-2004",
+        "nome": "Parati Turbo Sportline 16V 1.0 MI",
+        "ano": 2004
+      }
+    ],
+    "2005": [
+      {
+        "id": 17836,
+        "idUrl": "parati-crossover-18-mi-flex-2005",
+        "nome": "Parati Crossover 1.8 MI (Flex)",
+        "ano": 2005
+      },
+      {
+        "id": 18034,
+        "idUrl": "parati-track-field-18-mi-flex-2005",
+        "nome": "Parati Track Field 1.8 MI (Flex)",
+        "ano": 2005
+      },
+      {
+        "id": 18032,
+        "idUrl": "parati-track-field-20-mi-2005",
+        "nome": "Parati Track Field 2.0 MI",
+        "ano": 2005
+      },
+      {
+        "id": 17835,
+        "idUrl": "parati-comfortline-20-mi-2005",
+        "nome": "Parati Comfortline 2.0 MI",
+        "ano": 2005
+      },
+      {
+        "id": 18040,
+        "idUrl": "parati-track-field-16-mi-flex-2005",
+        "nome": "Parati Track Field 1.6 MI (Flex)",
+        "ano": 2005
+      },
+      {
+        "id": 17789,
+        "idUrl": "parati-city-18-mi-flex-2005",
+        "nome": "Parati City 1.8 MI (Flex)",
+        "ano": 2005
+      },
+      {
+        "id": 17792,
+        "idUrl": "parati-city-16-mi-flex-2005",
+        "nome": "Parati City 1.6 MI (Flex)",
+        "ano": 2005
+      },
+      {
+        "id": 18010,
+        "idUrl": "parati-plus-16-mi-flex-2005",
+        "nome": "Parati Plus 1.6 MI (Flex)",
+        "ano": 2005
+      },
+      {
+        "id": 17837,
+        "idUrl": "parati-crossover-20-mi-2005",
+        "nome": "Parati Crossover 2.0 MI",
+        "ano": 2005
+      },
+      {
+        "id": 18003,
+        "idUrl": "parati-plus-18-mi-g3-2005",
+        "nome": "Parati Plus 1.8 MI G3",
+        "ano": 2005
+      },
+      {
+        "id": 18004,
+        "idUrl": "parati-plus-18-mi-flex-2005",
+        "nome": "Parati Plus 1.8 MI (Flex)",
+        "ano": 2005
+      }
+    ],
+    "2006": [
+      {
+        "id": 17815,
+        "idUrl": "parati-comfortline-18-g4-flex-2006",
+        "nome": "Parati Comfortline 1.8 G4 (Flex)",
+        "ano": 2006
+      },
+      {
+        "id": 18033,
+        "idUrl": "parati-track-field-18-mi-flex-2006",
+        "nome": "Parati Track Field 1.8 MI (Flex)",
+        "ano": 2006
+      },
+      {
+        "id": 18039,
+        "idUrl": "parati-track-field-16-mi-flex-2006",
+        "nome": "Parati Track Field 1.6 MI (Flex)",
+        "ano": 2006
+      },
+      {
+        "id": 17785,
+        "idUrl": "parati-comfortline-16-g4-flex-2006",
+        "nome": "Parati Comfortline 1.6 G4 (Flex)",
+        "ano": 2006
+      },
+      {
+        "id": 18013,
+        "idUrl": "parati-plus-16-g4-flex-2006",
+        "nome": "Parati Plus 1.6 G4 (Flex)",
+        "ano": 2006
+      },
+      {
+        "id": 18007,
+        "idUrl": "parati-plus-18-g4-flex-2006",
+        "nome": "Parati Plus 1.8 G4 (Flex)",
+        "ano": 2006
+      }
+    ],
+    "2007": [
+      {
+        "id": 18036,
+        "idUrl": "parati-track-field-18-g4-flex-2007",
+        "nome": "Parati Track Field 1.8 G4 (Flex)",
+        "ano": 2007
+      },
+      {
+        "id": 18055,
+        "idUrl": "parati-track-field-16-g4-flex-2007",
+        "nome": "Parati Track Field 1.6 G4 (Flex)",
+        "ano": 2007
+      },
+      {
+        "id": 18012,
+        "idUrl": "parati-plus-16-g4-flex-2007",
+        "nome": "Parati Plus 1.6 G4 (Flex)",
+        "ano": 2007
+      },
+      {
+        "id": 18021,
+        "idUrl": "parati-plus-18-g4-flex-2007",
+        "nome": "Parati Plus 1.8 G4 (Flex)",
+        "ano": 2007
+      }
+    ],
+    "2008": [
+      {
+        "id": 18043,
+        "idUrl": "parati-surf-18-g4-flex-2008",
+        "nome": "Parati Surf 1.8 G4 (Flex)",
+        "ano": 2008
+      },
+      {
+        "id": 18035,
+        "idUrl": "parati-track-field-18-g4-flex-2008",
+        "nome": "Parati Track Field 1.8 G4 (Flex)",
+        "ano": 2008
+      },
+      {
+        "id": 17992,
+        "idUrl": "parati-surf-16-g4-flex-2008",
+        "nome": "Parati Surf 1.6 G4 (Flex)",
+        "ano": 2008
+      },
+      {
+        "id": 18041,
+        "idUrl": "parati-track-field-16-g4-flex-2008",
+        "nome": "Parati Track Field 1.6 G4 (Flex)",
+        "ano": 2008
+      },
+      {
+        "id": 18011,
+        "idUrl": "parati-plus-16-g4-flex-2008",
+        "nome": "Parati Plus 1.6 G4 (Flex)",
+        "ano": 2008
+      },
+      {
+        "id": 18006,
+        "idUrl": "parati-plus-18-g4-flex-2008",
+        "nome": "Parati Plus 1.8 G4 (Flex)",
+        "ano": 2008
+      }
+    ],
+    "2009": [
+      {
+        "id": 18044,
+        "idUrl": "parati-surf-18-g4-flex-2009",
+        "nome": "Parati Surf 1.8 G4 (Flex)",
+        "ano": 2009
+      },
+      {
+        "id": 18005,
+        "idUrl": "parati-surf-16-g4-flex-2009",
+        "nome": "Parati Surf 1.6 G4 (Flex)",
+        "ano": 2009
+      },
+      {
+        "id": 17915,
+        "idUrl": "parati-16-g4-flex-2009",
+        "nome": "Parati 1.6 G4 (Flex)",
+        "ano": 2009
+      },
+      {
+        "id": 17897,
+        "idUrl": "parati-18-g4-flex-2009",
+        "nome": "Parati 1.8 G4 (Flex)",
+        "ano": 2009
+      },
+      {
+        "id": 18046,
+        "idUrl": "parati-titan-16-g4-flex-2009",
+        "nome": "Parati Titan 1.6 G4 (Flex)",
+        "ano": 2009
+      }
+    ],
+    "2010": [
+      {
+        "id": 18022,
+        "idUrl": "parati-surf-16-g4-flex-2010",
+        "nome": "Parati Surf 1.6 G4 (Flex)",
+        "ano": 2010
+      },
+      {
+        "id": 17916,
+        "idUrl": "parati-16-g4-flex-2010",
+        "nome": "Parati 1.6 G4 (Flex)",
+        "ano": 2010
+      },
+      {
+        "id": 18047,
+        "idUrl": "parati-titan-16-g4-flex-2010",
+        "nome": "Parati Titan 1.6 G4 (Flex)",
+        "ano": 2010
+      }
+    ],
+    "2011": [
+      {
+        "id": 17991,
+        "idUrl": "parati-surf-16-g4-flex-2011",
+        "nome": "Parati Surf 1.6 G4 (Flex)",
+        "ano": 2011
+      },
+      {
+        "id": 17914,
+        "idUrl": "parati-16-g4-flex-2011",
+        "nome": "Parati 1.6 G4 (Flex)",
+        "ano": 2011
+      },
+      {
+        "id": 18045,
+        "idUrl": "parati-titan-16-g4-flex-2011",
+        "nome": "Parati Titan 1.6 G4 (Flex)",
+        "ano": 2011
+      }
+    ],
+    "2012": [
+      {
+        "id": 18023,
+        "idUrl": "parati-surf-16-g4-flex-2012",
+        "nome": "Parati Surf 1.6 G4 (Flex)",
+        "ano": 2012
+      },
+      {
+        "id": 17917,
+        "idUrl": "parati-16-g4-flex-2012",
+        "nome": "Parati 1.6 G4 (Flex)",
+        "ano": 2012
+      }
+    ],
+    "2013": [
+      {
+        "id": 18024,
+        "idUrl": "parati-surf-16-g4-flex-2013",
+        "nome": "Parati Surf 1.6 G4 (Flex)",
+        "ano": 2013
+      },
+      {
+        "id": 17903,
+        "idUrl": "parati-16-g4-flex-2013",
+        "nome": "Parati 1.6 G4 (Flex)",
+        "ano": 2013
+      }
+    ]
+  }

@@ -1,0 +1,38 @@
+{
+    "2018": [
+      {
+        "id": 22022,
+        "idUrl": "virtus-200-tsi-highline-2018",
+        "nome": "Virtus 200 TSI Highline",
+        "ano": 2018
+      },
+      {
+        "id": 22023,
+        "idUrl": "virtus-200-tsi-comfortline-2018",
+        "nome": "Virtus 200 TSI Comfortline",
+        "ano": 2018
+      },
+      {
+        "id": 21989,
+        "idUrl": "virtus-16-msi-2018",
+        "nome": "Virtus 1.6 MSI",
+        "ano": 2018
+      }
+    ],
+    "2019": [
+      {
+        "id": 22338,
+        "idUrl": "virtus-200-tsi-comfortline-10-flex-12v-aut-2019",
+        "nome": "Virtus 200 TSI Comfortline 1.0 Flex 12V (Aut)",
+        "ano": 2019
+      }
+    ],
+    "2020": [
+      {
+        "id": 22463,
+        "idUrl": "virtus-gts-14-tsi-aut-2020",
+        "nome": "Virtus GTS 1.4 TSI (Aut)",
+        "ano": 2020
+      }
+    ]
+  }

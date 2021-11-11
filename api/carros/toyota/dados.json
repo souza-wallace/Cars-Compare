@@ -1,0 +1,212 @@
+[
+    {
+      "id": 875,
+      "idUrl": "avalon",
+      "nome": "Avalon ",
+      "fotoDestaque": {
+        "id": 56104,
+        "largura": 209,
+        "altura": 139,
+        "nome": "carro/toyota/avalon/destaque",
+        "url": "//cdn.autopapo.com.br/carro/toyota/avalon/destaque-v2.png",
+        "mimeType": "image/png"
+      },
+      "emProducao": false
+    },
+    {
+      "id": 873,
+      "idUrl": "camry",
+      "nome": "Camry ",
+      "fotoDestaque": {
+        "id": 56108,
+        "largura": 209,
+        "altura": 139,
+        "nome": "carro/toyota/camry/destaque",
+        "url": "//cdn.autopapo.com.br/carro/toyota/camry/destaque-v1.png",
+        "mimeType": "image/png"
+      },
+      "emProducao": true
+    },
+    {
+      "id": 871,
+      "idUrl": "celica",
+      "nome": "Celica",
+      "fotoDestaque": {
+        "id": 56076,
+        "largura": 209,
+        "altura": 139,
+        "nome": "carro/toyota/celica/destaque",
+        "url": "//cdn.autopapo.com.br/carro/toyota/celica/destaque-v2.png",
+        "mimeType": "image/png"
+      },
+      "emProducao": false
+    },
+    {
+      "id": 870,
+      "idUrl": "corolla",
+      "nome": "Corolla",
+      "fotoDestaque": {
+        "id": 56110,
+        "largura": 209,
+        "altura": 139,
+        "nome": "carro/toyota/corolla/destaque",
+        "url": "//cdn.autopapo.com.br/carro/toyota/corolla/destaque-v2.png",
+        "mimeType": "image/png"
+      },
+      "emProducao": true
+    },
+    {
+      "id": 1345,
+      "idUrl": "corolla-cross",
+      "nome": "Corolla Cross",
+      "fotoDestaque": {
+        "id": 60174,
+        "largura": 209,
+        "altura": 139,
+        "nome": "carro/toyota/corolla-cross/destaque",
+        "url": "//cdn.autopapo.com.br/carro/toyota/corolla-cross/destaque-v1.png",
+        "mimeType": "image/png"
+      },
+      "emProducao": true
+    },
+    {
+      "id": 866,
+      "idUrl": "etios-hatch",
+      "nome": "Etios Hatch",
+      "fotoDestaque": {
+        "id": 56112,
+        "largura": 209,
+        "altura": 139,
+        "nome": "carro/toyota/etios-hatch/destaque",
+        "url": "//cdn.autopapo.com.br/carro/toyota/etios-hatch/destaque-v2.png",
+        "mimeType": "image/png"
+      },
+      "emProducao": true
+    },
+    {
+      "id": 865,
+      "idUrl": "etios-sedan",
+      "nome": "Etios Sedan",
+      "fotoDestaque": {
+        "id": 56114,
+        "largura": 209,
+        "altura": 139,
+        "nome": "carro/toyota/etios-sedan/destaque",
+        "url": "//cdn.autopapo.com.br/carro/toyota/etios-sedan/destaque-v2.png",
+        "mimeType": "image/png"
+      },
+      "emProducao": true
+    },
+    {
+      "id": 1338,
+      "idUrl": "hilux",
+      "nome": "Hilux",
+      "fotoDestaque": {
+        "id": 56116,
+        "largura": 209,
+        "altura": 139,
+        "nome": "carro/toyota/hilux-cabine-dupla/destaque",
+        "url": "//cdn.autopapo.com.br/carro/toyota/hilux-cabine-dupla/destaque-v2.png",
+        "mimeType": "image/png"
+      },
+      "emProducao": true
+    },
+    {
+      "id": 860,
+      "idUrl": "land-cruiser-prado",
+      "nome": "Land Cruiser Prado",
+      "fotoDestaque": {
+        "id": 56082,
+        "largura": 209,
+        "altura": 139,
+        "nome": "carro/toyota/land-cruiser-prado/destaque",
+        "url": "//cdn.autopapo.com.br/carro/toyota/land-cruiser-prado/destaque-v1.png",
+        "mimeType": "image/png"
+      },
+      "emProducao": false
+    },
+    {
+      "id": 851,
+      "idUrl": "prius",
+      "nome": "Prius",
+      "fotoDestaque": {
+        "id": 56120,
+        "largura": 209,
+        "altura": 139,
+        "nome": "carro/toyota/prius/destaque",
+        "url": "//cdn.autopapo.com.br/carro/toyota/prius/destaque-v2.png",
+        "mimeType": "image/png"
+      },
+      "emProducao": true
+    },
+    {
+      "id": 854,
+      "idUrl": "rav4",
+      "nome": "RAV4",
+      "fotoDestaque": {
+        "id": 56122,
+        "largura": 209,
+        "altura": 139,
+        "nome": "carro/toyota/rav4/destaque",
+        "url": "//cdn.autopapo.com.br/carro/toyota/rav4/destaque-v2.png",
+        "mimeType": "image/png"
+      },
+      "emProducao": true
+    },
+    {
+      "id": 858,
+      "idUrl": "supra",
+      "nome": "Supra",
+      "fotoDestaque": {
+        "id": 56086,
+        "largura": 209,
+        "altura": 139,
+        "nome": "carro/toyota/supra/destaque",
+        "url": "//cdn.autopapo.com.br/carro/toyota/supra/destaque-v2.png",
+        "mimeType": "image/png"
+      },
+      "emProducao": false
+    },
+    {
+      "id": 861,
+      "idUrl": "sw4",
+      "nome": "SW4",
+      "fotoDestaque": {
+        "id": 56124,
+        "largura": 209,
+        "altura": 139,
+        "nome": "carro/toyota/sw4/destaque",
+        "url": "//cdn.autopapo.com.br/carro/toyota/sw4/destaque-v3.png",
+        "mimeType": "image/png"
+      },
+      "emProducao": true
+    },
+    {
+      "id": 1209,
+      "idUrl": "yaris-hatch",
+      "nome": "Yaris Hatch",
+      "fotoDestaque": {
+        "id": 56126,
+        "largura": 209,
+        "altura": 139,
+        "nome": "carro/toyota/yaris-hatch/destaque",
+        "url": "//cdn.autopapo.com.br/carro/toyota/yaris-hatch/destaque-v2.png",
+        "mimeType": "image/png"
+      },
+      "emProducao": true
+    },
+    {
+      "id": 1210,
+      "idUrl": "yaris-sedan",
+      "nome": "Yaris Sedan",
+      "fotoDestaque": {
+        "id": 56128,
+        "largura": 209,
+        "altura": 139,
+        "nome": "carro/toyota/yaris-sedan/destaque",
+        "url": "//cdn.autopapo.com.br/carro/toyota/yaris-sedan/destaque-v1.png",
+        "mimeType": "image/png"
+      },
+      "emProducao": true
+    }
+  ]

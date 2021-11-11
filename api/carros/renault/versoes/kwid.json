@@ -1,0 +1,30 @@
+{
+    "2018": [
+      {
+        "id": 21844,
+        "idUrl": "kwid-intense-12v-flex-2018",
+        "nome": "Kwid Intense 12V flex",
+        "ano": 2018
+      },
+      {
+        "id": 21842,
+        "idUrl": "kwid-zen-12v-flex-2018",
+        "nome": "Kwid Zen 12V flex",
+        "ano": 2018
+      },
+      {
+        "id": 21843,
+        "idUrl": "kwid-life-12v-flex-2018",
+        "nome": "Kwid life 12V flex",
+        "ano": 2018
+      }
+    ],
+    "2020": [
+      {
+        "id": 22370,
+        "idUrl": "kwid-outsider-10-12v-flex-2020",
+        "nome": "Kwid Outsider 1.0 12V Flex",
+        "ano": 2020
+      }
+    ]
+  }

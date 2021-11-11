@@ -1,0 +1,104 @@
+{
+    "2016": [
+      {
+        "id": 14281,
+        "idUrl": "2008-griffe-16-thp-flex-2016",
+        "nome": "2008 Griffe 1.6 THP (Flex)",
+        "ano": 2016
+      },
+      {
+        "id": 14279,
+        "idUrl": "2008-griffe-16-16v-flex-aut-2016",
+        "nome": "2008 Griffe 1.6 16V (Flex) (Aut)",
+        "ano": 2016
+      },
+      {
+        "id": 14277,
+        "idUrl": "2008-griffe-16-16v-flex-2016",
+        "nome": "2008 Griffe 1.6 16V (Flex)",
+        "ano": 2016
+      },
+      {
+        "id": 14274,
+        "idUrl": "2008-allure-16-16v-flex-aut-2016",
+        "nome": "2008 Allure 1.6 16V (Flex) (Aut)",
+        "ano": 2016
+      },
+      {
+        "id": 14272,
+        "idUrl": "2008-allure-16-16v-flex-2016",
+        "nome": "2008 Allure 1.6 16V (Flex)",
+        "ano": 2016
+      }
+    ],
+    "2017": [
+      {
+        "id": 14282,
+        "idUrl": "2008-griffe-16-thp-flex-2017",
+        "nome": "2008 Griffe 1.6 THP (Flex)",
+        "ano": 2017
+      },
+      {
+        "id": 14276,
+        "idUrl": "2008-crossway-16-16v-flex-aut-2017",
+        "nome": "2008 Crossway 1.6 16V (Flex) (Aut)",
+        "ano": 2017
+      },
+      {
+        "id": 14280,
+        "idUrl": "2008-griffe-16-16v-flex-aut-2017",
+        "nome": "2008 Griffe 1.6 16V (Flex) (Aut)",
+        "ano": 2017
+      },
+      {
+        "id": 14278,
+        "idUrl": "2008-griffe-16-16v-flex-2017",
+        "nome": "2008 Griffe 1.6 16V (Flex)",
+        "ano": 2017
+      },
+      {
+        "id": 14275,
+        "idUrl": "2008-allure-16-16v-flex-aut-2017",
+        "nome": "2008 Allure 1.6 16V (Flex) (Aut)",
+        "ano": 2017
+      },
+      {
+        "id": 14273,
+        "idUrl": "2008-allure-16-16v-flex-2017",
+        "nome": "2008 Allure 1.6 16V (Flex)",
+        "ano": 2017
+      }
+    ],
+    "2018": [
+      {
+        "id": 21869,
+        "idUrl": "2008-griffe-16-thp-flex-2018",
+        "nome": "2008 Griffe 1.6 THP flex",
+        "ano": 2018
+      },
+      {
+        "id": 21867,
+        "idUrl": "2008-crossway-16-16v-flex-aut-2018",
+        "nome": "2008 Crossway 1.6 16v flex aut",
+        "ano": 2018
+      },
+      {
+        "id": 21868,
+        "idUrl": "2008-griffe-16-16v-flex-aut-2018",
+        "nome": "2008 Griffe 1.6 16v flex aut",
+        "ano": 2018
+      },
+      {
+        "id": 21865,
+        "idUrl": "2008-allure-16-16v-flex-aut-2018",
+        "nome": "2008 Allure 1.6 16v flex aut",
+        "ano": 2018
+      },
+      {
+        "id": 21866,
+        "idUrl": "2008-allure-16-16v-flex-2018",
+        "nome": "2008 Allure 1.6 16v flex",
+        "ano": 2018
+      }
+    ]
+  }

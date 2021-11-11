@@ -1,0 +1,182 @@
+{
+    "2013": [
+      {
+        "id": 17408,
+        "idUrl": "etios-sedan-xls-15-flex-2013",
+        "nome": "Etios Sedan XLS 1.5 (Flex)",
+        "ano": 2013
+      },
+      {
+        "id": 17395,
+        "idUrl": "etios-sedan-xs-15-flex-2013",
+        "nome": "Etios Sedan XS 1.5 (Flex)",
+        "ano": 2013
+      },
+      {
+        "id": 17400,
+        "idUrl": "etios-sedan-x-15-flex-2013",
+        "nome": "Etios Sedan X 1.5 (Flex)",
+        "ano": 2013
+      }
+    ],
+    "2014": [
+      {
+        "id": 17415,
+        "idUrl": "etios-sedan-xls-platinum-15-flex-2014",
+        "nome": "Etios Sedan XLS platinum 1.5 (Flex)",
+        "ano": 2014
+      },
+      {
+        "id": 17409,
+        "idUrl": "etios-sedan-xls-15-flex-2014",
+        "nome": "Etios Sedan XLS 1.5 (Flex)",
+        "ano": 2014
+      },
+      {
+        "id": 17394,
+        "idUrl": "etios-sedan-xs-15-flex-2014",
+        "nome": "Etios Sedan XS 1.5 (Flex)",
+        "ano": 2014
+      },
+      {
+        "id": 17401,
+        "idUrl": "etios-sedan-x-15-flex-2014",
+        "nome": "Etios Sedan X 1.5 (Flex)",
+        "ano": 2014
+      }
+    ],
+    "2015": [
+      {
+        "id": 17396,
+        "idUrl": "etios-sedan-xls-platinum-15-flex-2015",
+        "nome": "Etios Sedan XLS platinum 1.5 (Flex)",
+        "ano": 2015
+      },
+      {
+        "id": 17410,
+        "idUrl": "etios-sedan-xls-15-flex-2015",
+        "nome": "Etios Sedan XLS 1.5 (Flex)",
+        "ano": 2015
+      },
+      {
+        "id": 17383,
+        "idUrl": "etios-sedan-xs-15-flex-2015",
+        "nome": "Etios Sedan XS 1.5 (Flex)",
+        "ano": 2015
+      },
+      {
+        "id": 17402,
+        "idUrl": "etios-sedan-x-15-flex-2015",
+        "nome": "Etios Sedan X 1.5 (Flex)",
+        "ano": 2015
+      }
+    ],
+    "2016": [
+      {
+        "id": 17397,
+        "idUrl": "etios-sedan-platinum-15-flex-2016",
+        "nome": "Etios Sedan Platinum 1.5 (Flex)",
+        "ano": 2016
+      },
+      {
+        "id": 17411,
+        "idUrl": "etios-sedan-xls-15-flex-2016",
+        "nome": "Etios Sedan XLS 1.5 (Flex)",
+        "ano": 2016
+      },
+      {
+        "id": 17403,
+        "idUrl": "etios-sedan-x-15-flex-2016",
+        "nome": "Etios Sedan X 1.5 (Flex)",
+        "ano": 2016
+      },
+      {
+        "id": 17375,
+        "idUrl": "etios-sedan-xs-15-flex-2016",
+        "nome": "Etios Sedan XS 1.5 (Flex)",
+        "ano": 2016
+      }
+    ],
+    "2017": [
+      {
+        "id": 17398,
+        "idUrl": "etios-sedan-platinum-15-flex-aut-2017",
+        "nome": "Etios Sedan Platinum 1.5 (Flex) (Aut)",
+        "ano": 2017
+      },
+      {
+        "id": 17413,
+        "idUrl": "etios-sedan-xls-15-flex-aut-2017",
+        "nome": "Etios Sedan XLS 1.5 (Flex) (Aut)",
+        "ano": 2017
+      },
+      {
+        "id": 17412,
+        "idUrl": "etios-sedan-xls-15-flex-2017",
+        "nome": "Etios Sedan XLS 1.5 (Flex)",
+        "ano": 2017
+      },
+      {
+        "id": 17378,
+        "idUrl": "etios-sedan-xs-15-flex-aut-2017",
+        "nome": "Etios Sedan XS 1.5 (Flex) (Aut)",
+        "ano": 2017
+      },
+      {
+        "id": 17406,
+        "idUrl": "etios-sedan-x-15-flex-aut-2017",
+        "nome": "Etios Sedan X 1.5 (Flex) (Aut)",
+        "ano": 2017
+      },
+      {
+        "id": 17376,
+        "idUrl": "etios-sedan-xs-15-flex-2017",
+        "nome": "Etios Sedan XS 1.5 (Flex)",
+        "ano": 2017
+      },
+      {
+        "id": 17404,
+        "idUrl": "etios-sedan-x-15-flex-2017",
+        "nome": "Etios Sedan X 1.5 (Flex)",
+        "ano": 2017
+      }
+    ],
+    "2018": [
+      {
+        "id": 17399,
+        "idUrl": "etios-sedan-platinum-15-flex-aut-2018",
+        "nome": "Etios Sedan Platinum 1.5 (Flex) (Aut)",
+        "ano": 2018
+      },
+      {
+        "id": 17414,
+        "idUrl": "etios-sedan-xls-15-flex-aut-2018",
+        "nome": "Etios Sedan XLS 1.5 (Flex) (Aut)",
+        "ano": 2018
+      },
+      {
+        "id": 17379,
+        "idUrl": "etios-sedan-xs-15-flex-aut-2018",
+        "nome": "Etios Sedan XS 1.5 (Flex) (Aut)",
+        "ano": 2018
+      },
+      {
+        "id": 17407,
+        "idUrl": "etios-sedan-x-15-flex-aut-2018",
+        "nome": "Etios Sedan X 1.5 (Flex) (Aut)",
+        "ano": 2018
+      },
+      {
+        "id": 17377,
+        "idUrl": "etios-sedan-xs-15-flex-2018",
+        "nome": "Etios Sedan XS 1.5 (Flex)",
+        "ano": 2018
+      },
+      {
+        "id": 17405,
+        "idUrl": "etios-sedan-x-15-flex-2018",
+        "nome": "Etios Sedan X 1.5 (Flex)",
+        "ano": 2018
+      }
+    ]
+  }

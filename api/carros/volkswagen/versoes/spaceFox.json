@@ -1,0 +1,86 @@
+{
+    "2012": [
+      {
+        "id": 18147,
+        "idUrl": "spacecross-16-8v-flex-2012",
+        "nome": "SpaceCross 1.6 8V (Flex)",
+        "ano": 2012
+      },
+      {
+        "id": 18159,
+        "idUrl": "spacecross-16-8v-imotion-flex-2012",
+        "nome": "SpaceCross 1.6 8V I-Motion (Flex)",
+        "ano": 2012
+      }
+    ],
+    "2013": [
+      {
+        "id": 18146,
+        "idUrl": "spacecross-16-8v-flex-2013",
+        "nome": "SpaceCross 1.6 8V (Flex)",
+        "ano": 2013
+      },
+      {
+        "id": 18144,
+        "idUrl": "spacecross-16-8v-imotion-flex-2013",
+        "nome": "SpaceCross 1.6 8V I-Motion (Flex)",
+        "ano": 2013
+      }
+    ],
+    "2014": [
+      {
+        "id": 18145,
+        "idUrl": "spacecross-16-8v-flex-2014",
+        "nome": "SpaceCross 1.6 8V (Flex)",
+        "ano": 2014
+      },
+      {
+        "id": 18142,
+        "idUrl": "spacecross-16-8v-imotion-flex-2014",
+        "nome": "SpaceCross 1.6 8V I-Motion (Flex)",
+        "ano": 2014
+      }
+    ],
+    "2015": [
+      {
+        "id": 18150,
+        "idUrl": "spacecross-16-16v-msi-imotion-flex-2015",
+        "nome": "SpaceCross 1.6 16V MSI I-Motion (Flex)",
+        "ano": 2015
+      },
+      {
+        "id": 18153,
+        "idUrl": "spacecross-16-16v-msi-flex-2015",
+        "nome": "SpaceCross 1.6 16V MSI (Flex)",
+        "ano": 2015
+      }
+    ],
+    "2016": [
+      {
+        "id": 18149,
+        "idUrl": "spacecross-16-16v-msi-imotion-flex-2016",
+        "nome": "SpaceCross 1.6 16V MSI I-Motion (Flex)",
+        "ano": 2016
+      },
+      {
+        "id": 18152,
+        "idUrl": "spacecross-16-16v-msi-flex-2016",
+        "nome": "SpaceCross 1.6 16V MSI (Flex)",
+        "ano": 2016
+      }
+    ],
+    "2017": [
+      {
+        "id": 18151,
+        "idUrl": "spacecross-16-16v-msi-flex-2017",
+        "nome": "SpaceCross 1.6 16V MSI (Flex)",
+        "ano": 2017
+      },
+      {
+        "id": 18148,
+        "idUrl": "spacecross-16-16v-msi-imotion-flex-2017",
+        "nome": "SpaceCross 1.6 16V MSI I-Motion (Flex)",
+        "ano": 2017
+      }
+    ]
+  }

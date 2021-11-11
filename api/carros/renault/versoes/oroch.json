@@ -1,0 +1,378 @@
+{
+    "2012": [
+      {
+        "id": 16157,
+        "idUrl": "duster-20-16v-dynamique-4x4-flex-2012",
+        "nome": "Duster 2.0 16V Dynamique 4x4 (Flex)",
+        "ano": 2012
+      },
+      {
+        "id": 16119,
+        "idUrl": "duster-20-16v-dynamique-flexaut-2012",
+        "nome": "Duster 2.0 16V Dynamique (Flex)(Aut)",
+        "ano": 2012
+      },
+      {
+        "id": 16059,
+        "idUrl": "duster-16-16v-dynamique-flex-2012",
+        "nome": "Duster 1.6 16V Dynamique (Flex)",
+        "ano": 2012
+      },
+      {
+        "id": 16080,
+        "idUrl": "duster-20-16v-dynamique-flex-2012",
+        "nome": "Duster 2.0 16V Dynamique (Flex)",
+        "ano": 2012
+      },
+      {
+        "id": 16065,
+        "idUrl": "duster-16-16v-expression-flex-2012",
+        "nome": "Duster 1.6 16V Expression (Flex)",
+        "ano": 2012
+      },
+      {
+        "id": 16087,
+        "idUrl": "duster-16-16v-flex-2012",
+        "nome": "Duster 1.6 16V (Flex)",
+        "ano": 2012
+      }
+    ],
+    "2013": [
+      {
+        "id": 16158,
+        "idUrl": "duster-20-16v-dynamique-4x4-flex-2013",
+        "nome": "Duster 2.0 16V Dynamique 4x4 (Flex)",
+        "ano": 2013
+      },
+      {
+        "id": 16161,
+        "idUrl": "duster-20-16v-tech-road-aut-flex-2013",
+        "nome": "Duster 2.0 16V Tech Road (Aut) (Flex)",
+        "ano": 2013
+      },
+      {
+        "id": 16120,
+        "idUrl": "duster-20-16v-dynamique-flexaut-2013",
+        "nome": "Duster 2.0 16V Dynamique (Flex)(Aut)",
+        "ano": 2013
+      },
+      {
+        "id": 16074,
+        "idUrl": "duster-20-16v-tech-road-flex-2013",
+        "nome": "Duster 2.0 16V  Tech Road (Flex)",
+        "ano": 2013
+      },
+      {
+        "id": 16081,
+        "idUrl": "duster-20-16v-dynamique-flex-2013",
+        "nome": "Duster 2.0 16V Dynamique (Flex)",
+        "ano": 2013
+      },
+      {
+        "id": 16060,
+        "idUrl": "duster-16-16v-dynamique-flex-2013",
+        "nome": "Duster 1.6 16V Dynamique (Flex)",
+        "ano": 2013
+      },
+      {
+        "id": 16066,
+        "idUrl": "duster-16-16v-expression-flex-2013",
+        "nome": "Duster 1.6 16V Expression (Flex)",
+        "ano": 2013
+      },
+      {
+        "id": 16085,
+        "idUrl": "duster-16-16v-flex-2013",
+        "nome": "Duster 1.6 16V (Flex)",
+        "ano": 2013
+      },
+      {
+        "id": 16071,
+        "idUrl": "duster-16-16v-tech-road-flex-2013",
+        "nome": "Duster 1.6 16V Tech Road (Flex)",
+        "ano": 2013
+      }
+    ],
+    "2014": [
+      {
+        "id": 16168,
+        "idUrl": "duster-20-16v-tech-road-ii-4x4-flex-2014",
+        "nome": "Duster 2.0 16V Tech Road II 4x4 (Flex)",
+        "ano": 2014
+      },
+      {
+        "id": 16159,
+        "idUrl": "duster-20-16v-dynamique-4x4-flex-2014",
+        "nome": "Duster 2.0 16V Dynamique 4x4 (Flex)",
+        "ano": 2014
+      },
+      {
+        "id": 16056,
+        "idUrl": "duster-16-16v-flex-2014",
+        "nome": "Duster 1.6 16V (Flex)",
+        "ano": 2014
+      },
+      {
+        "id": 16121,
+        "idUrl": "duster-20-16v-dynamique-flexaut-2014",
+        "nome": "Duster 2.0 16V Dynamique (Flex)(Aut)",
+        "ano": 2014
+      },
+      {
+        "id": 16162,
+        "idUrl": "duster-20-16v-tech-road-aut-flex-2014",
+        "nome": "Duster 2.0 16V Tech Road (Aut) (Flex)",
+        "ano": 2014
+      },
+      {
+        "id": 16164,
+        "idUrl": "duster-20-16v-tech-road-ii-aut-flex-2014",
+        "nome": "Duster 2.0 16V Tech Road II (Aut) (Flex)",
+        "ano": 2014
+      },
+      {
+        "id": 16082,
+        "idUrl": "duster-20-16v-dynamique-flex-2014",
+        "nome": "Duster 2.0 16V Dynamique (Flex)",
+        "ano": 2014
+      },
+      {
+        "id": 16165,
+        "idUrl": "duster-20-16v-tech-road-ii-flex-2014",
+        "nome": "Duster 2.0 16V Tech Road II (Flex)",
+        "ano": 2014
+      },
+      {
+        "id": 16075,
+        "idUrl": "duster-20-16v-tech-road-flex-2014",
+        "nome": "Duster 2.0 16V  Tech Road (Flex)",
+        "ano": 2014
+      },
+      {
+        "id": 16061,
+        "idUrl": "duster-16-16v-dynamique-flex-2014",
+        "nome": "Duster 1.6 16V Dynamique (Flex)",
+        "ano": 2014
+      },
+      {
+        "id": 16067,
+        "idUrl": "duster-16-16v-expression-flex-2014",
+        "nome": "Duster 1.6 16V Expression (Flex)",
+        "ano": 2014
+      },
+      {
+        "id": 16072,
+        "idUrl": "duster-16-16v-tech-road-flex-2014",
+        "nome": "Duster 1.6 16V Tech Road (Flex)",
+        "ano": 2014
+      }
+    ],
+    "2015": [
+      {
+        "id": 16167,
+        "idUrl": "duster-20-16v-tech-road-ii-4wd-flex-2015",
+        "nome": "Duster 2.0 16V Tech Road II 4wd (Flex)",
+        "ano": 2015
+      },
+      {
+        "id": 16155,
+        "idUrl": "duster-20-16v-dynamique-4wd-flex-2015",
+        "nome": "Duster 2.0 16V Dynamique 4wd (Flex)",
+        "ano": 2015
+      },
+      {
+        "id": 16163,
+        "idUrl": "duster-20-16v-tech-road-ii-aut-2015",
+        "nome": "Duster 2.0 16V Tech Road II (Aut)",
+        "ano": 2015
+      },
+      {
+        "id": 16077,
+        "idUrl": "duster-20-16v-dynamique-aut-flex-2015",
+        "nome": "Duster 2.0 16V Dynamique (Aut) (Flex)",
+        "ano": 2015
+      },
+      {
+        "id": 16166,
+        "idUrl": "duster-20-16v-tech-road-ii-flex-2015",
+        "nome": "Duster 2.0 16V Tech Road II (Flex)",
+        "ano": 2015
+      },
+      {
+        "id": 16083,
+        "idUrl": "duster-20-16v-dynamique-flex-2015",
+        "nome": "Duster 2.0 16V Dynamique (Flex)",
+        "ano": 2015
+      },
+      {
+        "id": 16062,
+        "idUrl": "duster-16-16v-dynamique-flex-2015",
+        "nome": "Duster 1.6 16V Dynamique (Flex)",
+        "ano": 2015
+      },
+      {
+        "id": 16068,
+        "idUrl": "duster-16-16v-expression-flex-2015",
+        "nome": "Duster 1.6 16V Expression (Flex)",
+        "ano": 2015
+      },
+      {
+        "id": 16057,
+        "idUrl": "duster-16-16v-flex-2015",
+        "nome": "Duster 1.6 16V (Flex)",
+        "ano": 2015
+      },
+      {
+        "id": 16170,
+        "idUrl": "duster-outdoor-16-16v-flex-2015",
+        "nome": "Duster Outdoor 1.6 16V (Flex)",
+        "ano": 2015
+      }
+    ],
+    "2016": [
+      {
+        "id": 16156,
+        "idUrl": "duster-20-16v-dynamique-4wd-flex-2016",
+        "nome": "Duster 2.0 16V Dynamique 4wd (Flex)",
+        "ano": 2016
+      },
+      {
+        "id": 16078,
+        "idUrl": "duster-20-16v-dynamique-aut-flex-2016",
+        "nome": "Duster 2.0 16V Dynamique (Aut) (Flex)",
+        "ano": 2016
+      },
+      {
+        "id": 16084,
+        "idUrl": "duster-20-16v-dynamique-flex-2016",
+        "nome": "Duster 2.0 16V Dynamique (Flex)",
+        "ano": 2016
+      },
+      {
+        "id": 16076,
+        "idUrl": "duster-20-16v-dakar-4x4-flex-2016",
+        "nome": "Duster 2.0 16V Dakar 4x4 (Flex)",
+        "ano": 2016
+      },
+      {
+        "id": 16058,
+        "idUrl": "duster-16-16v-dakar-flex-2016",
+        "nome": "Duster 1.6 16V Dakar (Flex)",
+        "ano": 2016
+      },
+      {
+        "id": 16063,
+        "idUrl": "duster-16-16v-dynamique-flex-2016",
+        "nome": "Duster 1.6 16V Dynamique (Flex)",
+        "ano": 2016
+      },
+      {
+        "id": 16069,
+        "idUrl": "duster-16-16v-expression-flex-2016",
+        "nome": "Duster 1.6 16V Expression (Flex)",
+        "ano": 2016
+      }
+    ],
+    "2017": [
+      {
+        "id": 16070,
+        "idUrl": "duster-16-16v-expression-flex-2017",
+        "nome": "Duster 1.6 16V Expression (Flex)",
+        "ano": 2017
+      },
+      {
+        "id": 16160,
+        "idUrl": "duster-20-16v-dynamique-4x4-flex-2017",
+        "nome": "Duster 2.0 16V Dynamique 4x4 (Flex)",
+        "ano": 2017
+      },
+      {
+        "id": 16079,
+        "idUrl": "duster-20-16v-dynamique-aut-flex-2017",
+        "nome": "Duster 2.0 16V Dynamique (Aut) (Flex)",
+        "ano": 2017
+      },
+      {
+        "id": 16086,
+        "idUrl": "duster-20-16v-dynamique-flex-2017",
+        "nome": "Duster 2.0 16V Dynamique (Flex)",
+        "ano": 2017
+      },
+      {
+        "id": 16064,
+        "idUrl": "duster-16-16v-dynamique-flex-2017",
+        "nome": "Duster 1.6 16V Dynamique (Flex)",
+        "ano": 2017
+      }
+    ],
+    "2018": [
+      {
+        "id": 21731,
+        "idUrl": "duster-20-16v-dakar-ii-4x4-flex-2018",
+        "nome": "Duster 2.0 16V Dakar II 4x4 (Flex)",
+        "ano": 2018
+      },
+      {
+        "id": 21734,
+        "idUrl": "duster-20-16v-dynamique-4x4-flex-2018",
+        "nome": "Duster 2.0 16V Dynamique 4x4 (Flex)",
+        "ano": 2018
+      },
+      {
+        "id": 21727,
+        "idUrl": "duster-16-16v-sce-dakar-ii-flex-2018",
+        "nome": "Duster 1.6 16V SCe Dakar II (Flex)",
+        "ano": 2018
+      },
+      {
+        "id": 22133,
+        "idUrl": "renault-duster-dynamique-20-2018",
+        "nome": "Renault Duster Dynamique 2.0",
+        "ano": 2018
+      },
+      {
+        "id": 21733,
+        "idUrl": "duster-20-16v-dynamique-flex-2018",
+        "nome": "Duster 2.0 16V Dynamique (Flex)",
+        "ano": 2018
+      },
+      {
+        "id": 21725,
+        "idUrl": "duster-16-16v-expression-flex-2018",
+        "nome": "Duster 1.6 16V Expression (Flex)",
+        "ano": 2018
+      },
+      {
+        "id": 21724,
+        "idUrl": "duster-16-16v-dynamique-flex-2018",
+        "nome": "Duster 1.6 16V Dynamique (Flex)",
+        "ano": 2018
+      }
+    ],
+    "2021": [
+      {
+        "id": 22471,
+        "idUrl": "duster-16-16v-iconic-cvt-xtronic-aut-2021",
+        "nome": "Duster 1.6 16V Iconic CVT X-TRONIC (Aut)",
+        "ano": 2021
+      },
+      {
+        "id": 22472,
+        "idUrl": "duster-16-16v-intense-cvt-xtronic-aut-2021",
+        "nome": "Duster 1.6 16V Intense CVT X-TRONIC (Aut)",
+        "ano": 2021
+      },
+      {
+        "id": 22473,
+        "idUrl": "duster-16-16v-zen-cvt-xtronic-aut-2021",
+        "nome": "Duster 1.6 16V Zen CVT X-TRONIC (Aut)",
+        "ano": 2021
+      },
+      {
+        "id": 22474,
+        "idUrl": "duster-16-16v-zen-2021",
+        "nome": "Duster 1.6 16V Zen",
+        "ano": 2021
+      }
+    ]
+  }

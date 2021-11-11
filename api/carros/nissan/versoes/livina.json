@@ -1,0 +1,210 @@
+{
+    "2010": [
+      {
+        "id": 13597,
+        "idUrl": "livina-xgear-sl-18-16v-flex-aut-2010",
+        "nome": "Livina X-Gear SL 1.8 16V (flex) (aut)",
+        "ano": 2010
+      },
+      {
+        "id": 13570,
+        "idUrl": "livina-xgear-s-16-16v-flex-2010",
+        "nome": "Livina X-Gear S 1.6 16V (flex)",
+        "ano": 2010
+      },
+      {
+        "id": 13572,
+        "idUrl": "livina-xgear-16-16v-flex-2010",
+        "nome": "Livina X-Gear 1.6 16V (flex)",
+        "ano": 2010
+      },
+      {
+        "id": 13575,
+        "idUrl": "livina-sl-18-16v-aut-flex-2010",
+        "nome": "Livina SL 1.8 16V aut. (flex)",
+        "ano": 2010
+      },
+      {
+        "id": 13585,
+        "idUrl": "livina-s-18-16v-flex-aut-2010",
+        "nome": "Livina S 1.8 16V (flex) (aut)",
+        "ano": 2010
+      },
+      {
+        "id": 13569,
+        "idUrl": "livina-xgear-sl-16-16v-flex-2010",
+        "nome": "Livina X-Gear SL 1.6 16V (flex)",
+        "ano": 2010
+      },
+      {
+        "id": 13582,
+        "idUrl": "livina-sl-16-16v-flex-2010",
+        "nome": "Livina SL 1.6 16V (flex)",
+        "ano": 2010
+      },
+      {
+        "id": 13590,
+        "idUrl": "livina-s-16-16v-flex-2010",
+        "nome": "Livina S 1.6 16V (flex)",
+        "ano": 2010
+      },
+      {
+        "id": 13626,
+        "idUrl": "livina-18-16v-flex-aut-2010",
+        "nome": "Livina 1.8 16V (flex) (aut)",
+        "ano": 2010
+      },
+      {
+        "id": 13661,
+        "idUrl": "livina-16-16v-flex-2010",
+        "nome": "Livina 1.6 16V (flex)",
+        "ano": 2010
+      }
+    ],
+    "2011": [
+      {
+        "id": 22352,
+        "idUrl": "livina-xgear-sl-18-flex-aut-2011",
+        "nome": "Livina X-Gear SL 1.8 Flex (Aut)",
+        "ano": 2011
+      },
+      {
+        "id": 13573,
+        "idUrl": "livina-sl-18-16v-aut-flex-2011",
+        "nome": "Livina SL 1.8 16V aut. (flex)",
+        "ano": 2011
+      },
+      {
+        "id": 13580,
+        "idUrl": "livina-xgear-sl-16-16v-flex-2011",
+        "nome": "Livina X-Gear SL 1.6 16V (flex)",
+        "ano": 2011
+      },
+      {
+        "id": 13581,
+        "idUrl": "livina-sl-16-16v-flex-2011",
+        "nome": "Livina SL 1.6 16V (flex)",
+        "ano": 2011
+      },
+      {
+        "id": 13589,
+        "idUrl": "livina-s-16-16v-flex-2011",
+        "nome": "Livina S 1.6 16V (flex)",
+        "ano": 2011
+      },
+      {
+        "id": 13593,
+        "idUrl": "livina-night-day-16-16v-flex-2011",
+        "nome": "Livina Night & Day 1.6 16V (flex)",
+        "ano": 2011
+      },
+      {
+        "id": 13659,
+        "idUrl": "livina-16-16v-flex-2011",
+        "nome": "Livina 1.6 16V (flex)",
+        "ano": 2011
+      }
+    ],
+    "2012": [
+      {
+        "id": 13622,
+        "idUrl": "livina-xgear-sl-18-16v-flex-aut-2012",
+        "nome": "Livina X-Gear SL 1.8 16V (flex) (aut)",
+        "ano": 2012
+      },
+      {
+        "id": 13577,
+        "idUrl": "livina-sl-18-16v-flex-aut-2012",
+        "nome": "Livina SL 1.8 16V (flex) (aut)",
+        "ano": 2012
+      },
+      {
+        "id": 13579,
+        "idUrl": "livina-sl-16-16v-flex-2012",
+        "nome": "Livina SL 1.6 16V (flex)",
+        "ano": 2012
+      },
+      {
+        "id": 13596,
+        "idUrl": "livina-xgear-sl-16-16v-flex-2012",
+        "nome": "Livina X-Gear SL 1.6 16V (flex)",
+        "ano": 2012
+      },
+      {
+        "id": 13588,
+        "idUrl": "livina-s-16-16v-flex-2012",
+        "nome": "Livina S 1.6 16V (flex)",
+        "ano": 2012
+      },
+      {
+        "id": 13592,
+        "idUrl": "livina-night-day-16-16v-flex-2012",
+        "nome": "Livina Night & Day 1.6 16V (flex)",
+        "ano": 2012
+      },
+      {
+        "id": 13658,
+        "idUrl": "livina-16-16v-flex-2012",
+        "nome": "Livina 1.6 16V (flex)",
+        "ano": 2012
+      }
+    ],
+    "2013": [
+      {
+        "id": 13621,
+        "idUrl": "livina-xgear-sl-18-16v-flex-aut-2013",
+        "nome": "Livina X-Gear SL 1.8 16V (flex) (aut)",
+        "ano": 2013
+      },
+      {
+        "id": 13576,
+        "idUrl": "livina-sl-18-16v-flex-aut-2013",
+        "nome": "Livina SL 1.8 16V (flex) (aut)",
+        "ano": 2013
+      },
+      {
+        "id": 13584,
+        "idUrl": "livina-s-18-16v-flex-aut-2013",
+        "nome": "Livina S 1.8 16V (flex) (aut)",
+        "ano": 2013
+      },
+      {
+        "id": 13587,
+        "idUrl": "livina-s-16-16v-flex-2013",
+        "nome": "Livina S 1.6 16V (flex)",
+        "ano": 2013
+      },
+      {
+        "id": 13627,
+        "idUrl": "livina-16-16v-flex-2013",
+        "nome": "Livina 1.6 16V (flex)",
+        "ano": 2013
+      }
+    ],
+    "2014": [
+      {
+        "id": 13655,
+        "idUrl": "livina-16-16v-flex-2014",
+        "nome": "Livina 1.6 16V (flex)",
+        "ano": 2014
+      },
+      {
+        "id": 13620,
+        "idUrl": "livina-xgear-sl-18-16v-flex-aut-2014",
+        "nome": "Livina X-Gear SL 1.8 16V (flex) (aut)",
+        "ano": 2014
+      },
+      {
+        "id": 13583,
+        "idUrl": "livina-s-18-16v-flex-aut-2014",
+        "nome": "Livina S 1.8 16V (flex) (aut)",
+        "ano": 2014
+      },
+      {
+        "id": 13586,
+        "idUrl": "livina-s-16-16v-flex-2014",
+        "nome": "Livina S 1.6 16V (flex)",
+        "ano": 2014
+      }
+    ]
+  }

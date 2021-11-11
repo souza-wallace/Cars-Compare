@@ -1,0 +1,34 @@
+{
+    "2019": [
+      {
+        "id": 22228,
+        "idUrl": "yaris-sedan-xls-15-16v-cvt-2019",
+        "nome": "Yaris Sedan XLS 1.5 16V CVT",
+        "ano": 2019
+      },
+      {
+        "id": 22229,
+        "idUrl": "yaris-sedan-xs-15-16v-cvt-2019",
+        "nome": "Yaris Sedan XS 1.5 16V CVT",
+        "ano": 2019
+      },
+      {
+        "id": 22230,
+        "idUrl": "yaris-sedan-xl-plus-tech-15-16v-cvt-2019",
+        "nome": "Yaris Sedan XL Plus Tech 1.5 16V CVT",
+        "ano": 2019
+      },
+      {
+        "id": 22231,
+        "idUrl": "yaris-sedan-xl-15-16v-cvt-2019",
+        "nome": "Yaris Sedan XL 1.5 16V CVT",
+        "ano": 2019
+      },
+      {
+        "id": 22232,
+        "idUrl": "yaris-sedan-xl-15-16v-2019",
+        "nome": "Yaris Sedan XL 1.5 16V",
+        "ano": 2019
+      }
+    ]
+  }

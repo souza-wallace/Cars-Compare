@@ -1,0 +1,120 @@
+{
+    "2011": [
+      {
+        "id": 13757,
+        "idUrl": "408-griffe-20-16v-aut-flex-2011",
+        "nome": "408 Griffe 2.0 16V (aut) (Flex)",
+        "ano": 2011
+      },
+      {
+        "id": 13746,
+        "idUrl": "408-allure-20-16v-aut-flex-2011",
+        "nome": "408 Allure 2.0 16V (aut) (Flex)",
+        "ano": 2011
+      }
+    ],
+    "2012": [
+      {
+        "id": 13754,
+        "idUrl": "408-griffe-16-thp-aut-2012",
+        "nome": "408 Griffe 1.6 THP (aut)",
+        "ano": 2012
+      },
+      {
+        "id": 13750,
+        "idUrl": "408-feline-20-16v-aut-flex-2012",
+        "nome": "408 Feline 2.0 16V (aut) (Flex)",
+        "ano": 2012
+      },
+      {
+        "id": 13772,
+        "idUrl": "408-allure-20-16v-flex-2012",
+        "nome": "408 Allure 2.0 16V (Flex)",
+        "ano": 2012
+      }
+    ],
+    "2013": [
+      {
+        "id": 13755,
+        "idUrl": "408-griffe-16-thp-aut-2013",
+        "nome": "408 Griffe 1.6 THP (aut)",
+        "ano": 2013
+      },
+      {
+        "id": 13747,
+        "idUrl": "408-allure-20-16v-aut-flex-2013",
+        "nome": "408 Allure 2.0 16V (aut) (Flex)",
+        "ano": 2013
+      },
+      {
+        "id": 13770,
+        "idUrl": "408-allure-20-16v-flex-2013",
+        "nome": "408 Allure 2.0 16V (Flex)",
+        "ano": 2013
+      }
+    ],
+    "2014": [
+      {
+        "id": 13756,
+        "idUrl": "408-griffe-16-thp-aut-2014",
+        "nome": "408 Griffe 1.6 THP (aut)",
+        "ano": 2014
+      },
+      {
+        "id": 13799,
+        "idUrl": "408-allure-20-16v-autflex-2014",
+        "nome": "408 Allure 2.0 16V (Aut)(Flex)",
+        "ano": 2014
+      },
+      {
+        "id": 13745,
+        "idUrl": "408-allure-20-16v-flex-2014",
+        "nome": "408 Allure 2.0 16V (Flex)",
+        "ano": 2014
+      }
+    ],
+    "2015": [
+      {
+        "id": 13751,
+        "idUrl": "408-griffe-16-thp-aut-2015",
+        "nome": "408 Griffe 1.6 THP (Aut)",
+        "ano": 2015
+      },
+      {
+        "id": 13798,
+        "idUrl": "408-allure-20-16v-aut-flex-2015",
+        "nome": "408 Allure 2.0 16V (Aut) (Flex)",
+        "ano": 2015
+      }
+    ],
+    "2016": [
+      {
+        "id": 13752,
+        "idUrl": "408-griffe-16-thp-aut-flex-2016",
+        "nome": "408 Griffe 1.6 THP (Aut) (Flex)",
+        "ano": 2016
+      },
+      {
+        "id": 13773,
+        "idUrl": "408-allure-20-16v-aut-flex-2016",
+        "nome": "408 Allure 2.0 16V (Aut) (Flex)",
+        "ano": 2016
+      }
+    ],
+    "2017": [
+      {
+        "id": 13753,
+        "idUrl": "408-griffe-16-thp-aut-flex-2017",
+        "nome": "408 Griffe 1.6 THP (Aut) (Flex)",
+        "ano": 2017
+      }
+    ],
+    "2018": [
+      {
+        "id": 22135,
+        "idUrl": "peugeot-408-business-16-turbo-at-2018",
+        "nome": "Peugeot 408 Business 1.6 Turbo AT",
+        "ano": 2018
+      }
+    ]
+  }

@@ -1,0 +1,716 @@
+{
+    "2001": [
+      {
+        "id": 13557,
+        "idUrl": "frontier-ax-4x4-25-2001",
+        "nome": "Frontier AX 4x4 2.5",
+        "ano": 2001
+      }
+    ],
+    "2002": [
+      {
+        "id": 13560,
+        "idUrl": "frontier-ax-4x4-25-2002",
+        "nome": "Frontier AX 4x4  2.5",
+        "ano": 2002
+      },
+      {
+        "id": 13642,
+        "idUrl": "frontier-xe-4x4-28-cab-dupla-2002",
+        "nome": "Frontier XE 4x4 2.8 (cab. dupla)",
+        "ano": 2002
+      },
+      {
+        "id": 13490,
+        "idUrl": "frontier-se-4x2-28-cabdupla-2002",
+        "nome": "Frontier SE 4x2 2.8 (cab.dupla)",
+        "ano": 2002
+      }
+    ],
+    "2003": [
+      {
+        "id": 13452,
+        "idUrl": "frontier-se-one-4x4-28-cabdupla-2003",
+        "nome": "Frontier SE One 4x4 2.8 (cab.dupla)",
+        "ano": 2003
+      },
+      {
+        "id": 13463,
+        "idUrl": "frontier-se-4x4-28-cabdupla-2003",
+        "nome": "Frontier SE 4x4 2.8 (cab.dupla)",
+        "ano": 2003
+      },
+      {
+        "id": 13476,
+        "idUrl": "frontier-se-strike-4x4-28-cab-dupla-2003",
+        "nome": "Frontier SE Strike 4x4 2.8 (cab. dupla)",
+        "ano": 2003
+      },
+      {
+        "id": 13654,
+        "idUrl": "frontier-xe-4x4-28-cab-dupla-2003",
+        "nome": "Frontier XE 4x4 2.8 (cab. dupla)",
+        "ano": 2003
+      },
+      {
+        "id": 13487,
+        "idUrl": "frontier-titanium-4x4-28-cabdupla-2003",
+        "nome": "Frontier Titanium 4x4 2.8 (cab.dupla)",
+        "ano": 2003
+      },
+      {
+        "id": 13455,
+        "idUrl": "frontier-se-one-4x2-28-cabdupla-2003",
+        "nome": "Frontier SE One 4x2 2.8 (cab.dupla)",
+        "ano": 2003
+      },
+      {
+        "id": 13473,
+        "idUrl": "frontier-se-4x2-28-cabdupla-2003",
+        "nome": "Frontier SE 4x2 2.8 (cab.dupla)",
+        "ano": 2003
+      },
+      {
+        "id": 13489,
+        "idUrl": "frontier-titanium-4x2-28-cabdupla-2003",
+        "nome": "Frontier Titanium 4x2 2.8 (cab.dupla)",
+        "ano": 2003
+      },
+      {
+        "id": 13478,
+        "idUrl": "frontier-xe-4x2-28-cab-dupla-2003",
+        "nome": "Frontier XE 4x2 2.8 (cab. dupla)",
+        "ano": 2003
+      },
+      {
+        "id": 13566,
+        "idUrl": "frontier-xe-4x2-28-cab-simples-2003",
+        "nome": "Frontier XE 4x2 2.8 (cab. simples)",
+        "ano": 2003
+      }
+    ],
+    "2004": [
+      {
+        "id": 13474,
+        "idUrl": "frontier-se-serrana-4x4-28-cabdupla-2004",
+        "nome": "Frontier SE Serrana 4x4 2.8 (cab.dupla)",
+        "ano": 2004
+      },
+      {
+        "id": 13462,
+        "idUrl": "frontier-se-4x4-28-cabdupla-2004",
+        "nome": "Frontier SE 4x4 2.8 (cab.dupla)",
+        "ano": 2004
+      },
+      {
+        "id": 13477,
+        "idUrl": "frontier-se-strike-4x4-28-cab-dupla-2004",
+        "nome": "Frontier SE Strike 4x4 2.8 (cab. dupla)",
+        "ano": 2004
+      },
+      {
+        "id": 13641,
+        "idUrl": "frontier-xe-4x4-28-cab-dupla-2004",
+        "nome": "Frontier XE 4x4 2.8 (cab. dupla)",
+        "ano": 2004
+      },
+      {
+        "id": 13472,
+        "idUrl": "frontier-se-4x2-28-cabdupla-2004",
+        "nome": "Frontier SE 4x2 2.8 (cab.dupla)",
+        "ano": 2004
+      },
+      {
+        "id": 13535,
+        "idUrl": "frontier-xe-4x2-28-cab-dupla-2004",
+        "nome": "Frontier XE 4x2 2.8 (cab. dupla)",
+        "ano": 2004
+      },
+      {
+        "id": 13567,
+        "idUrl": "frontier-xe-4x2-28-cab-simples-2004",
+        "nome": "Frontier XE 4x2 2.8 (cab. simples)",
+        "ano": 2004
+      }
+    ],
+    "2005": [
+      {
+        "id": 13449,
+        "idUrl": "frontier-se-serrana-4x4-28-cabdupla-2005",
+        "nome": "Frontier SE Serrana 4x4 2.8 (cab.dupla)",
+        "ano": 2005
+      },
+      {
+        "id": 13465,
+        "idUrl": "frontier-se-4x4-28-cabdupla-2005",
+        "nome": "Frontier SE 4x4 2.8 (cab.dupla)",
+        "ano": 2005
+      },
+      {
+        "id": 13475,
+        "idUrl": "frontier-se-strike-4x4-28-cab-dupla-2005",
+        "nome": "Frontier SE Strike 4x4 2.8 (cab. dupla)",
+        "ano": 2005
+      },
+      {
+        "id": 13643,
+        "idUrl": "frontier-xe-4x4-28-cab-dupla-2005",
+        "nome": "Frontier XE 4x4 2.8 (cab. dupla)",
+        "ano": 2005
+      },
+      {
+        "id": 13505,
+        "idUrl": "frontier-se-4x2-28-cabdupla-2005",
+        "nome": "Frontier SE 4x2 2.8 (cab.dupla)",
+        "ano": 2005
+      },
+      {
+        "id": 13480,
+        "idUrl": "frontier-xe-4x2-28-cab-dupla-2005",
+        "nome": "Frontier XE 4x2 2.8 (cab. dupla)",
+        "ano": 2005
+      },
+      {
+        "id": 13565,
+        "idUrl": "frontier-xe-4x2-28-cab-simples-2005",
+        "nome": "Frontier XE 4x2 2.8 (cab. simples)",
+        "ano": 2005
+      }
+    ],
+    "2006": [
+      {
+        "id": 13631,
+        "idUrl": "frontier-xe-attack-4x4-28-eletronic-cabdupla-2006",
+        "nome": "Frontier XE Attack 4x4 2.8 Eletronic (cab.dupla)",
+        "ano": 2006
+      },
+      {
+        "id": 13634,
+        "idUrl": "frontier-xe-attack-4x2-28-eletronic-cab-dupla-2006",
+        "nome": "Frontier XE Attack 4x2 2.8 Eletronic (cab. dupla)",
+        "ano": 2006
+      },
+      {
+        "id": 13503,
+        "idUrl": "frontier-se-strike-4x4-28-eletronic-cab-dupla-2006",
+        "nome": "Frontier SE Strike 4x4 2.8 Eletronic (cab. dupla)",
+        "ano": 2006
+      },
+      {
+        "id": 13639,
+        "idUrl": "frontier-xe-4x4-28-eletronic-cab-dupla-2006",
+        "nome": "Frontier XE 4x4 2.8 Eletronic (cab. dupla)",
+        "ano": 2006
+      },
+      {
+        "id": 13652,
+        "idUrl": "frontier-xe-4x2-28-eletronic-cab-dupla-2006",
+        "nome": "Frontier XE 4x2 2.8 Eletronic (cab. dupla)",
+        "ano": 2006
+      },
+      {
+        "id": 13651,
+        "idUrl": "frontier-xe-4x2-28-eletronic-cab-simples-2006",
+        "nome": "Frontier XE 4x2 2.8 Eletronic (cab. simples)",
+        "ano": 2006
+      }
+    ],
+    "2007": [
+      {
+        "id": 13500,
+        "idUrl": "frontier-se-vibe-4x2-28-eletronic-cab-dupla-2007",
+        "nome": "Frontier SE Vibe 4x2 2.8 Eletronic (cab. dupla)",
+        "ano": 2007
+      },
+      {
+        "id": 13451,
+        "idUrl": "frontier-se-serrana-4x4-28-cab-dupla-2007",
+        "nome": "Frontier SE Serrana 4x4 2.8 (cab. dupla)",
+        "ano": 2007
+      },
+      {
+        "id": 13461,
+        "idUrl": "frontier-se-4x4-28-eletronic-cab-dupla-2007",
+        "nome": "Frontier SE 4x4 2.8 Eletronic (cab. dupla)",
+        "ano": 2007
+      },
+      {
+        "id": 13502,
+        "idUrl": "frontier-se-strike-4x4-28-eletronic-cab-dupla-2007",
+        "nome": "Frontier SE Strike 4x4 2.8 Eletronic (cab. dupla)",
+        "ano": 2007
+      },
+      {
+        "id": 13638,
+        "idUrl": "frontier-xe-4x4-28-eletronic-cab-dupla-2007",
+        "nome": "Frontier XE 4x4 2.8 Eletronic (cab. dupla)",
+        "ano": 2007
+      },
+      {
+        "id": 13632,
+        "idUrl": "frontier-xe-attack-4x4-28-eletronic-cabdupla-2007",
+        "nome": "Frontier XE Attack 4x4 2.8 Eletronic (cab.dupla)",
+        "ano": 2007
+      },
+      {
+        "id": 13636,
+        "idUrl": "frontier-xe-attack-4x2-28-eletronic-cab-dupla-2007",
+        "nome": "Frontier XE Attack 4x2 2.8 Eletronic (cab. dupla)",
+        "ano": 2007
+      },
+      {
+        "id": 13471,
+        "idUrl": "frontier-se-4x2-28-eletronic-cab-dupla-2007",
+        "nome": "Frontier SE 4x2 2.8 Eletronic (cab. dupla)",
+        "ano": 2007
+      },
+      {
+        "id": 13653,
+        "idUrl": "frontier-xe-4x2-28-eletronic-cab-dupla-2007",
+        "nome": "Frontier XE 4x2 2.8 Eletronic (cab. dupla)",
+        "ano": 2007
+      },
+      {
+        "id": 13650,
+        "idUrl": "frontier-xe-4x2-28-eletronic-cab-simples-2007",
+        "nome": "Frontier XE 4x2 2.8 Eletronic (cab. simples)",
+        "ano": 2007
+      }
+    ],
+    "2008": [
+      {
+        "id": 13497,
+        "idUrl": "frontier-sel-4x4-25-16v-cab-dupla-aut-2008",
+        "nome": "Frontier SEL 4x4 2.5 16V (cab. dupla) (aut)",
+        "ano": 2008
+      },
+      {
+        "id": 13498,
+        "idUrl": "frontier-sel-4x4-25-16v-cab-dupla-2008",
+        "nome": "Frontier SEL 4x4 2.5 16V (cab. dupla)",
+        "ano": 2008
+      },
+      {
+        "id": 13501,
+        "idUrl": "frontier-se-strike-4x4-28-eletronic-cab-dupla-2008",
+        "nome": "Frontier SE Strike 4x4 2.8 Eletronic (cab. dupla)",
+        "ano": 2008
+      },
+      {
+        "id": 13637,
+        "idUrl": "frontier-xe-4x4-28-eletronic-cab-dupla-2008",
+        "nome": "Frontier XE 4x4 2.8 Eletronic (cab. dupla)",
+        "ano": 2008
+      },
+      {
+        "id": 13633,
+        "idUrl": "frontier-xe-attack-4x4-28-eletronic-cab-dupla-2008",
+        "nome": "Frontier XE Attack 4x4 2.8 Eletronic (cab. dupla)",
+        "ano": 2008
+      },
+      {
+        "id": 13635,
+        "idUrl": "frontier-xe-attack-4x2-28-eletronic-cab-dupla-2008",
+        "nome": "Frontier XE Attack 4x2 2.8 Eletronic (cab. dupla)",
+        "ano": 2008
+      }
+    ],
+    "2009": [
+      {
+        "id": 13549,
+        "idUrl": "frontier-le-4x4-25-16v-cab-dupla-aut-2009",
+        "nome": "Frontier LE 4x4 2.5 16V (cab. dupla) (aut)",
+        "ano": 2009
+      },
+      {
+        "id": 13468,
+        "idUrl": "frontier-se-4x4-25-16v-cab-dupla-2009",
+        "nome": "Frontier SE 4x4 2.5 16V (cab. dupla)",
+        "ano": 2009
+      },
+      {
+        "id": 13554,
+        "idUrl": "frontier-le-4x4-25-16v-cab-dupla-2009",
+        "nome": "Frontier LE 4x4 2.5 16V (cab. dupla)",
+        "ano": 2009
+      },
+      {
+        "id": 13538,
+        "idUrl": "frontier-se-4x2-25-16v-cab-dupla-2009",
+        "nome": "Frontier SE 4x2 2.5 16V (cab. dupla)",
+        "ano": 2009
+      },
+      {
+        "id": 13647,
+        "idUrl": "frontier-xe-4x4-25-16v-cab-dupla-2009",
+        "nome": "Frontier XE 4x4 2.5 16V (cab. dupla)",
+        "ano": 2009
+      },
+      {
+        "id": 13484,
+        "idUrl": "frontier-xe-4x2-25-16v-cab-dupla-2009",
+        "nome": "Frontier XE 4x2 2.5 16V (cab. dupla)",
+        "ano": 2009
+      }
+    ],
+    "2010": [
+      {
+        "id": 13548,
+        "idUrl": "frontier-le-4x4-25-16v-cab-dupla-aut-2010",
+        "nome": "Frontier LE 4x4 2.5 16V (cab. dupla) (aut)",
+        "ano": 2010
+      },
+      {
+        "id": 13553,
+        "idUrl": "frontier-le-4x4-25-16v-cab-dupla-2010",
+        "nome": "Frontier LE 4x4 2.5 16V (cab. dupla)",
+        "ano": 2010
+      },
+      {
+        "id": 13467,
+        "idUrl": "frontier-se-4x4-25-16v-cab-dupla-2010",
+        "nome": "Frontier SE 4x4 2.5 16V (cab. dupla)",
+        "ano": 2010
+      },
+      {
+        "id": 13646,
+        "idUrl": "frontier-xe-4x4-25-16v-cab-dupla-2010",
+        "nome": "Frontier XE 4x4 2.5 16V (cab. dupla)",
+        "ano": 2010
+      },
+      {
+        "id": 13483,
+        "idUrl": "frontier-xe-4x2-25-16v-cab-dupla-2010",
+        "nome": "Frontier XE 4x2 2.5 16V (cab. dupla)",
+        "ano": 2010
+      },
+      {
+        "id": 13507,
+        "idUrl": "frontier-se-4x2-25-16v-cab-dupla-2010",
+        "nome": "Frontier SE 4x2 2.5 16V (cab. dupla)",
+        "ano": 2010
+      }
+    ],
+    "2011": [
+      {
+        "id": 13551,
+        "idUrl": "frontier-le-4x4-25-16v-cab-dupla-aut-2011",
+        "nome": "Frontier LE 4x4 2.5 16V (cab. dupla) (aut)",
+        "ano": 2011
+      },
+      {
+        "id": 13555,
+        "idUrl": "frontier-le-4x4-25-16v-cab-dupla-2011",
+        "nome": "Frontier LE 4x4 2.5 16V (cab. dupla)",
+        "ano": 2011
+      },
+      {
+        "id": 13469,
+        "idUrl": "frontier-se-4x4-25-16v-cab-dupla-2011",
+        "nome": "Frontier SE 4x4 2.5 16V (cab. dupla)",
+        "ano": 2011
+      },
+      {
+        "id": 13504,
+        "idUrl": "frontier-strike-25-4x4-2011",
+        "nome": "Frontier Strike 2.5 4X4",
+        "ano": 2011
+      },
+      {
+        "id": 13648,
+        "idUrl": "frontier-xe-4x4-25-16v-cab-dupla-2011",
+        "nome": "Frontier XE 4x4 2.5 16V (cab. dupla)",
+        "ano": 2011
+      },
+      {
+        "id": 13485,
+        "idUrl": "frontier-xe-4x2-25-16v-cab-dupla-2011",
+        "nome": "Frontier XE 4x2 2.5 16V (cab. dupla)",
+        "ano": 2011
+      },
+      {
+        "id": 13493,
+        "idUrl": "frontier-strike-25-4x2-2011",
+        "nome": "Frontier Strike 2.5 4X2",
+        "ano": 2011
+      },
+      {
+        "id": 13539,
+        "idUrl": "frontier-se-4x2-25-16v-cab-dupla-2011",
+        "nome": "Frontier SE 4x2 2.5 16V (cab. dupla)",
+        "ano": 2011
+      }
+    ],
+    "2012": [
+      {
+        "id": 13547,
+        "idUrl": "frontier-le-4x4-25-16v-cab-dupla-aut-2012",
+        "nome": "Frontier LE 4x4 2.5 16V (cab. dupla) (aut)",
+        "ano": 2012
+      },
+      {
+        "id": 13552,
+        "idUrl": "frontier-le-4x4-25-16v-cab-dupla-2012",
+        "nome": "Frontier LE 4x4 2.5 16V (cab. dupla)",
+        "ano": 2012
+      },
+      {
+        "id": 13459,
+        "idUrl": "frontier-se-attack-25-4x4-cabdupla-2012",
+        "nome": "Frontier SE Attack 2.5 4X4 (Cab.Dupla)",
+        "ano": 2012
+      },
+      {
+        "id": 13545,
+        "idUrl": "frontier-le-attack-25-4x4-cabdupla-aut-2012",
+        "nome": "Frontier LE Attack 2.5 4X4 (Cab.Dupla) (aut)",
+        "ano": 2012
+      },
+      {
+        "id": 13466,
+        "idUrl": "frontier-se-4x4-25-16v-cab-dupla-2012",
+        "nome": "Frontier SE 4x4 2.5 16V (cab. dupla)",
+        "ano": 2012
+      },
+      {
+        "id": 13491,
+        "idUrl": "frontier-strike-25-4x4-2012",
+        "nome": "Frontier Strike 2.5 4X4",
+        "ano": 2012
+      },
+      {
+        "id": 13457,
+        "idUrl": "frontier-se-attack-25-4x2-cabdupla-2012",
+        "nome": "Frontier SE Attack 2.5 4x2 (Cab.Dupla)",
+        "ano": 2012
+      },
+      {
+        "id": 13645,
+        "idUrl": "frontier-xe-4x4-25-16v-cab-dupla-2012",
+        "nome": "Frontier XE 4x4 2.5 16V (cab. dupla)",
+        "ano": 2012
+      },
+      {
+        "id": 13492,
+        "idUrl": "frontier-strike-25-4x2-2012",
+        "nome": "Frontier Strike 2.5 4X2",
+        "ano": 2012
+      },
+      {
+        "id": 13506,
+        "idUrl": "frontier-se-4x2-25-16v-cab-dupla-2012",
+        "nome": "Frontier SE 4x2 2.5 16V (cab. dupla)",
+        "ano": 2012
+      },
+      {
+        "id": 13482,
+        "idUrl": "frontier-xe-4x2-25-16v-cab-dupla-2012",
+        "nome": "Frontier XE 4x2 2.5 16V (cab. dupla)",
+        "ano": 2012
+      }
+    ],
+    "2013": [
+      {
+        "id": 13496,
+        "idUrl": "frontier-sl-25-td-cd-4x4-aut-2013",
+        "nome": "Frontier SL 2.5 TD CD 4x4 (aut)",
+        "ano": 2013
+      },
+      {
+        "id": 13544,
+        "idUrl": "frontier-le-attack-25-4x4-cabdupla-aut-2013",
+        "nome": "Frontier LE Attack 2.5 4X4 (Cab.Dupla) (aut)",
+        "ano": 2013
+      },
+      {
+        "id": 13546,
+        "idUrl": "frontier-le-4x4-25-16v-cab-dupla-aut-2013",
+        "nome": "Frontier LE 4x4 2.5 16V (cab. dupla) (aut)",
+        "ano": 2013
+      },
+      {
+        "id": 13564,
+        "idUrl": "frontier-le-4x4-25-16v-cab-dupla-2013",
+        "nome": "Frontier LE 4x4 2.5 16V (cab. dupla)",
+        "ano": 2013
+      },
+      {
+        "id": 13494,
+        "idUrl": "frontier-sv-attack-25-td-cd-4x4-2013",
+        "nome": "Frontier SV Attack 2.5 TD CD 4x4",
+        "ano": 2013
+      },
+      {
+        "id": 13458,
+        "idUrl": "frontier-se-attack-25-4x4-cabdupla-2013",
+        "nome": "Frontier SE Attack 2.5 4X4 (Cab.Dupla)",
+        "ano": 2013
+      },
+      {
+        "id": 13456,
+        "idUrl": "frontier-se-attack-25-4x2-cabdupla-2013",
+        "nome": "Frontier SE Attack 2.5 4x2 (Cab.Dupla)",
+        "ano": 2013
+      },
+      {
+        "id": 13644,
+        "idUrl": "frontier-xe-4x4-25-16v-cab-dupla-2013",
+        "nome": "Frontier XE 4x4 2.5 16V (cab. dupla)",
+        "ano": 2013
+      },
+      {
+        "id": 13495,
+        "idUrl": "frontier-sv-attack-25-td-cd-4x2-2013",
+        "nome": "Frontier SV Attack 2.5 TD CD 4x2",
+        "ano": 2013
+      },
+      {
+        "id": 13481,
+        "idUrl": "frontier-xe-4x2-25-16v-cab-dupla-2013",
+        "nome": "Frontier XE 4x2 2.5 16V (cab. dupla)",
+        "ano": 2013
+      }
+    ],
+    "2014": [
+      {
+        "id": 13509,
+        "idUrl": "frontier-25-td-cd-4x4-sl-aut-2014",
+        "nome": "Frontier 2.5 TD CD 4x4 SL (Aut)",
+        "ano": 2014
+      },
+      {
+        "id": 13542,
+        "idUrl": "frontier-platinum-25-td-cd-4x4-2014",
+        "nome": "Frontier Platinum 2.5 TD CD 4x4",
+        "ano": 2014
+      },
+      {
+        "id": 13520,
+        "idUrl": "frontier-25-td-cd-4x4-sv-attack-2014",
+        "nome": "Frontier 2.5 TD CD 4x4 SV Attack",
+        "ano": 2014
+      },
+      {
+        "id": 13511,
+        "idUrl": "frontier-25-td-cd-4x4-s-2014",
+        "nome": "Frontier 2.5 TD CD 4x4 S",
+        "ano": 2014
+      },
+      {
+        "id": 13513,
+        "idUrl": "frontier-25-td-cd-4x2-sv-attack-2014",
+        "nome": "Frontier 2.5 TD CD 4x2 SV Attack",
+        "ano": 2014
+      },
+      {
+        "id": 13541,
+        "idUrl": "frontier-s-25-td-cd-4x2-2014",
+        "nome": "Frontier S 2.5 TD CD 4x2",
+        "ano": 2014
+      }
+    ],
+    "2015": [
+      {
+        "id": 13508,
+        "idUrl": "frontier-25-td-cd-4x4-sl-aut-2015",
+        "nome": "Frontier 2.5 TD CD 4x4 SL (Aut)",
+        "ano": 2015
+      },
+      {
+        "id": 13550,
+        "idUrl": "frontier-25-td-cd-4x4-sv-attack-aut-2015",
+        "nome": "Frontier 2.5 TD CD 4x4 SV Attack (Aut)",
+        "ano": 2015
+      },
+      {
+        "id": 13536,
+        "idUrl": "frontier-25-td-cd-4x4-sv-attack-2015",
+        "nome": "Frontier 2.5 TD CD 4x4 SV Attack",
+        "ano": 2015
+      },
+      {
+        "id": 13510,
+        "idUrl": "frontier-25-td-cd-4x4-s-2015",
+        "nome": "Frontier 2.5 TD CD 4x4 S",
+        "ano": 2015
+      },
+      {
+        "id": 13540,
+        "idUrl": "frontier-s-25-td-cd-4x2-2015",
+        "nome": "Frontier S 2.5 TD CD 4x2",
+        "ano": 2015
+      },
+      {
+        "id": 13512,
+        "idUrl": "frontier-25-td-cd-4x2-sv-attack-2015",
+        "nome": "Frontier 2.5 TD CD 4x2 SV Attack",
+        "ano": 2015
+      }
+    ],
+    "2016": [
+      {
+        "id": 13563,
+        "idUrl": "frontier-25-td-cd-sl-4x4-aut-2016",
+        "nome": "Frontier 2.5 TD CD SL 4x4 (Aut)",
+        "ano": 2016
+      },
+      {
+        "id": 13561,
+        "idUrl": "frontier-25-td-cd-sv-attack-4x4-aut-2016",
+        "nome": "Frontier 2.5 TD CD SV Attack 4x4 (Aut)",
+        "ano": 2016
+      },
+      {
+        "id": 13562,
+        "idUrl": "frontier-25-td-cd-sv-attack-4x4-2016",
+        "nome": "Frontier 2.5 TD CD SV Attack 4x4",
+        "ano": 2016
+      },
+      {
+        "id": 13537,
+        "idUrl": "frontier-25-td-cd-s-4x4-2016",
+        "nome": "Frontier 2.5 TD CD S 4x4",
+        "ano": 2016
+      }
+    ],
+    "2017": [
+      {
+        "id": 13514,
+        "idUrl": "frontier-23-td-cd-le-4x4-aut-2017",
+        "nome": "Frontier 2.3 TD CD LE 4x4 (Aut) ",
+        "ano": 2017
+      }
+    ],
+    "2019": [
+      {
+        "id": 22319,
+        "idUrl": "frontier-23-le-cd-turbo-4x4-aut-2019",
+        "nome": "Frontier 2.3 LE CD Turbo 4x4 (Aut)",
+        "ano": 2019
+      },
+      {
+        "id": 22320,
+        "idUrl": "frontier-23-td-cd-attack-4x2-aut-2019",
+        "nome": "Frontier 2.3 TD CD Attack 4x2 (Aut)",
+        "ano": 2019
+      },
+      {
+        "id": 22321,
+        "idUrl": "frontier-23-td-cd-attack-4x4-aut-2019",
+        "nome": "Frontier 2.3 TD CD Attack 4x4 (Aut)",
+        "ano": 2019
+      },
+      {
+        "id": 22318,
+        "idUrl": "frontier-23-xe-cd-4x4-aut-2019",
+        "nome": "Frontier 2.3 XE CD 4x4 (Aut)",
+        "ano": 2019
+      },
+      {
+        "id": 22322,
+        "idUrl": "frontier-23-td-cd-s-turbo-4x4-2019",
+        "nome": "Frontier 2.3 TD CD S Turbo 4x4",
+        "ano": 2019
+      }
+    ]
+  }

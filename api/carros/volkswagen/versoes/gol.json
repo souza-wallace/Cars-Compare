@@ -1,0 +1,2288 @@
+{
+    "1985": [
+      {
+        "id": 19471,
+        "idUrl": "gol-s-16-1985",
+        "nome": "Gol S 1.6",
+        "ano": 1985
+      },
+      {
+        "id": 19561,
+        "idUrl": "gol-plus-16-1985",
+        "nome": "Gol Plus 1.6",
+        "ano": 1985
+      },
+      {
+        "id": 19163,
+        "idUrl": "gol-ls-16-motor-ap-1985",
+        "nome": "Gol LS 1.6 (motor AP)",
+        "ano": 1985
+      },
+      {
+        "id": 18796,
+        "idUrl": "gol-gt-18-1985",
+        "nome": "Gol GT 1.8",
+        "ano": 1985
+      }
+    ],
+    "1986": [
+      {
+        "id": 18865,
+        "idUrl": "gol-c-16-1986",
+        "nome": "Gol C 1.6",
+        "ano": 1986
+      },
+      {
+        "id": 18864,
+        "idUrl": "gol-cl-16-1986",
+        "nome": "Gol CL 1.6",
+        "ano": 1986
+      }
+    ],
+    "1987": [
+      {
+        "id": 18787,
+        "idUrl": "gol-gts-18-1987",
+        "nome": "Gol GTS 1.8",
+        "ano": 1987
+      }
+    ],
+    "1988": [
+      {
+        "id": 18810,
+        "idUrl": "gol-gl-18-1988",
+        "nome": "Gol GL 1.8",
+        "ano": 1988
+      }
+    ],
+    "1989": [
+      {
+        "id": 18790,
+        "idUrl": "gol-gti-20-i-1989",
+        "nome": "Gol GTI 2.0 i",
+        "ano": 1989
+      },
+      {
+        "id": 19669,
+        "idUrl": "gol-star-18-1989",
+        "nome": "Gol Star 1.8",
+        "ano": 1989
+      },
+      {
+        "id": 18859,
+        "idUrl": "gol-cl-18-1989",
+        "nome": "Gol CL 1.8",
+        "ano": 1989
+      }
+    ],
+    "1991": [
+      {
+        "id": 18786,
+        "idUrl": "gol-gts-18-s-1991",
+        "nome": "Gol GTS 1.8 S",
+        "ano": 1991
+      }
+    ],
+    "1993": [
+      {
+        "id": 18863,
+        "idUrl": "gol-cl-16-motor-ap-1993",
+        "nome": "Gol CL 1.6 (motor AP)",
+        "ano": 1993
+      }
+    ],
+    "1994": [
+      {
+        "id": 18797,
+        "idUrl": "gol-gli-18-1994",
+        "nome": "Gol GLi 1.8",
+        "ano": 1994
+      },
+      {
+        "id": 18818,
+        "idUrl": "gol-cli-18-1994",
+        "nome": "Gol CLi 1.8",
+        "ano": 1994
+      },
+      {
+        "id": 18805,
+        "idUrl": "gol-copa-16-motor-ap-1994",
+        "nome": "Gol Copa 1.6 (motor AP)",
+        "ano": 1994
+      },
+      {
+        "id": 18853,
+        "idUrl": "gol-cli-16-1994",
+        "nome": "Gol CLi 1.6",
+        "ano": 1994
+      }
+    ],
+    "1995": [
+      {
+        "id": 18789,
+        "idUrl": "gol-gti-20-i-nova-serie-1995",
+        "nome": "Gol GTI 2.0 i (nova série)",
+        "ano": 1995
+      },
+      {
+        "id": 19440,
+        "idUrl": "gol-rolling-stones-16-i-1995",
+        "nome": "Gol Rolling Stones 1.6 i",
+        "ano": 1995
+      },
+      {
+        "id": 18617,
+        "idUrl": "gol-10-i-1995",
+        "nome": "Gol 1.0 i",
+        "ano": 1995
+      }
+    ],
+    "1996": [
+      {
+        "id": 18788,
+        "idUrl": "gol-gti-20-i-16v-1996",
+        "nome": "Gol GTI 2.0 i 16V",
+        "ano": 1996
+      },
+      {
+        "id": 18869,
+        "idUrl": "gol-atlanta-18-i-1996",
+        "nome": "Gol Atlanta 1.8 i",
+        "ano": 1996
+      },
+      {
+        "id": 19666,
+        "idUrl": "gol-tsi-20-1996",
+        "nome": "Gol TSi 2.0",
+        "ano": 1996
+      },
+      {
+        "id": 19667,
+        "idUrl": "gol-tsi-18-mi-1996",
+        "nome": "Gol TSi 1.8 MI",
+        "ano": 1996
+      },
+      {
+        "id": 18871,
+        "idUrl": "gol-1000-1996",
+        "nome": "Gol 1000",
+        "ano": 1996
+      },
+      {
+        "id": 18883,
+        "idUrl": "gol-atlanta-16-i-1996",
+        "nome": "Gol Atlanta 1.6 i",
+        "ano": 1996
+      },
+      {
+        "id": 18823,
+        "idUrl": "gol-16-i-frotista-1996",
+        "nome": "Gol 1.6 i Frotista",
+        "ano": 1996
+      },
+      {
+        "id": 18745,
+        "idUrl": "gol-10-mi-1996",
+        "nome": "Gol 1.0 MI",
+        "ano": 1996
+      },
+      {
+        "id": 18618,
+        "idUrl": "gol-10-i-1996",
+        "nome": "Gol 1.0 i",
+        "ano": 1996
+      }
+    ],
+    "1997": [
+      {
+        "id": 18794,
+        "idUrl": "gol-gti-20-mi-1997",
+        "nome": "Gol GTI 2.0 MI",
+        "ano": 1997
+      },
+      {
+        "id": 19668,
+        "idUrl": "gol-tsi-18-mi-1997",
+        "nome": "Gol TSi 1.8 MI",
+        "ano": 1997
+      },
+      {
+        "id": 18812,
+        "idUrl": "gol-gl-18-mi-1997",
+        "nome": "Gol GL 1.8 MI",
+        "ano": 1997
+      },
+      {
+        "id": 18857,
+        "idUrl": "gol-cl-18-mi-1997",
+        "nome": "Gol CL 1.8 MI",
+        "ano": 1997
+      },
+      {
+        "id": 18815,
+        "idUrl": "gol-gl-16-mi-1997",
+        "nome": "Gol GL 1.6 MI",
+        "ano": 1997
+      },
+      {
+        "id": 18616,
+        "idUrl": "gol-10-i-1997",
+        "nome": "Gol 1.0 i",
+        "ano": 1997
+      }
+    ],
+    "1998": [
+      {
+        "id": 18795,
+        "idUrl": "gol-gti-20-16v-1998",
+        "nome": "Gol GTI 2.0 16V",
+        "ano": 1998
+      },
+      {
+        "id": 18798,
+        "idUrl": "gol-gls-20-mi-1998",
+        "nome": "Gol GLS 2.0 MI",
+        "ano": 1998
+      },
+      {
+        "id": 19664,
+        "idUrl": "gol-tsi-20-mi-1998",
+        "nome": "Gol TSi 2.0 MI",
+        "ano": 1998
+      },
+      {
+        "id": 19665,
+        "idUrl": "gol-tsi-20-1998",
+        "nome": "Gol TSi 2.0",
+        "ano": 1998
+      },
+      {
+        "id": 18800,
+        "idUrl": "gol-gl-18-mi-2p-1998",
+        "nome": "Gol GL 1.8 MI 2p",
+        "ano": 1998
+      },
+      {
+        "id": 18813,
+        "idUrl": "gol-gl-18-mi-1998",
+        "nome": "Gol GL 1.8 MI",
+        "ano": 1998
+      },
+      {
+        "id": 18854,
+        "idUrl": "gol-cl-18-mi-2p-1998",
+        "nome": "Gol CL 1.8 MI 2p",
+        "ano": 1998
+      },
+      {
+        "id": 18856,
+        "idUrl": "gol-cl-18-mi-1998",
+        "nome": "Gol CL 1.8 MI",
+        "ano": 1998
+      },
+      {
+        "id": 18809,
+        "idUrl": "gol-gl-16-mi-1998",
+        "nome": "Gol GL 1.6 MI",
+        "ano": 1998
+      },
+      {
+        "id": 19670,
+        "idUrl": "gol-star-16-mi-1998",
+        "nome": "Gol Star 1.6 MI",
+        "ano": 1998
+      },
+      {
+        "id": 18860,
+        "idUrl": "gol-cl-16-mi-2p-1998",
+        "nome": "Gol CL 1.6 MI 2p",
+        "ano": 1998
+      },
+      {
+        "id": 18861,
+        "idUrl": "gol-cl-16-mi-1998",
+        "nome": "Gol CL 1.6 MI",
+        "ano": 1998
+      },
+      {
+        "id": 19526,
+        "idUrl": "gol-plus-10-16v-mi-2p-1998",
+        "nome": "Gol Plus 1.0 16V MI 2p",
+        "ano": 1998
+      },
+      {
+        "id": 19527,
+        "idUrl": "gol-plus-10-16v-mi-1998",
+        "nome": "Gol Plus 1.0 16V MI",
+        "ano": 1998
+      },
+      {
+        "id": 19570,
+        "idUrl": "gol-plus-mi-10-8v-1998",
+        "nome": "Gol Plus MI 1.0 8V",
+        "ano": 1998
+      },
+      {
+        "id": 19571,
+        "idUrl": "gol-plus-mi-10-8v-2p-1998",
+        "nome": "Gol Plus MI 1.0 8V 2p",
+        "ano": 1998
+      },
+      {
+        "id": 18686,
+        "idUrl": "gol-10-16v-mi-1998",
+        "nome": "Gol 1.0 16V MI",
+        "ano": 1998
+      },
+      {
+        "id": 19503,
+        "idUrl": "gol-special-10-mi-1998",
+        "nome": "Gol Special 1.0 MI",
+        "ano": 1998
+      },
+      {
+        "id": 18730,
+        "idUrl": "gol-10-mi-1998",
+        "nome": "Gol 1.0 MI",
+        "ano": 1998
+      },
+      {
+        "id": 18721,
+        "idUrl": "gol-10-mi-16v-serie-ouro-1998",
+        "nome": "Gol 1.0 MI 16V Série Ouro",
+        "ano": 1998
+      },
+      {
+        "id": 18685,
+        "idUrl": "gol-10-16v-mi-2p-1998",
+        "nome": "Gol 1.0 16V MI 2p",
+        "ano": 1998
+      }
+    ],
+    "1999": [
+      {
+        "id": 18791,
+        "idUrl": "gol-gti-20-mi-16v-g3-1999",
+        "nome": "Gol GTI 2.0 MI 16V (G3)",
+        "ano": 1999
+      },
+      {
+        "id": 18793,
+        "idUrl": "gol-gti-20-mi-16v-1999",
+        "nome": "Gol GTI 2.0 MI 16V",
+        "ano": 1999
+      },
+      {
+        "id": 18799,
+        "idUrl": "gol-gls-20-mi-1999",
+        "nome": "Gol GLS 2.0 MI",
+        "ano": 1999
+      },
+      {
+        "id": 18814,
+        "idUrl": "gol-gl-18-mi-1999",
+        "nome": "Gol GL 1.8 MI",
+        "ano": 1999
+      },
+      {
+        "id": 18855,
+        "idUrl": "gol-cl-18-mi-1999",
+        "nome": "Gol CL 1.8 MI",
+        "ano": 1999
+      },
+      {
+        "id": 18862,
+        "idUrl": "gol-cl-16-mi-1999",
+        "nome": "Gol CL 1.6 MI",
+        "ano": 1999
+      },
+      {
+        "id": 18662,
+        "idUrl": "gol-16-mi-frotista-1999",
+        "nome": "Gol 1.6 MI Frotista",
+        "ano": 1999
+      },
+      {
+        "id": 18665,
+        "idUrl": "gol-16-2p-1999",
+        "nome": "Gol 1.6 2p",
+        "ano": 1999
+      },
+      {
+        "id": 18673,
+        "idUrl": "gol-16-mi-g3-1999",
+        "nome": "Gol 1.6 MI (G3)",
+        "ano": 1999
+      },
+      {
+        "id": 19504,
+        "idUrl": "gol-special-10-mi-1999",
+        "nome": "Gol Special 1.0 MI",
+        "ano": 1999
+      },
+      {
+        "id": 18874,
+        "idUrl": "gol-20-2p-1999",
+        "nome": "Gol 2.0 2p",
+        "ano": 1999
+      },
+      {
+        "id": 18735,
+        "idUrl": "gol-10-8v-2p-1999",
+        "nome": "Gol 1.0 8V 2p",
+        "ano": 1999
+      },
+      {
+        "id": 18723,
+        "idUrl": "gol-10-mi-16v-g3-1999",
+        "nome": "Gol 1.0 MI 16V (G3)",
+        "ano": 1999
+      },
+      {
+        "id": 18729,
+        "idUrl": "gol-10-mi-1999",
+        "nome": "Gol 1.0 MI",
+        "ano": 1999
+      },
+      {
+        "id": 18872,
+        "idUrl": "gol-16v-10-mi-1999",
+        "nome": "Gol 16V 1.0 MI",
+        "ano": 1999
+      },
+      {
+        "id": 18687,
+        "idUrl": "gol-10-16v-2p-1999",
+        "nome": "Gol 1.0 16V 2p",
+        "ano": 1999
+      }
+    ],
+    "2000": [
+      {
+        "id": 18792,
+        "idUrl": "gol-gti-20-mi-16v-g3-2000",
+        "nome": "Gol GTI 2.0 MI 16V (G3)",
+        "ano": 2000
+      },
+      {
+        "id": 18850,
+        "idUrl": "gol-18-mi-g3-2000",
+        "nome": "Gol 1.8 MI (G3)",
+        "ano": 2000
+      },
+      {
+        "id": 18881,
+        "idUrl": "gol-20-mi-g3-2000",
+        "nome": "Gol 2.0 MI (G3)",
+        "ano": 2000
+      },
+      {
+        "id": 18674,
+        "idUrl": "gol-16-mi-g3-2000",
+        "nome": "Gol 1.6 MI (G3)",
+        "ano": 2000
+      },
+      {
+        "id": 18724,
+        "idUrl": "gol-10-mi-16v-g3-2000",
+        "nome": "Gol 1.0 MI 16V (G3)",
+        "ano": 2000
+      },
+      {
+        "id": 18728,
+        "idUrl": "gol-10-mi-2000",
+        "nome": "Gol 1.0 MI",
+        "ano": 2000
+      },
+      {
+        "id": 19480,
+        "idUrl": "gol-special-10-mi-2p-2000",
+        "nome": "Gol Special 1.0 MI 2p",
+        "ano": 2000
+      },
+      {
+        "id": 19485,
+        "idUrl": "gol-special-10-mi-g3-2000",
+        "nome": "Gol Special 1.0 MI (G3)",
+        "ano": 2000
+      },
+      {
+        "id": 19489,
+        "idUrl": "gol-special-10-mi-2000",
+        "nome": "Gol Special 1.0 MI",
+        "ano": 2000
+      },
+      {
+        "id": 19509,
+        "idUrl": "gol-plus-10-mi-g3-16v-2000",
+        "nome": "Gol Plus 1.0 MI G3 16V",
+        "ano": 2000
+      },
+      {
+        "id": 19649,
+        "idUrl": "gol-turbo-10-mi-16v-2000",
+        "nome": "Gol Turbo 1.0 MI 16V",
+        "ano": 2000
+      },
+      {
+        "id": 19661,
+        "idUrl": "gol-turbo-plus-10-mi-16v-2000",
+        "nome": "Gol Turbo Plus 1.0 MI 16V",
+        "ano": 2000
+      }
+    ],
+    "2001": [
+      {
+        "id": 18851,
+        "idUrl": "gol-18-mi-g3-2001",
+        "nome": "Gol 1.8 MI (G3)",
+        "ano": 2001
+      },
+      {
+        "id": 18852,
+        "idUrl": "gol-18-mi-lowcost-2001",
+        "nome": "Gol 1.8 MI Low-Cost",
+        "ano": 2001
+      },
+      {
+        "id": 18877,
+        "idUrl": "gol-20-2p-2001",
+        "nome": "Gol 2.0 2p",
+        "ano": 2001
+      },
+      {
+        "id": 18882,
+        "idUrl": "gol-20-mi-g3-2001",
+        "nome": "Gol 2.0 MI (G3)",
+        "ano": 2001
+      },
+      {
+        "id": 18784,
+        "idUrl": "gol-highway-10-16v-mi-2001",
+        "nome": "Gol Highway 1.0 16V MI",
+        "ano": 2001
+      },
+      {
+        "id": 18806,
+        "idUrl": "gol-fun-10-16v-mi-2001",
+        "nome": "Gol Fun 1.0 16V MI",
+        "ano": 2001
+      },
+      {
+        "id": 18675,
+        "idUrl": "gol-16-mi-g3-2001",
+        "nome": "Gol 1.6 MI (G3)",
+        "ano": 2001
+      },
+      {
+        "id": 18720,
+        "idUrl": "gol-10-mi-16v-serie-ouro-2p-2001",
+        "nome": "Gol 1.0 MI 16V Série Ouro 2p",
+        "ano": 2001
+      },
+      {
+        "id": 18722,
+        "idUrl": "gol-10-mi-16v-serie-ouro-2001",
+        "nome": "Gol 1.0 MI 16V Série Ouro",
+        "ano": 2001
+      },
+      {
+        "id": 18725,
+        "idUrl": "gol-10-mi-16v-g3-2001",
+        "nome": "Gol 1.0 MI 16V (G3)",
+        "ano": 2001
+      },
+      {
+        "id": 18727,
+        "idUrl": "gol-10-mi-2001",
+        "nome": "Gol 1.0 MI",
+        "ano": 2001
+      },
+      {
+        "id": 19482,
+        "idUrl": "gol-special-10-mi-alcool-2p-2001",
+        "nome": "Gol Special 1.0 MI (Álcool) 2p",
+        "ano": 2001
+      },
+      {
+        "id": 19486,
+        "idUrl": "gol-special-10-mi-g3-2001",
+        "nome": "Gol Special 1.0 MI (G3)",
+        "ano": 2001
+      },
+      {
+        "id": 19490,
+        "idUrl": "gol-special-10-mi-2001",
+        "nome": "Gol Special 1.0 MI",
+        "ano": 2001
+      },
+      {
+        "id": 19511,
+        "idUrl": "gol-plus-10-mi-g3-2001",
+        "nome": "Gol Plus 1.0 MI G3",
+        "ano": 2001
+      },
+      {
+        "id": 19517,
+        "idUrl": "gol-plus-10-8v-2p-2001",
+        "nome": "Gol Plus 1.0 8V 2p",
+        "ano": 2001
+      },
+      {
+        "id": 19523,
+        "idUrl": "gol-plus-10-mi-g3-16v-2001",
+        "nome": "Gol Plus 1.0 MI G3 16V",
+        "ano": 2001
+      },
+      {
+        "id": 19528,
+        "idUrl": "gol-plus-10-16v-2p-2001",
+        "nome": "Gol Plus 1.0 16V 2p",
+        "ano": 2001
+      },
+      {
+        "id": 19648,
+        "idUrl": "gol-turbo-10-mi-16v-2001",
+        "nome": "Gol Turbo 1.0 MI 16V",
+        "ano": 2001
+      },
+      {
+        "id": 19678,
+        "idUrl": "gol-turbo-plus-10-mi-16v-2001",
+        "nome": "Gol Turbo Plus 1.0 MI 16V",
+        "ano": 2001
+      }
+    ],
+    "2002": [
+      {
+        "id": 18819,
+        "idUrl": "gol-18-mi-g3-2002",
+        "nome": "Gol 1.8 MI (G3)",
+        "ano": 2002
+      },
+      {
+        "id": 18822,
+        "idUrl": "gol-18-2p-2002",
+        "nome": "Gol 1.8 2p",
+        "ano": 2002
+      },
+      {
+        "id": 19553,
+        "idUrl": "gol-power-10-mi-16v-2002",
+        "nome": "Gol Power 1.0 MI 16V",
+        "ano": 2002
+      },
+      {
+        "id": 18875,
+        "idUrl": "gol-20-2p-2002",
+        "nome": "Gol 2.0 2p",
+        "ano": 2002
+      },
+      {
+        "id": 18879,
+        "idUrl": "gol-20-mi-g3-2002",
+        "nome": "Gol 2.0 MI (G3)",
+        "ano": 2002
+      },
+      {
+        "id": 19522,
+        "idUrl": "gol-plus-10-8v-alcool-2002",
+        "nome": "Gol Plus 1.0 8V (Álcool)",
+        "ano": 2002
+      },
+      {
+        "id": 19468,
+        "idUrl": "gol-power-16-mi-2002",
+        "nome": "Gol Power 1.6 MI",
+        "ano": 2002
+      },
+      {
+        "id": 18667,
+        "idUrl": "gol-16-8v-alcool-2002",
+        "nome": "Gol 1.6 8V (Álcool)",
+        "ano": 2002
+      },
+      {
+        "id": 18676,
+        "idUrl": "gol-16-mi-g3-2002",
+        "nome": "Gol 1.6 MI (G3)",
+        "ano": 2002
+      },
+      {
+        "id": 19493,
+        "idUrl": "gol-se-10-mi-2002",
+        "nome": "Gol SE 1.0 MI",
+        "ano": 2002
+      },
+      {
+        "id": 19505,
+        "idUrl": "gol-se-16-mi-2002",
+        "nome": "Gol SE 1.6 MI",
+        "ano": 2002
+      },
+      {
+        "id": 18785,
+        "idUrl": "gol-highway-10-16v-mi-2002",
+        "nome": "Gol Highway 1.0 16V MI",
+        "ano": 2002
+      },
+      {
+        "id": 18873,
+        "idUrl": "gol-16v-10-mi-sportline-2002",
+        "nome": "Gol 16V 1.0 MI Sportline",
+        "ano": 2002
+      },
+      {
+        "id": 19672,
+        "idUrl": "gol-sport-10-16v-mi-2002",
+        "nome": "Gol Sport 1.0 16V MI",
+        "ano": 2002
+      },
+      {
+        "id": 18668,
+        "idUrl": "gol-16-8v-alcool-2p-2002",
+        "nome": "Gol 1.6 8V (Álcool) 2p",
+        "ano": 2002
+      },
+      {
+        "id": 19557,
+        "idUrl": "gol-power-10-mi-2002",
+        "nome": "Gol Power 1.0 MI",
+        "ano": 2002
+      },
+      {
+        "id": 19573,
+        "idUrl": "gol-power-10-8v-2p-2002",
+        "nome": "Gol Power 1.0 8V 2p",
+        "ano": 2002
+      },
+      {
+        "id": 19653,
+        "idUrl": "gol-trend-10-mi-2002",
+        "nome": "Gol Trend 1.0 MI",
+        "ano": 2002
+      },
+      {
+        "id": 19656,
+        "idUrl": "gol-trend-10-8v-2p-2002",
+        "nome": "Gol Trend 1.0 8V 2p",
+        "ano": 2002
+      },
+      {
+        "id": 19529,
+        "idUrl": "gol-plus-10-16v-2p-2002",
+        "nome": "Gol Plus 1.0 16V 2p",
+        "ano": 2002
+      },
+      {
+        "id": 19540,
+        "idUrl": "gol-plus-10-mi-g3-16v-2002",
+        "nome": "Gol Plus 1.0 MI G3 16V",
+        "ano": 2002
+      },
+      {
+        "id": 18726,
+        "idUrl": "gol-10-mi-2002",
+        "nome": "Gol 1.0 MI",
+        "ano": 2002
+      },
+      {
+        "id": 18620,
+        "idUrl": "gol-10-turbo-2p-2002",
+        "nome": "Gol 1.0 Turbo 2p",
+        "ano": 2002
+      },
+      {
+        "id": 19647,
+        "idUrl": "gol-turbo-10-mi-16v-2002",
+        "nome": "Gol Turbo 1.0 MI 16V",
+        "ano": 2002
+      },
+      {
+        "id": 19679,
+        "idUrl": "gol-turbo-sportline-10-mi-16v-2002",
+        "nome": "Gol Turbo Sportline 1.0 MI 16V",
+        "ano": 2002
+      },
+      {
+        "id": 19474,
+        "idUrl": "gol-special-free-10-mi-2002",
+        "nome": "Gol Special Free 1.0 MI",
+        "ano": 2002
+      },
+      {
+        "id": 19479,
+        "idUrl": "gol-special-10-mi-2p-2002",
+        "nome": "Gol Special 1.0 MI 2p",
+        "ano": 2002
+      },
+      {
+        "id": 19481,
+        "idUrl": "gol-special-10-mi-alcool-2p-2002",
+        "nome": "Gol Special 1.0 MI (Álcool) 2p",
+        "ano": 2002
+      },
+      {
+        "id": 19513,
+        "idUrl": "gol-plus-10-mi-g3-2002",
+        "nome": "Gol Plus 1.0 MI G3",
+        "ano": 2002
+      },
+      {
+        "id": 19518,
+        "idUrl": "gol-plus-10-8v-2p-2002",
+        "nome": "Gol Plus 1.0 8V 2p",
+        "ano": 2002
+      },
+      {
+        "id": 19520,
+        "idUrl": "gol-plus-10-8v-alcool-2p-2002",
+        "nome": "Gol Plus 1.0 8V (Álcool) 2p",
+        "ano": 2002
+      }
+    ],
+    "2003": [
+      {
+        "id": 19464,
+        "idUrl": "gol-power-16-mi-flex-2003",
+        "nome": "Gol Power 1.6 MI (Flex)",
+        "ano": 2003
+      },
+      {
+        "id": 19469,
+        "idUrl": "gol-power-16-mi-2003",
+        "nome": "Gol Power 1.6 MI",
+        "ano": 2003
+      },
+      {
+        "id": 18754,
+        "idUrl": "gol-city-16-8v-alcool-2003",
+        "nome": "Gol City 1.6 8V (Álcool)",
+        "ano": 2003
+      },
+      {
+        "id": 19556,
+        "idUrl": "gol-power-10-mi-16v-2003",
+        "nome": "Gol Power 1.0 MI 16V",
+        "ano": 2003
+      },
+      {
+        "id": 19563,
+        "idUrl": "gol-plus-16-8v-2003",
+        "nome": "Gol Plus 1.6 8V",
+        "ano": 2003
+      },
+      {
+        "id": 19559,
+        "idUrl": "gol-power-10-mi-2003",
+        "nome": "Gol Power 1.0 MI",
+        "ano": 2003
+      },
+      {
+        "id": 19572,
+        "idUrl": "gol-power-10-8v-2p-2003",
+        "nome": "Gol Power 1.0 8V 2p",
+        "ano": 2003
+      },
+      {
+        "id": 19655,
+        "idUrl": "gol-trend-10-mi-2003",
+        "nome": "Gol Trend 1.0 MI",
+        "ano": 2003
+      },
+      {
+        "id": 19657,
+        "idUrl": "gol-trend-10-8v-2p-2003",
+        "nome": "Gol Trend 1.0 8V 2p",
+        "ano": 2003
+      },
+      {
+        "id": 19524,
+        "idUrl": "gol-plus-10-8v-alcool-2003",
+        "nome": "Gol Plus 1.0 8V (Álcool)",
+        "ano": 2003
+      },
+      {
+        "id": 19525,
+        "idUrl": "gol-plus-10-8v-2003",
+        "nome": "Gol Plus 1.0 8V",
+        "ano": 2003
+      },
+      {
+        "id": 18766,
+        "idUrl": "gol-city-10-mi-2003",
+        "nome": "Gol City 1.0 MI",
+        "ano": 2003
+      },
+      {
+        "id": 18774,
+        "idUrl": "gol-city-10-8v-alcool-2003",
+        "nome": "Gol City 1.0 8V (Álcool)",
+        "ano": 2003
+      },
+      {
+        "id": 19492,
+        "idUrl": "gol-se-10-mi-2003",
+        "nome": "Gol SE 1.0 MI",
+        "ano": 2003
+      },
+      {
+        "id": 19498,
+        "idUrl": "gol-se-16-mi-2003",
+        "nome": "Gol SE 1.6 MI",
+        "ano": 2003
+      },
+      {
+        "id": 18885,
+        "idUrl": "gol-highwayii-10-16v-2p-2003",
+        "nome": "Gol Highway-II 1.0 16V 2p",
+        "ano": 2003
+      },
+      {
+        "id": 19671,
+        "idUrl": "gol-sport-10-16v-mi-2003",
+        "nome": "Gol Sport 1.0 16V MI",
+        "ano": 2003
+      },
+      {
+        "id": 19162,
+        "idUrl": "gol-highwayii-10-16v-mi-2003",
+        "nome": "Gol Highway-II 1.0 16V MI",
+        "ano": 2003
+      },
+      {
+        "id": 18672,
+        "idUrl": "gol-16-mi-g3-2003",
+        "nome": "Gol 1.6 MI (G3)",
+        "ano": 2003
+      },
+      {
+        "id": 18782,
+        "idUrl": "gol-city-16-mi-flex-2003",
+        "nome": "Gol City 1.6 MI (Flex)",
+        "ano": 2003
+      },
+      {
+        "id": 19541,
+        "idUrl": "gol-plus-10-mi-g3-16v-2003",
+        "nome": "Gol Plus 1.0 MI G3 16V",
+        "ano": 2003
+      },
+      {
+        "id": 19565,
+        "idUrl": "gol-plus-16-8v-2p-2003",
+        "nome": "Gol Plus 1.6 8V 2p",
+        "ano": 2003
+      },
+      {
+        "id": 19574,
+        "idUrl": "gol-plus-16-mi-flex-2003",
+        "nome": "Gol Plus 1.6 MI (Flex)",
+        "ano": 2003
+      },
+      {
+        "id": 18770,
+        "idUrl": "gol-city-10-8v-2p-2003",
+        "nome": "Gol City 1.0 8V 2p",
+        "ano": 2003
+      },
+      {
+        "id": 18750,
+        "idUrl": "gol-city-16-mi-2003",
+        "nome": "Gol City 1.6 MI",
+        "ano": 2003
+      },
+      {
+        "id": 18752,
+        "idUrl": "gol-city-16-8v-alcool-2p-2003",
+        "nome": "Gol City 1.6 8V (Álcool) 2p",
+        "ano": 2003
+      },
+      {
+        "id": 19675,
+        "idUrl": "gol-special-free-16-mi-2003",
+        "nome": "Gol Special Free 1.6 MI",
+        "ano": 2003
+      },
+      {
+        "id": 19501,
+        "idUrl": "gol-special-10-8v-alcool-2003",
+        "nome": "Gol Special 1.0 8V (Álcool)",
+        "ano": 2003
+      },
+      {
+        "id": 19515,
+        "idUrl": "gol-plus-10-mi-g3-nova-serie-2003",
+        "nome": "Gol Plus 1.0 MI (G3) (nova série)",
+        "ano": 2003
+      },
+      {
+        "id": 19519,
+        "idUrl": "gol-plus-10-8v-2p-2003",
+        "nome": "Gol Plus 1.0 8V 2p",
+        "ano": 2003
+      },
+      {
+        "id": 19521,
+        "idUrl": "gol-plus-10-8v-alcool-2p-2003",
+        "nome": "Gol Plus 1.0 8V (Álcool) 2p",
+        "ano": 2003
+      },
+      {
+        "id": 19476,
+        "idUrl": "gol-special-free-10-mi-2003",
+        "nome": "Gol Special Free 1.0 MI",
+        "ano": 2003
+      },
+      {
+        "id": 19478,
+        "idUrl": "gol-special-10-mi-2p-2003",
+        "nome": "Gol Special 1.0 MI 2p",
+        "ano": 2003
+      },
+      {
+        "id": 19483,
+        "idUrl": "gol-special-10-mi-g3-nova-serie-2003",
+        "nome": "Gol Special 1.0 MI (G3) (nova série)",
+        "ano": 2003
+      },
+      {
+        "id": 19488,
+        "idUrl": "gol-special-10-mi-2003",
+        "nome": "Gol Special 1.0 MI",
+        "ano": 2003
+      },
+      {
+        "id": 19502,
+        "idUrl": "gol-special-10-8v-alcool-2p-2003",
+        "nome": "Gol Special 1.0 8V (Álcool) 2p",
+        "ano": 2003
+      },
+      {
+        "id": 19576,
+        "idUrl": "gol-special-free-10-mi-alcool-2003",
+        "nome": "Gol Special Free 1.0 MI (Álcool)",
+        "ano": 2003
+      },
+      {
+        "id": 19569,
+        "idUrl": "gol-plus-16-mi-g3-2003",
+        "nome": "Gol Plus 1.6 MI (G3)",
+        "ano": 2003
+      }
+    ],
+    "2004": [
+      {
+        "id": 19465,
+        "idUrl": "gol-power-16-mi-flex-2004",
+        "nome": "Gol Power 1.6 MI (Flex)",
+        "ano": 2004
+      },
+      {
+        "id": 19467,
+        "idUrl": "gol-power-16-mi-2004",
+        "nome": "Gol Power 1.6 MI",
+        "ano": 2004
+      },
+      {
+        "id": 18755,
+        "idUrl": "gol-city-16-8v-alcool-2004",
+        "nome": "Gol City 1.6 8V (Álcool)",
+        "ano": 2004
+      },
+      {
+        "id": 18775,
+        "idUrl": "gol-city-10-8v-alcool-2004",
+        "nome": "Gol City 1.0 8V (Álcool)",
+        "ano": 2004
+      },
+      {
+        "id": 18780,
+        "idUrl": "gol-city-10-mi-2004",
+        "nome": "Gol City 1.0 MI",
+        "ano": 2004
+      },
+      {
+        "id": 19510,
+        "idUrl": "gol-plus-10-mi-g3-16v-2004",
+        "nome": "Gol Plus 1.0 MI G3 16V",
+        "ano": 2004
+      },
+      {
+        "id": 19530,
+        "idUrl": "gol-plus-10-16v-2p-2004",
+        "nome": "Gol Plus 1.0 16V 2p",
+        "ano": 2004
+      },
+      {
+        "id": 18771,
+        "idUrl": "gol-city-10-8v-2p-2004",
+        "nome": "Gol City 1.0 8V 2p",
+        "ano": 2004
+      },
+      {
+        "id": 18773,
+        "idUrl": "gol-city-10-8v-alcool-2p-2004",
+        "nome": "Gol City 1.0 8V (Álcool) 2p",
+        "ano": 2004
+      },
+      {
+        "id": 18781,
+        "idUrl": "gol-city-16-mi-flex-2004",
+        "nome": "Gol City 1.6 MI (Flex)",
+        "ano": 2004
+      },
+      {
+        "id": 19475,
+        "idUrl": "gol-special-free-10-mi-2004",
+        "nome": "Gol Special Free 1.0 MI",
+        "ano": 2004
+      },
+      {
+        "id": 19484,
+        "idUrl": "gol-special-10-mi-g3-nova-serie-2004",
+        "nome": "Gol Special 1.0 MI (G3) (nova série)",
+        "ano": 2004
+      },
+      {
+        "id": 19487,
+        "idUrl": "gol-special-10-mi-2004",
+        "nome": "Gol Special 1.0 MI",
+        "ano": 2004
+      },
+      {
+        "id": 19644,
+        "idUrl": "gol-special-free-10-mi-alcool-2p-2004",
+        "nome": "Gol Special Free 1.0 MI (Álcool) 2p",
+        "ano": 2004
+      },
+      {
+        "id": 19673,
+        "idUrl": "gol-special-free-16-mi-2004",
+        "nome": "Gol Special Free 1.6 MI",
+        "ano": 2004
+      },
+      {
+        "id": 19676,
+        "idUrl": "gol-special-free-16-8v-2p-2004",
+        "nome": "Gol Special Free 1.6 8V 2p",
+        "ano": 2004
+      }
+    ],
+    "2005": [
+      {
+        "id": 19445,
+        "idUrl": "gol-rallye-18-8v-flex-2005",
+        "nome": "Gol Rallye 1.8 8V (Flex)",
+        "ano": 2005
+      },
+      {
+        "id": 19458,
+        "idUrl": "gol-power-18-mi-flex-2005",
+        "nome": "Gol Power 1.8 MI (Flex)",
+        "ano": 2005
+      },
+      {
+        "id": 19453,
+        "idUrl": "gol-rallye-16-8v-flex-2005",
+        "nome": "Gol Rallye 1.6 8V (Flex)",
+        "ano": 2005
+      },
+      {
+        "id": 19463,
+        "idUrl": "gol-power-16-mi-flex-2005",
+        "nome": "Gol Power 1.6 MI (Flex)",
+        "ano": 2005
+      },
+      {
+        "id": 18765,
+        "idUrl": "gol-city-10-mi-flex-2005",
+        "nome": "Gol City 1.0 MI (Flex)",
+        "ano": 2005
+      },
+      {
+        "id": 19531,
+        "idUrl": "gol-plus-10-16v-2p-2005",
+        "nome": "Gol Plus 1.0 16V 2p",
+        "ano": 2005
+      },
+      {
+        "id": 19542,
+        "idUrl": "gol-plus-10-mi-g3-16v-2005",
+        "nome": "Gol Plus 1.0 MI G3 16V",
+        "ano": 2005
+      },
+      {
+        "id": 18762,
+        "idUrl": "gol-city-10-mi-flex-2p-2005",
+        "nome": "Gol City 1.0 MI (Flex) 2p",
+        "ano": 2005
+      },
+      {
+        "id": 18768,
+        "idUrl": "gol-city-10-mi-2005",
+        "nome": "Gol City 1.0 MI",
+        "ano": 2005
+      },
+      {
+        "id": 18769,
+        "idUrl": "gol-city-10-8v-2p-alcool-2005",
+        "nome": "Gol City 1.0 8V 2p (Álcool)",
+        "ano": 2005
+      },
+      {
+        "id": 18783,
+        "idUrl": "gol-city-16-mi-flex-2005",
+        "nome": "Gol City 1.6 MI (Flex)",
+        "ano": 2005
+      },
+      {
+        "id": 19477,
+        "idUrl": "gol-special-free-10-mi-2005",
+        "nome": "Gol Special Free 1.0 MI",
+        "ano": 2005
+      },
+      {
+        "id": 19506,
+        "idUrl": "gol-special-free-10-mi-alcool-2005",
+        "nome": "Gol Special Free 1.0 MI (Álcool)",
+        "ano": 2005
+      }
+    ],
+    "2006": [
+      {
+        "id": 19462,
+        "idUrl": "gol-power-18-g4-flex-2006",
+        "nome": "Gol Power 1.8 (G4) (Flex)",
+        "ano": 2006
+      },
+      {
+        "id": 19552,
+        "idUrl": "gol-power-16-g4-flex-2006",
+        "nome": "Gol Power 1.6 (G4) (Flex)",
+        "ano": 2006
+      },
+      {
+        "id": 18804,
+        "idUrl": "gol-copa-16-g4-flex-2006",
+        "nome": "Gol Copa 1.6 (G4) (Flex)",
+        "ano": 2006
+      },
+      {
+        "id": 18803,
+        "idUrl": "gol-copa-10-g4-flex-2006",
+        "nome": "Gol Copa 1.0 (G4) (Flex)",
+        "ano": 2006
+      },
+      {
+        "id": 19538,
+        "idUrl": "gol-plus-10-g4-flex-2006",
+        "nome": "Gol Plus 1.0 (G4) (Flex)",
+        "ano": 2006
+      },
+      {
+        "id": 18776,
+        "idUrl": "gol-city-10-8v-flex-2p-2006",
+        "nome": "Gol City 1.0 8V (Flex) 2p",
+        "ano": 2006
+      },
+      {
+        "id": 19663,
+        "idUrl": "gol-tech-10-g4-flex-2006",
+        "nome": "Gol Tech 1.0 (G4) (Flex)",
+        "ano": 2006
+      },
+      {
+        "id": 18756,
+        "idUrl": "gol-city-16-8v-flex-2p-2006",
+        "nome": "Gol City 1.6 8V (Flex) 2p",
+        "ano": 2006
+      },
+      {
+        "id": 18761,
+        "idUrl": "gol-city-16-g4-flex-2006",
+        "nome": "Gol City 1.6 (G4) (Flex)",
+        "ano": 2006
+      },
+      {
+        "id": 18876,
+        "idUrl": "gol-city-10-g4-flex-2006",
+        "nome": "Gol City 1.0 (G4) (Flex)",
+        "ano": 2006
+      }
+    ],
+    "2007": [
+      {
+        "id": 19461,
+        "idUrl": "gol-power-18-g4-flex-2007",
+        "nome": "Gol Power 1.8 (G4) (Flex)",
+        "ano": 2007
+      },
+      {
+        "id": 19551,
+        "idUrl": "gol-power-16-g4-flex-2007",
+        "nome": "Gol Power 1.6 (G4) (Flex)",
+        "ano": 2007
+      },
+      {
+        "id": 19537,
+        "idUrl": "gol-plus-10-g4-flex-2007",
+        "nome": "Gol Plus 1.0 (G4) (Flex)",
+        "ano": 2007
+      },
+      {
+        "id": 18757,
+        "idUrl": "gol-city-16-g4-flex-2p-2007",
+        "nome": "Gol City 1.6 (G4) (Flex) 2p",
+        "ano": 2007
+      },
+      {
+        "id": 18760,
+        "idUrl": "gol-city-16-g4-flex-2007",
+        "nome": "Gol City 1.6 (G4) (Flex)",
+        "ano": 2007
+      },
+      {
+        "id": 19534,
+        "idUrl": "gol-plus-10-g4-flex-2p-2007",
+        "nome": "Gol Plus 1.0 (G4) (Flex) 2p",
+        "ano": 2007
+      },
+      {
+        "id": 18777,
+        "idUrl": "gol-city-10-g4-flex-2p-2007",
+        "nome": "Gol City 1.0 (G4) (Flex) 2p",
+        "ano": 2007
+      },
+      {
+        "id": 19659,
+        "idUrl": "gol-trend-10-g4-flex-2007",
+        "nome": "Gol Trend 1.0 (G4) (Flex)",
+        "ano": 2007
+      },
+      {
+        "id": 18817,
+        "idUrl": "gol-city-10-g4-flex-2007",
+        "nome": "Gol City 1.0 (G4) (Flex)",
+        "ano": 2007
+      }
+    ],
+    "2008": [
+      {
+        "id": 19470,
+        "idUrl": "gol-rallye-16-g4-flex-2008",
+        "nome": "Gol Rallye 1.6 (G4) (Flex)",
+        "ano": 2008
+      },
+      {
+        "id": 19460,
+        "idUrl": "gol-power-18-g4-flex-2008",
+        "nome": "Gol Power 1.8 (G4) (Flex)",
+        "ano": 2008
+      },
+      {
+        "id": 19550,
+        "idUrl": "gol-power-16-g4-flex-2008",
+        "nome": "Gol Power 1.6 (G4) (Flex)",
+        "ano": 2008
+      },
+      {
+        "id": 19652,
+        "idUrl": "gol-trend-16-g4-flex-2008",
+        "nome": "Gol Trend 1.6 (G4) (Flex)",
+        "ano": 2008
+      },
+      {
+        "id": 18758,
+        "idUrl": "gol-city-16-g4-flex-2p-2008",
+        "nome": "Gol City 1.6 (G4) (Flex) 2p",
+        "ano": 2008
+      },
+      {
+        "id": 18759,
+        "idUrl": "gol-city-16-g4-flex-2008",
+        "nome": "Gol City 1.6 (G4) (Flex)",
+        "ano": 2008
+      },
+      {
+        "id": 19535,
+        "idUrl": "gol-plus-10-g4-flex-2p-2008",
+        "nome": "Gol Plus 1.0 (G4) (Flex) 2p",
+        "ano": 2008
+      },
+      {
+        "id": 18778,
+        "idUrl": "gol-city-10-g4-flex-2p-2008",
+        "nome": "Gol City 1.0 (G4) (Flex) 2p",
+        "ano": 2008
+      },
+      {
+        "id": 19660,
+        "idUrl": "gol-trend-10-g4-flex-2008",
+        "nome": "Gol Trend 1.0 (G4) (Flex)",
+        "ano": 2008
+      },
+      {
+        "id": 18701,
+        "idUrl": "gol-10-g4-flex-2008",
+        "nome": "Gol 1.0 (G4) (Flex)",
+        "ano": 2008
+      },
+      {
+        "id": 18807,
+        "idUrl": "gol-city-10-g4-flex-2008",
+        "nome": "Gol City 1.0 (G4) (Flex)",
+        "ano": 2008
+      }
+    ],
+    "2009": [
+      {
+        "id": 19455,
+        "idUrl": "gol-rallye-16-g4-flex-2009",
+        "nome": "Gol Rallye 1.6 (G4) (Flex)",
+        "ano": 2009
+      },
+      {
+        "id": 19459,
+        "idUrl": "gol-power-18-g4-flex-2009",
+        "nome": "Gol Power 1.8 (G4) (Flex)",
+        "ano": 2009
+      },
+      {
+        "id": 19549,
+        "idUrl": "gol-power-16-g4-flex-2009",
+        "nome": "Gol Power 1.6 (G4) (Flex)",
+        "ano": 2009
+      },
+      {
+        "id": 19651,
+        "idUrl": "gol-trend-16-g4-flex-2009",
+        "nome": "Gol Trend 1.6 (G4) (Flex)",
+        "ano": 2009
+      },
+      {
+        "id": 19547,
+        "idUrl": "gol-power-16-g5-flex-2009",
+        "nome": "Gol Power 1.6 (G5) (Flex)",
+        "ano": 2009
+      },
+      {
+        "id": 18613,
+        "idUrl": "gol-16-g5-flex-2009",
+        "nome": "Gol 1.6 (G5) (Flex)",
+        "ano": 2009
+      },
+      {
+        "id": 18693,
+        "idUrl": "gol-10-g5-flex-2009",
+        "nome": "Gol 1.0 (G5) (Flex)",
+        "ano": 2009
+      },
+      {
+        "id": 19658,
+        "idUrl": "gol-trend-10-g5-flex-2009",
+        "nome": "Gol Trend 1.0 (G5) (Flex)",
+        "ano": 2009
+      },
+      {
+        "id": 18615,
+        "idUrl": "gol-16-g4-flex-2009",
+        "nome": "Gol 1.6 (G4) (Flex)",
+        "ano": 2009
+      },
+      {
+        "id": 18696,
+        "idUrl": "gol-10-g4-flex-4p-2009",
+        "nome": "Gol 1.0 (G4) (Flex) 4p",
+        "ano": 2009
+      },
+      {
+        "id": 18699,
+        "idUrl": "gol-10-g4-flex-2p-2009",
+        "nome": "Gol 1.0 (G4) (Flex) 2p",
+        "ano": 2009
+      },
+      {
+        "id": 18779,
+        "idUrl": "gol-city-10-g4-flex-2009",
+        "nome": "Gol City 1.0 (G4) (Flex)",
+        "ano": 2009
+      }
+    ],
+    "2010": [
+      {
+        "id": 19457,
+        "idUrl": "gol-power-imotion-16-g5-flex-2010",
+        "nome": "Gol Power I-Motion 1.6 (G5) (Flex)",
+        "ano": 2010
+      },
+      {
+        "id": 19546,
+        "idUrl": "gol-power-16-g5-flex-2010",
+        "nome": "Gol Power 1.6 (G5) (Flex)",
+        "ano": 2010
+      },
+      {
+        "id": 18612,
+        "idUrl": "gol-16-g5-flex-2010",
+        "nome": "Gol 1.6 (G5) (Flex)",
+        "ano": 2010
+      },
+      {
+        "id": 19437,
+        "idUrl": "gol-imotion-16-g5-flex-2010",
+        "nome": "Gol I-Motion 1.6 (G5) (Flex)",
+        "ano": 2010
+      },
+      {
+        "id": 18691,
+        "idUrl": "gol-10-g5-flex-2010",
+        "nome": "Gol 1.0 (G5) (Flex)",
+        "ano": 2010
+      },
+      {
+        "id": 18711,
+        "idUrl": "gol-10-g4-flex-4p-2010",
+        "nome": "Gol 1.0 (G4) (Flex) 4p",
+        "ano": 2010
+      },
+      {
+        "id": 19662,
+        "idUrl": "gol-titan-10-g4-flex-2010",
+        "nome": "Gol Titan 1.0 (G4) (Flex)",
+        "ano": 2010
+      },
+      {
+        "id": 18802,
+        "idUrl": "gol-city-trend-10-g4-flex-2010",
+        "nome": "Gol City Trend 1.0 (G4) (Flex)",
+        "ano": 2010
+      },
+      {
+        "id": 18698,
+        "idUrl": "gol-10-g4-flex-2p-2010",
+        "nome": "Gol 1.0 (G4) (Flex) 2p",
+        "ano": 2010
+      }
+    ],
+    "2011": [
+      {
+        "id": 19443,
+        "idUrl": "gol-rallye-imotion-16-vht-g5-flex-2011",
+        "nome": "Gol Rallye I-Motion 1.6 VHT (G5) (Flex)",
+        "ano": 2011
+      },
+      {
+        "id": 19449,
+        "idUrl": "gol-rallye-16-vht-g5-flex-2011",
+        "nome": "Gol Rallye 1.6 VHT (G5) (Flex)",
+        "ano": 2011
+      },
+      {
+        "id": 19548,
+        "idUrl": "gol-power-16-g5-flex-2011",
+        "nome": "Gol Power 1.6 (G5) (Flex)",
+        "ano": 2011
+      },
+      {
+        "id": 19566,
+        "idUrl": "gol-power-16-imotion-g5-flex-2011",
+        "nome": "Gol Power 1.6 I-Motion (G5) (Flex)",
+        "ano": 2011
+      },
+      {
+        "id": 18614,
+        "idUrl": "gol-16-g5-flex-2011",
+        "nome": "Gol 1.6 (G5) (Flex)",
+        "ano": 2011
+      },
+      {
+        "id": 18670,
+        "idUrl": "gol-16-imotion-g5-flex-2011",
+        "nome": "Gol 1.6 I-Motion (G5) (Flex)",
+        "ano": 2011
+      },
+      {
+        "id": 19499,
+        "idUrl": "gol-selecao-10-g5-flex-2011",
+        "nome": "Gol Seleção 1.0 (G5) (Flex)",
+        "ano": 2011
+      },
+      {
+        "id": 18694,
+        "idUrl": "gol-10-g5-flex-2011",
+        "nome": "Gol 1.0 (G5) (Flex)",
+        "ano": 2011
+      },
+      {
+        "id": 18697,
+        "idUrl": "gol-10-g4-flex-4p-2011",
+        "nome": "Gol 1.0 (G4) (Flex) 4p",
+        "ano": 2011
+      },
+      {
+        "id": 19677,
+        "idUrl": "gol-titan-10-g4-flex-2011",
+        "nome": "Gol Titan 1.0 (G4) (Flex)",
+        "ano": 2011
+      },
+      {
+        "id": 18741,
+        "idUrl": "gol-10-ecomotiong4-flex-4p-2011",
+        "nome": "Gol 1.0 Ecomotion(G4) (Flex) 4p",
+        "ano": 2011
+      },
+      {
+        "id": 18737,
+        "idUrl": "gol-10-ecomotiong4-flex-2p-2011",
+        "nome": "Gol 1.0 Ecomotion(G4) (Flex) 2p",
+        "ano": 2011
+      },
+      {
+        "id": 18700,
+        "idUrl": "gol-10-g4-flex-2p-2011",
+        "nome": "Gol 1.0 (G4) (Flex) 2p",
+        "ano": 2011
+      }
+    ],
+    "2012": [
+      {
+        "id": 19442,
+        "idUrl": "gol-rallye-imotion-16-vht-g5-flex-2012",
+        "nome": "Gol Rallye I-Motion 1.6 VHT (G5) (Flex)",
+        "ano": 2012
+      },
+      {
+        "id": 19448,
+        "idUrl": "gol-rallye-16-vht-g5-flex-2012",
+        "nome": "Gol Rallye 1.6 VHT (G5) (Flex)",
+        "ano": 2012
+      },
+      {
+        "id": 18619,
+        "idUrl": "gol-10-vht-rock-in-rio-2012",
+        "nome": "Gol 1.0 VHT (Rock in Rio)",
+        "ano": 2012
+      },
+      {
+        "id": 19507,
+        "idUrl": "gol-power-16-imotion-g5-flex-2012",
+        "nome": "Gol Power 1.6 I-Motion (G5) (Flex)",
+        "ano": 2012
+      },
+      {
+        "id": 19545,
+        "idUrl": "gol-power-16-g5-flex-2012",
+        "nome": "Gol Power 1.6 (G5) (Flex)",
+        "ano": 2012
+      },
+      {
+        "id": 18626,
+        "idUrl": "gol-16-g5-flex-2012",
+        "nome": "Gol 1.6 (G5) (Flex)",
+        "ano": 2012
+      },
+      {
+        "id": 18677,
+        "idUrl": "gol-16-imotion-g5-flex-2012",
+        "nome": "Gol 1.6 I-Motion (G5) (Flex)",
+        "ano": 2012
+      },
+      {
+        "id": 18690,
+        "idUrl": "gol-10-g5-flex-2012",
+        "nome": "Gol 1.0 (G5) (Flex)",
+        "ano": 2012
+      },
+      {
+        "id": 18712,
+        "idUrl": "gol-10-8v-g4flex4p-2012",
+        "nome": "Gol 1.0 8V (G4)(Flex)4p",
+        "ano": 2012
+      },
+      {
+        "id": 18867,
+        "idUrl": "gol-black-10-vht-flex-2012",
+        "nome": "Gol Black 1.0 VHT (Flex)",
+        "ano": 2012
+      },
+      {
+        "id": 18742,
+        "idUrl": "gol-10-ecomotiong4-flex-4p-2012",
+        "nome": "Gol 1.0 Ecomotion(G4) (Flex) 4p",
+        "ano": 2012
+      },
+      {
+        "id": 18739,
+        "idUrl": "gol-10-ecomotiong4-flex-2p-2012",
+        "nome": "Gol 1.0 Ecomotion(G4) (Flex) 2p",
+        "ano": 2012
+      },
+      {
+        "id": 18682,
+        "idUrl": "gol-10-8v-g4flex2p-2012",
+        "nome": "Gol 1.0 8V (G4)(Flex)2p",
+        "ano": 2012
+      }
+    ],
+    "2013": [
+      {
+        "id": 19441,
+        "idUrl": "gol-rallye-imotion-16-vht-g5-flex-2013",
+        "nome": "Gol Rallye I-Motion 1.6 VHT (G5) (Flex)",
+        "ano": 2013
+      },
+      {
+        "id": 19447,
+        "idUrl": "gol-rallye-16-vht-g5-flex-2013",
+        "nome": "Gol Rallye 1.6 VHT (G5) (Flex)",
+        "ano": 2013
+      },
+      {
+        "id": 19703,
+        "idUrl": "novo-gol-power-16-imotion-flex-2013",
+        "nome": "Novo Gol Power 1.6 I-Motion (Flex)",
+        "ano": 2013
+      },
+      {
+        "id": 19497,
+        "idUrl": "gol-power-16-imotion-g5-flex-2013",
+        "nome": "Gol Power 1.6 I-Motion (G5) (Flex)",
+        "ano": 2013
+      },
+      {
+        "id": 19544,
+        "idUrl": "gol-power-16-g5-flex-2013",
+        "nome": "Gol Power 1.6 (G5) (Flex)",
+        "ano": 2013
+      },
+      {
+        "id": 18643,
+        "idUrl": "gol-16-g5-flex-2013",
+        "nome": "Gol 1.6 (G5) (Flex)",
+        "ano": 2013
+      },
+      {
+        "id": 18671,
+        "idUrl": "gol-16-imotion-g5-flex-2013",
+        "nome": "Gol 1.6 I-Motion (G5) (Flex)",
+        "ano": 2013
+      },
+      {
+        "id": 19701,
+        "idUrl": "novo-gol-16-imotion-flex-2013",
+        "nome": "Novo Gol 1.6 I-Motion (Flex)",
+        "ano": 2013
+      },
+      {
+        "id": 19700,
+        "idUrl": "novo-gol-16-flex-2013",
+        "nome": "Novo Gol 1.6 (Flex)",
+        "ano": 2013
+      },
+      {
+        "id": 18636,
+        "idUrl": "gol-10-tec-city-flex-4p-2013",
+        "nome": "Gol 1.0 TEC City (Flex) 4p",
+        "ano": 2013
+      },
+      {
+        "id": 18689,
+        "idUrl": "gol-10-g5-flex-2013",
+        "nome": "Gol 1.0 (G5) (Flex)",
+        "ano": 2013
+      },
+      {
+        "id": 18713,
+        "idUrl": "gol-10-8v-g4flex4p-2013",
+        "nome": "Gol 1.0 8V (G4)(Flex)4p",
+        "ano": 2013
+      },
+      {
+        "id": 19699,
+        "idUrl": "novo-gol-10-tec-flex-4p-2013",
+        "nome": "Novo Gol 1.0 TEC (Flex) 4p",
+        "ano": 2013
+      },
+      {
+        "id": 18736,
+        "idUrl": "gol-10-8v-serie-25-anos-flex-4p-2013",
+        "nome": "Gol 1.0 8V Série 25 anos (Flex) 4p",
+        "ano": 2013
+      },
+      {
+        "id": 18866,
+        "idUrl": "gol-black-10-vht-flex-2013",
+        "nome": "Gol Black 1.0 VHT (Flex)",
+        "ano": 2013
+      },
+      {
+        "id": 18743,
+        "idUrl": "gol-10-ecomotiong4-flex-4p-2013",
+        "nome": "Gol 1.0 Ecomotion(G4) (Flex) 4p",
+        "ano": 2013
+      },
+      {
+        "id": 19698,
+        "idUrl": "novo-gol-10-tec-flex-2p-2013",
+        "nome": "Novo Gol 1.0 TEC (Flex) 2p",
+        "ano": 2013
+      },
+      {
+        "id": 18681,
+        "idUrl": "gol-10-8v-g4flex2p-2013",
+        "nome": "Gol 1.0 8V (G4)(Flex)2p",
+        "ano": 2013
+      },
+      {
+        "id": 18639,
+        "idUrl": "gol-10-tec-city-flex-2p-2013",
+        "nome": "Gol 1.0 TEC City (Flex) 2p",
+        "ano": 2013
+      },
+      {
+        "id": 18746,
+        "idUrl": "gol-10-ecomotiong4-flex-2p-2013",
+        "nome": "Gol 1.0 Ecomotion(G4) (Flex) 2p",
+        "ano": 2013
+      },
+      {
+        "id": 19702,
+        "idUrl": "novo-gol-power-16-flex-2013",
+        "nome": "Novo Gol Power 1.6 (Flex)",
+        "ano": 2013
+      }
+    ],
+    "2014": [
+      {
+        "id": 19444,
+        "idUrl": "gol-rallye-imotion-16-vht-flex-2014",
+        "nome": "Gol Rallye I-Motion 1.6 VHT (Flex)",
+        "ano": 2014
+      },
+      {
+        "id": 19450,
+        "idUrl": "gol-rallye-16-vht-flex-2014",
+        "nome": "Gol Rallye 1.6 VHT (Flex)",
+        "ano": 2014
+      },
+      {
+        "id": 18831,
+        "idUrl": "gol-16-vht-selecao-imotion-flex-2014",
+        "nome": "Gol 1.6 VHT Seleção I-Motion (Flex)",
+        "ano": 2014
+      },
+      {
+        "id": 18840,
+        "idUrl": "gol-16-vht-highline-imotion-aut-flex-2014",
+        "nome": "Gol 1.6 VHT Highline I-Motion (Aut) (Flex)",
+        "ano": 2014
+      },
+      {
+        "id": 18844,
+        "idUrl": "gol-16-vht-highline-flex-2014",
+        "nome": "Gol 1.6 VHT Highline (Flex)",
+        "ano": 2014
+      },
+      {
+        "id": 18834,
+        "idUrl": "gol-16-vht-selecao-flex-2014",
+        "nome": "Gol 1.6 VHT Seleção (Flex)",
+        "ano": 2014
+      },
+      {
+        "id": 18627,
+        "idUrl": "gol-10-tec-track-flex-2014",
+        "nome": "Gol 1.0 TEC Track (Flex)",
+        "ano": 2014
+      },
+      {
+        "id": 18631,
+        "idUrl": "gol-10-tec-selecao-flex-2014",
+        "nome": "Gol 1.0 TEC Seleção (Flex)",
+        "ano": 2014
+      },
+      {
+        "id": 18654,
+        "idUrl": "gol-16-vht-city-flex-4p-2014",
+        "nome": "Gol 1.6 VHT City (Flex) 4p",
+        "ano": 2014
+      },
+      {
+        "id": 18658,
+        "idUrl": "gol-16-vht-flex-4p-2014",
+        "nome": "Gol 1.6 VHT (Flex) 4p",
+        "ano": 2014
+      },
+      {
+        "id": 18836,
+        "idUrl": "gol-16-vht-imotion-flex-2p-2014",
+        "nome": "Gol 1.6 VHT I-Motion (Flex) 2p",
+        "ano": 2014
+      },
+      {
+        "id": 18849,
+        "idUrl": "gol-16-vht-imotion-flex-4p-2014",
+        "nome": "Gol 1.6 VHT I-Motion (Flex) 4p",
+        "ano": 2014
+      },
+      {
+        "id": 18669,
+        "idUrl": "gol-10-tec-flex-4p-2014",
+        "nome": "Gol 1.0 TEC (Flex) 4p",
+        "ano": 2014
+      },
+      {
+        "id": 18679,
+        "idUrl": "gol-10-tec-flex-2p-2014",
+        "nome": "Gol 1.0 TEC (Flex) 2p",
+        "ano": 2014
+      },
+      {
+        "id": 18714,
+        "idUrl": "gol-10-8v-g4flex4p-2014",
+        "nome": "Gol 1.0 8V (G4)(Flex)4p",
+        "ano": 2014
+      },
+      {
+        "id": 18744,
+        "idUrl": "gol-10-ecomotiong4-flex-4p-2014",
+        "nome": "Gol 1.0 Ecomotion(G4) (Flex) 4p",
+        "ano": 2014
+      },
+      {
+        "id": 18695,
+        "idUrl": "gol-10-8v-g4flex2p-2014",
+        "nome": "Gol 1.0 8V (G4)(Flex)2p",
+        "ano": 2014
+      },
+      {
+        "id": 18740,
+        "idUrl": "gol-10-ecomotiong4-flex-2p-2014",
+        "nome": "Gol 1.0 Ecomotion(G4) (Flex) 2p",
+        "ano": 2014
+      },
+      {
+        "id": 18660,
+        "idUrl": "gol-16-vht-flex-2p-2014",
+        "nome": "Gol 1.6 VHT (Flex) 2p",
+        "ano": 2014
+      }
+    ],
+    "2015": [
+      {
+        "id": 18839,
+        "idUrl": "gol-16-vht-highline-imotion-aut-flex-2015",
+        "nome": "Gol 1.6 VHT Highline I-Motion (Aut) (Flex)",
+        "ano": 2015
+      },
+      {
+        "id": 18845,
+        "idUrl": "gol-16-vht-comfortline-imotion-flex-4p-2015",
+        "nome": "Gol 1.6 VHT Comfortline I-Motion (Flex) 4p",
+        "ano": 2015
+      },
+      {
+        "id": 18749,
+        "idUrl": "gol-16-vht-comfortline-flex-4p-2015",
+        "nome": "Gol 1.6 VHT Comfortline (Flex) 4p",
+        "ano": 2015
+      },
+      {
+        "id": 18843,
+        "idUrl": "gol-16-vht-highline-flex-2015",
+        "nome": "Gol 1.6 VHT Highline (Flex)",
+        "ano": 2015
+      },
+      {
+        "id": 18830,
+        "idUrl": "gol-16-vht-selecao-imotion-flex-2015",
+        "nome": "Gol 1.6 VHT Seleção I-Motion (Flex)",
+        "ano": 2015
+      },
+      {
+        "id": 18832,
+        "idUrl": "gol-16-vht-selecao-flex-2015",
+        "nome": "Gol 1.6 VHT Seleção (Flex)",
+        "ano": 2015
+      },
+      {
+        "id": 18625,
+        "idUrl": "gol-10-tec-track-flex-2015",
+        "nome": "Gol 1.0 TEC Track (Flex)",
+        "ano": 2015
+      },
+      {
+        "id": 18633,
+        "idUrl": "gol-10-tec-comfortline-flex-4p-2015",
+        "nome": "Gol 1.0 TEC Comfortline (Flex) 4p",
+        "ano": 2015
+      },
+      {
+        "id": 18827,
+        "idUrl": "gol-16-vht-trendline-flex-4p-2015",
+        "nome": "Gol 1.6 VHT Trendline (Flex) 4p",
+        "ano": 2015
+      },
+      {
+        "id": 18630,
+        "idUrl": "gol-10-tec-selecaoflex-2015",
+        "nome": "Gol 1.0 TEC Seleção(Flex)",
+        "ano": 2015
+      },
+      {
+        "id": 18824,
+        "idUrl": "gol-16-vht-trendline-imotion-flex-4p-2015",
+        "nome": "Gol 1.6 VHT Trendline I-Motion (Flex) 4p",
+        "ano": 2015
+      },
+      {
+        "id": 18846,
+        "idUrl": "gol-16-vht-comfortline-imotion-flex-2p-2015",
+        "nome": "Gol 1.6 VHT Comfortline I-Motion (Flex) 2p",
+        "ano": 2015
+      },
+      {
+        "id": 18622,
+        "idUrl": "gol-10-tec-trendline-flex-4p-2015",
+        "nome": "Gol 1.0 TEC Trendline (Flex) 4p",
+        "ano": 2015
+      },
+      {
+        "id": 18816,
+        "idUrl": "gol-16-vht-comfortline-flex-2p-2015",
+        "nome": "Gol 1.6 VHT Comfortline (Flex) 2p",
+        "ano": 2015
+      },
+      {
+        "id": 18655,
+        "idUrl": "gol-16-vht-city-flex-4p-2015",
+        "nome": "Gol 1.6 VHT City (Flex) 4p",
+        "ano": 2015
+      },
+      {
+        "id": 18828,
+        "idUrl": "gol-16-vht-trendline-flex-2p-2015",
+        "nome": "Gol 1.6 VHT Trendline (Flex) 2p",
+        "ano": 2015
+      },
+      {
+        "id": 18628,
+        "idUrl": "gol-10-tec-special-flex-4p-2015",
+        "nome": "Gol 1.0 TEC Special (Flex) 4p",
+        "ano": 2015
+      },
+      {
+        "id": 18623,
+        "idUrl": "gol-10-tec-trendline-flex-2p-2015",
+        "nome": "Gol 1.0 TEC Trendline (Flex) 2p",
+        "ano": 2015
+      },
+      {
+        "id": 18825,
+        "idUrl": "gol-16-vht-trendline-imotion-flex-2p-2015",
+        "nome": "Gol 1.6 VHT Trendline I-Motion (Flex) 2p",
+        "ano": 2015
+      },
+      {
+        "id": 18634,
+        "idUrl": "gol-10-tec-comfortline-flex-2p-2015",
+        "nome": "Gol 1.0 TEC Comfortline (Flex) 2p",
+        "ano": 2015
+      }
+    ],
+    "2016": [
+      {
+        "id": 18848,
+        "idUrl": "gol-16-vht-comfortline-imotion-flex-2016",
+        "nome": "Gol 1.6 VHT Comfortline I-Motion (Flex)",
+        "ano": 2016
+      },
+      {
+        "id": 18838,
+        "idUrl": "gol-16-vht-highline-imotion-flex-2016",
+        "nome": "Gol 1.6 VHT Highline I-Motion (Flex)",
+        "ano": 2016
+      },
+      {
+        "id": 18678,
+        "idUrl": "gol-16-vht-comfortline-flex-2016",
+        "nome": "Gol 1.6 VHT Comfortline (Flex)",
+        "ano": 2016
+      },
+      {
+        "id": 18842,
+        "idUrl": "gol-16-vht-highline-flex-2016",
+        "nome": "Gol 1.6 VHT Highline (Flex)",
+        "ano": 2016
+      },
+      {
+        "id": 18663,
+        "idUrl": "gol-16-16v-msi-rallye-imotion-flex-2016",
+        "nome": "Gol 1.6 16v MSI Rallye I-Motion (Flex)",
+        "ano": 2016
+      },
+      {
+        "id": 18664,
+        "idUrl": "gol-16-16v-msi-rallye-flex-2016",
+        "nome": "Gol 1.6 16v MSI Rallye (Flex)",
+        "ano": 2016
+      },
+      {
+        "id": 18632,
+        "idUrl": "gol-10-tec-rock-in-rio-flex-2016",
+        "nome": "Gol 1.0 TEC Rock in Rio (Flex)",
+        "ano": 2016
+      },
+      {
+        "id": 18624,
+        "idUrl": "gol-10-tec-track-flex-2016",
+        "nome": "Gol 1.0 TEC Track (Flex)",
+        "ano": 2016
+      },
+      {
+        "id": 18635,
+        "idUrl": "gol-10-tec-comfortline-flex-2016",
+        "nome": "Gol 1.0 TEC Comfortline (Flex)",
+        "ano": 2016
+      },
+      {
+        "id": 18826,
+        "idUrl": "gol-16-vht-trendline-flex-4p-2016",
+        "nome": "Gol 1.6 VHT Trendline (Flex) 4p",
+        "ano": 2016
+      },
+      {
+        "id": 18642,
+        "idUrl": "gol-10-tec-special-flex-4p-2016",
+        "nome": "Gol 1.0 TEC Special (Flex) 4p",
+        "ano": 2016
+      },
+      {
+        "id": 18738,
+        "idUrl": "gol-10-tec-trendline-flex-2p-2016",
+        "nome": "Gol 1.0 TEC  Trendline (Flex) 2p",
+        "ano": 2016
+      },
+      {
+        "id": 18621,
+        "idUrl": "gol-10-tec-trendline-flex-4p-2016",
+        "nome": "Gol 1.0 TEC Trendline (Flex) 4p",
+        "ano": 2016
+      },
+      {
+        "id": 18629,
+        "idUrl": "gol-10-tec-special-flex-2p-2016",
+        "nome": "Gol 1.0 TEC Special (Flex) 2p",
+        "ano": 2016
+      }
+    ],
+    "2017": [
+      {
+        "id": 18837,
+        "idUrl": "gol-16-msi-highline-imotion-flex-2017",
+        "nome": "Gol 1.6 MSI Highline I-Motion (Flex)",
+        "ano": 2017
+      },
+      {
+        "id": 18847,
+        "idUrl": "gol-16-msi-comfortline-imotion-flex-2017",
+        "nome": "Gol 1.6 MSI Comfortline I-Motion (Flex)",
+        "ano": 2017
+      },
+      {
+        "id": 18748,
+        "idUrl": "gol-16-msi-comfortline-flex-2017",
+        "nome": "Gol 1.6 MSI Comfortline (Flex)",
+        "ano": 2017
+      },
+      {
+        "id": 18841,
+        "idUrl": "gol-16-msi-highline-flex-2017",
+        "nome": "Gol 1.6 MSI Highline (Flex)",
+        "ano": 2017
+      },
+      {
+        "id": 18716,
+        "idUrl": "gol-10-mpi-track-flex-2017",
+        "nome": "Gol 1.0 MPI Track (Flex)",
+        "ano": 2017
+      },
+      {
+        "id": 18829,
+        "idUrl": "gol-16-msi-trendline-flex-2017",
+        "nome": "Gol 1.6 MSI Trendline (Flex)",
+        "ano": 2017
+      },
+      {
+        "id": 18717,
+        "idUrl": "gol-10-mpi-comfortline-flex-2017",
+        "nome": "Gol 1.0 MPI Comfortline (Flex)",
+        "ano": 2017
+      },
+      {
+        "id": 18680,
+        "idUrl": "gol-10-mpi-trendline-flex-2p-2017",
+        "nome": "Gol 1.0 MPI Trendline (Flex) 2p",
+        "ano": 2017
+      },
+      {
+        "id": 18715,
+        "idUrl": "gol-10-mpi-trendline-flex-2017",
+        "nome": "Gol 1.0 MPI Trendline (Flex)",
+        "ano": 2017
+      }
+    ],
+    "2018": [
+      {
+        "id": 21789,
+        "idUrl": "gol-16-msi-comfortline-imotion-flex-2018",
+        "nome": "Gol 1.6 MSI Comfortline I-Motion (Flex)",
+        "ano": 2018
+      },
+      {
+        "id": 21788,
+        "idUrl": "gol-16-msi-comfortline-flex-2018",
+        "nome": "Gol 1.6 MSI Comfortline Flex",
+        "ano": 2018
+      },
+      {
+        "id": 21786,
+        "idUrl": "gol-10-mpi-track-flex-2018",
+        "nome": "Gol 1.0 MPI Track (Flex)",
+        "ano": 2018
+      },
+      {
+        "id": 21772,
+        "idUrl": "gol-16-msi-trendline-flex-2018",
+        "nome": "Gol 1.6 MSI Trendline (Flex)",
+        "ano": 2018
+      },
+      {
+        "id": 21787,
+        "idUrl": "gol-10-mpi-trendline-flex-2018",
+        "nome": "Gol 1.0 MPI Trendline (Flex)",
+        "ano": 2018
+      }
+    ],
+    "2019": [
+      {
+        "id": 22245,
+        "idUrl": "gol-16-msi-flex-aut-2019",
+        "nome": "Gol 1.6 MSI (Flex) (Aut)",
+        "ano": 2019
+      },
+      {
+        "id": 22246,
+        "idUrl": "gol-16-msi-flex-2019",
+        "nome": "Gol 1.6 MSI (Flex)",
+        "ano": 2019
+      },
+      {
+        "id": 22247,
+        "idUrl": "gol-10-mpi-flex-2019",
+        "nome": "Gol 1.0 MPI (Flex)",
+        "ano": 2019
+      }
+    ]
+  }

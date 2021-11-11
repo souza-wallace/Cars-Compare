@@ -1,0 +1,408 @@
+{
+    "2008": [
+      {
+        "id": 15288,
+        "idUrl": "logan-privilege-16-16v-flex-2008",
+        "nome": "Logan Privilège 1.6 16V (flex)",
+        "ano": 2008
+      },
+      {
+        "id": 15260,
+        "idUrl": "logan-privilege-16-8v-hitorque-2008",
+        "nome": "Logan Privilège 1.6 8V Hi-Torque",
+        "ano": 2008
+      },
+      {
+        "id": 16017,
+        "idUrl": "logan-authentique-16-8v-hitorque-flex-2008",
+        "nome": "Logan Authentique 1.6 8V Hi-Torque (flex)",
+        "ano": 2008
+      },
+      {
+        "id": 15317,
+        "idUrl": "logan-expression-16-8v-hitorque-flex-2008",
+        "nome": "Logan Expression 1.6 8V Hi-Torque (flex)",
+        "ano": 2008
+      },
+      {
+        "id": 15299,
+        "idUrl": "logan-expression-10-16v-flex-2008",
+        "nome": "Logan Expression 1.0 16V (flex)",
+        "ano": 2008
+      },
+      {
+        "id": 16008,
+        "idUrl": "logan-authentique-10-16v-flex-2008",
+        "nome": "Logan Authentique 1.0 16V (flex)",
+        "ano": 2008
+      }
+    ],
+    "2009": [
+      {
+        "id": 15259,
+        "idUrl": "logan-privilege-16-16v-flex-2009",
+        "nome": "Logan Privilège 1.6 16V (flex)",
+        "ano": 2009
+      },
+      {
+        "id": 15261,
+        "idUrl": "logan-privilege-16-8v-hitorque-2009",
+        "nome": "Logan Privilège 1.6 8V Hi-Torque",
+        "ano": 2009
+      },
+      {
+        "id": 15319,
+        "idUrl": "logan-expression-16-8v-hitorque-flex-2009",
+        "nome": "Logan Expression 1.6 8V Hi-Torque (flex)",
+        "ano": 2009
+      },
+      {
+        "id": 15657,
+        "idUrl": "logan-authentique-16-8v-hitorque-flex-2009",
+        "nome": "Logan Authentique 1.6 8V Hi-Torque (flex)",
+        "ano": 2009
+      },
+      {
+        "id": 15267,
+        "idUrl": "logan-up-10-16v-flex-2009",
+        "nome": "Logan Up 1.0 16V (flex)",
+        "ano": 2009
+      },
+      {
+        "id": 15301,
+        "idUrl": "logan-expression-10-16v-flex-2009",
+        "nome": "Logan Expression 1.0 16V (flex)",
+        "ano": 2009
+      },
+      {
+        "id": 16010,
+        "idUrl": "logan-authentique-10-16v-flex-2009",
+        "nome": "Logan Authentique 1.0 16V (flex)",
+        "ano": 2009
+      }
+    ],
+    "2010": [
+      {
+        "id": 15262,
+        "idUrl": "logan-privilege-16-8v-hitorque-2010",
+        "nome": "Logan Privilège 1.6 8V Hi-Torque",
+        "ano": 2010
+      },
+      {
+        "id": 15320,
+        "idUrl": "logan-expression-16-8v-hitorque-flex-2010",
+        "nome": "Logan Expression 1.6 8V Hi-Torque (flex)",
+        "ano": 2010
+      },
+      {
+        "id": 15266,
+        "idUrl": "logan-up-10-16v-flex-2010",
+        "nome": "Logan Up 1.0 16V (flex)",
+        "ano": 2010
+      },
+      {
+        "id": 15302,
+        "idUrl": "logan-expression-10-16v-flex-2010",
+        "nome": "Logan Expression 1.0 16V (flex)",
+        "ano": 2010
+      },
+      {
+        "id": 16011,
+        "idUrl": "logan-authentique-10-16v-flex-2010",
+        "nome": "Logan Authentique 1.0 16V (flex)",
+        "ano": 2010
+      }
+    ],
+    "2011": [
+      {
+        "id": 15318,
+        "idUrl": "logan-expression-16-8v-hitorque-flex-2011",
+        "nome": "Logan Expression 1.6 8V Hi-Torque (flex)",
+        "ano": 2011
+      },
+      {
+        "id": 15265,
+        "idUrl": "logan-serie-limitada-up-10-16v-hiflex-2011",
+        "nome": "Logan Serie Limitada Up 1.0 16V (Hi-Flex)",
+        "ano": 2011
+      },
+      {
+        "id": 15300,
+        "idUrl": "logan-expression-10-16v-flex-2011",
+        "nome": "Logan Expression 1.0 16V (flex)",
+        "ano": 2011
+      },
+      {
+        "id": 16009,
+        "idUrl": "logan-authentique-10-16v-flex-2011",
+        "nome": "Logan Authentique 1.0 16V (flex)",
+        "ano": 2011
+      }
+    ],
+    "2012": [
+      {
+        "id": 15291,
+        "idUrl": "logan-expression-16-8v-hitorque-flex-2012",
+        "nome": "Logan Expression 1.6 8V Hi-Torque (flex)",
+        "ano": 2012
+      },
+      {
+        "id": 15308,
+        "idUrl": "logan-expression-16-16v-flex-aut-2012",
+        "nome": "Logan Expression 1.6 16V (Flex) (aut)",
+        "ano": 2012
+      },
+      {
+        "id": 15303,
+        "idUrl": "logan-expression-10-16v-flex-2012",
+        "nome": "Logan Expression 1.0 16V (flex)",
+        "ano": 2012
+      },
+      {
+        "id": 15656,
+        "idUrl": "logan-avantage-10-16v-flex-2012",
+        "nome": "Logan Avantage 1.0 16V (Flex)",
+        "ano": 2012
+      },
+      {
+        "id": 16012,
+        "idUrl": "logan-authentique-10-16v-flex-2012",
+        "nome": "Logan Authentique 1.0 16V (flex)",
+        "ano": 2012
+      }
+    ],
+    "2013": [
+      {
+        "id": 15321,
+        "idUrl": "logan-expression-16-8v-hitorque-flex-2013",
+        "nome": "Logan Expression 1.6 8V Hi-Torque (flex)",
+        "ano": 2013
+      },
+      {
+        "id": 15309,
+        "idUrl": "logan-expression-16-16v-flex-aut-2013",
+        "nome": "Logan Expression 1.6 16V (Flex) (aut)",
+        "ano": 2013
+      },
+      {
+        "id": 15304,
+        "idUrl": "logan-expression-10-16v-flex-2013",
+        "nome": "Logan Expression 1.0 16V (flex)",
+        "ano": 2013
+      },
+      {
+        "id": 16013,
+        "idUrl": "logan-authentique-10-16v-flex-2013",
+        "nome": "Logan Authentique 1.0 16V (flex)",
+        "ano": 2013
+      }
+    ],
+    "2014": [
+      {
+        "id": 15293,
+        "idUrl": "logan-dynamique-16-8v-2014",
+        "nome": "Logan Dynamique 1.6 8V",
+        "ano": 2014
+      },
+      {
+        "id": 15312,
+        "idUrl": "logan-expression-16-8v-2014",
+        "nome": "Logan Expression 1.6 8V",
+        "ano": 2014
+      },
+      {
+        "id": 15305,
+        "idUrl": "logan-expression-10-16v-flex-2014",
+        "nome": "Logan Expression 1.0 16V (flex)",
+        "ano": 2014
+      },
+      {
+        "id": 16014,
+        "idUrl": "logan-authentique-10-16v-flex-2014",
+        "nome": "Logan Authentique 1.0 16V (flex)",
+        "ano": 2014
+      }
+    ],
+    "2015": [
+      {
+        "id": 15264,
+        "idUrl": "logan-sl-exclusive-easyr-16-8v-2015",
+        "nome": "Logan SL Exclusive Easy-R 1.6 8V",
+        "ano": 2015
+      },
+      {
+        "id": 15263,
+        "idUrl": "logan-sl-exclusive-16-8v-2015",
+        "nome": "Logan SL Exclusive 1.6 8V",
+        "ano": 2015
+      },
+      {
+        "id": 15294,
+        "idUrl": "logan-dynamique-16-8v-2015",
+        "nome": "Logan Dynamique 1.6 8V",
+        "ano": 2015
+      },
+      {
+        "id": 15296,
+        "idUrl": "logan-dynamique-16-8v-easyr-aut-2015",
+        "nome": "Logan Dynamique 1.6 8V Easy-r (Aut)",
+        "ano": 2015
+      },
+      {
+        "id": 15313,
+        "idUrl": "logan-expression-16-8v-2015",
+        "nome": "Logan Expression 1.6 8V",
+        "ano": 2015
+      },
+      {
+        "id": 15315,
+        "idUrl": "logan-expression-16-8v-easyr-aut-2015",
+        "nome": "Logan Expression 1.6 8V Easy-r (Aut)",
+        "ano": 2015
+      },
+      {
+        "id": 15306,
+        "idUrl": "logan-expression-10-16v-flex-2015",
+        "nome": "Logan Expression 1.0 16V (flex)",
+        "ano": 2015
+      },
+      {
+        "id": 16015,
+        "idUrl": "logan-authentique-10-16v-flex-2015",
+        "nome": "Logan Authentique 1.0 16V (flex)",
+        "ano": 2015
+      }
+    ],
+    "2016": [
+      {
+        "id": 15295,
+        "idUrl": "logan-dynamique-16-8v-flex-2016",
+        "nome": "Logan Dynamique 1.6 8V (flex)",
+        "ano": 2016
+      },
+      {
+        "id": 15297,
+        "idUrl": "logan-dynamique-16-8v-easyr-flex-2016",
+        "nome": "Logan Dynamique 1.6 8V Easy-r (flex)",
+        "ano": 2016
+      },
+      {
+        "id": 15314,
+        "idUrl": "logan-expression-16-8v-flex-2016",
+        "nome": "Logan Expression 1.6 8V (flex)",
+        "ano": 2016
+      },
+      {
+        "id": 15316,
+        "idUrl": "logan-expression-16-8v-easyr-flex-2016",
+        "nome": "Logan Expression 1.6 8V Easy-r (flex)",
+        "ano": 2016
+      },
+      {
+        "id": 16016,
+        "idUrl": "logan-authentique-10-16v-flex-2016",
+        "nome": "Logan Authentique 1.0 16V (flex)",
+        "ano": 2016
+      },
+      {
+        "id": 16053,
+        "idUrl": "logan-authentique-plus-10-16v-flex-2016",
+        "nome": "Logan Authentique Plus 1.0 16V (flex)",
+        "ano": 2016
+      },
+      {
+        "id": 15307,
+        "idUrl": "logan-expression-10-16v-flex-2016",
+        "nome": "Logan Expression 1.0 16V (flex)",
+        "ano": 2016
+      }
+    ],
+    "2017": [
+      {
+        "id": 15522,
+        "idUrl": "logan-dynamique-16-16v-sce-flex-2017",
+        "nome": "Logan Dynamique 1.6 16V SCe (Flex)",
+        "ano": 2017
+      },
+      {
+        "id": 15292,
+        "idUrl": "logan-dynamique-16-16v-sce-easyr-flex-2017",
+        "nome": "Logan Dynamique 1.6 16V SCe Easy-R (Flex)",
+        "ano": 2017
+      },
+      {
+        "id": 15310,
+        "idUrl": "logan-expression-16-16v-sce-flex-2017",
+        "nome": "Logan Expression 1.6 16V SCe (Flex)",
+        "ano": 2017
+      },
+      {
+        "id": 15290,
+        "idUrl": "logan-expression-pack-avantage-16-8v-hipower-2017",
+        "nome": "Logan Expression Pack Avantage 1.6 8V Hi-Power",
+        "ano": 2017
+      },
+      {
+        "id": 15311,
+        "idUrl": "logan-expression-16-16v-sce-easyr-flex-2017",
+        "nome": "Logan Expression 1.6 16V SCe Easy-R (Flex)",
+        "ano": 2017
+      },
+      {
+        "id": 15298,
+        "idUrl": "logan-expression-10-12v-sce-flex-2017",
+        "nome": "Logan Expression 1.0 12V SCe (Flex)",
+        "ano": 2017
+      },
+      {
+        "id": 16007,
+        "idUrl": "logan-authentique-10-12v-sce-flex-2017",
+        "nome": "Logan Authentique 1.0 12V SCe (Flex)",
+        "ano": 2017
+      }
+    ],
+    "2018": [
+      {
+        "id": 21722,
+        "idUrl": "logan-dynamique-16-16v-sce-easyr-flex-2018",
+        "nome": "Logan Dynamique 1.6 16V SCe Easy-R (Flex)",
+        "ano": 2018
+      },
+      {
+        "id": 22187,
+        "idUrl": "logan-dynamique-16-16v-2018",
+        "nome": "Logan Dynamique 1.6 16V",
+        "ano": 2018
+      },
+      {
+        "id": 21739,
+        "idUrl": "logan-dynamique-16-16v-sce-flex-2018",
+        "nome": "Logan Dynamique 1.6 16V SCe (Flex)",
+        "ano": 2018
+      },
+      {
+        "id": 21713,
+        "idUrl": "logan-expression-16-16v-sce-easyr-flex-2018",
+        "nome": "Logan Expression 1.6 16V SCe Easy-R (Flex)",
+        "ano": 2018
+      },
+      {
+        "id": 21720,
+        "idUrl": "logan-expression-16-16v-sce-flex-2018",
+        "nome": "Logan Expression 1.6 16V SCe (Flex)",
+        "ano": 2018
+      },
+      {
+        "id": 21740,
+        "idUrl": "logan-expression-10-12v-sce-flex-2018",
+        "nome": "Logan Expression 1.0 12V SCe (Flex)",
+        "ano": 2018
+      },
+      {
+        "id": 21721,
+        "idUrl": "logan-authentique-10-12v-sce-flex-2018",
+        "nome": "Logan Authentique 1.0 12V SCe (Flex)",
+        "ano": 2018
+      }
+    ]
+  }

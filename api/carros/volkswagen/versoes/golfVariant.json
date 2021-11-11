@@ -1,0 +1,50 @@
+{
+    "2015": [
+      {
+        "id": 19224,
+        "idUrl": "golf-variant-highline-14-tsi-dsg-bluem-2015",
+        "nome": "Golf Variant Highline 1.4 TSi DSG BlueM.",
+        "ano": 2015
+      },
+      {
+        "id": 19222,
+        "idUrl": "golf-variant-comfortline-14-tsi-dsg-bluem-2015",
+        "nome": "Golf Variant Comfortline 1.4 TSi DSG BlueM.",
+        "ano": 2015
+      }
+    ],
+    "2016": [
+      {
+        "id": 19223,
+        "idUrl": "golf-variant-highline-14-tsi-dsg-bluem-2016",
+        "nome": "Golf Variant Highline 1.4 TSi DSG BlueM.",
+        "ano": 2016
+      },
+      {
+        "id": 19220,
+        "idUrl": "golf-variant-comfortline-14-tsi-dsg-bluem-2016",
+        "nome": "Golf Variant Comfortline 1.4 TSi DSG BlueM.",
+        "ano": 2016
+      },
+      {
+        "id": 19219,
+        "idUrl": "golf-variant-bluemotion-comfortline-14-tsi-2016",
+        "nome": "Golf Variant BlueMotion Comfortline 1.4 TSI",
+        "ano": 2016
+      }
+    ],
+    "2017": [
+      {
+        "id": 19229,
+        "idUrl": "golf-variant-comfortline-tiptronic-14-tsi-flex-2017",
+        "nome": "Golf Variant Comfortline Tiptronic 1.4 TSi Flex",
+        "ano": 2017
+      },
+      {
+        "id": 19225,
+        "idUrl": "golf-variant-highline-tiptronic-14-tsi-flex-2017",
+        "nome": "Golf Variant Highline Tiptronic 1.4 TSi Flex",
+        "ano": 2017
+      }
+    ]
+  }

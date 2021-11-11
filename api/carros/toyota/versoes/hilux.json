@@ -1,0 +1,804 @@
+{
+    "2002": [
+      {
+        "id": 16825,
+        "idUrl": "hilux-srv-4x2-30-cab-dupla-2002",
+        "nome": "Hilux SRV 4x2 3.0 (cab. dupla)",
+        "ano": 2002
+      },
+      {
+        "id": 16815,
+        "idUrl": "hilux-srv-4x2-27-16v-cab-dupla-2002",
+        "nome": "Hilux SRV 4x2 2.7 16V (cab. dupla)",
+        "ano": 2002
+      },
+      {
+        "id": 16924,
+        "idUrl": "hilux-dx-4x2-27-16v-cab-dupla-2002",
+        "nome": "Hilux DX 4x2 2.7 16V (cab. dupla)",
+        "ano": 2002
+      },
+      {
+        "id": 16838,
+        "idUrl": "hilux-dx-4x2-27-16v-cab-simples-2002",
+        "nome": "Hilux DX 4x2 2.7 16V (cab. simples)",
+        "ano": 2002
+      },
+      {
+        "id": 16851,
+        "idUrl": "hilux-srv-4x2-27-16v-cab-simples-2002",
+        "nome": "Hilux SRV 4x2 2.7 16V (cab. simples)",
+        "ano": 2002
+      }
+    ],
+    "2003": [
+      {
+        "id": 16813,
+        "idUrl": "hilux-srv-4x2-27-16v-cab-dupla-2003",
+        "nome": "Hilux SRV 4x2 2.7 16V (cab. dupla)",
+        "ano": 2003
+      },
+      {
+        "id": 16923,
+        "idUrl": "hilux-dx-4x2-27-16v-cab-dupla-2003",
+        "nome": "Hilux DX 4x2 2.7 16V (cab. dupla)",
+        "ano": 2003
+      },
+      {
+        "id": 16836,
+        "idUrl": "hilux-dx-4x2-27-16v-cab-simples-2003",
+        "nome": "Hilux DX 4x2 2.7 16V (cab. simples)",
+        "ano": 2003
+      }
+    ],
+    "2004": [
+      {
+        "id": 16945,
+        "idUrl": "hilux-sr-4x4-30-cab-dupla-2004",
+        "nome": "Hilux SR 4x4 3.0 (cab. dupla)",
+        "ano": 2004
+      },
+      {
+        "id": 16951,
+        "idUrl": "hilux-dx-4x4-30-cab-dupla-2004",
+        "nome": "Hilux DX 4x4 3.0 (cab. dupla)",
+        "ano": 2004
+      },
+      {
+        "id": 16842,
+        "idUrl": "hilux-dx-4x4-30-cab-simples-2004",
+        "nome": "Hilux DX 4x4 3.0 (cab. simples)",
+        "ano": 2004
+      }
+    ],
+    "2005": [
+      {
+        "id": 16929,
+        "idUrl": "hilux-sr-4x4-30-cab-dupla-2005",
+        "nome": "Hilux SR 4x4 3.0 (cab. dupla)",
+        "ano": 2005
+      }
+    ],
+    "2006": [
+      {
+        "id": 16940,
+        "idUrl": "hilux-srv-4x4-30-cab-dupla-aut-2006",
+        "nome": "Hilux SRV 4X4 3.0 (cab dupla) (aut)",
+        "ano": 2006
+      },
+      {
+        "id": 16811,
+        "idUrl": "hilux-srv-4x4-30-cab-dupla-2006",
+        "nome": "Hilux SRV 4x4 3.0 (cab. dupla)",
+        "ano": 2006
+      },
+      {
+        "id": 16804,
+        "idUrl": "hilux-std-4x4-25-cab-dupla-2006",
+        "nome": "Hilux STD 4x4 2.5 (cab. dupla)",
+        "ano": 2006
+      },
+      {
+        "id": 17091,
+        "idUrl": "hilux-std-4x4-25-cab-simples-2006",
+        "nome": "Hilux STD 4x4 2.5 (cab. simples)",
+        "ano": 2006
+      },
+      {
+        "id": 16858,
+        "idUrl": "hilux-25-td-4x4-cab-simples-chassi-2006",
+        "nome": "Hilux 2.5 TD 4X4 (cab. simples) Chassi",
+        "ano": 2006
+      }
+    ],
+    "2007": [
+      {
+        "id": 16941,
+        "idUrl": "hilux-srv-4x4-30-cab-dupla-aut-2007",
+        "nome": "Hilux SRV 4X4 3.0 (cab dupla) (aut)",
+        "ano": 2007
+      },
+      {
+        "id": 16829,
+        "idUrl": "hilux-srv-4x4-30-cab-dupla-2007",
+        "nome": "Hilux SRV 4x4 3.0 (cab. dupla)",
+        "ano": 2007
+      },
+      {
+        "id": 16933,
+        "idUrl": "hilux-sr-4x4-30-cab-dupla-2007",
+        "nome": "Hilux SR 4x4 3.0 (cab. dupla)",
+        "ano": 2007
+      },
+      {
+        "id": 16805,
+        "idUrl": "hilux-std-4x4-25-cab-dupla-2007",
+        "nome": "Hilux STD 4x4 2.5 (cab. dupla)",
+        "ano": 2007
+      },
+      {
+        "id": 17092,
+        "idUrl": "hilux-std-4x4-25-cab-simples-2007",
+        "nome": "Hilux STD 4x4 2.5 (cab. simples)",
+        "ano": 2007
+      },
+      {
+        "id": 16859,
+        "idUrl": "hilux-25-td-4x4-cab-simples-chassi-2007",
+        "nome": "Hilux 2.5 TD 4X4 (cab. simples) Chassi",
+        "ano": 2007
+      }
+    ],
+    "2008": [
+      {
+        "id": 16942,
+        "idUrl": "hilux-srv-4x4-30-cab-dupla-aut-2008",
+        "nome": "Hilux SRV 4X4 3.0 (cab dupla) (aut)",
+        "ano": 2008
+      },
+      {
+        "id": 16830,
+        "idUrl": "hilux-srv-4x4-30-cab-dupla-2008",
+        "nome": "Hilux SRV 4x4 3.0 (cab. dupla)",
+        "ano": 2008
+      },
+      {
+        "id": 16925,
+        "idUrl": "hilux-sr-4x4-30-cab-dupla-2008",
+        "nome": "Hilux SR 4x4 3.0 (cab. dupla)",
+        "ano": 2008
+      },
+      {
+        "id": 16806,
+        "idUrl": "hilux-std-4x4-25-cab-dupla-2008",
+        "nome": "Hilux STD 4x4 2.5 (cab. dupla)",
+        "ano": 2008
+      },
+      {
+        "id": 17093,
+        "idUrl": "hilux-std-4x4-25-cab-simples-2008",
+        "nome": "Hilux STD 4x4 2.5 (cab. simples)",
+        "ano": 2008
+      },
+      {
+        "id": 16860,
+        "idUrl": "hilux-25-td-4x4-cab-simples-chassi-2008",
+        "nome": "Hilux 2.5 TD 4X4 (cab. simples) Chassi",
+        "ano": 2008
+      }
+    ],
+    "2009": [
+      {
+        "id": 16878,
+        "idUrl": "hilux-srv-4x4-30-cab-dupla-aut-2009",
+        "nome": "Hilux SRV 4X4 3.0 (cab dupla) (aut)",
+        "ano": 2009
+      },
+      {
+        "id": 16821,
+        "idUrl": "hilux-srv-4x4-30-cab-dupla-2009",
+        "nome": "Hilux SRV 4x4 3.0 (cab. dupla)",
+        "ano": 2009
+      },
+      {
+        "id": 16927,
+        "idUrl": "hilux-sr-4x4-30-cab-dupla-2009",
+        "nome": "Hilux SR 4x4 3.0 (cab. dupla)",
+        "ano": 2009
+      },
+      {
+        "id": 16808,
+        "idUrl": "hilux-std-4x4-25-cab-dupla-2009",
+        "nome": "Hilux STD 4x4 2.5 (cab. dupla)",
+        "ano": 2009
+      },
+      {
+        "id": 17096,
+        "idUrl": "hilux-std-4x4-25-cab-simples-2009",
+        "nome": "Hilux STD 4x4 2.5 (cab. simples)",
+        "ano": 2009
+      },
+      {
+        "id": 16955,
+        "idUrl": "hilux-sr-4x2-27-cab-dupla-2009",
+        "nome": "Hilux SR 4X2 2.7 (cab dupla)",
+        "ano": 2009
+      },
+      {
+        "id": 16957,
+        "idUrl": "hilux-sr-4x2-27-16v-cab-dupla-2009",
+        "nome": "Hilux SR 4X2 2.7 16V (cab. dupla)",
+        "ano": 2009
+      },
+      {
+        "id": 16861,
+        "idUrl": "hilux-25-td-4x4-cab-simples-chassi-2009",
+        "nome": "Hilux 2.5 TD 4X4 (cab. simples) Chassi",
+        "ano": 2009
+      }
+    ],
+    "2010": [
+      {
+        "id": 16879,
+        "idUrl": "hilux-srv-4x4-30-cab-dupla-aut-2010",
+        "nome": "Hilux SRV 4X4 3.0 (cab dupla) (aut)",
+        "ano": 2010
+      },
+      {
+        "id": 16812,
+        "idUrl": "hilux-srv-4x4-30-cab-dupla-2010",
+        "nome": "Hilux SRV 4x4 3.0 (cab. dupla)",
+        "ano": 2010
+      },
+      {
+        "id": 16820,
+        "idUrl": "hilux-srv-4x2-30-cab-dupla-2010",
+        "nome": "Hilux SRV 4x2 3.0 (cab. dupla)",
+        "ano": 2010
+      },
+      {
+        "id": 16926,
+        "idUrl": "hilux-sr-4x4-30-cab-dupla-2010",
+        "nome": "Hilux SR 4x4 3.0 (cab. dupla)",
+        "ano": 2010
+      },
+      {
+        "id": 16807,
+        "idUrl": "hilux-std-4x4-25-cab-dupla-2010",
+        "nome": "Hilux STD 4x4 2.5 (cab. dupla)",
+        "ano": 2010
+      },
+      {
+        "id": 16963,
+        "idUrl": "hilux-sr-4x2-30-cab-dupla-2010",
+        "nome": "Hilux SR 4X2 3.0 (cab dupla)",
+        "ano": 2010
+      },
+      {
+        "id": 16800,
+        "idUrl": "hilux-std-4x2-25-cab-dupla-2010",
+        "nome": "Hilux STD 4x2 2.5 (cab. dupla)",
+        "ano": 2010
+      },
+      {
+        "id": 16958,
+        "idUrl": "hilux-sr-4x2-27-16v-cab-dupla-aut-2010",
+        "nome": "Hilux SR 4X2 2.7 16V (cab. dupla) (aut)",
+        "ano": 2010
+      },
+      {
+        "id": 17094,
+        "idUrl": "hilux-std-4x4-25-cab-simples-2010",
+        "nome": "Hilux STD 4x4 2.5 (cab. simples)",
+        "ano": 2010
+      },
+      {
+        "id": 16956,
+        "idUrl": "hilux-sr-4x2-27-16v-cab-dupla-2010",
+        "nome": "Hilux SR 4X2 2.7 16V (cab. dupla)",
+        "ano": 2010
+      },
+      {
+        "id": 16968,
+        "idUrl": "hilux-std-4x2-25-cab-simples-2010",
+        "nome": "Hilux STD 4x2 2.5 (cab. simples)",
+        "ano": 2010
+      },
+      {
+        "id": 17084,
+        "idUrl": "hilux-std-4x2-25-cab-simpleschassi-2010",
+        "nome": "Hilux STD 4x2 2.5 (cab. simples)chassi",
+        "ano": 2010
+      },
+      {
+        "id": 16862,
+        "idUrl": "hilux-25-td-4x4-cab-simples-chassi-2010",
+        "nome": "Hilux 2.5 TD 4X4 (cab. simples) Chassi",
+        "ano": 2010
+      }
+    ],
+    "2011": [
+      {
+        "id": 16928,
+        "idUrl": "hilux-sr-4x4-30-cab-dupla-2011",
+        "nome": "Hilux SR 4x4 3.0 (cab. dupla)",
+        "ano": 2011
+      },
+      {
+        "id": 16831,
+        "idUrl": "hilux-srv-4x2-30-cab-dupla-2011",
+        "nome": "Hilux SRV 4x2 3.0 (cab. dupla)",
+        "ano": 2011
+      },
+      {
+        "id": 16810,
+        "idUrl": "hilux-std-4x4-25-cab-dupla-2011",
+        "nome": "Hilux STD 4x4 2.5 (cab. dupla)",
+        "ano": 2011
+      },
+      {
+        "id": 16801,
+        "idUrl": "hilux-std-4x2-25-cab-dupla-2011",
+        "nome": "Hilux STD 4x2 2.5 (cab. dupla)",
+        "ano": 2011
+      },
+      {
+        "id": 16969,
+        "idUrl": "hilux-std-4x2-25-cab-simples-2011",
+        "nome": "Hilux STD 4x2 2.5 (cab. simples)",
+        "ano": 2011
+      },
+      {
+        "id": 16863,
+        "idUrl": "hilux-25-td-4x4-cab-simples-chassi-2011",
+        "nome": "Hilux 2.5 TD 4X4 (cab. simples) Chassi",
+        "ano": 2011
+      }
+    ],
+    "2012": [
+      {
+        "id": 16899,
+        "idUrl": "hilux-30-tdi-4x4-cd-srv-auto-2012",
+        "nome": "Hilux 3.0 TDI 4x4 CD SRV Auto",
+        "ano": 2012
+      },
+      {
+        "id": 16882,
+        "idUrl": "hilux-30-tdi-4x4-cd-srv-top-auto-2012",
+        "nome": "Hilux 3.0 TDI 4x4 CD SRV Top Auto",
+        "ano": 2012
+      },
+      {
+        "id": 16918,
+        "idUrl": "hilux-30-tdi-4x4-cd-srv-2012",
+        "nome": "Hilux 3.0 TDI 4x4 CD SRV",
+        "ano": 2012
+      },
+      {
+        "id": 16916,
+        "idUrl": "hilux-30-tdi-4x4-cd-sr-auto-2012",
+        "nome": "Hilux 3.0 TDI 4x4 CD SR Auto",
+        "ano": 2012
+      },
+      {
+        "id": 16910,
+        "idUrl": "hilux-30-tdi-4x4-cd-sr-2012",
+        "nome": "Hilux 3.0 TDI 4x4 CD SR",
+        "ano": 2012
+      },
+      {
+        "id": 16886,
+        "idUrl": "hilux-30-tdi-4x4-cd-std-2012",
+        "nome": "Hilux 3.0 TDI 4x4 CD STD",
+        "ano": 2012
+      },
+      {
+        "id": 17388,
+        "idUrl": "hilux-27-flex-4x4-cd-srv-auto-2012",
+        "nome": "Hilux 2.7 Flex 4x4 CD SRV Auto",
+        "ano": 2012
+      },
+      {
+        "id": 16832,
+        "idUrl": "hilux-std-4x4-25-cab-dupla-2012",
+        "nome": "Hilux STD 4x4 2.5 (cab. dupla)",
+        "ano": 2012
+      },
+      {
+        "id": 16873,
+        "idUrl": "hilux-30-tdi-4x4-cs-std-2012",
+        "nome": "Hilux 3.0 TDI 4x4 CS STD",
+        "ano": 2012
+      },
+      {
+        "id": 17097,
+        "idUrl": "hilux-std-4x4-25-cab-simples-2012",
+        "nome": "Hilux STD 4x4 2.5 (cab. simples)",
+        "ano": 2012
+      },
+      {
+        "id": 17385,
+        "idUrl": "hilux-27-flex-4x2-cd-sr-auto-2012",
+        "nome": "Hilux 2.7 Flex 4x2 CD SR Auto",
+        "ano": 2012
+      },
+      {
+        "id": 16869,
+        "idUrl": "hilux-30-tdi-4x4-cs-chassi-2012",
+        "nome": "Hilux 3.0 TDI 4x4 CS Chassi",
+        "ano": 2012
+      },
+      {
+        "id": 16857,
+        "idUrl": "hilux-25-td-4x4-cab-simples-chassi-2012",
+        "nome": "Hilux 2.5 TD 4X4 (cab. simples) Chassi",
+        "ano": 2012
+      }
+    ],
+    "2013": [
+      {
+        "id": 16883,
+        "idUrl": "hilux-30-tdi-4x4-cd-srv-top-auto-2013",
+        "nome": "Hilux 3.0 TDI 4x4 CD SRV Top Auto",
+        "ano": 2013
+      },
+      {
+        "id": 16888,
+        "idUrl": "hilux-30-tdi-4x4-cd-srv-auto-2013",
+        "nome": "Hilux 3.0 TDI 4x4 CD SRV Auto",
+        "ano": 2013
+      },
+      {
+        "id": 16919,
+        "idUrl": "hilux-30-tdi-4x4-cd-srv-2013",
+        "nome": "Hilux 3.0 TDI 4x4 CD SRV",
+        "ano": 2013
+      },
+      {
+        "id": 16915,
+        "idUrl": "hilux-30-tdi-4x4-cd-sr-auto-2013",
+        "nome": "Hilux 3.0 TDI 4x4 CD SR Auto",
+        "ano": 2013
+      },
+      {
+        "id": 16885,
+        "idUrl": "hilux-30-tdi-4x4-cd-std-2013",
+        "nome": "Hilux 3.0 TDI 4x4 CD STD",
+        "ano": 2013
+      },
+      {
+        "id": 17389,
+        "idUrl": "hilux-27-flex-4x4-cd-srv-auto-2013",
+        "nome": "Hilux 2.7 Flex 4x4 CD SRV Auto",
+        "ano": 2013
+      },
+      {
+        "id": 17386,
+        "idUrl": "hilux-27-flex-4x2-cd-sr-auto-2013",
+        "nome": "Hilux 2.7 Flex 4x2 CD SR Auto",
+        "ano": 2013
+      },
+      {
+        "id": 16872,
+        "idUrl": "hilux-30-tdi-4x4-cs-std-2013",
+        "nome": "Hilux 3.0 TDI 4x4 CS STD",
+        "ano": 2013
+      },
+      {
+        "id": 17384,
+        "idUrl": "hilux-27-4x4-cd-std-flex-2013",
+        "nome": "Hilux 2.7 4x4 CD STD (Flex)",
+        "ano": 2013
+      },
+      {
+        "id": 16868,
+        "idUrl": "hilux-30-tdi-4x4-cs-chassi-2013",
+        "nome": "Hilux 3.0 TDI 4x4 CS Chassi",
+        "ano": 2013
+      }
+    ],
+    "2014": [
+      {
+        "id": 16880,
+        "idUrl": "hilux-30-tdi-4x4-cd-srv-auto-2014",
+        "nome": "Hilux 3.0 TDI 4x4 CD SRV Auto",
+        "ano": 2014
+      },
+      {
+        "id": 16884,
+        "idUrl": "hilux-30-tdi-4x4-cd-srv-top-auto-2014",
+        "nome": "Hilux 3.0 TDI 4x4 CD SRV Top Auto",
+        "ano": 2014
+      },
+      {
+        "id": 16920,
+        "idUrl": "hilux-30-tdi-4x4-cd-srv-2014",
+        "nome": "Hilux 3.0 TDI 4x4 CD SRV",
+        "ano": 2014
+      },
+      {
+        "id": 16917,
+        "idUrl": "hilux-30-tdi-4x4-cd-sr-auto-2014",
+        "nome": "Hilux 3.0 TDI 4x4 CD SR Auto",
+        "ano": 2014
+      },
+      {
+        "id": 16912,
+        "idUrl": "hilux-30-tdi-4x4-cd-sr-2014",
+        "nome": "Hilux 3.0 TDI 4x4 CD SR",
+        "ano": 2014
+      },
+      {
+        "id": 16887,
+        "idUrl": "hilux-30-tdi-4x4-cd-std-2014",
+        "nome": "Hilux 3.0 TDI 4x4 CD STD",
+        "ano": 2014
+      },
+      {
+        "id": 16874,
+        "idUrl": "hilux-30-tdi-4x4-cs-std-2014",
+        "nome": "Hilux 3.0 TDI 4x4 CS STD",
+        "ano": 2014
+      },
+      {
+        "id": 17390,
+        "idUrl": "hilux-27-flex-4x4-cd-srv-auto-2014",
+        "nome": "Hilux 2.7 Flex 4x4 CD SRV Auto",
+        "ano": 2014
+      },
+      {
+        "id": 17387,
+        "idUrl": "hilux-27-flex-4x2-cd-sr-auto-2014",
+        "nome": "Hilux 2.7 Flex 4x2 CD SR Auto",
+        "ano": 2014
+      },
+      {
+        "id": 17391,
+        "idUrl": "hilux-27-flex-4x4-cd-std-2014",
+        "nome": "Hilux 2.7 Flex 4x4 CD STD",
+        "ano": 2014
+      },
+      {
+        "id": 16870,
+        "idUrl": "hilux-30-tdi-4x4-cs-chassi-2014",
+        "nome": "Hilux 3.0 TDI 4x4 CS Chassi",
+        "ano": 2014
+      }
+    ],
+    "2015": [
+      {
+        "id": 16900,
+        "idUrl": "hilux-30-tdi-4x4-cd-srv-aut-2015",
+        "nome": "Hilux 3.0 TDI 4x4 CD SRV (Aut)",
+        "ano": 2015
+      },
+      {
+        "id": 16881,
+        "idUrl": "hilux-30-tdi-4x4-cd-srv-top-aut-2015",
+        "nome": "Hilux 3.0 TDI 4x4 CD SRV Top (Aut)",
+        "ano": 2015
+      },
+      {
+        "id": 16901,
+        "idUrl": "hilux-30-tdi-4x4-cd-srv-2015",
+        "nome": "Hilux 3.0 TDI 4x4 CD SRV",
+        "ano": 2015
+      },
+      {
+        "id": 16914,
+        "idUrl": "hilux-30-tdi-4x4-cd-sr-aut-2015",
+        "nome": "Hilux 3.0 TDI 4x4 CD SR (Aut)",
+        "ano": 2015
+      },
+      {
+        "id": 16913,
+        "idUrl": "hilux-30-tdi-4x4-cd-sr-2015",
+        "nome": "Hilux 3.0 TDI 4x4 CD SR",
+        "ano": 2015
+      },
+      {
+        "id": 16875,
+        "idUrl": "hilux-30-tdi-4x4-cs-std-2015",
+        "nome": "Hilux 3.0 TDI 4x4 CS STD",
+        "ano": 2015
+      },
+      {
+        "id": 16889,
+        "idUrl": "hilux-30-tdi-4x4-cd-std-2015",
+        "nome": "Hilux 3.0 TDI 4x4 CD STD",
+        "ano": 2015
+      },
+      {
+        "id": 17382,
+        "idUrl": "hilux-27-4x4-cd-srv-flex-aut-2015",
+        "nome": "Hilux 2.7 4x4 CD SRV (Flex) (Aut)",
+        "ano": 2015
+      },
+      {
+        "id": 17148,
+        "idUrl": "hilux-27-srv-cd-4x2-flex-aut-2015",
+        "nome": "Hilux 2.7 SRV CD 4x2 (Flex) (Aut)",
+        "ano": 2015
+      },
+      {
+        "id": 17392,
+        "idUrl": "hilux-27-sr-cd-4x2-flex-aut-2015",
+        "nome": "Hilux 2.7 SR CD 4x2 (Flex) (Aut)",
+        "ano": 2015
+      },
+      {
+        "id": 16871,
+        "idUrl": "hilux-30-tdi-4x4-cs-chassi-2015",
+        "nome": "Hilux 3.0 TDI 4x4 CS Chassi",
+        "ano": 2015
+      },
+      {
+        "id": 17393,
+        "idUrl": "hilux-27-4x4-cd-std-flex-2015",
+        "nome": "Hilux 2.7 4x4 CD STD (Flex)",
+        "ano": 2015
+      }
+    ],
+    "2016": [
+      {
+        "id": 16906,
+        "idUrl": "hilux-28-tdi-srx-cd-4x4-aut-2016",
+        "nome": "Hilux 2.8 TDI SRX CD 4x4 (Aut)",
+        "ano": 2016
+      },
+      {
+        "id": 16904,
+        "idUrl": "hilux-28-tdi-srv-cd-4x4-aut-2016",
+        "nome": "Hilux 2.8 TDI SRV CD 4x4 (Aut)",
+        "ano": 2016
+      },
+      {
+        "id": 16902,
+        "idUrl": "hilux-28-tdi-sr-cd-4x4-aut-2016",
+        "nome": "Hilux 2.8 TDI SR CD 4x4 (Aut)",
+        "ano": 2016
+      },
+      {
+        "id": 16908,
+        "idUrl": "hilux-28-tdi-std-cd-4x4-2016",
+        "nome": "Hilux 2.8 TDI STD CD 4x4",
+        "ano": 2016
+      },
+      {
+        "id": 16866,
+        "idUrl": "hilux-28-tdi-std-cs-4x4-2016",
+        "nome": "Hilux 2.8 TDI STD CS 4x4",
+        "ano": 2016
+      },
+      {
+        "id": 16864,
+        "idUrl": "hilux-28-tdi-chassi-cs-4x4-2016",
+        "nome": "Hilux 2.8 TDI Chassi CS 4x4",
+        "ano": 2016
+      }
+    ],
+    "2017": [
+      {
+        "id": 16907,
+        "idUrl": "hilux-28-tdi-srx-cd-4x4-aut-2017",
+        "nome": "Hilux 2.8 TDI SRX CD 4x4 (Aut)",
+        "ano": 2017
+      },
+      {
+        "id": 16905,
+        "idUrl": "hilux-28-tdi-srv-cd-4x4-aut-2017",
+        "nome": "Hilux 2.8 TDI SRV CD 4x4 (Aut)",
+        "ano": 2017
+      },
+      {
+        "id": 16903,
+        "idUrl": "hilux-28-tdi-sr-cd-4x4-aut-2017",
+        "nome": "Hilux 2.8 TDI SR CD 4x4 (Aut)",
+        "ano": 2017
+      },
+      {
+        "id": 16909,
+        "idUrl": "hilux-28-tdi-std-cd-4x4-2017",
+        "nome": "Hilux 2.8 TDI STD CD 4x4",
+        "ano": 2017
+      },
+      {
+        "id": 17057,
+        "idUrl": "hilux-27-srv-cd-4x4-flex-aut-2017",
+        "nome": "Hilux 2.7 SRV CD 4x4 (Flex) (Aut)",
+        "ano": 2017
+      },
+      {
+        "id": 17147,
+        "idUrl": "hilux-27-srv-cd-4x2-flex-aut-2017",
+        "nome": "Hilux 2.7 SRV CD 4x2 (Flex) (Aut)",
+        "ano": 2017
+      },
+      {
+        "id": 16867,
+        "idUrl": "hilux-28-tdi-std-cs-4x4-2017",
+        "nome": "Hilux 2.8 TDI STD CS 4x4",
+        "ano": 2017
+      },
+      {
+        "id": 17149,
+        "idUrl": "hilux-27-sr-cd-4x2-flex-aut-2017",
+        "nome": "Hilux 2.7 SR CD 4x2 (Flex) (Aut)",
+        "ano": 2017
+      },
+      {
+        "id": 16865,
+        "idUrl": "hilux-28-tdi-chassi-cs-4x4-2017",
+        "nome": "Hilux 2.8 TDI Chassi CS 4x4",
+        "ano": 2017
+      }
+    ],
+    "2018": [
+      {
+        "id": 21933,
+        "idUrl": "hilux-tdi-28-srx-cd-4x4-aut-2018",
+        "nome": "Hilux TDI 28 SRX CD 4x4 Aut",
+        "ano": 2018
+      },
+      {
+        "id": 21948,
+        "idUrl": "hilux-28-tdi-4x4-cd-std-narrow-2018",
+        "nome": "Hilux 2.8 TDI 4X4 CD STD Narrow",
+        "ano": 2018
+      },
+      {
+        "id": 21932,
+        "idUrl": "hilux-tdi-28-srv-cd-4x4-aut-2018",
+        "nome": "Hilux TDI 28 SRV CD 4x4 Aut",
+        "ano": 2018
+      },
+      {
+        "id": 21931,
+        "idUrl": "hilux-tdi-28-sr-challenge-cd-4x4-aut-2018",
+        "nome": "Hilux TDI 28 SR Challenge CD 4x4 Aut",
+        "ano": 2018
+      },
+      {
+        "id": 21937,
+        "idUrl": "hilux-27-sr-cd-4x2-flex-2018",
+        "nome": "Hilux 27 SR CD 4x2 Flex",
+        "ano": 2018
+      },
+      {
+        "id": 21947,
+        "idUrl": "hilux-28-tdi-4x4-cd-std-2018",
+        "nome": "Hilux 2.8 TDI 4X4 CD STD",
+        "ano": 2018
+      },
+      {
+        "id": 21934,
+        "idUrl": "hilux-27-srv-cd-4x4-flex-aut-2018",
+        "nome": "Hilux 27 SRV CD 4x4 Flex Aut",
+        "ano": 2018
+      },
+      {
+        "id": 21935,
+        "idUrl": "hilux-27-srv-cd-4x2-flex-aut-2018",
+        "nome": "Hilux 27 SRV CD 4x2 Flex Aut",
+        "ano": 2018
+      },
+      {
+        "id": 21945,
+        "idUrl": "hilux-28-tdi-std-cs-4x4-2018",
+        "nome": "Hilux 2.8 TDI STD CS 4X4",
+        "ano": 2018
+      },
+      {
+        "id": 21936,
+        "idUrl": "hilux-27-sr-cd-4x2-flex-aut-2018",
+        "nome": "Hilux 27 SR CD 4x2 Flex Aut",
+        "ano": 2018
+      },
+      {
+        "id": 21946,
+        "idUrl": "hilux-28-tdi-chassi-cs-4x4-2018",
+        "nome": "Hilux 2.8 TDI Chassi CS 4X4",
+        "ano": 2018
+      }
+    ]
+  }

@@ -1,0 +1,28 @@
+{
+    "2018": [
+      {
+        "id": 15843,
+        "idUrl": "captur-intense-20-16v-aut-2018",
+        "nome": "Captur Intense 2.0 16v Aut",
+        "ano": 2018
+      },
+      {
+        "id": 21882,
+        "idUrl": "captur-intense-16-16v-cvt-2018",
+        "nome": "Captur Intense 1.6 16V CVT",
+        "ano": 2018
+      },
+      {
+        "id": 21883,
+        "idUrl": "captur-zen-16-16v-cvt-2018",
+        "nome": "Captur Zen 1.6 16V CVT",
+        "ano": 2018
+      },
+      {
+        "id": 15844,
+        "idUrl": "captur-zen-16-16v-sce-2018",
+        "nome": "Captur Zen 1.6 16V Sce",
+        "ano": 2018
+      }
+    ]
+  }

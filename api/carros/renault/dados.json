@@ -1,0 +1,226 @@
+[
+    {
+      "id": 811,
+      "idUrl": "captur",
+      "nome": "Captur",
+      "fotoDestaque": {
+        "id": 55085,
+        "largura": 209,
+        "altura": 139,
+        "nome": "carro/renault/captur/destaque",
+        "url": "//cdn.autopapo.com.br/carro/renault/captur/destaque-v1.png",
+        "mimeType": "image/png"
+      },
+      "emProducao": true
+    },
+    {
+      "id": 810,
+      "idUrl": "clio",
+      "nome": "Clio",
+      "fotoDestaque": {
+        "id": 55081,
+        "largura": 209,
+        "altura": 139,
+        "nome": "carro/renault/clio/destaque",
+        "url": "//cdn.autopapo.com.br/carro/renault/clio/destaque-v2.png",
+        "mimeType": "image/png"
+      },
+      "emProducao": false
+    },
+    {
+      "id": 809,
+      "idUrl": "duster",
+      "nome": "Duster",
+      "fotoDestaque": {
+        "id": 55087,
+        "largura": 209,
+        "altura": 139,
+        "nome": "carro/renault/duster/destaque",
+        "url": "//cdn.autopapo.com.br/carro/renault/duster/destaque-v2.png",
+        "mimeType": "image/png"
+      },
+      "emProducao": true
+    },
+    {
+      "id": 808,
+      "idUrl": "duster-oroch",
+      "nome": "Duster Oroch",
+      "fotoDestaque": {
+        "id": 55089,
+        "largura": 209,
+        "altura": 139,
+        "nome": "carro/renault/duster-oroch/destaque",
+        "url": "//cdn.autopapo.com.br/carro/renault/duster-oroch/destaque-v1.png",
+        "mimeType": "image/png"
+      },
+      "emProducao": true
+    },
+    {
+      "id": 807,
+      "idUrl": "fluence",
+      "nome": "Fluence",
+      "fotoDestaque": {
+        "id": 55058,
+        "largura": 209,
+        "altura": 139,
+        "nome": "carro/renault/fluence/destaque",
+        "url": "//cdn.autopapo.com.br/carro/renault/fluence/destaque-v2.png",
+        "mimeType": "image/png"
+      },
+      "emProducao": false
+    },
+    {
+      "id": 805,
+      "idUrl": "kangoo",
+      "nome": "Kangoo",
+      "fotoDestaque": {
+        "id": 55091,
+        "largura": 209,
+        "altura": 139,
+        "nome": "carro/renault/kangoo/destaque",
+        "url": "//cdn.autopapo.com.br/carro/renault/kangoo/destaque-v2.png",
+        "mimeType": "image/png"
+      },
+      "emProducao": true
+    },
+    {
+      "id": 1193,
+      "idUrl": "kwid",
+      "nome": "Kwid",
+      "fotoDestaque": {
+        "id": 55093,
+        "largura": 209,
+        "altura": 139,
+        "nome": "carro/renault/kwid/destaque",
+        "url": "//cdn.autopapo.com.br/carro/renault/kwid/destaque-v2.png",
+        "mimeType": "image/png"
+      },
+      "emProducao": true
+    },
+    {
+      "id": 803,
+      "idUrl": "laguna",
+      "nome": "Laguna",
+      "fotoDestaque": {
+        "id": 55060,
+        "largura": 209,
+        "altura": 139,
+        "nome": "carro/renault/laguna/destaque",
+        "url": "//cdn.autopapo.com.br/carro/renault/laguna/destaque-v1.png",
+        "mimeType": "image/png"
+      },
+      "emProducao": false
+    },
+    {
+      "id": 801,
+      "idUrl": "logan",
+      "nome": "Logan",
+      "fotoDestaque": {
+        "id": 55095,
+        "largura": 209,
+        "altura": 139,
+        "nome": "carro/renault/logan/destaque",
+        "url": "//cdn.autopapo.com.br/carro/renault/logan/destaque-v1.png",
+        "mimeType": "image/png"
+      },
+      "emProducao": true
+    },
+    {
+      "id": 798,
+      "idUrl": "master",
+      "nome": "Master",
+      "fotoDestaque": {
+        "id": 55097,
+        "largura": 209,
+        "altura": 139,
+        "nome": "carro/renault/master/destaque",
+        "url": "//cdn.autopapo.com.br/carro/renault/master/destaque-v1.png",
+        "mimeType": "image/png"
+      },
+      "emProducao": true
+    },
+    {
+      "id": 1332,
+      "idUrl": "megane",
+      "nome": "Megane",
+      "fotoDestaque": {
+        "id": 55064,
+        "largura": 209,
+        "altura": 139,
+        "nome": "carro/renault/megane-sedan/destaque",
+        "url": "//cdn.autopapo.com.br/carro/renault/megane-sedan/destaque-v1.png",
+        "mimeType": "image/png"
+      },
+      "emProducao": false
+    },
+    {
+      "id": 796,
+      "idUrl": "sandero",
+      "nome": "Sandero",
+      "fotoDestaque": {
+        "id": 55099,
+        "largura": 209,
+        "altura": 139,
+        "nome": "carro/renault/sandero/destaque",
+        "url": "//cdn.autopapo.com.br/carro/renault/sandero/destaque-v2.png",
+        "mimeType": "image/png"
+      },
+      "emProducao": true
+    },
+    {
+      "id": 797,
+      "idUrl": "scenic",
+      "nome": "Scenic",
+      "fotoDestaque": {
+        "id": 55078,
+        "largura": 209,
+        "altura": 139,
+        "nome": "carro/renault/scenic/destaque",
+        "url": "//cdn.autopapo.com.br/carro/renault/scenic/destaque-v3.png",
+        "mimeType": "image/png"
+      },
+      "emProducao": false
+    },
+    {
+      "id": 799,
+      "idUrl": "symbol",
+      "nome": "Symbol",
+      "fotoDestaque": {
+        "id": 55070,
+        "largura": 209,
+        "altura": 139,
+        "nome": "carro/renault/symbol/destaque",
+        "url": "//cdn.autopapo.com.br/carro/renault/symbol/destaque-v2.png",
+        "mimeType": "image/png"
+      },
+      "emProducao": false
+    },
+    {
+      "id": 816,
+      "idUrl": "twingo",
+      "nome": "Twingo",
+      "fotoDestaque": {
+        "id": 55072,
+        "largura": 209,
+        "altura": 139,
+        "nome": "carro/renault/twingo/destaque",
+        "url": "//cdn.autopapo.com.br/carro/renault/twingo/destaque-v3.png",
+        "mimeType": "image/png"
+      },
+      "emProducao": false
+    },
+    {
+      "id": 1216,
+      "idUrl": "zoe",
+      "nome": "Zoe",
+      "fotoDestaque": {
+        "id": 55101,
+        "largura": 209,
+        "altura": 139,
+        "nome": "carro/renault/zoe/destaque",
+        "url": "//cdn.autopapo.com.br/carro/renault/zoe/destaque-v1.png",
+        "mimeType": "image/png"
+      },
+      "emProducao": true
+    }
+  ]

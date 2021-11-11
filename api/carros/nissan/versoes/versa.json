@@ -1,0 +1,178 @@
+{
+    "2012": [
+      {
+        "id": 13333,
+        "idUrl": "versa-16-16v-sl-2012",
+        "nome": "Versa 1.6 16V SL",
+        "ano": 2012
+      },
+      {
+        "id": 13371,
+        "idUrl": "versa-16-16v-sv-2012",
+        "nome": "Versa 1.6 16V SV",
+        "ano": 2012
+      },
+      {
+        "id": 13337,
+        "idUrl": "versa-16-16v-s-2012",
+        "nome": "Versa 1.6 16V S",
+        "ano": 2012
+      }
+    ],
+    "2013": [
+      {
+        "id": 13332,
+        "idUrl": "versa-16-16v-sl-2013",
+        "nome": "Versa 1.6 16V SL",
+        "ano": 2013
+      },
+      {
+        "id": 13358,
+        "idUrl": "versa-16-16v-sv-2013",
+        "nome": "Versa 1.6 16V SV",
+        "ano": 2013
+      },
+      {
+        "id": 13336,
+        "idUrl": "versa-16-16v-s-2013",
+        "nome": "Versa 1.6 16V S",
+        "ano": 2013
+      }
+    ],
+    "2014": [
+      {
+        "id": 13331,
+        "idUrl": "versa-16-16v-sl-2014",
+        "nome": "Versa 1.6 16V SL",
+        "ano": 2014
+      },
+      {
+        "id": 13384,
+        "idUrl": "versa-16-16v-sv-2014",
+        "nome": "Versa 1.6 16V SV",
+        "ano": 2014
+      },
+      {
+        "id": 13335,
+        "idUrl": "versa-16-16v-s-2014",
+        "nome": "Versa 1.6 16V S",
+        "ano": 2014
+      }
+    ],
+    "2016": [
+      {
+        "id": 13378,
+        "idUrl": "versa-16-16v-unique-flex-2016",
+        "nome": "Versa 1.6 16V Unique (Flex)",
+        "ano": 2016
+      },
+      {
+        "id": 13329,
+        "idUrl": "versa-16-16v-sl-2016",
+        "nome": "Versa 1.6 16V SL",
+        "ano": 2016
+      },
+      {
+        "id": 13382,
+        "idUrl": "versa-16-16v-sv-2016",
+        "nome": "Versa 1.6 16V SV",
+        "ano": 2016
+      },
+      {
+        "id": 13375,
+        "idUrl": "versa-s-10-12v-flex-2016",
+        "nome": "Versa S 1.0 12V (Flex)",
+        "ano": 2016
+      },
+      {
+        "id": 13340,
+        "idUrl": "versa-10-12v-flex-2016",
+        "nome": "Versa 1.0 12V (Flex)",
+        "ano": 2016
+      }
+    ],
+    "2017": [
+      {
+        "id": 13377,
+        "idUrl": "versa-16-16v-unique-cvt-flex-2017",
+        "nome": "Versa 1.6 16V Unique CVT (Flex)",
+        "ano": 2017
+      },
+      {
+        "id": 13357,
+        "idUrl": "versa-16-16v-sl-cvt-flex-2017",
+        "nome": "Versa 1.6 16V SL CVT (Flex)",
+        "ano": 2017
+      },
+      {
+        "id": 13341,
+        "idUrl": "versa-16-16v-sl-flex-2017",
+        "nome": "Versa 1.6 16V SL (Flex)",
+        "ano": 2017
+      },
+      {
+        "id": 13380,
+        "idUrl": "versa-16-16v-sv-cvt-flex-2017",
+        "nome": "Versa 1.6 16V SV CVT (Flex)",
+        "ano": 2017
+      },
+      {
+        "id": 13381,
+        "idUrl": "versa-16-16v-sv-flex-2017",
+        "nome": "Versa 1.6 16V SV (Flex)",
+        "ano": 2017
+      },
+      {
+        "id": 13334,
+        "idUrl": "versa-16-16v-s-flex-2017",
+        "nome": "Versa 1.6 16V S (Flex)",
+        "ano": 2017
+      },
+      {
+        "id": 13338,
+        "idUrl": "versa-10-12v-s-flex-2017",
+        "nome": "Versa 1.0 12V S (Flex)",
+        "ano": 2017
+      },
+      {
+        "id": 13339,
+        "idUrl": "versa-10-12v-flex-2017",
+        "nome": "Versa 1.0 12V Conforto (Flex)",
+        "ano": 2017
+      }
+    ],
+    "2018": [
+      {
+        "id": 22138,
+        "idUrl": "nissan-versa-unique-16-at-2018",
+        "nome": "Nissan Versa Unique 1.6 AT",
+        "ano": 2018
+      }
+    ],
+    "2021": [
+      {
+        "id": 22532,
+        "idUrl": "versa-advance-16-aut-2021",
+        "nome": "Versa Advance 1.6 (Aut)",
+        "ano": 2021
+      },
+      {
+        "id": 22533,
+        "idUrl": "versa-sense-16-2021",
+        "nome": "Versa Sense 1.6",
+        "ano": 2021
+      },
+      {
+        "id": 22534,
+        "idUrl": "versa-exclusive-16-aut-2021",
+        "nome": "Versa Exclusive 1.6 (Aut)",
+        "ano": 2021
+      },
+      {
+        "id": 22535,
+        "idUrl": "versa-sense-16-aut-2021",
+        "nome": "Versa Sense 1.6 (Aut)",
+        "ano": 2021
+      }
+    ]
+  }

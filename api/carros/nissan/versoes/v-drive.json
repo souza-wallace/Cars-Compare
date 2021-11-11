@@ -1,0 +1,34 @@
+{
+    "2021": [
+      {
+        "id": 22528,
+        "idUrl": "versa-vdrive-premium-16-aut-2021",
+        "nome": "Versa V-Drive Premium 1.6 (Aut)",
+        "ano": 2021
+      },
+      {
+        "id": 22529,
+        "idUrl": "versa-vdrive-plus-16-aut-2021",
+        "nome": "Versa V-Drive Plus 1.6 (Aut)",
+        "ano": 2021
+      },
+      {
+        "id": 22527,
+        "idUrl": "versa-vdrive-special-edition-16-aut-2021",
+        "nome": "Versa V-Drive Special Edition 1.6 (Aut)",
+        "ano": 2021
+      },
+      {
+        "id": 22526,
+        "idUrl": "versa-vdrive-16-2021",
+        "nome": "Versa V-Drive 1.6",
+        "ano": 2021
+      },
+      {
+        "id": 22530,
+        "idUrl": "versa-vdrive-10-2021",
+        "nome": "Versa V-Drive 1.0",
+        "ano": 2021
+      }
+    ]
+  }

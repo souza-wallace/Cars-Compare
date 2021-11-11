@@ -1,0 +1,218 @@
+{
+    "2013": [
+      {
+        "id": 14567,
+        "idUrl": "208-16-16v-griffe-flex-aut-2013",
+        "nome": "208 1.6 16V Griffe (Flex) (Aut)",
+        "ano": 2013
+      },
+      {
+        "id": 14563,
+        "idUrl": "208-15-8v-allure-flex-2013",
+        "nome": "208 1.5 8V Allure (Flex)",
+        "ano": 2013
+      },
+      {
+        "id": 14566,
+        "idUrl": "208-16-16v-griffe-flex-2013",
+        "nome": "208 1.6 16V Griffe (Flex)",
+        "ano": 2013
+      },
+      {
+        "id": 14588,
+        "idUrl": "208-15-8v-active-pack-flex-2013",
+        "nome": "208 1.5 8V Active Pack (Flex)",
+        "ano": 2013
+      },
+      {
+        "id": 14589,
+        "idUrl": "208-15-8v-active-flex-2013",
+        "nome": "208 1.5 8V Active (Flex)",
+        "ano": 2013
+      }
+    ],
+    "2014": [
+      {
+        "id": 14565,
+        "idUrl": "208-16-16v-premier-flex-2014",
+        "nome": "208 1.6 16V  Premier (Flex)",
+        "ano": 2014
+      }
+    ],
+    "2015": [
+      {
+        "id": 14584,
+        "idUrl": "208-griffe-16-16v-flex-aut-2015",
+        "nome": "208 Griffe  1.6 16V (Flex) (Aut)",
+        "ano": 2015
+      },
+      {
+        "id": 14585,
+        "idUrl": "208-griffe-16-16v-flex-2015",
+        "nome": "208 Griffe 1.6 16V (Flex)",
+        "ano": 2015
+      },
+      {
+        "id": 14577,
+        "idUrl": "208-allure-15-8v-flex-2015",
+        "nome": "208 Allure 1.5 8V (Flex)",
+        "ano": 2015
+      },
+      {
+        "id": 14574,
+        "idUrl": "208-active-pack-16-16v-flex-aut-2015",
+        "nome": "208 Active Pack 1.6 16V (Flex) (Aut)",
+        "ano": 2015
+      },
+      {
+        "id": 14569,
+        "idUrl": "208-active-15-8v-flex-2015",
+        "nome": "208 Active 1.5 8V (Flex)",
+        "ano": 2015
+      },
+      {
+        "id": 14572,
+        "idUrl": "208-active-pack-15-8v-flex-2015",
+        "nome": "208 Active Pack 1.5 8V (Flex)",
+        "ano": 2015
+      }
+    ],
+    "2016": [
+      {
+        "id": 14587,
+        "idUrl": "208-griffe-16-16v-flex-aut-2016",
+        "nome": "208 Griffe 1.6 16V (Flex) (Aut)",
+        "ano": 2016
+      },
+      {
+        "id": 14586,
+        "idUrl": "208-griffe-16-16v-flex-2016",
+        "nome": "208 Griffe 1.6 16V (Flex)",
+        "ano": 2016
+      },
+      {
+        "id": 14580,
+        "idUrl": "208-allure-16-8v-flex-aut-2016",
+        "nome": "208 Allure 1.6 8V (Flex) (Aut)",
+        "ano": 2016
+      },
+      {
+        "id": 14578,
+        "idUrl": "208-allure-15-8v-flex-2016",
+        "nome": "208 Allure 1.5 8V (Flex)",
+        "ano": 2016
+      },
+      {
+        "id": 14582,
+        "idUrl": "208-allure-in-concert-16-16v-flex-aut-2016",
+        "nome": "208 Allure In Concert 1.6 16V (Flex) (Aut)",
+        "ano": 2016
+      },
+      {
+        "id": 14581,
+        "idUrl": "208-allure-in-concert-15-8v-flex-2016",
+        "nome": "208 Allure In Concert 1.5 8V (Flex)",
+        "ano": 2016
+      },
+      {
+        "id": 14570,
+        "idUrl": "208-active-15-8v-flex-2016",
+        "nome": "208 Active 1.5 8V (Flex)",
+        "ano": 2016
+      },
+      {
+        "id": 14573,
+        "idUrl": "208-active-pack-15-8v-flex-2016",
+        "nome": "208 Active Pack 1.5 8V (Flex)",
+        "ano": 2016
+      }
+    ],
+    "2017": [
+      {
+        "id": 14583,
+        "idUrl": "208-gt-16-thp-flex-2017",
+        "nome": "208 GT 1.6 THP (Flex)",
+        "ano": 2017
+      },
+      {
+        "id": 14504,
+        "idUrl": "208-griffe-16-16v-flexaut-2017",
+        "nome": "208 Griffe 1.6 16V (Flex)(Aut)",
+        "ano": 2017
+      },
+      {
+        "id": 14579,
+        "idUrl": "208-allure-16-16v-flexaut-2017",
+        "nome": "208 Allure 1.6 16V (Flex)(Aut)",
+        "ano": 2017
+      },
+      {
+        "id": 14576,
+        "idUrl": "208-allure-12-12v-flex-2017",
+        "nome": "208 Allure 1.2 12V (Flex)",
+        "ano": 2017
+      },
+      {
+        "id": 14604,
+        "idUrl": "208-sport-16-16v-flex-2017",
+        "nome": "208 Sport 1.6 16V (Flex)",
+        "ano": 2017
+      },
+      {
+        "id": 14571,
+        "idUrl": "208-active-pack-12-12v-flex-2017",
+        "nome": "208 Active Pack 1.2 12V (Flex)",
+        "ano": 2017
+      },
+      {
+        "id": 14568,
+        "idUrl": "208-active-12-12v-flex-2017",
+        "nome": "208 Active 1.2 12V (Flex)",
+        "ano": 2017
+      }
+    ],
+    "2018": [
+      {
+        "id": 21872,
+        "idUrl": "208-gt-16-thp-flex-2018",
+        "nome": "208 GT 1.6 THP flex",
+        "ano": 2018
+      },
+      {
+        "id": 21874,
+        "idUrl": "208-griffe-16-flex-aut-2018",
+        "nome": "208 Griffe 1.6 flex aut",
+        "ano": 2018
+      },
+      {
+        "id": 21873,
+        "idUrl": "208-sport-16-16v-flex-2018",
+        "nome": "208 Sport 1.6 16v flex",
+        "ano": 2018
+      },
+      {
+        "id": 21875,
+        "idUrl": "208-allure-16-flex-aut-2018",
+        "nome": "208 Allure 1.6 flex aut",
+        "ano": 2018
+      },
+      {
+        "id": 21876,
+        "idUrl": "208-allure-12-12v-flex-2018",
+        "nome": "208 Allure 1.2 12v flex",
+        "ano": 2018
+      },
+      {
+        "id": 21870,
+        "idUrl": "208-active-12-pack-12v-flex-2018",
+        "nome": "208 Active 1.2 Pack 12v flex",
+        "ano": 2018
+      },
+      {
+        "id": 21871,
+        "idUrl": "208-active-12-12v-flex-2018",
+        "nome": "208 Active 1.2 12v flex",
+        "ano": 2018
+      }
+    ]
+  }

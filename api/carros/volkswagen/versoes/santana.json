@@ -1,0 +1,514 @@
+{
+  "1985": [
+    {
+      "id": 18443,
+      "idUrl": "santana-cg-18-1985",
+      "nome": "Santana CG 1.8",
+      "ano": 1985
+    },
+    {
+      "id": 18444,
+      "idUrl": "santana-cd-18-1985",
+      "nome": "Santana CD 1.8",
+      "ano": 1985
+    },
+    {
+      "id": 18393,
+      "idUrl": "santana-cs-18-1985",
+      "nome": "Santana CS 1.8",
+      "ano": 1985
+    }
+  ],
+  "1986": [
+    {
+      "id": 18442,
+      "idUrl": "santana-cl-18-1986",
+      "nome": "Santana CL 1.8",
+      "ano": 1986
+    }
+  ],
+  "1987": [
+    {
+      "id": 18338,
+      "idUrl": "santana-gls-20-aut-1987",
+      "nome": "Santana GLS 2.0 (Aut)",
+      "ano": 1987
+    },
+    {
+      "id": 18339,
+      "idUrl": "santana-gls-20-1987",
+      "nome": "Santana GLS 2.0",
+      "ano": 1987
+    },
+    {
+      "id": 18345,
+      "idUrl": "santana-gl-20-1987",
+      "nome": "Santana GL 2.0",
+      "ano": 1987
+    },
+    {
+      "id": 18344,
+      "idUrl": "santana-gl-20-aut-1987",
+      "nome": "Santana GL 2.0 (Aut)",
+      "ano": 1987
+    }
+  ],
+  "1988": [
+    {
+      "id": 18440,
+      "idUrl": "santana-cl-20-1988",
+      "nome": "Santana CL 2.0",
+      "ano": 1988
+    }
+  ],
+  "1989": [
+    {
+      "id": 18360,
+      "idUrl": "santana-evidence-20-1989",
+      "nome": "Santana Evidence 2.0",
+      "ano": 1989
+    }
+  ],
+  "1990": [
+    {
+      "id": 18361,
+      "idUrl": "santana-executivo-20-i-aut-1990",
+      "nome": "Santana EXecutivo 2.0 i (Aut)",
+      "ano": 1990
+    },
+    {
+      "id": 18362,
+      "idUrl": "santana-executivo-20-i-1990",
+      "nome": "Santana EXecutivo 2.0 i",
+      "ano": 1990
+    },
+    {
+      "id": 18401,
+      "idUrl": "santana-sport-20-1990",
+      "nome": "Santana Sport 2.0",
+      "ano": 1990
+    }
+  ],
+  "1991": [
+    {
+      "id": 18336,
+      "idUrl": "santana-gls-20-nova-serie-aut-1991",
+      "nome": "Santana GLS 2.0 (nova série) (Aut)",
+      "ano": 1991
+    },
+    {
+      "id": 18337,
+      "idUrl": "santana-gls-20-nova-serie-1991",
+      "nome": "Santana GLS 2.0 (nova série)",
+      "ano": 1991
+    },
+    {
+      "id": 18367,
+      "idUrl": "santana-glsi-20-1991",
+      "nome": "Santana GLSi 2.0",
+      "ano": 1991
+    },
+    {
+      "id": 18389,
+      "idUrl": "santana-glsi-20-aut-1991",
+      "nome": "Santana GLSi 2.0 (Aut)",
+      "ano": 1991
+    },
+    {
+      "id": 18343,
+      "idUrl": "santana-gl-20-nova-serie-1991",
+      "nome": "Santana GL 2.0 (nova série)",
+      "ano": 1991
+    },
+    {
+      "id": 18441,
+      "idUrl": "santana-cl-18-nova-serie-1991",
+      "nome": "Santana CL 1.8 (nova série)",
+      "ano": 1991
+    },
+    {
+      "id": 18342,
+      "idUrl": "santana-gl-20-nova-serie-aut-1991",
+      "nome": "Santana GL 2.0 (nova série) (Aut)",
+      "ano": 1991
+    }
+  ],
+  "1992": [
+    {
+      "id": 18368,
+      "idUrl": "santana-glsi-20-1992",
+      "nome": "Santana GLSi 2.0",
+      "ano": 1992
+    }
+  ],
+  "1993": [
+    {
+      "id": 18369,
+      "idUrl": "santana-glsi-20-1993",
+      "nome": "Santana GLSi 2.0",
+      "ano": 1993
+    },
+    {
+      "id": 18391,
+      "idUrl": "santana-gli-20-1993",
+      "nome": "Santana GLi 2.0",
+      "ano": 1993
+    },
+    {
+      "id": 18394,
+      "idUrl": "santana-gli-20-aut-1993",
+      "nome": "Santana GLi 2.0 (Aut)",
+      "ano": 1993
+    },
+    {
+      "id": 18395,
+      "idUrl": "santana-sport-20-i-1993",
+      "nome": "Santana Sport 2.0 i",
+      "ano": 1993
+    },
+    {
+      "id": 18404,
+      "idUrl": "santana-cli-18-1993",
+      "nome": "Santana CLi 1.8",
+      "ano": 1993
+    }
+  ],
+  "1994": [
+    {
+      "id": 18387,
+      "idUrl": "santana-glsi-20-1994",
+      "nome": "Santana GLSi 2.0",
+      "ano": 1994
+    },
+    {
+      "id": 18462,
+      "idUrl": "santana-cli-18-1994",
+      "nome": "Santana CLi 1.8",
+      "ano": 1994
+    }
+  ],
+  "1995": [
+    {
+      "id": 18388,
+      "idUrl": "santana-glsi-20-1995",
+      "nome": "Santana GLSi 2.0",
+      "ano": 1995
+    },
+    {
+      "id": 18403,
+      "idUrl": "santana-cli-18-1995",
+      "nome": "Santana CLi 1.8",
+      "ano": 1995
+    }
+  ],
+  "1996": [
+    {
+      "id": 18366,
+      "idUrl": "santana-exclusive-20-mi-aut-1996",
+      "nome": "Santana Exclusive 2.0 MI (Aut)",
+      "ano": 1996
+    },
+    {
+      "id": 18350,
+      "idUrl": "santana-glsi-20-1996",
+      "nome": "Santana GLSi 2.0",
+      "ano": 1996
+    },
+    {
+      "id": 18354,
+      "idUrl": "santana-exclusive-20-mi-1996",
+      "nome": "Santana Exclusive 2.0 MI",
+      "ano": 1996
+    },
+    {
+      "id": 18358,
+      "idUrl": "santana-evidence-20-mi-1996",
+      "nome": "Santana Evidence 2.0 MI",
+      "ano": 1996
+    },
+    {
+      "id": 18390,
+      "idUrl": "santana-gli-20-1996",
+      "nome": "Santana GLi 2.0",
+      "ano": 1996
+    },
+    {
+      "id": 18439,
+      "idUrl": "santana-cli-18-1996",
+      "nome": "Santana CLi 1.8",
+      "ano": 1996
+    },
+    {
+      "id": 18468,
+      "idUrl": "santana-20-mi-1996",
+      "nome": "Santana 2.0 MI",
+      "ano": 1996
+    },
+    {
+      "id": 18466,
+      "idUrl": "santana-18-i-1996",
+      "nome": "Santana 1.8 i",
+      "ano": 1996
+    },
+    {
+      "id": 18409,
+      "idUrl": "santana-18-mi-1996",
+      "nome": "Santana 1.8 MI",
+      "ano": 1996
+    }
+  ],
+  "1997": [
+    {
+      "id": 18392,
+      "idUrl": "santana-gli-20-1997",
+      "nome": "Santana GLi 2.0",
+      "ano": 1997
+    },
+    {
+      "id": 18352,
+      "idUrl": "santana-exclusive-20-mi-1997",
+      "nome": "Santana Exclusive 2.0 MI",
+      "ano": 1997
+    },
+    {
+      "id": 18357,
+      "idUrl": "santana-evidence-20-mi-1997",
+      "nome": "Santana Evidence 2.0 MI",
+      "ano": 1997
+    },
+    {
+      "id": 18454,
+      "idUrl": "santana-20-mi-1997",
+      "nome": "Santana 2.0 MI",
+      "ano": 1997
+    },
+    {
+      "id": 18467,
+      "idUrl": "santana-18-i-1997",
+      "nome": "Santana 1.8 i",
+      "ano": 1997
+    },
+    {
+      "id": 18405,
+      "idUrl": "santana-18-mi-1997",
+      "nome": "Santana 1.8 MI",
+      "ano": 1997
+    }
+  ],
+  "1998": [
+    {
+      "id": 18348,
+      "idUrl": "santana-exclusive-20-mi-nova-serie-aut-1998",
+      "nome": "Santana Exclusive 2.0 MI (nova série) (Aut)",
+      "ano": 1998
+    },
+    {
+      "id": 18349,
+      "idUrl": "santana-exclusive-20-mi-nova-serie-1998",
+      "nome": "Santana Exclusive 2.0 MI (nova série)",
+      "ano": 1998
+    },
+    {
+      "id": 18353,
+      "idUrl": "santana-exclusive-20-mi-1998",
+      "nome": "Santana Exclusive 2.0 MI",
+      "ano": 1998
+    },
+    {
+      "id": 18355,
+      "idUrl": "santana-evidence-20-mi-nova-serie-1998",
+      "nome": "Santana Evidence 2.0 MI (nova série)",
+      "ano": 1998
+    },
+    {
+      "id": 18359,
+      "idUrl": "santana-evidence-20-mi-1998",
+      "nome": "Santana Evidence 2.0 MI",
+      "ano": 1998
+    },
+    {
+      "id": 18455,
+      "idUrl": "santana-20-mi-1998",
+      "nome": "Santana 2.0 MI",
+      "ano": 1998
+    },
+    {
+      "id": 18408,
+      "idUrl": "santana-18-mi-1998",
+      "nome": "Santana 1.8 MI",
+      "ano": 1998
+    }
+  ],
+  "1999": [
+    {
+      "id": 18351,
+      "idUrl": "santana-exclusive-20-mi-nova-serie-1999",
+      "nome": "Santana Exclusive 2.0 MI (nova série)",
+      "ano": 1999
+    },
+    {
+      "id": 18356,
+      "idUrl": "santana-evidence-20-mi-nova-serie-1999",
+      "nome": "Santana Evidence 2.0 MI (nova série)",
+      "ano": 1999
+    },
+    {
+      "id": 18453,
+      "idUrl": "santana-20-mi-1999",
+      "nome": "Santana 2.0 MI",
+      "ano": 1999
+    },
+    {
+      "id": 18406,
+      "idUrl": "santana-18-mi-1999",
+      "nome": "Santana 1.8 MI",
+      "ano": 1999
+    }
+  ],
+  "2000": [
+    {
+      "id": 18452,
+      "idUrl": "santana-20-mi-2000",
+      "nome": "Santana 2.0 MI",
+      "ano": 2000
+    },
+    {
+      "id": 18460,
+      "idUrl": "santana-18-mi-alcool-2000",
+      "nome": "Santana 1.8 MI (álcool)",
+      "ano": 2000
+    },
+    {
+      "id": 18419,
+      "idUrl": "santana-18-mi-2000",
+      "nome": "Santana 1.8 MI",
+      "ano": 2000
+    }
+  ],
+  "2001": [
+    {
+      "id": 18451,
+      "idUrl": "santana-20-mi-2001",
+      "nome": "Santana 2.0 MI",
+      "ano": 2001
+    },
+    {
+      "id": 18436,
+      "idUrl": "santana-18-mi-2001",
+      "nome": "Santana 1.8 MI",
+      "ano": 2001
+    },
+    {
+      "id": 18465,
+      "idUrl": "santana-18-mi-alcool-2001",
+      "nome": "Santana 1.8 MI (álcool)",
+      "ano": 2001
+    }
+  ],
+  "2002": [
+    {
+      "id": 18450,
+      "idUrl": "santana-20-mi-2002",
+      "nome": "Santana 2.0 MI",
+      "ano": 2002
+    },
+    {
+      "id": 18396,
+      "idUrl": "santana-sportline-20-mi-2002",
+      "nome": "Santana Sportline 2.0 MI",
+      "ano": 2002
+    },
+    {
+      "id": 18437,
+      "idUrl": "santana-18-mi-2002",
+      "nome": "Santana 1.8 MI",
+      "ano": 2002
+    },
+    {
+      "id": 18464,
+      "idUrl": "santana-18-mi-alcool-2002",
+      "nome": "Santana 1.8 MI (álcool)",
+      "ano": 2002
+    }
+  ],
+  "2003": [
+    {
+      "id": 18449,
+      "idUrl": "santana-20-mi-2003",
+      "nome": "Santana 2.0 MI",
+      "ano": 2003
+    },
+    {
+      "id": 18438,
+      "idUrl": "santana-18-mi-2003",
+      "nome": "Santana 1.8 MI",
+      "ano": 2003
+    },
+    {
+      "id": 18461,
+      "idUrl": "santana-18-mi-alcool-2003",
+      "nome": "Santana 1.8 MI (álcool)",
+      "ano": 2003
+    }
+  ],
+  "2004": [
+    {
+      "id": 18448,
+      "idUrl": "santana-20-mi-2004",
+      "nome": "Santana 2.0 MI",
+      "ano": 2004
+    },
+    {
+      "id": 18456,
+      "idUrl": "santana-18-mi-2004",
+      "nome": "Santana 1.8 MI",
+      "ano": 2004
+    },
+    {
+      "id": 18463,
+      "idUrl": "santana-18-mi-alcool-2004",
+      "nome": "Santana 1.8 MI (álcool)",
+      "ano": 2004
+    }
+  ],
+  "2005": [
+    {
+      "id": 18447,
+      "idUrl": "santana-20-mi-2005",
+      "nome": "Santana 2.0 MI",
+      "ano": 2005
+    },
+    {
+      "id": 18457,
+      "idUrl": "santana-18-mi-2005",
+      "nome": "Santana 1.8 MI",
+      "ano": 2005
+    },
+    {
+      "id": 18470,
+      "idUrl": "santana-18-mi-alcool-2005",
+      "nome": "Santana 1.8 MI (álcool)",
+      "ano": 2005
+    }
+  ],
+  "2006": [
+    {
+      "id": 18469,
+      "idUrl": "santana-20-mi-2006",
+      "nome": "Santana 2.0 MI",
+      "ano": 2006
+    },
+    {
+      "id": 18459,
+      "idUrl": "santana-18-mi-alcool-2006",
+      "nome": "Santana 1.8 MI (álcool)",
+      "ano": 2006
+    },
+    {
+      "id": 18407,
+      "idUrl": "santana-18-mi-2006",
+      "nome": "Santana 1.8 MI",
+      "ano": 2006
+    }
+  ]
+}

@@ -1,0 +1,114 @@
+[
+    {
+      "id": 846,
+      "idUrl": "grand-vitara",
+      "nome": "Grand Vitara",
+      "fotoDestaque": {
+        "id": 55450,
+        "largura": 209,
+        "altura": 139,
+        "nome": "carro/suzuki/grand-vitara/destaque",
+        "url": "//cdn.autopapo.com.br/carro/suzuki/grand-vitara/destaque-v1.png",
+        "mimeType": "image/png"
+      },
+      "emProducao": false
+    },
+    {
+      "id": 845,
+      "idUrl": "ignis",
+      "nome": "Ignis",
+      "fotoDestaque": {
+        "id": 55452,
+        "largura": 209,
+        "altura": 139,
+        "nome": "carro/suzuki/ignis/destaque",
+        "url": "//cdn.autopapo.com.br/carro/suzuki/ignis/destaque-v4.png",
+        "mimeType": "image/png"
+      },
+      "emProducao": false
+    },
+    {
+      "id": 844,
+      "idUrl": "jimny",
+      "nome": "Jimny",
+      "fotoDestaque": {
+        "id": 55444,
+        "largura": 209,
+        "altura": 139,
+        "nome": "carro/suzuki/jimny/destaque",
+        "url": "//cdn.autopapo.com.br/carro/suzuki/jimny/destaque-v2.png",
+        "mimeType": "image/png"
+      },
+      "emProducao": true
+    },
+    {
+      "id": 843,
+      "idUrl": "s-cross",
+      "nome": "S Cross",
+      "fotoDestaque": {
+        "id": 55446,
+        "largura": 209,
+        "altura": 139,
+        "nome": "carro/suzuki/s-cross/destaque",
+        "url": "//cdn.autopapo.com.br/carro/suzuki/s-cross/destaque-v1.png",
+        "mimeType": "image/png"
+      },
+      "emProducao": true
+    },
+    {
+      "id": 848,
+      "idUrl": "samurai",
+      "nome": "Samurai",
+      "fotoDestaque": {
+        "id": 55454,
+        "largura": 209,
+        "altura": 139,
+        "nome": "carro/suzuki/samurai/destaque",
+        "url": "//cdn.autopapo.com.br/carro/suzuki/samurai/destaque-v2.png",
+        "mimeType": "image/png"
+      },
+      "emProducao": false
+    },
+    {
+      "id": 1336,
+      "idUrl": "swift",
+      "nome": "Swift",
+      "fotoDestaque": {
+        "id": 55447,
+        "largura": 209,
+        "altura": 139,
+        "nome": "carro/suzuki/swift-hatch/destaque",
+        "url": "//cdn.autopapo.com.br/carro/suzuki/swift-hatch/destaque-v3.png",
+        "mimeType": "image/png"
+      },
+      "emProducao": false
+    },
+    {
+      "id": 842,
+      "idUrl": "sx4",
+      "nome": "SX4",
+      "fotoDestaque": {
+        "id": 55429,
+        "largura": 209,
+        "altura": 139,
+        "nome": "carro/suzuki/sx4/destaque",
+        "url": "//cdn.autopapo.com.br/carro/suzuki/sx4/destaque-v1.png",
+        "mimeType": "image/png"
+      },
+      "emProducao": false
+    },
+    {
+      "id": 835,
+      "idUrl": "vitara",
+      "nome": "Vitara",
+      "fotoDestaque": {
+        "id": 55455,
+        "largura": 209,
+        "altura": 139,
+        "nome": "carro/suzuki/vitara/destaque",
+        "url": "//cdn.autopapo.com.br/carro/suzuki/vitara/destaque-v1.png",
+        "mimeType": "image/png"
+      },
+      "emProducao": true
+    }
+  ]

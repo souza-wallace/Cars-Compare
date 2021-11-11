@@ -1,0 +1,240 @@
+[
+    {
+      "id": 719,
+      "idUrl": "350z",
+      "nome": "350Z",
+      "fotoDestaque": {
+        "id": 53800,
+        "largura": 209,
+        "altura": 139,
+        "nome": "carro/nissan/350z/destaque",
+        "url": "//cdn.autopapo.com.br/carro/nissan/350z/destaque-v2.png",
+        "mimeType": "image/png"
+      },
+      "emProducao": false
+    },
+    {
+      "id": 720,
+      "idUrl": "370z",
+      "nome": "370Z",
+      "fotoDestaque": {
+        "id": 53797,
+        "largura": 209,
+        "altura": 139,
+        "nome": "carro/nissan/370z/destaque",
+        "url": "//cdn.autopapo.com.br/carro/nissan/370z/destaque-v1.png",
+        "mimeType": "image/png"
+      },
+      "emProducao": false
+    },
+    {
+      "id": 722,
+      "idUrl": "altima",
+      "nome": "Altima",
+      "fotoDestaque": {
+        "id": 53795,
+        "largura": 209,
+        "altura": 139,
+        "nome": "carro/nissan/altima/destaque",
+        "url": "//cdn.autopapo.com.br/carro/nissan/altima/destaque-v1.png",
+        "mimeType": "image/png"
+      },
+      "emProducao": false
+    },
+    {
+      "id": 723,
+      "idUrl": "frontier",
+      "nome": "Frontier",
+      "fotoDestaque": {
+        "id": 53811,
+        "largura": 209,
+        "altura": 139,
+        "nome": "carro/nissan/frontier/destaque",
+        "url": "//cdn.autopapo.com.br/carro/nissan/frontier/destaque-v1.png",
+        "mimeType": "image/png"
+      },
+      "emProducao": true
+    },
+    {
+      "id": 732,
+      "idUrl": "grand-livina",
+      "nome": "Grand Livina",
+      "fotoDestaque": {
+        "id": 53791,
+        "largura": 209,
+        "altura": 139,
+        "nome": "carro/nissan/grand-livina/destaque",
+        "url": "//cdn.autopapo.com.br/carro/nissan/grand-livina/destaque-v1.png",
+        "mimeType": "image/png"
+      },
+      "emProducao": false
+    },
+    {
+      "id": 725,
+      "idUrl": "gtr",
+      "nome": "GT-R",
+      "fotoDestaque": {
+        "id": 53809,
+        "largura": 209,
+        "altura": 139,
+        "nome": "carro/nissan/gtr/destaque",
+        "url": "//cdn.autopapo.com.br/carro/nissan/gtr/destaque-v1.png",
+        "mimeType": "image/png"
+      },
+      "emProducao": true
+    },
+    {
+      "id": 727,
+      "idUrl": "kicks",
+      "nome": "Kicks",
+      "fotoDestaque": {
+        "id": 53807,
+        "largura": 209,
+        "altura": 139,
+        "nome": "carro/nissan/kicks/destaque",
+        "url": "//cdn.autopapo.com.br/carro/nissan/kicks/destaque-v1.png",
+        "mimeType": "image/png"
+      },
+      "emProducao": true
+    },
+    {
+      "id": 729,
+      "idUrl": "leaf",
+      "nome": "Leaf",
+      "fotoDestaque": {
+        "id": 60168,
+        "largura": 209,
+        "altura": 139,
+        "nome": "carro/nissan/leaf/destaque",
+        "url": "//cdn.autopapo.com.br/carro/nissan/leaf/destaque.png",
+        "mimeType": "image/png"
+      },
+      "emProducao": true
+    },
+    {
+      "id": 730,
+      "idUrl": "livina",
+      "nome": "Livina",
+      "fotoDestaque": {
+        "id": 53789,
+        "largura": 209,
+        "altura": 139,
+        "nome": "carro/nissan/livina/destaque",
+        "url": "//cdn.autopapo.com.br/carro/nissan/livina/destaque-v2.png",
+        "mimeType": "image/png"
+      },
+      "emProducao": false
+    },
+    {
+      "id": 731,
+      "idUrl": "march",
+      "nome": "March",
+      "fotoDestaque": {
+        "id": 53805,
+        "largura": 209,
+        "altura": 139,
+        "nome": "carro/nissan/march/destaque",
+        "url": "//cdn.autopapo.com.br/carro/nissan/march/destaque-v2.png",
+        "mimeType": "image/png"
+      },
+      "emProducao": true
+    },
+    {
+      "id": 715,
+      "idUrl": "murano",
+      "nome": "Murano",
+      "fotoDestaque": {
+        "id": 53787,
+        "largura": 209,
+        "altura": 139,
+        "nome": "carro/nissan/murano/destaque",
+        "url": "//cdn.autopapo.com.br/carro/nissan/murano/destaque-v1.png",
+        "mimeType": "image/png"
+      },
+      "emProducao": false
+    },
+    {
+      "id": 701,
+      "idUrl": "pathfinder",
+      "nome": "Pathfinder",
+      "fotoDestaque": {
+        "id": 53785,
+        "largura": 209,
+        "altura": 139,
+        "nome": "carro/nissan/pathfinder/destaque",
+        "url": "//cdn.autopapo.com.br/carro/nissan/pathfinder/destaque-v1.png",
+        "mimeType": "image/png"
+      },
+      "emProducao": false
+    },
+    {
+      "id": 714,
+      "idUrl": "sentra",
+      "nome": "Sentra",
+      "fotoDestaque": {
+        "id": 53803,
+        "largura": 209,
+        "altura": 139,
+        "nome": "carro/nissan/sentra/destaque",
+        "url": "//cdn.autopapo.com.br/carro/nissan/sentra/destaque-v2.png",
+        "mimeType": "image/png"
+      },
+      "emProducao": true
+    },
+    {
+      "id": 710,
+      "idUrl": "tiida",
+      "nome": "Tiida",
+      "fotoDestaque": {
+        "id": 53817,
+        "largura": 209,
+        "altura": 139,
+        "nome": "carro/nissan/tiida/destaque",
+        "url": "//cdn.autopapo.com.br/carro/nissan/tiida/destaque-v2.png",
+        "mimeType": "image/png"
+      },
+      "emProducao": false
+    },
+    {
+      "id": 711,
+      "idUrl": "versa",
+      "nome": "Versa",
+      "fotoDestaque": {
+        "id": 60166,
+        "largura": 209,
+        "altura": 139,
+        "nome": "carro/nissan/versa/destaque",
+        "url": "//cdn.autopapo.com.br/carro/nissan/versa/destaque-v3.png",
+        "mimeType": "image/png"
+      },
+      "emProducao": true
+    },
+    {
+      "id": 1343,
+      "idUrl": "versa-v-drive",
+      "nome": "Versa V-Drive",
+      "fotoDestaque": {
+        "id": 60148,
+        "largura": 209,
+        "altura": 139,
+        "nome": "carro/nissan/versa-v-drive/destaque",
+        "url": "//cdn.autopapo.com.br/carro/nissan/versa-v-drive/destaque.png",
+        "mimeType": "image/png"
+      },
+      "emProducao": true
+    },
+    {
+      "id": 713,
+      "idUrl": "xtrail",
+      "nome": "XTRAIL",
+      "fotoDestaque": {
+        "id": 21990,
+        "largura": 209,
+        "altura": 139,
+        "nome": "carro/nissan/xtrail/destaque",
+        "url": "//cdn.autopapo.com.br/carro/nissan/xtrail/destaque.png",
+        "mimeType": "image/png"
+      },
+      "emProducao": false
+    }
+  ]

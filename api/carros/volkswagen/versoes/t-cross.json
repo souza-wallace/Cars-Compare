@@ -1,0 +1,28 @@
+{
+    "2020": [
+      {
+        "id": 22273,
+        "idUrl": "tcross-14-250-highline-tsi-aut-2020",
+        "nome": "T-Cross 1.4 250 Highline TSi (Aut)",
+        "ano": 2020
+      },
+      {
+        "id": 22272,
+        "idUrl": "tcross-10-200-comfortline-tsi-aut-2020",
+        "nome": "T-Cross 1.0 200 Comfortline TSi (Aut)",
+        "ano": 2020
+      },
+      {
+        "id": 22274,
+        "idUrl": "tcross-10-200-tsi-aut-2020",
+        "nome": "T-Cross 1.0 200 TSi (Aut)",
+        "ano": 2020
+      },
+      {
+        "id": 22275,
+        "idUrl": "tcross-10-200-tsi-2020",
+        "nome": "T-Cross 1.0 200 TSi",
+        "ano": 2020
+      }
+    ]
+  }

@@ -1,0 +1,398 @@
+{
+    "1991": [
+      {
+        "id": 13414,
+        "idUrl": "sentra-gxe-16-16v-1991",
+        "nome": "Sentra GXE 1.6 16V",
+        "ano": 1991
+      },
+      {
+        "id": 13326,
+        "idUrl": "sentra-ex-16-16v-1991",
+        "nome": "Sentra EX 1.6 16V",
+        "ano": 1991
+      }
+    ],
+    "1992": [
+      {
+        "id": 13392,
+        "idUrl": "sentra-ser-20-16v-1992",
+        "nome": "Sentra SER 2.0 16V",
+        "ano": 1992
+      }
+    ],
+    "1995": [
+      {
+        "id": 13327,
+        "idUrl": "sentra-gle-16-16v-1995",
+        "nome": "Sentra GLE 1.6 16V",
+        "ano": 1995
+      },
+      {
+        "id": 13328,
+        "idUrl": "sentra-gsx-16-16v-1995",
+        "nome": "Sentra GSX 1.6 16V",
+        "ano": 1995
+      }
+    ],
+    "2004": [
+      {
+        "id": 13410,
+        "idUrl": "sentra-gxe-18-16v-2004",
+        "nome": "Sentra GXE 1.8 16V",
+        "ano": 2004
+      }
+    ],
+    "2005": [
+      {
+        "id": 13413,
+        "idUrl": "sentra-gxe-18-16v-2005",
+        "nome": "Sentra GXE 1.8 16V",
+        "ano": 2005
+      }
+    ],
+    "2006": [
+      {
+        "id": 13412,
+        "idUrl": "sentra-gxe-18-16v-2006",
+        "nome": "Sentra GXE 1.8 16V",
+        "ano": 2006
+      }
+    ],
+    "2007": [
+      {
+        "id": 13409,
+        "idUrl": "sentra-s-20-16v-2007",
+        "nome": "Sentra S 2.0 16V",
+        "ano": 2007
+      },
+      {
+        "id": 13415,
+        "idUrl": "sentra-s-20-16v-aut-2007",
+        "nome": "Sentra S 2.0 16V (aut)",
+        "ano": 2007
+      },
+      {
+        "id": 13265,
+        "idUrl": "sentra-20-16v-aut-2007",
+        "nome": "Sentra 2.0 16V (aut)",
+        "ano": 2007
+      },
+      {
+        "id": 13391,
+        "idUrl": "sentra-sl-20-16v-aut-2007",
+        "nome": "Sentra SL 2.0 16V (aut)",
+        "ano": 2007
+      },
+      {
+        "id": 13411,
+        "idUrl": "sentra-gxe-18-16v-2007",
+        "nome": "Sentra GXE 1.8 16V",
+        "ano": 2007
+      }
+    ],
+    "2008": [
+      {
+        "id": 13390,
+        "idUrl": "sentra-sl-20-16v-aut-2008",
+        "nome": "Sentra SL 2.0 16V (aut)",
+        "ano": 2008
+      },
+      {
+        "id": 13402,
+        "idUrl": "sentra-s-20-16v-aut-2008",
+        "nome": "Sentra S 2.0 16V (aut)",
+        "ano": 2008
+      },
+      {
+        "id": 13252,
+        "idUrl": "sentra-20-16v-aut-2008",
+        "nome": "Sentra 2.0 16V (aut)",
+        "ano": 2008
+      },
+      {
+        "id": 13408,
+        "idUrl": "sentra-s-20-16v-2008",
+        "nome": "Sentra S 2.0 16V",
+        "ano": 2008
+      },
+      {
+        "id": 13254,
+        "idUrl": "sentra-20-16v-2008",
+        "nome": "Sentra 2.0 16V",
+        "ano": 2008
+      }
+    ],
+    "2009": [
+      {
+        "id": 13389,
+        "idUrl": "sentra-sl-20-16v-aut-2009",
+        "nome": "Sentra SL 2.0 16V (aut)",
+        "ano": 2009
+      },
+      {
+        "id": 13417,
+        "idUrl": "sentra-sl-20-16v-flex-aut-2009",
+        "nome": "Sentra SL 2.0 16V (flex) (aut)",
+        "ano": 2009
+      },
+      {
+        "id": 13397,
+        "idUrl": "sentra-s-20-16v-flex-aut-2009",
+        "nome": "Sentra S 2.0 16V (flex) (aut)",
+        "ano": 2009
+      },
+      {
+        "id": 13400,
+        "idUrl": "sentra-s-20-16v-aut-2009",
+        "nome": "Sentra S 2.0 16V (aut)",
+        "ano": 2009
+      },
+      {
+        "id": 13250,
+        "idUrl": "sentra-20-16v-aut-2009",
+        "nome": "Sentra 2.0 16V (aut)",
+        "ano": 2009
+      },
+      {
+        "id": 13399,
+        "idUrl": "sentra-s-20-16v-flex-2009",
+        "nome": "Sentra S 2.0 16V (flex)",
+        "ano": 2009
+      },
+      {
+        "id": 13407,
+        "idUrl": "sentra-s-20-16v-2009",
+        "nome": "Sentra S 2.0 16V",
+        "ano": 2009
+      },
+      {
+        "id": 13247,
+        "idUrl": "sentra-20-16v-flex-2009",
+        "nome": "Sentra 2.0 16V (flex)",
+        "ano": 2009
+      },
+      {
+        "id": 13253,
+        "idUrl": "sentra-20-16v-2009",
+        "nome": "Sentra 2.0 16V",
+        "ano": 2009
+      }
+    ],
+    "2010": [
+      {
+        "id": 13431,
+        "idUrl": "sentra-sl-20-16v-flex-aut-2010",
+        "nome": "Sentra SL 2.0 16V (flex) (aut)",
+        "ano": 2010
+      },
+      {
+        "id": 13396,
+        "idUrl": "sentra-s-20-16v-flex-aut-2010",
+        "nome": "Sentra S 2.0 16V (flex) (aut)",
+        "ano": 2010
+      },
+      {
+        "id": 13398,
+        "idUrl": "sentra-s-20-16v-flex-2010",
+        "nome": "Sentra S 2.0 16V (flex)",
+        "ano": 2010
+      },
+      {
+        "id": 13246,
+        "idUrl": "sentra-20-16v-flex-2010",
+        "nome": "Sentra 2.0 16V (flex)",
+        "ano": 2010
+      }
+    ],
+    "2011": [
+      {
+        "id": 13401,
+        "idUrl": "sentra-sl-20-16v-flex-aut-2011",
+        "nome": "Sentra SL 2.0 16V (flex) (aut)",
+        "ano": 2011
+      },
+      {
+        "id": 13406,
+        "idUrl": "sentra-s-20-16v-aut-flex-2011",
+        "nome": "Sentra S 2.0 16V (Aut) (flex)",
+        "ano": 2011
+      },
+      {
+        "id": 13243,
+        "idUrl": "sentra-20-16v-flex-aut-2011",
+        "nome": "Sentra 2.0 16V (flex) (aut)",
+        "ano": 2011
+      },
+      {
+        "id": 13249,
+        "idUrl": "sentra-20-16v-flex-2011",
+        "nome": "Sentra 2.0 16V (flex)",
+        "ano": 2011
+      }
+    ],
+    "2012": [
+      {
+        "id": 13240,
+        "idUrl": "sentra-20-16v-unique-cvt-flex-2012",
+        "nome": "Sentra 2.0 16V Unique CVT (Flex)",
+        "ano": 2012
+      },
+      {
+        "id": 13442,
+        "idUrl": "sentra-sl-20-16v-cvt-flex-2012",
+        "nome": "Sentra SL 2.0 16V CVT (flex)",
+        "ano": 2012
+      },
+      {
+        "id": 13394,
+        "idUrl": "sentra-s-20-16v-cvt-flex-2012",
+        "nome": "Sentra S 2.0 16V CVT (flex)",
+        "ano": 2012
+      },
+      {
+        "id": 13242,
+        "idUrl": "sentra-20-16v-cvt-flex-2012",
+        "nome": "Sentra 2.0 16V CVT (flex)",
+        "ano": 2012
+      },
+      {
+        "id": 13437,
+        "idUrl": "sentra-sr-20-16v-cvt-flex-2012",
+        "nome": "Sentra SR 2.0 16V CVT (Flex)",
+        "ano": 2012
+      },
+      {
+        "id": 13439,
+        "idUrl": "sentra-sr-20-16v-flex-2012",
+        "nome": "Sentra SR 2.0 16V (Flex)",
+        "ano": 2012
+      },
+      {
+        "id": 13245,
+        "idUrl": "sentra-20-16v-flex-2012",
+        "nome": "Sentra 2.0 16V (flex)",
+        "ano": 2012
+      }
+    ],
+    "2013": [
+      {
+        "id": 13441,
+        "idUrl": "sentra-sl-20-16v-cvt-flex-2013",
+        "nome": "Sentra SL 2.0 16V CVT (flex)",
+        "ano": 2013
+      },
+      {
+        "id": 13432,
+        "idUrl": "sentra-special-edition-20-16v-cvt-flex-2013",
+        "nome": "Sentra Special Edition 2.0 16V CVT (flex)",
+        "ano": 2013
+      },
+      {
+        "id": 13241,
+        "idUrl": "sentra-20-16v-cvt-flex-2013",
+        "nome": "Sentra 2.0 16V CVT (flex)",
+        "ano": 2013
+      },
+      {
+        "id": 13244,
+        "idUrl": "sentra-20-16v-flex-2013",
+        "nome": "Sentra 2.0 16V (flex)",
+        "ano": 2013
+      }
+    ],
+    "2014": [
+      {
+        "id": 13440,
+        "idUrl": "sentra-sl-20-16v-cvt-flex-2014",
+        "nome": "Sentra SL 2.0 16V CVT (flex)",
+        "ano": 2014
+      },
+      {
+        "id": 13435,
+        "idUrl": "sentra-sv-20-16v-cvt-aut-flex-2014",
+        "nome": "Sentra SV 2.0 16V CVT (Aut) (Flex)",
+        "ano": 2014
+      },
+      {
+        "id": 13405,
+        "idUrl": "sentra-s-20-16v-flex-2014",
+        "nome": "Sentra S 2.0 16V (Flex)",
+        "ano": 2014
+      }
+    ],
+    "2015": [
+      {
+        "id": 13418,
+        "idUrl": "sentra-sl-20-16v-cvt-flex-2015",
+        "nome": "Sentra SL 2.0 16V CVT (Flex)",
+        "ano": 2015
+      },
+      {
+        "id": 13434,
+        "idUrl": "sentra-sv-20-16v-cvt-flex-2015",
+        "nome": "Sentra SV 2.0 16V CVT (Flex)",
+        "ano": 2015
+      },
+      {
+        "id": 13404,
+        "idUrl": "sentra-s-20-16v-flex-2015",
+        "nome": "Sentra S 2.0 16V (Flex)",
+        "ano": 2015
+      }
+    ],
+    "2016": [
+      {
+        "id": 13430,
+        "idUrl": "sentra-unique-20-16v-cvt-flex-2016",
+        "nome": "Sentra Unique 2.0 16V CVT (Flex)",
+        "ano": 2016
+      },
+      {
+        "id": 13433,
+        "idUrl": "sentra-sv-20-16v-cvt-flex-2016",
+        "nome": "Sentra SV 2.0 16V CVT (Flex)",
+        "ano": 2016
+      },
+      {
+        "id": 13403,
+        "idUrl": "sentra-s-20-16v-flex-2016",
+        "nome": "Sentra S 2.0 16V (Flex)",
+        "ano": 2016
+      },
+      {
+        "id": 13444,
+        "idUrl": "sentra-sl-20-16v-cvt-flex-2016",
+        "nome": "Sentra SL 2.0 16V CVT (Flex)",
+        "ano": 2016
+      }
+    ],
+    "2017": [
+      {
+        "id": 13443,
+        "idUrl": "sentra-sl-20-16v-cvt-flex-2017",
+        "nome": "Sentra SL 2.0 16V CVT (Flex)",
+        "ano": 2017
+      },
+      {
+        "id": 13445,
+        "idUrl": "sentra-sv-20-16v-cvt-flex-2017",
+        "nome": "Sentra SV 2.0 16V CVT (Flex)",
+        "ano": 2017
+      },
+      {
+        "id": 13395,
+        "idUrl": "sentra-s-20-16v-cvt-flex-2017",
+        "nome": "Sentra S 2.0 16V CVT (Flex)",
+        "ano": 2017
+      }
+    ],
+    "2018": [
+      {
+        "id": 22139,
+        "idUrl": "nissan-sentra-sl-20-at-2018",
+        "nome": "Nissan Sentra SL 2.0 AT",
+        "ano": 2018
+      }
+    ]
+  }

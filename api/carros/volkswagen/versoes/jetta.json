@@ -1,0 +1,246 @@
+{
+    "1994": [
+      {
+        "id": 19394,
+        "idUrl": "jetta-glx-iii-vr6-28-1994",
+        "nome": "Jetta GLX III VR6 2.8",
+        "ano": 1994
+      }
+    ],
+    "2007": [
+      {
+        "id": 19399,
+        "idUrl": "jetta-25-20v-2007",
+        "nome": "Jetta 2.5 20V",
+        "ano": 2007
+      }
+    ],
+    "2008": [
+      {
+        "id": 19398,
+        "idUrl": "jetta-25-20v-2008",
+        "nome": "Jetta 2.5 20V",
+        "ano": 2008
+      }
+    ],
+    "2009": [
+      {
+        "id": 19395,
+        "idUrl": "jetta-25-20v-2009",
+        "nome": "Jetta 2.5 20V",
+        "ano": 2009
+      }
+    ],
+    "2010": [
+      {
+        "id": 19397,
+        "idUrl": "jetta-25-20v-2010",
+        "nome": "Jetta 2.5 20V",
+        "ano": 2010
+      }
+    ],
+    "2011": [
+      {
+        "id": 19199,
+        "idUrl": "jetta-20-tsi-highline-dsg-2011",
+        "nome": "Jetta 2.0 TSI Highline DSG",
+        "ano": 2011
+      },
+      {
+        "id": 19396,
+        "idUrl": "jetta-25-20v-2011",
+        "nome": "Jetta 2.5 20V",
+        "ano": 2011
+      },
+      {
+        "id": 19207,
+        "idUrl": "jetta-20-comfortline-tiptronic-flex-2011",
+        "nome": "Jetta 2.0 Comfortline Tiptronic (Flex)",
+        "ano": 2011
+      },
+      {
+        "id": 19209,
+        "idUrl": "jetta-20-comfortline-flex-2011",
+        "nome": "Jetta 2.0 Comfortline (Flex)",
+        "ano": 2011
+      }
+    ],
+    "2012": [
+      {
+        "id": 19201,
+        "idUrl": "jetta-20-tsi-highline-dsg-2012",
+        "nome": "Jetta 2.0 TSI Highline DSG",
+        "ano": 2012
+      },
+      {
+        "id": 19206,
+        "idUrl": "jetta-20-comfortline-tiptronic-flex-2012",
+        "nome": "Jetta 2.0 Comfortline Tiptronic (Flex)",
+        "ano": 2012
+      },
+      {
+        "id": 19211,
+        "idUrl": "jetta-20-comfortline-flex-2012",
+        "nome": "Jetta 2.0 Comfortline (Flex)",
+        "ano": 2012
+      }
+    ],
+    "2013": [
+      {
+        "id": 19200,
+        "idUrl": "jetta-20-tsi-highline-dsg-2013",
+        "nome": "Jetta 2.0 TSI Highline DSG",
+        "ano": 2013
+      },
+      {
+        "id": 19205,
+        "idUrl": "jetta-20-comfortline-tiptronic-flex-2013",
+        "nome": "Jetta 2.0 Comfortline Tiptronic (Flex)",
+        "ano": 2013
+      },
+      {
+        "id": 19210,
+        "idUrl": "jetta-20-comfortline-flex-2013",
+        "nome": "Jetta 2.0 Comfortline (Flex)",
+        "ano": 2013
+      }
+    ],
+    "2014": [
+      {
+        "id": 19198,
+        "idUrl": "jetta-20-tsi-highline-dsg-2014",
+        "nome": "Jetta 2.0 TSI Highline DSG",
+        "ano": 2014
+      },
+      {
+        "id": 19204,
+        "idUrl": "jetta-20-comfortline-tiptronic-flex-2014",
+        "nome": "Jetta 2.0 Comfortline Tiptronic (Flex)",
+        "ano": 2014
+      },
+      {
+        "id": 19208,
+        "idUrl": "jetta-20-comfortline-flex-2014",
+        "nome": "Jetta 2.0 Comfortline (Flex)",
+        "ano": 2014
+      }
+    ],
+    "2015": [
+      {
+        "id": 19230,
+        "idUrl": "jetta-20-tsi-highline-dsg-2015",
+        "nome": "Jetta 2.0 TSI Highline DSG",
+        "ano": 2015
+      },
+      {
+        "id": 19203,
+        "idUrl": "jetta-20-comfortline-tiptronic-flex-2015",
+        "nome": "Jetta 2.0 Comfortline Tiptronic (Flex)",
+        "ano": 2015
+      },
+      {
+        "id": 19301,
+        "idUrl": "jetta-20-trendline-tiptronic-flex-2015",
+        "nome": "Jetta 2.0 Trendline Tiptronic (Flex)",
+        "ano": 2015
+      }
+    ],
+    "2016": [
+      {
+        "id": 19300,
+        "idUrl": "jetta-20-tsi-highline-dsg-2016",
+        "nome": "Jetta 2.0 TSI Highline DSG",
+        "ano": 2016
+      },
+      {
+        "id": 19226,
+        "idUrl": "jetta-14-tsi-comfortline-tiptronic-2016",
+        "nome": "Jetta 1.4 TSI Comfortline Tiptronic",
+        "ano": 2016
+      },
+      {
+        "id": 19202,
+        "idUrl": "jetta-20-comfortline-tiptronic-flex-2016",
+        "nome": "Jetta 2.0 Comfortline Tiptronic (Flex)",
+        "ano": 2016
+      },
+      {
+        "id": 19228,
+        "idUrl": "jetta-14-tsi-trendline-2016",
+        "nome": "Jetta 1.4 TSI Trendline",
+        "ano": 2016
+      },
+      {
+        "id": 19213,
+        "idUrl": "jetta-14-tsi-trendline-tiptronic-2016",
+        "nome": "Jetta 1.4 TSI Trendline Tiptronic",
+        "ano": 2016
+      },
+      {
+        "id": 19400,
+        "idUrl": "jetta-20-trendline-tiptronic-flex-2016",
+        "nome": "Jetta 2.0 Trendline Tiptronic (Flex)",
+        "ano": 2016
+      }
+    ],
+    "2017": [
+      {
+        "id": 19368,
+        "idUrl": "jetta-20-tsi-highline-dsg-2017",
+        "nome": "Jetta 2.0 TSI Highline DSG",
+        "ano": 2017
+      },
+      {
+        "id": 19227,
+        "idUrl": "jetta-14-tsi-comfortline-tiptronic-2017",
+        "nome": "Jetta 1.4 TSI Comfortline Tiptronic",
+        "ano": 2017
+      },
+      {
+        "id": 19214,
+        "idUrl": "jetta-14-tsi-trendline-2017",
+        "nome": "Jetta 1.4 TSI Trendline",
+        "ano": 2017
+      },
+      {
+        "id": 19212,
+        "idUrl": "jetta-14-tsi-trendline-tiptronic-2017",
+        "nome": "Jetta 1.4 TSI Trendline Tiptronic",
+        "ano": 2017
+      }
+    ],
+    "2018": [
+      {
+        "id": 22168,
+        "idUrl": "jetta-20-tsi-highline-dsg-2018",
+        "nome": "Jetta 2.0 TSI Highline DSG",
+        "ano": 2018
+      }
+    ],
+    "2019": [
+      {
+        "id": 22359,
+        "idUrl": "jetta-20-gli-2019",
+        "nome": "Jetta 2.0 GLI",
+        "ano": 2019
+      },
+      {
+        "id": 22244,
+        "idUrl": "jetta14-rline-250-tsi-2019",
+        "nome": "Jetta1.4 R-Line 250 TSI",
+        "ano": 2019
+      },
+      {
+        "id": 22243,
+        "idUrl": "jetta-14-comfortline-250-tsi-2019",
+        "nome": "Jetta 1.4 Comfortline 250 TSI",
+        "ano": 2019
+      },
+      {
+        "id": 22259,
+        "idUrl": "jetta-14-250-tsi-2019",
+        "nome": "Jetta 1.4 250 TSI",
+        "ano": 2019
+      }
+    ]
+  }

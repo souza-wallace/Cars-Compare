@@ -1,0 +1,150 @@
+{
+    "2005": [
+      {
+        "id": 18894,
+        "idUrl": "crossfox-16-flex-2005",
+        "nome": "CrossFox 1.6 (Flex)",
+        "ano": 2005
+      }
+    ],
+    "2006": [
+      {
+        "id": 18888,
+        "idUrl": "crossfox-16-flex-2006",
+        "nome": "CrossFox 1.6 (Flex)",
+        "ano": 2006
+      }
+    ],
+    "2007": [
+      {
+        "id": 18893,
+        "idUrl": "crossfox-16-flex-2007",
+        "nome": "CrossFox 1.6 (Flex)",
+        "ano": 2007
+      }
+    ],
+    "2008": [
+      {
+        "id": 18892,
+        "idUrl": "crossfox-16-flex-2008",
+        "nome": "CrossFox 1.6 (Flex)",
+        "ano": 2008
+      }
+    ],
+    "2009": [
+      {
+        "id": 18891,
+        "idUrl": "crossfox-16-flex-2009",
+        "nome": "CrossFox 1.6 (Flex)",
+        "ano": 2009
+      }
+    ],
+    "2010": [
+      {
+        "id": 18889,
+        "idUrl": "crossfox-16-flex-2010",
+        "nome": "CrossFox 1.6 (Flex)",
+        "ano": 2010
+      }
+    ],
+    "2011": [
+      {
+        "id": 18890,
+        "idUrl": "crossfox-16-flex-2011",
+        "nome": "CrossFox 1.6 (Flex)",
+        "ano": 2011
+      }
+    ],
+    "2012": [
+      {
+        "id": 18941,
+        "idUrl": "crossfox-16-vht-flex-2012",
+        "nome": "CrossFox 1.6 VHT (Flex)",
+        "ano": 2012
+      }
+    ],
+    "2013": [
+      {
+        "id": 18944,
+        "idUrl": "crossfox-imotion-16-vht-flex-2013",
+        "nome": "CrossFox I-Motion 1.6 VHT (Flex)",
+        "ano": 2013
+      },
+      {
+        "id": 18942,
+        "idUrl": "crossfox-16-vht-flex-2013",
+        "nome": "CrossFox 1.6 VHT (Flex)",
+        "ano": 2013
+      }
+    ],
+    "2014": [
+      {
+        "id": 18946,
+        "idUrl": "crossfox-imotion-16-vht-flex-2014",
+        "nome": "CrossFox I-Motion 1.6 VHT (Flex)",
+        "ano": 2014
+      },
+      {
+        "id": 18943,
+        "idUrl": "crossfox-16-vht-flex-2014",
+        "nome": "CrossFox 1.6 VHT (Flex)",
+        "ano": 2014
+      }
+    ],
+    "2015": [
+      {
+        "id": 18921,
+        "idUrl": "crossfox-16-16v-msi-imotion-flex-2015",
+        "nome": "CrossFox 1.6 16v MSI I-Motion (Flex)",
+        "ano": 2015
+      },
+      {
+        "id": 18902,
+        "idUrl": "crossfox-16-16v-msi-flex-2015",
+        "nome": "CrossFox 1.6 16v MSI (Flex)",
+        "ano": 2015
+      },
+      {
+        "id": 22343,
+        "idUrl": "crossfox-16-mi-total-flex-8v-5p-2015",
+        "nome": "CrossFox 1.6 Mi Total Flex 8v 5p",
+        "ano": 2015
+      }
+    ],
+    "2016": [
+      {
+        "id": 18939,
+        "idUrl": "crossfox-16-16v-msi-imotion-flex-2016",
+        "nome": "CrossFox 1.6 16v MSI I-Motion (Flex)",
+        "ano": 2016
+      },
+      {
+        "id": 18919,
+        "idUrl": "crossfox-16-16v-msi-flex-2016",
+        "nome": "CrossFox 1.6 16v MSI (Flex)",
+        "ano": 2016
+      }
+    ],
+    "2017": [
+      {
+        "id": 18940,
+        "idUrl": "crossfox-16-16v-msi-imotion-flex-2017",
+        "nome": "CrossFox 1.6 16v MSI I-Motion (Flex)",
+        "ano": 2017
+      },
+      {
+        "id": 18920,
+        "idUrl": "crossfox-16-16v-msi-flex-2017",
+        "nome": "CrossFox 1.6 16v MSI (Flex)",
+        "ano": 2017
+      }
+    ],
+    "2018": [
+      {
+        "id": 22340,
+        "idUrl": "crossfox-16-16v-total-flex-5p-2018",
+        "nome": "CrossFox 1.6 16v Total Flex 5p",
+        "ano": 2018
+      }
+    ]
+  }

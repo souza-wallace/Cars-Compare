@@ -1,0 +1,1404 @@
+{
+    "1996": [
+      {
+        "id": 15681,
+        "idUrl": "clio-hatch-rt-16-importado-1996",
+        "nome": "Clio Hatch. RT 1.6 (importado)",
+        "ano": 1996
+      }
+    ],
+    "1997": [
+      {
+        "id": 15723,
+        "idUrl": "clio-hatch-rt-16-8v-1997",
+        "nome": "Clio Hatch. RT 1.6 8V",
+        "ano": 1997
+      },
+      {
+        "id": 15689,
+        "idUrl": "clio-hatch-rl-16-1997",
+        "nome": "Clio Hatch. RL 1.6",
+        "ano": 1997
+      },
+      {
+        "id": 15668,
+        "idUrl": "clio-hatch-rn-16-importado-1997",
+        "nome": "Clio Hatch. RN 1.6 (importado)",
+        "ano": 1997
+      }
+    ],
+    "1998": [
+      {
+        "id": 15722,
+        "idUrl": "clio-hatch-rt-16-8v-1998",
+        "nome": "Clio Hatch. RT 1.6 8V",
+        "ano": 1998
+      }
+    ],
+    "1999": [
+      {
+        "id": 15687,
+        "idUrl": "clio-hatch-rl-16-importado-1999",
+        "nome": "Clio Hatch. RL 1.6 (importado)",
+        "ano": 1999
+      },
+      {
+        "id": 15674,
+        "idUrl": "clio-hatch-rn-16-8v-1999",
+        "nome": "Clio Hatch. RN 1.6 8V",
+        "ano": 1999
+      },
+      {
+        "id": 15719,
+        "idUrl": "clio-hatch-rl-10-8v-1999",
+        "nome": "Clio Hatch. RL 1.0 8V",
+        "ano": 1999
+      }
+    ],
+    "2000": [
+      {
+        "id": 15683,
+        "idUrl": "clio-hatch-rt-16-16v-2000",
+        "nome": "Clio Hatch. RT 1.6 16V",
+        "ano": 2000
+      },
+      {
+        "id": 15688,
+        "idUrl": "clio-hatch-rt-16-8v-2000",
+        "nome": "Clio Hatch. RT 1.6 8V",
+        "ano": 2000
+      },
+      {
+        "id": 16112,
+        "idUrl": "clio-sedan-rt-16-16v-2000",
+        "nome": "Clio Sedan RT 1.6 16V",
+        "ano": 2000
+      },
+      {
+        "id": 16108,
+        "idUrl": "clio-sedan-rt-10-16v-2000",
+        "nome": "Clio Sedan RT 1.0 16V",
+        "ano": 2000
+      },
+      {
+        "id": 16106,
+        "idUrl": "clio-sedan-rn-16-16v-2000",
+        "nome": "Clio Sedan RN 1.6 16V",
+        "ano": 2000
+      },
+      {
+        "id": 15718,
+        "idUrl": "clio-hatch-rl-10-8v-2000",
+        "nome": "Clio Hatch. RL 1.0 8V",
+        "ano": 2000
+      },
+      {
+        "id": 15669,
+        "idUrl": "clio-hatch-rn-16-16v-2000",
+        "nome": "Clio Hatch. RN 1.6 16V",
+        "ano": 2000
+      },
+      {
+        "id": 15673,
+        "idUrl": "clio-hatch-rn-16-8v-2000",
+        "nome": "Clio Hatch. RN 1.6 8V",
+        "ano": 2000
+      }
+    ],
+    "2001": [
+      {
+        "id": 15684,
+        "idUrl": "clio-hatch-rt-16-16v-2001",
+        "nome": "Clio Hatch. RT 1.6 16V",
+        "ano": 2001
+      },
+      {
+        "id": 15754,
+        "idUrl": "clio-hatch-rt-16-8v-2001",
+        "nome": "Clio Hatch. RT 1.6 8V",
+        "ano": 2001
+      },
+      {
+        "id": 16113,
+        "idUrl": "clio-sedan-rt-16-16v-2001",
+        "nome": "Clio Sedan RT 1.6 16V",
+        "ano": 2001
+      },
+      {
+        "id": 16109,
+        "idUrl": "clio-sedan-rt-10-16v-2001",
+        "nome": "Clio Sedan RT 1.0 16V",
+        "ano": 2001
+      },
+      {
+        "id": 16097,
+        "idUrl": "clio-sedan-rn-10-16v-2001",
+        "nome": "Clio Sedan RN 1.0 16V",
+        "ano": 2001
+      },
+      {
+        "id": 15660,
+        "idUrl": "clio-hatch-rn-10-16v-2001",
+        "nome": "Clio Hatch. RN 1.0 16V",
+        "ano": 2001
+      },
+      {
+        "id": 15665,
+        "idUrl": "clio-hatch-rn-10-8v-2001",
+        "nome": "Clio Hatch. RN 1.0 8V",
+        "ano": 2001
+      },
+      {
+        "id": 16102,
+        "idUrl": "clio-sedan-rn-16-16v-2001",
+        "nome": "Clio Sedan RN 1.6 16V",
+        "ano": 2001
+      },
+      {
+        "id": 15678,
+        "idUrl": "clio-hatch-rt-10-16v-2001",
+        "nome": "Clio Hatch. RT 1.0 16V",
+        "ano": 2001
+      },
+      {
+        "id": 15759,
+        "idUrl": "clio-hatch-si-16-16v-2001",
+        "nome": "Clio Hatch. SI 1.6 16V",
+        "ano": 2001
+      },
+      {
+        "id": 15690,
+        "idUrl": "clio-hatch-rl-10-8v-2001",
+        "nome": "Clio Hatch. RL 1.0 8V",
+        "ano": 2001
+      },
+      {
+        "id": 15716,
+        "idUrl": "clio-hatch-rl-10-16v-2001",
+        "nome": "Clio Hatch. RL 1.0 16V",
+        "ano": 2001
+      },
+      {
+        "id": 15803,
+        "idUrl": "clio-hatch-10-8v-yahoo-2001",
+        "nome": "Clio Hatch. 1.0 8V Yahoo",
+        "ano": 2001
+      },
+      {
+        "id": 15670,
+        "idUrl": "clio-hatch-rn-16-16v-2001",
+        "nome": "Clio Hatch. RN 1.6 16V",
+        "ano": 2001
+      },
+      {
+        "id": 15675,
+        "idUrl": "clio-hatch-rn-16-8v-2001",
+        "nome": "Clio Hatch. RN 1.6 8V",
+        "ano": 2001
+      }
+    ],
+    "2002": [
+      {
+        "id": 15682,
+        "idUrl": "clio-hatch-rt-16-16v-2002",
+        "nome": "Clio Hatch. RT 1.6 16V",
+        "ano": 2002
+      },
+      {
+        "id": 16114,
+        "idUrl": "clio-sedan-rt-16-16v-2002",
+        "nome": "Clio Sedan RT 1.6 16V",
+        "ano": 2002
+      },
+      {
+        "id": 15769,
+        "idUrl": "clio-sedan-16-16v-alize-2002",
+        "nome": "Clio Sedan 1.6 16V Alize",
+        "ano": 2002
+      },
+      {
+        "id": 15771,
+        "idUrl": "clio-sedan-16-16v-o-boticario-2002",
+        "nome": "Clio Sedan 1.6 16V O Boticario",
+        "ano": 2002
+      },
+      {
+        "id": 16110,
+        "idUrl": "clio-sedan-rt-10-16v-2002",
+        "nome": "Clio Sedan RT 1.0 16V",
+        "ano": 2002
+      },
+      {
+        "id": 15763,
+        "idUrl": "clio-sedan-10-16v-alize-2002",
+        "nome": "Clio Sedan 1.0 16V Alize",
+        "ano": 2002
+      },
+      {
+        "id": 15766,
+        "idUrl": "clio-sedan-10-16v-o-boticario-2002",
+        "nome": "Clio Sedan 1.0 16V O Boticario",
+        "ano": 2002
+      },
+      {
+        "id": 16098,
+        "idUrl": "clio-sedan-rn-10-16v-2002",
+        "nome": "Clio Sedan RN 1.0 16V",
+        "ano": 2002
+      },
+      {
+        "id": 16095,
+        "idUrl": "clio-sedan-rl-10-16v-2002",
+        "nome": "Clio Sedan RL 1.0 16V",
+        "ano": 2002
+      },
+      {
+        "id": 15661,
+        "idUrl": "clio-hatch-rn-10-16v-2002",
+        "nome": "Clio Hatch. RN 1.0 16V",
+        "ano": 2002
+      },
+      {
+        "id": 15666,
+        "idUrl": "clio-hatch-rn-10-8v-2002",
+        "nome": "Clio Hatch. RN 1.0 8V",
+        "ano": 2002
+      },
+      {
+        "id": 15796,
+        "idUrl": "clio-hatch-10-16v-alize-2002",
+        "nome": "Clio Hatch. 1.0 16V Alize",
+        "ano": 2002
+      },
+      {
+        "id": 15676,
+        "idUrl": "clio-hatch-rt-10-16v-2002",
+        "nome": "Clio Hatch. RT 1.0 16V",
+        "ano": 2002
+      },
+      {
+        "id": 16103,
+        "idUrl": "clio-sedan-rn-16-16v-2002",
+        "nome": "Clio Sedan RN 1.6 16V",
+        "ano": 2002
+      },
+      {
+        "id": 15717,
+        "idUrl": "clio-hatch-rl-10-16v-2002",
+        "nome": "Clio Hatch. RL 1.0 16V",
+        "ano": 2002
+      },
+      {
+        "id": 15792,
+        "idUrl": "clio-hatch-rl-10-8v-2002",
+        "nome": "Clio Hatch RL 1.0 8V",
+        "ano": 2002
+      },
+      {
+        "id": 15804,
+        "idUrl": "clio-hatch-10-8v-yahoo-2002",
+        "nome": "Clio Hatch. 1.0 8V Yahoo",
+        "ano": 2002
+      },
+      {
+        "id": 15760,
+        "idUrl": "clio-hatch-si-16-16v-2002",
+        "nome": "Clio Hatch. SI 1.6 16V",
+        "ano": 2002
+      },
+      {
+        "id": 15797,
+        "idUrl": "clio-hatch-10-16v-jovem-pan-2002",
+        "nome": "Clio Hatch. 1.0 16V Jovem Pan",
+        "ano": 2002
+      },
+      {
+        "id": 15801,
+        "idUrl": "clio-hatch-10-16v-tech-run-2002",
+        "nome": "Clio Hatch. 1.0 16V Tech. Run",
+        "ano": 2002
+      },
+      {
+        "id": 15671,
+        "idUrl": "clio-hatch-rn-16-16v-2002",
+        "nome": "Clio Hatch. RN 1.6 16V",
+        "ano": 2002
+      }
+    ],
+    "2003": [
+      {
+        "id": 15685,
+        "idUrl": "clio-hatch-rt-16-16v-2003",
+        "nome": "Clio Hatch. RT 1.6 16V",
+        "ano": 2003
+      },
+      {
+        "id": 15710,
+        "idUrl": "clio-hatch-privilege-16-16v-2003",
+        "nome": "Clio Hatch. Privilége 1.6 16V",
+        "ano": 2003
+      },
+      {
+        "id": 16111,
+        "idUrl": "clio-sedan-rt-16-16v-2003",
+        "nome": "Clio Sedan RT 1.6 16V",
+        "ano": 2003
+      },
+      {
+        "id": 15721,
+        "idUrl": "clio-hatch-expression-16-16v-2003",
+        "nome": "Clio Hatch. Expression 1.6 16V",
+        "ano": 2003
+      },
+      {
+        "id": 15738,
+        "idUrl": "clio-sedan-expression-16-16v-2003",
+        "nome": "Clio Sedan Expression 1.6 16V",
+        "ano": 2003
+      },
+      {
+        "id": 16101,
+        "idUrl": "clio-sedan-rn-16-16v-2003",
+        "nome": "Clio Sedan RN 1.6 16V",
+        "ano": 2003
+      },
+      {
+        "id": 15921,
+        "idUrl": "clio-sedan-privilege-16-16v-2003",
+        "nome": "Clio Sedan Privilége 1.6 16V",
+        "ano": 2003
+      },
+      {
+        "id": 15768,
+        "idUrl": "clio-sedan-16-16v-alize-2003",
+        "nome": "Clio Sedan 1.6 16V Alize",
+        "ano": 2003
+      },
+      {
+        "id": 15772,
+        "idUrl": "clio-sedan-16-16v-o-boticario-2003",
+        "nome": "Clio Sedan 1.6 16V O Boticario",
+        "ano": 2003
+      },
+      {
+        "id": 15748,
+        "idUrl": "clio-sedan-privilege-10-16v-2003",
+        "nome": "Clio Sedan Privilége 1.0 16V",
+        "ano": 2003
+      },
+      {
+        "id": 16107,
+        "idUrl": "clio-sedan-rt-10-16v-2003",
+        "nome": "Clio Sedan RT 1.0 16V",
+        "ano": 2003
+      },
+      {
+        "id": 15762,
+        "idUrl": "clio-sedan-10-16v-alize-2003",
+        "nome": "Clio Sedan 1.0 16V Alize",
+        "ano": 2003
+      },
+      {
+        "id": 15765,
+        "idUrl": "clio-sedan-10-16v-o-boticario-2003",
+        "nome": "Clio Sedan 1.0 16V O Boticario",
+        "ano": 2003
+      },
+      {
+        "id": 16096,
+        "idUrl": "clio-sedan-rn-10-16v-2003",
+        "nome": "Clio Sedan RN 1.0 16V",
+        "ano": 2003
+      },
+      {
+        "id": 15662,
+        "idUrl": "clio-hatch-rn-10-16v-2003",
+        "nome": "Clio Hatch. RN 1.0 16V",
+        "ano": 2003
+      },
+      {
+        "id": 15667,
+        "idUrl": "clio-hatch-rn-10-8v-2003",
+        "nome": "Clio Hatch. RN 1.0 8V",
+        "ano": 2003
+      },
+      {
+        "id": 15795,
+        "idUrl": "clio-hatch-10-16v-alize-2003",
+        "nome": "Clio Hatch. 1.0 16V Alize",
+        "ano": 2003
+      },
+      {
+        "id": 15679,
+        "idUrl": "clio-hatch-rt-10-16v-2003",
+        "nome": "Clio Hatch. RT 1.0 16V",
+        "ano": 2003
+      },
+      {
+        "id": 15701,
+        "idUrl": "clio-hatch-privilege-10-16v-2003",
+        "nome": "Clio Hatch. Privilége 1.0 16V",
+        "ano": 2003
+      },
+      {
+        "id": 15779,
+        "idUrl": "clio-sedan-authentique-10-16v-2003",
+        "nome": "Clio Sedan Authentique 1.0 16V",
+        "ano": 2003
+      },
+      {
+        "id": 16117,
+        "idUrl": "clio-sedan-rl-10-16v-2003",
+        "nome": "Clio Sedan Rl 1.0 16V",
+        "ano": 2003
+      },
+      {
+        "id": 15799,
+        "idUrl": "clio-hatch-10-16v-tech-run-2003",
+        "nome": "Clio Hatch. 1.0 16V Tech. Run",
+        "ano": 2003
+      },
+      {
+        "id": 15899,
+        "idUrl": "clio-hatch-authentique-16-16v-2003",
+        "nome": "Clio Hatch. Authentique 1.6 16V",
+        "ano": 2003
+      },
+      {
+        "id": 15807,
+        "idUrl": "clio-hatch-16-16v-alize-2003",
+        "nome": "Clio Hatch. 1.6 16V Alize",
+        "ano": 2003
+      },
+      {
+        "id": 15798,
+        "idUrl": "clio-hatch-10-16v-jovem-pan-2003",
+        "nome": "Clio Hatch. 1.0 16V Jovem Pan",
+        "ano": 2003
+      },
+      {
+        "id": 15757,
+        "idUrl": "clio-hatch-si-16-16v-2003",
+        "nome": "Clio Hatch. SI 1.6 16V",
+        "ano": 2003
+      },
+      {
+        "id": 15890,
+        "idUrl": "clio-hatch-authentique-10-8v-2003",
+        "nome": "Clio Hatch. Authentique 1.0 8V",
+        "ano": 2003
+      },
+      {
+        "id": 15715,
+        "idUrl": "clio-hatch-rl-10-16v-2003",
+        "nome": "Clio Hatch. RL 1.0 16V",
+        "ano": 2003
+      },
+      {
+        "id": 15802,
+        "idUrl": "clio-hatch-10-8v-yahoo-2003",
+        "nome": "Clio Hatch. 1.0 8V Yahoo",
+        "ano": 2003
+      },
+      {
+        "id": 15811,
+        "idUrl": "clio-hatch-authentique-10-16v-2003",
+        "nome": "Clio Hatch. Authentique 1.0 16V",
+        "ano": 2003
+      }
+    ],
+    "2004": [
+      {
+        "id": 15686,
+        "idUrl": "clio-hatch-rt-16-16v-2004",
+        "nome": "Clio Hatch. RT 1.6 16V",
+        "ano": 2004
+      },
+      {
+        "id": 15711,
+        "idUrl": "clio-hatch-privilege-16-16v-2004",
+        "nome": "Clio Hatch. Privilége 1.6 16V",
+        "ano": 2004
+      },
+      {
+        "id": 16115,
+        "idUrl": "clio-sedan-rt-16-16v-2004",
+        "nome": "Clio Sedan RT 1.6 16V",
+        "ano": 2004
+      },
+      {
+        "id": 15922,
+        "idUrl": "clio-sedan-privilege-16-16v-2004",
+        "nome": "Clio Sedan Privilége 1.6 16V",
+        "ano": 2004
+      },
+      {
+        "id": 15773,
+        "idUrl": "clio-sedan-16-16v-o-boticario-2004",
+        "nome": "Clio Sedan 1.6 16V O Boticario",
+        "ano": 2004
+      },
+      {
+        "id": 15691,
+        "idUrl": "clio-hatch-expression-16-16v-2004",
+        "nome": "Clio Hatch. Expression 1.6 16V",
+        "ano": 2004
+      },
+      {
+        "id": 15866,
+        "idUrl": "clio-hatch-dynamique-16-16v-2004",
+        "nome": "Clio Hatch. Dynamique 1.6 16V",
+        "ano": 2004
+      },
+      {
+        "id": 15739,
+        "idUrl": "clio-sedan-expression-16-16v-2004",
+        "nome": "Clio Sedan Expression 1.6 16V",
+        "ano": 2004
+      },
+      {
+        "id": 16104,
+        "idUrl": "clio-sedan-rn-16-16v-2004",
+        "nome": "Clio Sedan RN 1.6 16V",
+        "ano": 2004
+      },
+      {
+        "id": 15900,
+        "idUrl": "clio-hatch-authentique-16-16v-2004",
+        "nome": "Clio Hatch. Authentique 1.6 16V",
+        "ano": 2004
+      },
+      {
+        "id": 15749,
+        "idUrl": "clio-sedan-privilege-10-16v-2004",
+        "nome": "Clio Sedan Privilége 1.0 16V",
+        "ano": 2004
+      },
+      {
+        "id": 15780,
+        "idUrl": "clio-sedan-authentique-10-16v-2004",
+        "nome": "Clio Sedan Authentique 1.0 16V",
+        "ano": 2004
+      },
+      {
+        "id": 16088,
+        "idUrl": "clio-sedan-rl-10-16v-2004",
+        "nome": "Clio Sedan Rl 1.0 16V",
+        "ano": 2004
+      },
+      {
+        "id": 16099,
+        "idUrl": "clio-sedan-rn-10-16v-2004",
+        "nome": "Clio Sedan RN 1.0 16V",
+        "ano": 2004
+      },
+      {
+        "id": 15879,
+        "idUrl": "clio-hatch-expression-10-16v-4p-2004",
+        "nome": "Clio Hatch. Expression 1.0 16V 4p",
+        "ano": 2004
+      },
+      {
+        "id": 15680,
+        "idUrl": "clio-hatch-rt-10-16v-2004",
+        "nome": "Clio Hatch. RT 1.0 16V",
+        "ano": 2004
+      },
+      {
+        "id": 15703,
+        "idUrl": "clio-hatch-privilege-10-16v-2004",
+        "nome": "Clio Hatch. Privilége 1.0 16V",
+        "ano": 2004
+      },
+      {
+        "id": 15891,
+        "idUrl": "clio-hatch-authentique-10-8v-2004",
+        "nome": "Clio Hatch. Authentique 1.0 8V",
+        "ano": 2004
+      },
+      {
+        "id": 15853,
+        "idUrl": "clio-hatch-authentique-10-16v-4p-2004",
+        "nome": "Clio Hatch. Authentique 1.0 16V 4p",
+        "ano": 2004
+      },
+      {
+        "id": 15863,
+        "idUrl": "clio-hatch-dynamique-10-16v-2004",
+        "nome": "Clio Hatch. Dynamique 1.0 16V",
+        "ano": 2004
+      },
+      {
+        "id": 15788,
+        "idUrl": "clio-hatch-expression-10-8v-4p-2004",
+        "nome": "Clio Hatch. Expression 1.0 8v 4p",
+        "ano": 2004
+      },
+      {
+        "id": 15871,
+        "idUrl": "clio-hatch-expression-10-16v-2004",
+        "nome": "Clio Hatch. Expression 1.0 16V",
+        "ano": 2004
+      },
+      {
+        "id": 15897,
+        "idUrl": "clio-hatch-authentique-10-8v-4p-2004",
+        "nome": "Clio Hatch. Authentique 1.0 8V 4p",
+        "ano": 2004
+      },
+      {
+        "id": 15812,
+        "idUrl": "clio-hatch-authentique-10-16v-2004",
+        "nome": "Clio Hatch. Authentique 1.0 16V",
+        "ano": 2004
+      },
+      {
+        "id": 15882,
+        "idUrl": "clio-hatch-expression-10-8v-2004",
+        "nome": "Clio Hatch. Expression 1.0 8V",
+        "ano": 2004
+      }
+    ],
+    "2005": [
+      {
+        "id": 16093,
+        "idUrl": "clio-sedan-privilege-16-16v-flex-2005",
+        "nome": "Clio Sedan Privilége 1.6 16V (flex)",
+        "ano": 2005
+      },
+      {
+        "id": 15709,
+        "idUrl": "clio-hatch-privilege-16-16v-2005",
+        "nome": "Clio Hatch. Privilége 1.6 16V",
+        "ano": 2005
+      },
+      {
+        "id": 16116,
+        "idUrl": "clio-sedan-rt-16-16v-2005",
+        "nome": "Clio Sedan RT 1.6 16V",
+        "ano": 2005
+      },
+      {
+        "id": 15712,
+        "idUrl": "clio-hatch-privilege-16-16v-flex-2005",
+        "nome": "Clio Hatch. Privilége 1.6 16V (flex)",
+        "ano": 2005
+      },
+      {
+        "id": 15737,
+        "idUrl": "clio-sedan-expression-16-16v-2005",
+        "nome": "Clio Sedan Expression 1.6 16V",
+        "ano": 2005
+      },
+      {
+        "id": 15767,
+        "idUrl": "clio-sedan-16-16v-flex-serie-limitada-2005",
+        "nome": "Clio Sedan 1.6 16V (flex) (série limitada)",
+        "ano": 2005
+      },
+      {
+        "id": 16105,
+        "idUrl": "clio-sedan-rn-16-16v-2005",
+        "nome": "Clio Sedan RN 1.6 16V",
+        "ano": 2005
+      },
+      {
+        "id": 15920,
+        "idUrl": "clio-sedan-privilege-16-16v-2005",
+        "nome": "Clio Sedan Privilége 1.6 16V",
+        "ano": 2005
+      },
+      {
+        "id": 15770,
+        "idUrl": "clio-sedan-16-16v-o-boticario-2005",
+        "nome": "Clio Sedan 1.6 16V O Boticario",
+        "ano": 2005
+      },
+      {
+        "id": 15744,
+        "idUrl": "clio-sedan-expression-16-16v-flex-2005",
+        "nome": "Clio Sedan Expression 1.6 16V (flex)",
+        "ano": 2005
+      },
+      {
+        "id": 15872,
+        "idUrl": "clio-hatch-expression-10-16v-2005",
+        "nome": "Clio Hatch. Expression 1.0 16V",
+        "ano": 2005
+      },
+      {
+        "id": 15696,
+        "idUrl": "clio-hatch-expression-hipower-10-16v-2005",
+        "nome": "Clio Hatch. Expression Hi-Power 1.0 16V",
+        "ano": 2005
+      },
+      {
+        "id": 15867,
+        "idUrl": "clio-hatch-dynamique-16-16v-flex-2005",
+        "nome": "Clio Hatch. Dynamique 1.6 16V (flex)",
+        "ano": 2005
+      },
+      {
+        "id": 15747,
+        "idUrl": "clio-sedan-privilege-10-16v-2005",
+        "nome": "Clio Sedan Privilége 1.0 16V",
+        "ano": 2005
+      },
+      {
+        "id": 16094,
+        "idUrl": "clio-sedan-privilege-hipower-10-16v-2005",
+        "nome": "Clio Sedan Privilége Hi-Power 1.0 16V",
+        "ano": 2005
+      },
+      {
+        "id": 15787,
+        "idUrl": "clio-hatch-expression-16-16v-2005",
+        "nome": "Clio Hatch. Expression 1.6 16V",
+        "ano": 2005
+      },
+      {
+        "id": 15805,
+        "idUrl": "clio-hatch-16-16v-serie-limitada-2005",
+        "nome": "Clio Hatch. 1.6 16V (série limitada)",
+        "ano": 2005
+      },
+      {
+        "id": 15864,
+        "idUrl": "clio-hatch-dynamique-16-16v-2005",
+        "nome": "Clio Hatch. Dynamique 1.6 16V",
+        "ano": 2005
+      },
+      {
+        "id": 15745,
+        "idUrl": "clio-sedan-expression-hipower-10-16v-2005",
+        "nome": "Clio Sedan Expression Hi-Power 1.0 16V",
+        "ano": 2005
+      },
+      {
+        "id": 15764,
+        "idUrl": "clio-sedan-10-16v-o-boticario-2005",
+        "nome": "Clio Sedan 1.0 16V O Boticario",
+        "ano": 2005
+      },
+      {
+        "id": 15777,
+        "idUrl": "clio-sedan-alize-hipower-10-16v-2005",
+        "nome": "Clio Sedan Alizé Hi-Power 1.0 16V",
+        "ano": 2005
+      },
+      {
+        "id": 16100,
+        "idUrl": "clio-sedan-rn-10-16v-2005",
+        "nome": "Clio Sedan RN 1.0 16V",
+        "ano": 2005
+      },
+      {
+        "id": 15786,
+        "idUrl": "clio-sedan-authentique-16-16v-flex-2005",
+        "nome": "Clio Sedan Authentique 1.6 16V (flex)",
+        "ano": 2005
+      },
+      {
+        "id": 15908,
+        "idUrl": "clio-hatch-authentique-16-16v-flex-4p-2005",
+        "nome": "Clio Hatch. Authentique 1.6 16V (flex) 4p",
+        "ano": 2005
+      },
+      {
+        "id": 15725,
+        "idUrl": "clio-sedan-authentique-hipower-10-16v-2005",
+        "nome": "Clio Sedan Authentique Hi-Power 1.0 16V",
+        "ano": 2005
+      },
+      {
+        "id": 15778,
+        "idUrl": "clio-sedan-authentique-10-16v-2005",
+        "nome": "Clio Sedan Authentique 1.0 16V",
+        "ano": 2005
+      },
+      {
+        "id": 16118,
+        "idUrl": "clio-sedan-rl-10-16v-2005",
+        "nome": "Clio Sedan Rl 1.0 16V",
+        "ano": 2005
+      },
+      {
+        "id": 15702,
+        "idUrl": "clio-hatch-privilege-10-16v-2005",
+        "nome": "Clio Hatch. Privilége 1.0 16V",
+        "ano": 2005
+      },
+      {
+        "id": 15708,
+        "idUrl": "clio-hatch-privilege-10-16v-4p-2005",
+        "nome": "Clio Hatch. Privilége 1.0 16V 4p",
+        "ano": 2005
+      },
+      {
+        "id": 15692,
+        "idUrl": "clio-hatch-expression-16-16v-flex-2005",
+        "nome": "Clio Hatch. Expression 1.6 16V (flex)",
+        "ano": 2005
+      },
+      {
+        "id": 15861,
+        "idUrl": "clio-hatch-dynamique-10-16v-2005",
+        "nome": "Clio Hatch. Dynamique 1.0 16V",
+        "ano": 2005
+      },
+      {
+        "id": 15785,
+        "idUrl": "clio-sedan-authentique-16-16v-2005",
+        "nome": "Clio Sedan Authentique 1.6 16V",
+        "ano": 2005
+      },
+      {
+        "id": 15898,
+        "idUrl": "clio-hatch-authentique-16-16v-2005",
+        "nome": "Clio Hatch. Authentique 1.6 16V",
+        "ano": 2005
+      },
+      {
+        "id": 15904,
+        "idUrl": "clio-hatch-authentique-16-16v-flex-2005",
+        "nome": "Clio Hatch. Authentique 1.6 16V (flex)",
+        "ano": 2005
+      },
+      {
+        "id": 15892,
+        "idUrl": "clio-hatch-authentique-10-8v-2005",
+        "nome": "Clio Hatch. Authentique 1.0 8V",
+        "ano": 2005
+      },
+      {
+        "id": 15912,
+        "idUrl": "clio-hatch-authentique-plus-10-8v-2005",
+        "nome": "Clio Hatch. Authentique Plus 1.0 8V",
+        "ano": 2005
+      },
+      {
+        "id": 15789,
+        "idUrl": "clio-hatch-expression-10-8v-4p-2005",
+        "nome": "Clio Hatch. Expression 1.0 8v 4p",
+        "ano": 2005
+      },
+      {
+        "id": 15896,
+        "idUrl": "clio-hatch-authentique-10-8v-4p-2005",
+        "nome": "Clio Hatch. Authentique 1.0 8V 4p",
+        "ano": 2005
+      },
+      {
+        "id": 15810,
+        "idUrl": "clio-hatch-authentique-10-16v-2005",
+        "nome": "Clio Hatch. Authentique 1.0 16V",
+        "ano": 2005
+      },
+      {
+        "id": 15820,
+        "idUrl": "clio-hatch-authentique-10-16v-4p-2005",
+        "nome": "Clio Hatch. Authentique 1.0 16V 4p",
+        "ano": 2005
+      },
+      {
+        "id": 15880,
+        "idUrl": "clio-hatch-expression-10-8v-2005",
+        "nome": "Clio Hatch. Expression 1.0 8V",
+        "ano": 2005
+      }
+    ],
+    "2006": [
+      {
+        "id": 16089,
+        "idUrl": "clio-sedan-privilege-16-16v-flex-2006",
+        "nome": "Clio Sedan Privilége 1.6 16V (flex)",
+        "ano": 2006
+      },
+      {
+        "id": 15740,
+        "idUrl": "clio-sedan-expression-16-16v-flex-2006",
+        "nome": "Clio Sedan Expression 1.6 16V (flex)",
+        "ano": 2006
+      },
+      {
+        "id": 15713,
+        "idUrl": "clio-hatch-privilege-16-16v-flex-2006",
+        "nome": "Clio Hatch. Privilége 1.6 16V (flex)",
+        "ano": 2006
+      },
+      {
+        "id": 15705,
+        "idUrl": "clio-hatch-privilege-10-16v-flex-2006",
+        "nome": "Clio Hatch. Privilége 1.0 16V (flex)",
+        "ano": 2006
+      },
+      {
+        "id": 15693,
+        "idUrl": "clio-hatch-expression-16-16v-flex-2006",
+        "nome": "Clio Hatch. Expression 1.6 16V (flex)",
+        "ano": 2006
+      },
+      {
+        "id": 15878,
+        "idUrl": "clio-hatch-expression-10-16v-4p-2006",
+        "nome": "Clio Hatch. Expression 1.0 16V 4p",
+        "ano": 2006
+      },
+      {
+        "id": 15728,
+        "idUrl": "clio-sedan-expression-10-16v-2006",
+        "nome": "Clio Sedan Expression 1.0 16V",
+        "ano": 2006
+      },
+      {
+        "id": 15732,
+        "idUrl": "clio-sedan-expression-10-16v-flex-2006",
+        "nome": "Clio Sedan Expression 1.0 16V (flex)",
+        "ano": 2006
+      },
+      {
+        "id": 15775,
+        "idUrl": "clio-sedan-alize-16-16v-flex-2006",
+        "nome": "Clio Sedan Alizé 1.6 16V (flex)",
+        "ano": 2006
+      },
+      {
+        "id": 15727,
+        "idUrl": "clio-sedan-egeus-16-16v-flex-2006",
+        "nome": "Clio Sedan Egeus 1.6 16V (flex)",
+        "ano": 2006
+      },
+      {
+        "id": 15755,
+        "idUrl": "clio-sedan-authentique-16-16v-flex-2006",
+        "nome": "Clio Sedan Authentique 1.6 16V (flex)",
+        "ano": 2006
+      },
+      {
+        "id": 15818,
+        "idUrl": "clio-hatch-authentique-10-16v-flex-4p-2006",
+        "nome": "Clio Hatch. Authentique 1.0 16V (flex) 4p",
+        "ano": 2006
+      },
+      {
+        "id": 15750,
+        "idUrl": "clio-sedan-privilege-10-16v-flex-2006",
+        "nome": "Clio Sedan Privilége 1.0 16V (flex)",
+        "ano": 2006
+      },
+      {
+        "id": 15868,
+        "idUrl": "clio-hatch-dynamique-16-16v-flex-2006",
+        "nome": "Clio Hatch. Dynamique 1.6 16V (flex)",
+        "ano": 2006
+      },
+      {
+        "id": 15726,
+        "idUrl": "clio-sedan-egeus-10-16v-flex-2006",
+        "nome": "Clio Sedan Egeus 1.0 16V (flex)",
+        "ano": 2006
+      },
+      {
+        "id": 15776,
+        "idUrl": "clio-sedan-alize-hipower-10-16v-2006",
+        "nome": "Clio Sedan Alizé Hi-Power 1.0 16V",
+        "ano": 2006
+      },
+      {
+        "id": 15869,
+        "idUrl": "clio-hatch-dynamique-hipower-10-16v-2006",
+        "nome": "Clio Hatch. Dynamique Hi-Power 1.0 16V",
+        "ano": 2006
+      },
+      {
+        "id": 15704,
+        "idUrl": "clio-hatch-privilege-10-16v-2006",
+        "nome": "Clio Hatch. Privilége 1.0 16V",
+        "ano": 2006
+      },
+      {
+        "id": 15700,
+        "idUrl": "clio-hatch-getup-10-16v-flex-4p-2006",
+        "nome": "Clio Hatch. GetUp 1.0 16V (flex) 4p",
+        "ano": 2006
+      },
+      {
+        "id": 15907,
+        "idUrl": "clio-hatch-authentique-16-16v-flex-4p-2006",
+        "nome": "Clio Hatch. Authentique 1.6 16V (flex) 4p",
+        "ano": 2006
+      },
+      {
+        "id": 15919,
+        "idUrl": "clio-hatch-authentique-16-16v-flex-2006",
+        "nome": "Clio Hatch. Authentique 1.6 16V (flex)",
+        "ano": 2006
+      },
+      {
+        "id": 15781,
+        "idUrl": "clio-sedan-authentique-10-16v-flex-2006",
+        "nome": "Clio Sedan Authentique 1.0 16V (flex)",
+        "ano": 2006
+      },
+      {
+        "id": 15813,
+        "idUrl": "clio-hatch-authentique-10-16v-flex-2006",
+        "nome": "Clio Hatch. Authentique 1.0 16V (flex)",
+        "ano": 2006
+      },
+      {
+        "id": 15909,
+        "idUrl": "clio-hatch-authentique-plus-10-8v-2006",
+        "nome": "Clio Hatch. Authentique Plus 1.0 8V",
+        "ano": 2006
+      },
+      {
+        "id": 15854,
+        "idUrl": "clio-hatch-authentique-10-8v-2006",
+        "nome": "Clio Hatch. Authentique 1.0 8V",
+        "ano": 2006
+      },
+      {
+        "id": 15884,
+        "idUrl": "clio-hatch-expression-10-8v-4p-2006",
+        "nome": "Clio Hatch. Expression 1.0 8v 4p",
+        "ano": 2006
+      },
+      {
+        "id": 15873,
+        "idUrl": "clio-hatch-expression-10-16v-flex-2006",
+        "nome": "Clio Hatch. Expression 1.0 16V (flex)",
+        "ano": 2006
+      },
+      {
+        "id": 15699,
+        "idUrl": "clio-hatch-getup-10-16v-flex-2006",
+        "nome": "Clio Hatch. GetUp 1.0 16V (flex)",
+        "ano": 2006
+      },
+      {
+        "id": 15883,
+        "idUrl": "clio-hatch-expression-10-8v-2006",
+        "nome": "Clio Hatch. Expression 1.0 8V",
+        "ano": 2006
+      },
+      {
+        "id": 15895,
+        "idUrl": "clio-hatch-authentique-10-8v-4p-2006",
+        "nome": "Clio Hatch. Authentique 1.0 8V 4p",
+        "ano": 2006
+      }
+    ],
+    "2007": [
+      {
+        "id": 16090,
+        "idUrl": "clio-sedan-privilege-16-16v-flex-2007",
+        "nome": "Clio Sedan Privilége 1.6 16V (flex)",
+        "ano": 2007
+      },
+      {
+        "id": 15741,
+        "idUrl": "clio-sedan-expression-16-16v-flex-2007",
+        "nome": "Clio Sedan Expression 1.6 16V (flex)",
+        "ano": 2007
+      },
+      {
+        "id": 15714,
+        "idUrl": "clio-hatch-privilege-16-16v-flex-2007",
+        "nome": "Clio Hatch. Privilége 1.6 16V (flex)",
+        "ano": 2007
+      },
+      {
+        "id": 15706,
+        "idUrl": "clio-hatch-privilege-10-16v-flex-2007",
+        "nome": "Clio Hatch. Privilége 1.0 16V (flex)",
+        "ano": 2007
+      },
+      {
+        "id": 15733,
+        "idUrl": "clio-sedan-expression-10-16v-flex-2007",
+        "nome": "Clio Sedan Expression 1.0 16V (flex)",
+        "ano": 2007
+      },
+      {
+        "id": 15876,
+        "idUrl": "clio-hatch-expression-10-16v-flex-4p-2007",
+        "nome": "Clio Hatch. Expression 1.0 16V (flex) 4p",
+        "ano": 2007
+      },
+      {
+        "id": 15751,
+        "idUrl": "clio-sedan-privilege-10-16v-flex-2007",
+        "nome": "Clio Sedan Privilége 1.0 16V (flex)",
+        "ano": 2007
+      },
+      {
+        "id": 15724,
+        "idUrl": "clio-sedan-authentique-16-16v-flex-2007",
+        "nome": "Clio Sedan Authentique 1.6 16V (flex)",
+        "ano": 2007
+      },
+      {
+        "id": 15901,
+        "idUrl": "clio-hatch-authentique-16-16v-flex-2007",
+        "nome": "Clio Hatch. Authentique 1.6 16V (flex)",
+        "ano": 2007
+      },
+      {
+        "id": 15906,
+        "idUrl": "clio-hatch-authentique-16-16v-flex-4p-2007",
+        "nome": "Clio Hatch. Authentique 1.6 16V (flex) 4p",
+        "ano": 2007
+      },
+      {
+        "id": 15761,
+        "idUrl": "clio-hatch-serie-limitada-air-16-16v-flex-2007",
+        "nome": "Clio Hatch. Série Limitada Air 1.6 16V (flex)",
+        "ano": 2007
+      },
+      {
+        "id": 15817,
+        "idUrl": "clio-hatch-authentique-10-16v-flex-4p-2007",
+        "nome": "Clio Hatch. Authentique 1.0 16V (flex) 4p",
+        "ano": 2007
+      },
+      {
+        "id": 15782,
+        "idUrl": "clio-sedan-authentique-10-16v-flex-2007",
+        "nome": "Clio Sedan Authentique 1.0 16V (flex)",
+        "ano": 2007
+      },
+      {
+        "id": 15814,
+        "idUrl": "clio-hatch-authentique-10-16v-flex-2007",
+        "nome": "Clio Hatch. Authentique 1.0 16V (flex)",
+        "ano": 2007
+      },
+      {
+        "id": 15910,
+        "idUrl": "clio-hatch-authentique-plus-10-8v-2007",
+        "nome": "Clio Hatch. Authentique Plus 1.0 8V",
+        "ano": 2007
+      },
+      {
+        "id": 15855,
+        "idUrl": "clio-hatch-authentique-10-8v-2007",
+        "nome": "Clio Hatch. Authentique 1.0 8V",
+        "ano": 2007
+      },
+      {
+        "id": 15874,
+        "idUrl": "clio-hatch-expression-10-16v-flex-2007",
+        "nome": "Clio Hatch. Expression 1.0 16V (flex)",
+        "ano": 2007
+      },
+      {
+        "id": 15894,
+        "idUrl": "clio-hatch-authentique-10-8v-4p-2007",
+        "nome": "Clio Hatch. Authentique 1.0 8V 4p",
+        "ano": 2007
+      }
+    ],
+    "2008": [
+      {
+        "id": 16091,
+        "idUrl": "clio-sedan-privilege-16-16v-flex-2008",
+        "nome": "Clio Sedan Privilége 1.6 16V (flex)",
+        "ano": 2008
+      },
+      {
+        "id": 15752,
+        "idUrl": "clio-sedan-privilege-10-16v-flex-2008",
+        "nome": "Clio Sedan Privilége 1.0 16V (flex)",
+        "ano": 2008
+      },
+      {
+        "id": 15902,
+        "idUrl": "clio-hatch-authentique-16-16v-flex-2008",
+        "nome": "Clio Hatch. Authentique 1.6 16V (flex)",
+        "ano": 2008
+      },
+      {
+        "id": 15905,
+        "idUrl": "clio-hatch-authentique-16-16v-flex-4p-2008",
+        "nome": "Clio Hatch. Authentique 1.6 16V (flex) 4p",
+        "ano": 2008
+      },
+      {
+        "id": 15809,
+        "idUrl": "clio-hatch-air-16-16v-flex-2008",
+        "nome": "Clio Hatch. Air 1.6 16V (flex)",
+        "ano": 2008
+      },
+      {
+        "id": 15742,
+        "idUrl": "clio-sedan-expression-16-16v-flex-2008",
+        "nome": "Clio Sedan Expression 1.6 16V (flex)",
+        "ano": 2008
+      },
+      {
+        "id": 15734,
+        "idUrl": "clio-sedan-expression-10-16v-flex-2008",
+        "nome": "Clio Sedan Expression 1.0 16V (flex)",
+        "ano": 2008
+      },
+      {
+        "id": 15756,
+        "idUrl": "clio-sedan-authentique-16-16v-flex-2008",
+        "nome": "Clio Sedan Authentique 1.6 16V (flex)",
+        "ano": 2008
+      },
+      {
+        "id": 15783,
+        "idUrl": "clio-sedan-authentique-10-16v-flex-2008",
+        "nome": "Clio Sedan Authentique 1.0 16V (flex)",
+        "ano": 2008
+      },
+      {
+        "id": 15816,
+        "idUrl": "clio-hatch-authentique-10-16v-flex-4p-2008",
+        "nome": "Clio Hatch. Authentique 1.0 16V (flex) 4p",
+        "ano": 2008
+      },
+      {
+        "id": 15815,
+        "idUrl": "clio-hatch-authentique-10-16v-flex-2008",
+        "nome": "Clio Hatch. Authentique 1.0 16V (flex)",
+        "ano": 2008
+      },
+      {
+        "id": 15889,
+        "idUrl": "clio-hatch-authentique-10-8v-2008",
+        "nome": "Clio Hatch. Authentique 1.0 8V",
+        "ano": 2008
+      },
+      {
+        "id": 15911,
+        "idUrl": "clio-hatch-authentique-plus-10-8v-2008",
+        "nome": "Clio Hatch. Authentique Plus 1.0 8V",
+        "ano": 2008
+      },
+      {
+        "id": 15893,
+        "idUrl": "clio-hatch-authentique-10-8v-4p-2008",
+        "nome": "Clio Hatch. Authentique 1.0 8V 4p",
+        "ano": 2008
+      }
+    ],
+    "2009": [
+      {
+        "id": 16092,
+        "idUrl": "clio-sedan-privilege-16-16v-flex-2009",
+        "nome": "Clio Sedan Privilége 1.6 16V (flex)",
+        "ano": 2009
+      },
+      {
+        "id": 15903,
+        "idUrl": "clio-sedan-privilege-10-16v-flex-2009",
+        "nome": "Clio Sedan Privilége 1.0 16V (flex)",
+        "ano": 2009
+      },
+      {
+        "id": 15753,
+        "idUrl": "clio-sedan-authentique-16-16v-flex-2009",
+        "nome": "Clio Sedan Authentique 1.6 16V (flex)",
+        "ano": 2009
+      },
+      {
+        "id": 15743,
+        "idUrl": "clio-sedan-expression-16-16v-flex-2009",
+        "nome": "Clio Sedan Expression 1.6 16V (flex)",
+        "ano": 2009
+      },
+      {
+        "id": 15698,
+        "idUrl": "clio-hatch-get-up-10-16v-flex-4p-2009",
+        "nome": "Clio Hatch. Get Up 1.0 16V (flex) 4p",
+        "ano": 2009
+      },
+      {
+        "id": 15735,
+        "idUrl": "clio-sedan-expression-10-16v-flex-2009",
+        "nome": "Clio Sedan Expression 1.0 16V (flex)",
+        "ano": 2009
+      },
+      {
+        "id": 15784,
+        "idUrl": "clio-sedan-authentique-10-16v-flex-2009",
+        "nome": "Clio Sedan Authentique 1.0 16V (flex)",
+        "ano": 2009
+      },
+      {
+        "id": 15856,
+        "idUrl": "clio-hatch-campus-10-16v-flex-4p-2009",
+        "nome": "Clio Hatch. Campus 1.0 16V (flex) 4p",
+        "ano": 2009
+      },
+      {
+        "id": 15888,
+        "idUrl": "clio-hatch-campus-10-16v-flex-2p-2009",
+        "nome": "Clio Hatch. Campus 1.0 16V (flex) 2p",
+        "ano": 2009
+      },
+      {
+        "id": 15697,
+        "idUrl": "clio-hatch-get-up-10-16v-flex-2p-2009",
+        "nome": "Clio Hatch. Get Up 1.0 16V (flex) 2p",
+        "ano": 2009
+      },
+      {
+        "id": 15857,
+        "idUrl": "clio-hatch-campus-internet-10-16v-flex-2p-2009",
+        "nome": "Clio Hatch. Campus Internet 1.0 16V (flex) 2p",
+        "ano": 2009
+      }
+    ],
+    "2010": [
+      {
+        "id": 15885,
+        "idUrl": "clio-hatch-campus-10-16v-flex-4p-2010",
+        "nome": "Clio Hatch. Campus 1.0 16V (flex) 4p",
+        "ano": 2010
+      },
+      {
+        "id": 15887,
+        "idUrl": "clio-hatch-campus-10-16v-flex-2p-2010",
+        "nome": "Clio Hatch. Campus 1.0 16V (flex) 2p",
+        "ano": 2010
+      },
+      {
+        "id": 15858,
+        "idUrl": "clio-hatch-campus-internet-10-16v-flex-2p-2010",
+        "nome": "Clio Hatch. Campus Internet 1.0 16V (flex) 2p",
+        "ano": 2010
+      },
+      {
+        "id": 15859,
+        "idUrl": "clio-hatch-campus-internet-10-16v-flex-4p-2010",
+        "nome": "Clio Hatch. Campus Internet 1.0 16V (flex) 4p",
+        "ano": 2010
+      }
+    ],
+    "2014": [
+      {
+        "id": 22350,
+        "idUrl": "clio-authentique-10-16v-2p-2014",
+        "nome": "Clio Authentique 1.0 16v 2p",
+        "ano": 2014
+      }
+    ],
+    "2016": [
+      {
+        "id": 15791,
+        "idUrl": "clio-expression-10-16v-flex-2016",
+        "nome": "Clio Expression 1.0 16V (Flex)",
+        "ano": 2016
+      },
+      {
+        "id": 15850,
+        "idUrl": "clio-authentique-10-16v-flex-2p-2016",
+        "nome": "Clio Authentique 1.0 16V (Flex) 2p",
+        "ano": 2016
+      }
+    ]
+  }

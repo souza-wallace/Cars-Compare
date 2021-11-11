@@ -1,0 +1,90 @@
+{
+    "2009": [
+      {
+        "id": 15513,
+        "idUrl": "symbol-16-16v-privilege-flex-2009",
+        "nome": "Symbol 1.6 16V Privilège (flex)",
+        "ano": 2009
+      },
+      {
+        "id": 15509,
+        "idUrl": "symbol-16-16v-expression-flex-2009",
+        "nome": "Symbol 1.6 16V Expression (flex)",
+        "ano": 2009
+      },
+      {
+        "id": 15518,
+        "idUrl": "symbol-16-8v-expression-hitorque-flex-2009",
+        "nome": "Symbol 1.6 8V Expression Hi-Torque (flex)",
+        "ano": 2009
+      }
+    ],
+    "2010": [
+      {
+        "id": 15514,
+        "idUrl": "symbol-16-16v-privilege-flex-2010",
+        "nome": "Symbol 1.6 16V Privilège (flex)",
+        "ano": 2010
+      },
+      {
+        "id": 15510,
+        "idUrl": "symbol-16-16v-expression-flex-2010",
+        "nome": "Symbol 1.6 16V Expression (flex)",
+        "ano": 2010
+      },
+      {
+        "id": 15519,
+        "idUrl": "symbol-16-8v-expression-hitorque-flex-2010",
+        "nome": "Symbol 1.6 8V Expression Hi-Torque (flex)",
+        "ano": 2010
+      }
+    ],
+    "2011": [
+      {
+        "id": 15512,
+        "idUrl": "symbol-16-16v-privilege-flex-2011",
+        "nome": "Symbol 1.6 16V Privilège (flex)",
+        "ano": 2011
+      },
+      {
+        "id": 15508,
+        "idUrl": "symbol-16-16v-expression-flex-2011",
+        "nome": "Symbol 1.6 16V Expression (flex)",
+        "ano": 2011
+      },
+      {
+        "id": 15517,
+        "idUrl": "symbol-16-8v-expression-hitorque-flex-2011",
+        "nome": "Symbol 1.6 8V Expression Hi-Torque (flex)",
+        "ano": 2011
+      },
+      {
+        "id": 15520,
+        "idUrl": "symbol-16-8v-hitorque-sl-conectividade-2011",
+        "nome": "Symbol 1.6 8V Hi-Torque SL Conectividade",
+        "ano": 2011
+      }
+    ],
+    "2012": [
+      {
+        "id": 15515,
+        "idUrl": "symbol-16-16v-privilege-flex-2012",
+        "nome": "Symbol 1.6 16V Privilège (flex)",
+        "ano": 2012
+      },
+      {
+        "id": 15511,
+        "idUrl": "symbol-16-16v-expression-flex-2012",
+        "nome": "Symbol 1.6 16V Expression (flex)",
+        "ano": 2012
+      }
+    ],
+    "2013": [
+      {
+        "id": 15516,
+        "idUrl": "symbol-16-16v-privilege-flex-2013",
+        "nome": "Symbol 1.6 16V Privilège (flex)",
+        "ano": 2013
+      }
+    ]
+  }

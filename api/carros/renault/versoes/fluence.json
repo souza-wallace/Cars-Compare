@@ -1,0 +1,178 @@
+{
+    "2011": [
+      {
+        "id": 16132,
+        "idUrl": "fluence-20-16v-privilege-aut-flex-2011",
+        "nome": "Fluence 2.0 16V Privilege (Aut) (Flex)",
+        "ano": 2011
+      },
+      {
+        "id": 16179,
+        "idUrl": "fluence-20-16v-dynamique-aut-flex-2011",
+        "nome": "Fluence 2.0 16V Dynamique (Aut) (Flex)",
+        "ano": 2011
+      },
+      {
+        "id": 16182,
+        "idUrl": "fluence-20-16v-dynamique-flex-2011",
+        "nome": "Fluence 2.0 16V Dynamique (Flex)",
+        "ano": 2011
+      }
+    ],
+    "2012": [
+      {
+        "id": 16133,
+        "idUrl": "fluence-20-16v-privilege-aut-flex-2012",
+        "nome": "Fluence 2.0 16V Privilege (Aut) (Flex)",
+        "ano": 2012
+      },
+      {
+        "id": 16180,
+        "idUrl": "fluence-20-16v-dynamique-aut-flex-2012",
+        "nome": "Fluence 2.0 16V Dynamique (Aut) (Flex)",
+        "ano": 2012
+      },
+      {
+        "id": 16183,
+        "idUrl": "fluence-20-16v-dynamique-flex-2012",
+        "nome": "Fluence 2.0 16V Dynamique (Flex)",
+        "ano": 2012
+      }
+    ],
+    "2013": [
+      {
+        "id": 16130,
+        "idUrl": "fluence-20-16v-gt-turbo-2013",
+        "nome": "Fluence 2.0 16V GT Turbo",
+        "ano": 2013
+      },
+      {
+        "id": 16134,
+        "idUrl": "fluence-20-16v-privilege-aut-flex-2013",
+        "nome": "Fluence 2.0 16V Privilege (Aut) (Flex)",
+        "ano": 2013
+      },
+      {
+        "id": 16178,
+        "idUrl": "fluence-16-16v-expression-flex-2013",
+        "nome": "Fluence 1.6 16V Expression (Flex)",
+        "ano": 2013
+      },
+      {
+        "id": 16181,
+        "idUrl": "fluence-20-16v-dynamique-aut-flex-2013",
+        "nome": "Fluence 2.0 16V Dynamique (Aut) (Flex)",
+        "ano": 2013
+      },
+      {
+        "id": 16184,
+        "idUrl": "fluence-20-16v-dynamique-flex-2013",
+        "nome": "Fluence 2.0 16V Dynamique (Flex)",
+        "ano": 2013
+      }
+    ],
+    "2014": [
+      {
+        "id": 16128,
+        "idUrl": "fluence-20-16v-gt-line-xtronic-2014",
+        "nome": "Fluence 2.0 16V GT Line X-Tronic",
+        "ano": 2014
+      },
+      {
+        "id": 16135,
+        "idUrl": "fluence-20-16v-privilege-aut-flex-2014",
+        "nome": "Fluence 2.0 16V Privilege (Aut) (Flex)",
+        "ano": 2014
+      },
+      {
+        "id": 16131,
+        "idUrl": "fluence-20-16v-gt-turbo-2014",
+        "nome": "Fluence 2.0 16V GT Turbo",
+        "ano": 2014
+      },
+      {
+        "id": 16125,
+        "idUrl": "fluence-20-16v-dynamique-xtronic-aut-flex-2014",
+        "nome": "Fluence 2.0 16V Dynamique X-Tronic (Aut) (Flex)",
+        "ano": 2014
+      },
+      {
+        "id": 16177,
+        "idUrl": "fluence-16-16v-expression-flex-2014",
+        "nome": "Fluence 1.6 16V Expression (Flex)",
+        "ano": 2014
+      },
+      {
+        "id": 16154,
+        "idUrl": "fluence-20-16v-dynamique-flex-2014",
+        "nome": "Fluence 2.0 16V Dynamique (Flex)",
+        "ano": 2014
+      }
+    ],
+    "2015": [
+      {
+        "id": 16136,
+        "idUrl": "fluence-20-16v-privilege-xtronic-flex-2015",
+        "nome": "Fluence 2.0 16V Privilege X-Tronic (Flex)",
+        "ano": 2015
+      },
+      {
+        "id": 16122,
+        "idUrl": "fluence-20-16v-dynamique-plus-xtronic-flex-2015",
+        "nome": "Fluence 2.0 16V Dynamique Plus X-Tronic (Flex)",
+        "ano": 2015
+      },
+      {
+        "id": 16126,
+        "idUrl": "fluence-20-16v-dynamique-xtronic-aut-flex-2015",
+        "nome": "Fluence 2.0 16V Dynamique X-Tronic (Aut) (Flex)",
+        "ano": 2015
+      },
+      {
+        "id": 16153,
+        "idUrl": "fluence-20-16v-dynamique-flex-2015",
+        "nome": "Fluence 2.0 16V Dynamique (Flex)",
+        "ano": 2015
+      }
+    ],
+    "2016": [
+      {
+        "id": 16137,
+        "idUrl": "fluence-20-16v-privilege-xtronic-flex-2016",
+        "nome": "Fluence 2.0 16V Privilege X-Tronic (Flex)",
+        "ano": 2016
+      },
+      {
+        "id": 16129,
+        "idUrl": "fluence-20-16v-gt-line-xtronic-flex-2016",
+        "nome": "Fluence 2.0 16V GT Line X-Tronic (Flex)",
+        "ano": 2016
+      },
+      {
+        "id": 16123,
+        "idUrl": "fluence-20-16v-dynamique-plus-xtronic-flex-2016",
+        "nome": "Fluence 2.0 16V Dynamique Plus X-Tronic (Flex)",
+        "ano": 2016
+      },
+      {
+        "id": 16127,
+        "idUrl": "fluence-20-16v-dynamique-xtronic-flex-2016",
+        "nome": "Fluence 2.0 16V Dynamique X-Tronic (Flex)",
+        "ano": 2016
+      },
+      {
+        "id": 16152,
+        "idUrl": "fluence-20-16v-dynamique-flex-2016",
+        "nome": "Fluence 2.0 16V Dynamique (Flex)",
+        "ano": 2016
+      }
+    ],
+    "2017": [
+      {
+        "id": 16138,
+        "idUrl": "fluence-20-16v-privilege-xtronic-flex-2017",
+        "nome": "Fluence 2.0 16V Privilege X-Tronic (Flex)",
+        "ano": 2017
+      }
+    ]
+  }

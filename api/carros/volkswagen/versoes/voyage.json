@@ -1,0 +1,630 @@
+{
+    "1985": [
+      {
+        "id": 18235,
+        "idUrl": "voyage-super-18-1985",
+        "nome": "Voyage Super 1.8",
+        "ano": 1985
+      },
+      {
+        "id": 18236,
+        "idUrl": "voyage-super-16-1985",
+        "nome": "Voyage Super 1.6",
+        "ano": 1985
+      },
+      {
+        "id": 18239,
+        "idUrl": "voyage-s-16-1985",
+        "nome": "Voyage S 1.6",
+        "ano": 1985
+      },
+      {
+        "id": 18241,
+        "idUrl": "voyage-plus-16-1985",
+        "nome": "Voyage Plus 1.6",
+        "ano": 1985
+      }
+    ],
+    "1986": [
+      {
+        "id": 18212,
+        "idUrl": "voyage-c-16-1986",
+        "nome": "Voyage C 1.6",
+        "ano": 1986
+      },
+      {
+        "id": 18246,
+        "idUrl": "voyage-gls-18-1986",
+        "nome": "Voyage GLS 1.8",
+        "ano": 1986
+      }
+    ],
+    "1987": [
+      {
+        "id": 18261,
+        "idUrl": "voyage-fox-16-1987",
+        "nome": "Voyage Fox 1.6",
+        "ano": 1987
+      }
+    ],
+    "1988": [
+      {
+        "id": 18248,
+        "idUrl": "voyage-gl-18-1988",
+        "nome": "Voyage GL 1.8",
+        "ano": 1988
+      }
+    ],
+    "1989": [
+      {
+        "id": 18240,
+        "idUrl": "voyage-plus-18-1989",
+        "nome": "Voyage Plus 1.8",
+        "ano": 1989
+      }
+    ],
+    "1990": [
+      {
+        "id": 18231,
+        "idUrl": "voyage-cl-18-1990",
+        "nome": "Voyage CL 1.8",
+        "ano": 1990
+      }
+    ],
+    "1992": [
+      {
+        "id": 18238,
+        "idUrl": "voyage-special-18-1992",
+        "nome": "Voyage Special 1.8",
+        "ano": 1992
+      }
+    ],
+    "1993": [
+      {
+        "id": 18237,
+        "idUrl": "voyage-sport-18-s-1993",
+        "nome": "Voyage Sport 1.8 S",
+        "ano": 1993
+      }
+    ],
+    "1995": [
+      {
+        "id": 18247,
+        "idUrl": "voyage-gl-18-1995",
+        "nome": "Voyage GL 1.8",
+        "ano": 1995
+      },
+      {
+        "id": 18230,
+        "idUrl": "voyage-cl-16-1995",
+        "nome": "Voyage CL 1.6",
+        "ano": 1995
+      },
+      {
+        "id": 18249,
+        "idUrl": "voyage-cl-18-1995",
+        "nome": "Voyage CL 1.8",
+        "ano": 1995
+      }
+    ],
+    "2009": [
+      {
+        "id": 18253,
+        "idUrl": "voyage-comfortline-16-flex-2009",
+        "nome": "Voyage Comfortline 1.6 (Flex)",
+        "ano": 2009
+      },
+      {
+        "id": 18233,
+        "idUrl": "voyage-trend-16-flex-2009",
+        "nome": "Voyage Trend 1.6 (Flex)",
+        "ano": 2009
+      },
+      {
+        "id": 18301,
+        "idUrl": "voyage-16-total-flex-2009",
+        "nome": "Voyage 1.6 Total Flex",
+        "ano": 2009
+      },
+      {
+        "id": 18309,
+        "idUrl": "voyage-10-total-flex-2009",
+        "nome": "Voyage 1.0 Total Flex",
+        "ano": 2009
+      }
+    ],
+    "2010": [
+      {
+        "id": 18254,
+        "idUrl": "voyage-comfortline-16-flex-2010",
+        "nome": "Voyage Comfortline 1.6 (Flex)",
+        "ano": 2010
+      },
+      {
+        "id": 18258,
+        "idUrl": "voyage-comfortline-imotion-16-flex-2010",
+        "nome": "Voyage Comfortline I-Motion 1.6 (Flex)",
+        "ano": 2010
+      },
+      {
+        "id": 19713,
+        "idUrl": "voyage-trend-imotion-16-flex-2010",
+        "nome": "Voyage Trend I-Motion 1.6 (Flex)",
+        "ano": 2010
+      },
+      {
+        "id": 18232,
+        "idUrl": "voyage-trend-16-flex-2010",
+        "nome": "Voyage Trend 1.6 (Flex)",
+        "ano": 2010
+      },
+      {
+        "id": 18244,
+        "idUrl": "voyage-imotion-16-flex-2010",
+        "nome": "Voyage I-Motion 1.6 (Flex)",
+        "ano": 2010
+      },
+      {
+        "id": 18304,
+        "idUrl": "voyage-16-total-flex-2010",
+        "nome": "Voyage 1.6 Total Flex",
+        "ano": 2010
+      },
+      {
+        "id": 18308,
+        "idUrl": "voyage-10-total-flex-2010",
+        "nome": "Voyage 1.0 Total Flex",
+        "ano": 2010
+      }
+    ],
+    "2011": [
+      {
+        "id": 18257,
+        "idUrl": "voyage-comfortline-imotion-16-flex-2011",
+        "nome": "Voyage Comfortline I-Motion 1.6 (Flex)",
+        "ano": 2011
+      },
+      {
+        "id": 18251,
+        "idUrl": "voyage-comfortline-16-flex-2011",
+        "nome": "Voyage Comfortline 1.6 (Flex)",
+        "ano": 2011
+      },
+      {
+        "id": 18245,
+        "idUrl": "voyage-imotion-16-flex-2011",
+        "nome": "Voyage I-Motion 1.6 (Flex)",
+        "ano": 2011
+      },
+      {
+        "id": 18234,
+        "idUrl": "voyage-trend-16-flex-2011",
+        "nome": "Voyage Trend 1.6 (Flex)",
+        "ano": 2011
+      },
+      {
+        "id": 19161,
+        "idUrl": "voyage-trend-imotion-16-flex-2011",
+        "nome": "Voyage Trend I-Motion 1.6 (Flex)",
+        "ano": 2011
+      },
+      {
+        "id": 18305,
+        "idUrl": "voyage-16-total-flex-2011",
+        "nome": "Voyage 1.6 Total Flex",
+        "ano": 2011
+      },
+      {
+        "id": 18310,
+        "idUrl": "voyage-10-total-flex-2011",
+        "nome": "Voyage 1.0 Total Flex",
+        "ano": 2011
+      }
+    ],
+    "2012": [
+      {
+        "id": 18259,
+        "idUrl": "voyage-comfortline-imotion-16-flex-2012",
+        "nome": "Voyage Comfortline I-Motion 1.6 (Flex)",
+        "ano": 2012
+      },
+      {
+        "id": 18256,
+        "idUrl": "voyage-comfortline-16-flex-2012",
+        "nome": "Voyage Comfortline 1.6 (Flex)",
+        "ano": 2012
+      },
+      {
+        "id": 18243,
+        "idUrl": "voyage-imotion-16-flex-2012",
+        "nome": "Voyage I-Motion 1.6 (Flex)",
+        "ano": 2012
+      },
+      {
+        "id": 18303,
+        "idUrl": "voyage-16-total-flex-2012",
+        "nome": "Voyage 1.6 Total Flex",
+        "ano": 2012
+      },
+      {
+        "id": 18307,
+        "idUrl": "voyage-10-total-flex-2012",
+        "nome": "Voyage 1.0 Total Flex",
+        "ano": 2012
+      }
+    ],
+    "2013": [
+      {
+        "id": 18260,
+        "idUrl": "voyage-comfortline-imotion-16-flex-2013",
+        "nome": "Voyage Comfortline I-Motion 1.6 (Flex)",
+        "ano": 2013
+      },
+      {
+        "id": 18325,
+        "idUrl": "voyage-g6-comfortline-imotion-16-flex-2013",
+        "nome": "Voyage (G6) Comfortline I-Motion 1.6 (Flex)",
+        "ano": 2013
+      },
+      {
+        "id": 18263,
+        "idUrl": "voyage-comfortline-16-flex-2013",
+        "nome": "Voyage Comfortline 1.6 (Flex)",
+        "ano": 2013
+      },
+      {
+        "id": 18323,
+        "idUrl": "voyage-g6-comfortline-16-flex-2013",
+        "nome": "Voyage (G6) Comfortline 1.6 (Flex)",
+        "ano": 2013
+      },
+      {
+        "id": 18250,
+        "idUrl": "voyage-city-imotion-16-flex-2013",
+        "nome": "Voyage City I-Motion 1.6 (Flex)",
+        "ano": 2013
+      },
+      {
+        "id": 18332,
+        "idUrl": "voyage-g6-imotion-16-flex-2013",
+        "nome": "Voyage (G6) I-Motion 1.6 (Flex)",
+        "ano": 2013
+      },
+      {
+        "id": 18227,
+        "idUrl": "voyage-16-vht-city-flex-2013",
+        "nome": "Voyage 1.6 VHT City (Flex)",
+        "ano": 2013
+      },
+      {
+        "id": 18302,
+        "idUrl": "voyage-16-total-flex-2013",
+        "nome": "Voyage 1.6 Total Flex",
+        "ano": 2013
+      },
+      {
+        "id": 18322,
+        "idUrl": "voyage-g6-16-vht-total-flex-2013",
+        "nome": "Voyage (G6) 1.6 VHT Total Flex",
+        "ano": 2013
+      },
+      {
+        "id": 18306,
+        "idUrl": "voyage-10-total-flex-2013",
+        "nome": "Voyage 1.0 Total Flex",
+        "ano": 2013
+      },
+      {
+        "id": 18317,
+        "idUrl": "voyage-10-tec-city-flex-2013",
+        "nome": "Voyage 1.0 TEC City (Flex)",
+        "ano": 2013
+      },
+      {
+        "id": 18321,
+        "idUrl": "voyage-g6-10-tec-total-flex-2013",
+        "nome": "Voyage (G6) 1.0 TEC Total Flex",
+        "ano": 2013
+      }
+    ],
+    "2014": [
+      {
+        "id": 18205,
+        "idUrl": "voyage-16-vht-selecao-flex-2014",
+        "nome": "Voyage 1.6 VHT Seleção (Flex)",
+        "ano": 2014
+      },
+      {
+        "id": 18210,
+        "idUrl": "voyage-16-vht-highline-imotion-aut-flex-2014",
+        "nome": "Voyage 1.6 VHT Highline I-Motion (Aut) (Flex)",
+        "ano": 2014
+      },
+      {
+        "id": 18214,
+        "idUrl": "voyage-16-vht-highline-flex-2014",
+        "nome": "Voyage 1.6 VHT Highline (Flex)",
+        "ano": 2014
+      },
+      {
+        "id": 18206,
+        "idUrl": "voyage-16-vht-imotion-aut-flex-2014",
+        "nome": "Voyage 1.6 VHT I-Motion (Aut) (Flex)",
+        "ano": 2014
+      },
+      {
+        "id": 18225,
+        "idUrl": "voyage-16-vht-city-imotion-flex-2014",
+        "nome": "Voyage 1.6 VHT City I-Motion (Flex)",
+        "ano": 2014
+      },
+      {
+        "id": 18255,
+        "idUrl": "voyage-16-vht-city-flex-2014",
+        "nome": "Voyage 1.6 VHT City (Flex)",
+        "ano": 2014
+      },
+      {
+        "id": 18266,
+        "idUrl": "voyage-16-vht-flex-2014",
+        "nome": "Voyage 1.6 VHT (Flex)",
+        "ano": 2014
+      },
+      {
+        "id": 18203,
+        "idUrl": "voyage-16-vht-selecao-imotion-flex-2014",
+        "nome": "Voyage 1.6 VHT Seleção I-Motion (Flex)",
+        "ano": 2014
+      },
+      {
+        "id": 18314,
+        "idUrl": "voyage-10-tec-selecao-flex-2014",
+        "nome": "Voyage 1.0 TEC Seleção (Flex)",
+        "ano": 2014
+      },
+      {
+        "id": 18329,
+        "idUrl": "voyage-10-tec-flex-2014",
+        "nome": "Voyage 1.0 TEC (Flex)",
+        "ano": 2014
+      }
+    ],
+    "2015": [
+      {
+        "id": 18218,
+        "idUrl": "voyage-16-vht-evidence-flex-2015",
+        "nome": "Voyage 1.6 VHT Evidence (Flex)",
+        "ano": 2015
+      },
+      {
+        "id": 18204,
+        "idUrl": "voyage-16-vht-selecao-flex-2015",
+        "nome": "Voyage 1.6 VHT Seleção (Flex)",
+        "ano": 2015
+      },
+      {
+        "id": 18209,
+        "idUrl": "voyage-16-vht-highline-imotion-aut-flex-2015",
+        "nome": "Voyage 1.6 VHT Highline I-Motion (Aut) (Flex)",
+        "ano": 2015
+      },
+      {
+        "id": 18221,
+        "idUrl": "voyage-16-vht-comfortline-imotion-flex-2015",
+        "nome": "Voyage 1.6 VHT Comfortline I-Motion (Flex)",
+        "ano": 2015
+      },
+      {
+        "id": 18224,
+        "idUrl": "voyage-16-vht-comfortline-2015",
+        "nome": "Voyage 1.6 VHT Comfortline",
+        "ano": 2015
+      },
+      {
+        "id": 18228,
+        "idUrl": "voyage-16-vht-highline-flex-2015",
+        "nome": "Voyage 1.6 VHT Highline (Flex)",
+        "ano": 2015
+      },
+      {
+        "id": 18202,
+        "idUrl": "voyage-16-vht-selecao-imotion-flex-2015",
+        "nome": "Voyage 1.6 VHT Seleção I-Motion (Flex)",
+        "ano": 2015
+      },
+      {
+        "id": 18216,
+        "idUrl": "voyage-16-vht-evidence-imotion-flex-2015",
+        "nome": "Voyage 1.6 VHT Evidence I-Motion (Flex)",
+        "ano": 2015
+      },
+      {
+        "id": 18324,
+        "idUrl": "voyage-16-vht-city-flex-2015",
+        "nome": "Voyage 1.6 VHT City (Flex)",
+        "ano": 2015
+      },
+      {
+        "id": 18201,
+        "idUrl": "voyage-16-vht-trendline-flex-2015",
+        "nome": "Voyage 1.6 VHT Trendline (Flex)",
+        "ano": 2015
+      },
+      {
+        "id": 18316,
+        "idUrl": "voyage-10-tec-comfortline-flex-2015",
+        "nome": "Voyage 1.0 TEC Comfortline (Flex)",
+        "ano": 2015
+      },
+      {
+        "id": 18312,
+        "idUrl": "voyage-10-tec-trendline-2015",
+        "nome": "Voyage 1.0 TEC Trendline",
+        "ano": 2015
+      },
+      {
+        "id": 18313,
+        "idUrl": "voyage-10-tec-selecao-flex-2015",
+        "nome": "Voyage 1.0 TEC Seleção (Flex)",
+        "ano": 2015
+      }
+    ],
+    "2016": [
+      {
+        "id": 18217,
+        "idUrl": "voyage-16-vht-evidence-flex-2016",
+        "nome": "Voyage 1.6 VHT Evidence (Flex)",
+        "ano": 2016
+      },
+      {
+        "id": 18215,
+        "idUrl": "voyage-16-vht-evidence-imotion-flex-2016",
+        "nome": "Voyage 1.6 VHT Evidence I-Motion (Flex)",
+        "ano": 2016
+      },
+      {
+        "id": 18208,
+        "idUrl": "voyage-16-vht-highline-imotion-aut-flex-2016",
+        "nome": "Voyage 1.6 VHT Highline I-Motion (Aut) (Flex)",
+        "ano": 2016
+      },
+      {
+        "id": 18220,
+        "idUrl": "voyage-16-vht-comfortline-imotion-flex-2016",
+        "nome": "Voyage 1.6 VHT Comfortline I-Motion (Flex)",
+        "ano": 2016
+      },
+      {
+        "id": 18213,
+        "idUrl": "voyage-16-vht-highline-flex-2016",
+        "nome": "Voyage 1.6 VHT Highline (Flex)",
+        "ano": 2016
+      },
+      {
+        "id": 18223,
+        "idUrl": "voyage-16-vht-comfortline-flex-2016",
+        "nome": "Voyage 1.6 VHT Comfortline (Flex)",
+        "ano": 2016
+      },
+      {
+        "id": 18315,
+        "idUrl": "voyage-10-tec-comfortline-flex-2016",
+        "nome": "Voyage 1.0 TEC Comfortline (Flex)",
+        "ano": 2016
+      },
+      {
+        "id": 18265,
+        "idUrl": "voyage-16-vht-city-flex-2016",
+        "nome": "Voyage 1.6 VHT City (Flex)",
+        "ano": 2016
+      },
+      {
+        "id": 18200,
+        "idUrl": "voyage-16-vht-trendline-flex-2016",
+        "nome": "Voyage 1.6 VHT Trendline (Flex)",
+        "ano": 2016
+      },
+      {
+        "id": 18311,
+        "idUrl": "voyage-10-tec-trendline-flex-2016",
+        "nome": "Voyage 1.0 TEC Trendline (Flex)",
+        "ano": 2016
+      }
+    ],
+    "2017": [
+      {
+        "id": 18207,
+        "idUrl": "voyage-16-msi-highline-imotion-flex-2017",
+        "nome": "Voyage 1.6 MSI Highline I-Motion (Flex)",
+        "ano": 2017
+      },
+      {
+        "id": 18219,
+        "idUrl": "voyage-16-msi-comfortline-imotion-flex-2017",
+        "nome": "Voyage 1.6 MSI Comfortline I-Motion (Flex)",
+        "ano": 2017
+      },
+      {
+        "id": 18211,
+        "idUrl": "voyage-16-msi-highline-flex-2017",
+        "nome": "Voyage 1.6 MSI Highline (Flex)",
+        "ano": 2017
+      },
+      {
+        "id": 18222,
+        "idUrl": "voyage-16-msi-comfortline-flex-2017",
+        "nome": "Voyage 1.6 MSI Comfortline (Flex)",
+        "ano": 2017
+      },
+      {
+        "id": 18327,
+        "idUrl": "voyage-10-mpi-comfortline-flex-2017",
+        "nome": "Voyage 1.0 MPI Comfortline (Flex)",
+        "ano": 2017
+      },
+      {
+        "id": 18199,
+        "idUrl": "voyage-16-msi-trendline-flex-2017",
+        "nome": "Voyage 1.6 MSI Trendline (Flex)",
+        "ano": 2017
+      },
+      {
+        "id": 18328,
+        "idUrl": "voyage-10-mpi-trendline-flex-2017",
+        "nome": "Voyage 1.0 MPI Trendline (Flex)",
+        "ano": 2017
+      }
+    ],
+    "2018": [
+      {
+        "id": 21773,
+        "idUrl": "voyage-16-msi-highline-imotion-flex-2018",
+        "nome": "Voyage 1.6 MSI Highline I-Motion Flex",
+        "ano": 2018
+      },
+      {
+        "id": 21753,
+        "idUrl": "voyage-16-msi-comfortline-imotion-flex-2018",
+        "nome": "Voyage 1.6 MSI Comfortline I-Motion Flex",
+        "ano": 2018
+      },
+      {
+        "id": 21768,
+        "idUrl": "voyage-16-msi-comfortline-flex-2018",
+        "nome": "Voyage 1.6 MSI Comfortline Flex",
+        "ano": 2018
+      },
+      {
+        "id": 21769,
+        "idUrl": "voyage-16-msi-highline-flex-2018",
+        "nome": "Voyage 1.6 MSI Highline Flex",
+        "ano": 2018
+      },
+      {
+        "id": 21766,
+        "idUrl": "voyage-10-mpi-comfortline-flex-2018",
+        "nome": "Voyage 1.0 MPI Comfortline Flex",
+        "ano": 2018
+      },
+      {
+        "id": 21791,
+        "idUrl": "voyage-16-msi-trendline-flex-2018",
+        "nome": "Voyage 1.6 MSI Trendline Flex",
+        "ano": 2018
+      },
+      {
+        "id": 21767,
+        "idUrl": "voyage-10-mpi-trendline-flex-2018",
+        "nome": "Voyage 1.0 MPI Trendline Flex",
+        "ano": 2018
+      }
+    ],
+    "2019": [
+      {
+        "id": 22181,
+        "idUrl": "voyage-16-msi-confortline-flex-2019",
+        "nome": "Voyage 1.6 MSI Confortline Flex",
+        "ano": 2019
+      }
+    ]
+  }

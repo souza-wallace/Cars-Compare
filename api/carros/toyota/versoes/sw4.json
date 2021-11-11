@@ -1,0 +1,476 @@
+{
+    "1993": [
+      {
+        "id": 17007,
+        "idUrl": "hilux-sw4-4x4-30-v6-12v-1993",
+        "nome": "Hilux SW4 4x4 3.0 V6 12V",
+        "ano": 1993
+      },
+      {
+        "id": 16998,
+        "idUrl": "hilux-sw4-4x4-24-8v-1993",
+        "nome": "Hilux SW4 4x4 2.4 8V",
+        "ano": 1993
+      }
+    ],
+    "1994": [
+      {
+        "id": 17008,
+        "idUrl": "hilux-sw4-4x4-30-v6-24v-1994",
+        "nome": "Hilux SW4 4x4 3.0 V6 24V",
+        "ano": 1994
+      }
+    ],
+    "1997": [
+      {
+        "id": 17010,
+        "idUrl": "hilux-sw4-4x4-34-v6-24v-1997",
+        "nome": "Hilux SW4 4x4 3.4 V6 24V",
+        "ano": 1997
+      },
+      {
+        "id": 16970,
+        "idUrl": "hilux-sw4-4x4-l4-27-16v-1997",
+        "nome": "Hilux SW4 4x4 L4 2.7 16V",
+        "ano": 1997
+      }
+    ],
+    "1998": [
+      {
+        "id": 17003,
+        "idUrl": "hilux-sw4-4x4-30-turbo-1998",
+        "nome": "Hilux SW4 4x4 3.0 Turbo",
+        "ano": 1998
+      },
+      {
+        "id": 16991,
+        "idUrl": "hilux-sw4-4x4-34-v6-24v-1998",
+        "nome": "Hilux SW4 4x4 3.4 V6 24V",
+        "ano": 1998
+      },
+      {
+        "id": 16971,
+        "idUrl": "hilux-sw4-4x4-l4-27-16v-1998",
+        "nome": "Hilux SW4 4x4 L4 2.7 16V",
+        "ano": 1998
+      }
+    ],
+    "1999": [
+      {
+        "id": 16990,
+        "idUrl": "hilux-sw4-4x4-34-v6-24v-1999",
+        "nome": "Hilux SW4 4x4 3.4 V6 24V",
+        "ano": 1999
+      },
+      {
+        "id": 16972,
+        "idUrl": "hilux-sw4-4x4-l4-27-16v-1999",
+        "nome": "Hilux SW4 4x4 L4 2.7 16V",
+        "ano": 1999
+      }
+    ],
+    "2000": [
+      {
+        "id": 16989,
+        "idUrl": "hilux-sw4-4x4-34-v6-24v-2000",
+        "nome": "Hilux SW4 4x4 3.4 V6 24V",
+        "ano": 2000
+      },
+      {
+        "id": 16978,
+        "idUrl": "hilux-sw4-4x4-l4-27-16v-2000",
+        "nome": "Hilux SW4 4x4 L4 2.7 16V",
+        "ano": 2000
+      }
+    ],
+    "2001": [
+      {
+        "id": 17009,
+        "idUrl": "hilux-sw4-4x4-34-v6-24v-2001",
+        "nome": "Hilux SW4 4x4 3.4 V6 24V",
+        "ano": 2001
+      }
+    ],
+    "2006": [
+      {
+        "id": 17037,
+        "idUrl": "hilux-sw4-srv-4x4-30-turbo-aut-2006",
+        "nome": "Hilux SW4 SRV 4x4 3.0 Turbo  (aut)",
+        "ano": 2006
+      },
+      {
+        "id": 16986,
+        "idUrl": "hilux-sw4-srv-4x4-30-turbo-2006",
+        "nome": "Hilux SW4 SRV 4x4 3.0 Turbo",
+        "ano": 2006
+      }
+    ],
+    "2007": [
+      {
+        "id": 17038,
+        "idUrl": "hilux-sw4-srv-4x4-30-turbo-aut-2007",
+        "nome": "Hilux SW4 SRV 4x4 3.0 Turbo  (aut)",
+        "ano": 2007
+      },
+      {
+        "id": 16987,
+        "idUrl": "hilux-sw4-srv-4x4-30-turbo-2007",
+        "nome": "Hilux SW4 SRV 4x4 3.0 Turbo",
+        "ano": 2007
+      }
+    ],
+    "2008": [
+      {
+        "id": 17041,
+        "idUrl": "hilux-sw4-srv-4x4-30-turbo-aut-2008",
+        "nome": "Hilux SW4 SRV 4x4 3.0 Turbo  (aut)",
+        "ano": 2008
+      },
+      {
+        "id": 17011,
+        "idUrl": "hilux-sw4-srv-4x4-30-turbo-2008",
+        "nome": "Hilux SW4 SRV 4x4 3.0 Turbo",
+        "ano": 2008
+      }
+    ],
+    "2009": [
+      {
+        "id": 17039,
+        "idUrl": "hilux-sw4-srv-4x4-30-turbo-aut-2009",
+        "nome": "Hilux SW4 SRV 4x4 3.0 Turbo  (aut)",
+        "ano": 2009
+      },
+      {
+        "id": 17043,
+        "idUrl": "hilux-sw4-srv-4x4-30-turbo-aut2-2009",
+        "nome": "Hilux SW4 SRV 4x4 3.0 Turbo  (aut)2",
+        "ano": 2009
+      },
+      {
+        "id": 17056,
+        "idUrl": "hilux-sw4-srv-4x4-30-turbo-2009",
+        "nome": "Hilux SW4 SRV 4x4 3.0 Turbo",
+        "ano": 2009
+      },
+      {
+        "id": 16977,
+        "idUrl": "hilux-sw4-sr-4x2-27-vvti-2009",
+        "nome": "Hilux SW4 SR 4x2 2.7 VVT-i",
+        "ano": 2009
+      },
+      {
+        "id": 17046,
+        "idUrl": "hilux-sw4-srv-4x4-40-v6-24v-aut-2009",
+        "nome": "Hilux SW4 SRV 4x4 4.0 V6 24V (aut)",
+        "ano": 2009
+      },
+      {
+        "id": 16988,
+        "idUrl": "hilux-sw4-sr-4x2-27-vvti-aut-2009",
+        "nome": "Hilux SW4 SR 4x2 2.7 VVT-i (aut)",
+        "ano": 2009
+      }
+    ],
+    "2010": [
+      {
+        "id": 17040,
+        "idUrl": "hilux-sw4-srv-4x4-30-turbo-aut-2010",
+        "nome": "Hilux SW4 SRV 4x4 3.0 Turbo  (aut)",
+        "ano": 2010
+      },
+      {
+        "id": 17013,
+        "idUrl": "hilux-sw4-srv-4x4-30-turbo-2010",
+        "nome": "Hilux SW4 SRV 4x4 3.0 Turbo",
+        "ano": 2010
+      },
+      {
+        "id": 17045,
+        "idUrl": "hilux-sw4-srv-4x4-40-v6-24v-aut-2010",
+        "nome": "Hilux SW4 SRV 4x4 4.0 V6 24V (aut)",
+        "ano": 2010
+      },
+      {
+        "id": 16979,
+        "idUrl": "hilux-sw4-sr-4x2-27-vvti-aut-2010",
+        "nome": "Hilux SW4 SR 4x2 2.7 VVT-i (aut)",
+        "ano": 2010
+      },
+      {
+        "id": 16976,
+        "idUrl": "hilux-sw4-sr-4x2-27-vvti-2010",
+        "nome": "Hilux SW4 SR 4x2 2.7 VVT-i",
+        "ano": 2010
+      }
+    ],
+    "2011": [
+      {
+        "id": 17042,
+        "idUrl": "hilux-sw4-srv-4x4-30-turbo-aut-2011",
+        "nome": "Hilux SW4 SRV 4x4 3.0 Turbo  (aut)",
+        "ano": 2011
+      },
+      {
+        "id": 17047,
+        "idUrl": "hilux-sw4-srv-4x4-40-v6-24v-aut-2011",
+        "nome": "Hilux SW4 SRV 4x4 4.0 V6 24V (aut)",
+        "ano": 2011
+      }
+    ],
+    "2012": [
+      {
+        "id": 16980,
+        "idUrl": "hilux-sw4-srv-30-4x47-lugares-2012",
+        "nome": "Hilux SW4 SRV  3.0 4X4(7 Lugares)",
+        "ano": 2012
+      },
+      {
+        "id": 16983,
+        "idUrl": "hilux-sw4-srv-30-tdi-4x4-5-lugares-2012",
+        "nome": "Hilux SW4 SRV 3.0 TDI 4X4 (5 Lugares)",
+        "ano": 2012
+      },
+      {
+        "id": 16993,
+        "idUrl": "hilux-sw4-30-tdi-4x4-sr-5l-aut-2012",
+        "nome": "Hilux SW4 3.0 TDI 4x4 SR 5L (Aut)",
+        "ano": 2012
+      }
+    ],
+    "2013": [
+      {
+        "id": 16984,
+        "idUrl": "hilux-sw4-srv-30-tdi-4x4-5-lugares-2013",
+        "nome": "Hilux SW4 SRV 3.0 TDI 4X4 (5 Lugares)",
+        "ano": 2013
+      },
+      {
+        "id": 17058,
+        "idUrl": "hilux-sw4-30-tdi-4x4-sr-5l-2013",
+        "nome": "Hilux SW4 3.0 TDI 4x4 SR 5L",
+        "ano": 2013
+      },
+      {
+        "id": 16974,
+        "idUrl": "hilux-sw4-sr-27-4x2-aut-2013",
+        "nome": "Hilux SW4 SR 2.7 4X2 (Aut)",
+        "ano": 2013
+      }
+    ],
+    "2014": [
+      {
+        "id": 16994,
+        "idUrl": "hilux-sw4-30-tdi-4x4-srv-5l-2014",
+        "nome": "Hilux SW4 3.0 TDI 4x4 SRV 5L",
+        "ano": 2014
+      },
+      {
+        "id": 16996,
+        "idUrl": "hilux-sw4-30-tdi-4x4-srv-7l-2014",
+        "nome": "Hilux SW4 3.0 TDI 4x4 SRV 7L",
+        "ano": 2014
+      },
+      {
+        "id": 17012,
+        "idUrl": "hilux-sw4-30-tdi-4x4-sr-5l-2014",
+        "nome": "Hilux SW4 3.0 TDI 4x4 SR 5L",
+        "ano": 2014
+      },
+      {
+        "id": 17059,
+        "idUrl": "hilux-sw4-27-4x2-sr2-flex-2014",
+        "nome": "Hilux SW4 2.7 4x2 SR2 (Flex)",
+        "ano": 2014
+      },
+      {
+        "id": 17120,
+        "idUrl": "hilux-sw4-27-4x2-sr-flex-2014",
+        "nome": "Hilux SW4 2.7 4x2 SR (Flex)",
+        "ano": 2014
+      },
+      {
+        "id": 17119,
+        "idUrl": "hilux-sw4-27-4x2-sr-2014",
+        "nome": "Hilux SW4 2.7 4x2 SR",
+        "ano": 2014
+      }
+    ],
+    "2015": [
+      {
+        "id": 16997,
+        "idUrl": "hilux-sw4-30-tdi-4x4-srv-7l-2015",
+        "nome": "Hilux SW4 3.0 TDI 4x4 SRV 7L",
+        "ano": 2015
+      },
+      {
+        "id": 17102,
+        "idUrl": "hilux-sw4-27-sr-4x2-7l-flex-2015",
+        "nome": "Hilux SW4 2.7 SR 4x2 7L (Flex)",
+        "ano": 2015
+      },
+      {
+        "id": 17121,
+        "idUrl": "hilux-sw4-27-4x2-sr-flex-2015",
+        "nome": "Hilux SW4 2.7 4x2 SR (Flex)",
+        "ano": 2015
+      }
+    ],
+    "2016": [
+      {
+        "id": 17051,
+        "idUrl": "sw4-28-tdi-srx-5l-4x4-2016",
+        "nome": "SW4 2.8 TDI SRX 5L 4x4",
+        "ano": 2016
+      },
+      {
+        "id": 17053,
+        "idUrl": "sw4-28-tdi-srx-7l-4x4-2016",
+        "nome": "SW4 2.8 TDI SRX 7L 4x4",
+        "ano": 2016
+      },
+      {
+        "id": 17055,
+        "idUrl": "sw4-40-vvti-srx-7l-4x4-2016",
+        "nome": "SW4 4.0 VVT-I SRX 7L 4x4",
+        "ano": 2016
+      }
+    ],
+    "2017": [
+      {
+        "id": 17052,
+        "idUrl": "sw4-28-tdi-srx-5l-4x4-aut-2017",
+        "nome": "SW4 2.8 TDI SRX 5L 4x4 (Aut)",
+        "ano": 2017
+      },
+      {
+        "id": 17054,
+        "idUrl": "sw4-28-tdi-srx-7l-4x4-aut-2017",
+        "nome": "SW4 2.8 TDI SRX 7L 4x4 (Aut)",
+        "ano": 2017
+      },
+      {
+        "id": 17036,
+        "idUrl": "sw4-40-vvti-srx-7l-4x4-aut-2017",
+        "nome": "SW4 4.0 VVT-I SRX 7L 4x4 (Aut)",
+        "ano": 2017
+      },
+      {
+        "id": 17048,
+        "idUrl": "sw4-27-sr-4x2-flex-2017",
+        "nome": "SW4 2.7 SR 4x2 (Flex)",
+        "ano": 2017
+      },
+      {
+        "id": 17049,
+        "idUrl": "sw4-27-sr-5l-4x2-aut-flex-2017",
+        "nome": "SW4 2.7 SR 5L 4x2 (Aut) (Flex)",
+        "ano": 2017
+      },
+      {
+        "id": 17050,
+        "idUrl": "sw4-27-sr-7l-4x2-aut-flex-2017",
+        "nome": "SW4 2.7 SR 7L 4x2 (Aut) (Flex)",
+        "ano": 2017
+      }
+    ],
+    "2018": [
+      {
+        "id": 21942,
+        "idUrl": "sw4-28-tdi-srx-7l-4x4-aut-2018",
+        "nome": "SW4 2.8 TDI SRX 7L 4X4 Aut",
+        "ano": 2018
+      },
+      {
+        "id": 21944,
+        "idUrl": "sw4-28-tdi-srx-5l-4x4-aut-2018",
+        "nome": "SW4 2.8 TDI SRX 5L 4X4 Aut",
+        "ano": 2018
+      },
+      {
+        "id": 21938,
+        "idUrl": "sw4-27-sr-5l-4x2-flex-2018",
+        "nome": "SW4 2.7 SR 5L 4X2 Flex",
+        "ano": 2018
+      },
+      {
+        "id": 21939,
+        "idUrl": "sw4-27-sr-5l-4x2-aut-flex-2018",
+        "nome": "SW4 2.7 SR 5L 4X2 Aut Flex",
+        "ano": 2018
+      },
+      {
+        "id": 21940,
+        "idUrl": "sw4-27-sr-7l-4x2-aut-flex-2018",
+        "nome": "SW4 2.7 SR 7L 4X2 Aut Flex",
+        "ano": 2018
+      },
+      {
+        "id": 21941,
+        "idUrl": "sw4-27-srv-7l-4x2-aut-flex-2018",
+        "nome": "SW4 2.7 SRV 7L 4X2 Aut Flex",
+        "ano": 2018
+      },
+      {
+        "id": 21943,
+        "idUrl": "sw4-28-tdi-sr-5l-4x4-aut-2018",
+        "nome": "SW4 2.8 TDI SR 5L 4X4 Aut",
+        "ano": 2018
+      }
+    ],
+    "2019": [
+      {
+        "id": 22562,
+        "idUrl": "sw4-28-sr-5l-tdi-4x4-aut-2019",
+        "nome": "SW4 2.8 SR 5L TDI 4X4 (Aut)",
+        "ano": 2019
+      },
+      {
+        "id": 22098,
+        "idUrl": "sw4-28-tdi-srx-5l-4x4-aut-2019",
+        "nome": "SW4 2.8 TDI SRX 5L 4X4 Aut",
+        "ano": 2019
+      },
+      {
+        "id": 22553,
+        "idUrl": "sw4-27-srv-7l-4x2-aut-flex-2019",
+        "nome": "SW4 2.7 SRV 7L 4x2 (Aut) Flex",
+        "ano": 2019
+      },
+      {
+        "id": 22103,
+        "idUrl": "sw4-27-sr-5l-4x2-flex-2019",
+        "nome": "SW4 2.7 SR 5L 4X2 Flex",
+        "ano": 2019
+      },
+      {
+        "id": 22099,
+        "idUrl": "toyota-sw4-27-srv-7l-4x2-aut-flex-2019",
+        "nome": "Toyota SW4 2.7 SRV 7L 4X2 Aut Flex",
+        "ano": 2019
+      },
+      {
+        "id": 22100,
+        "idUrl": "toyota-sw4-28-sr-5l-tdi-4x4-aut-2019",
+        "nome": "Toyota SW4 2.8 SR 5L TDI 4X4 Aut",
+        "ano": 2019
+      },
+      {
+        "id": 22101,
+        "idUrl": "sw4-28-srx-7l-tdi-4x4-aut-2019",
+        "nome": "SW4 2.8 SRX 7L TDI 4X4 Aut",
+        "ano": 2019
+      },
+      {
+        "id": 22102,
+        "idUrl": "sw4-27-sr-5l-4x2-aut-flex-2019",
+        "nome": "SW4 2.7 SR 5L 4X2 Aut Flex",
+        "ano": 2019
+      },
+      {
+        "id": 22104,
+        "idUrl": "sw4-28-tdi-srx-diamond-7l-4x4-aut-2019",
+        "nome": "SW4 2.8 TDI SRX Diamond 7L 4X4 Aut",
+        "ano": 2019
+      }
+    ]
+  }

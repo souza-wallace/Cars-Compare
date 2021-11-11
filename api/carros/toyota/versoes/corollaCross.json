@@ -1,0 +1,34 @@
+{
+    "2022": [
+      {
+        "id": 22539,
+        "idUrl": "corolla-cross-special-edition-hybrid-18-2022",
+        "nome": "Corolla Cross Special Edition Hybrid 1.8",
+        "ano": 2022
+      },
+      {
+        "id": 22540,
+        "idUrl": "corolla-cross-xrx-hybrid-18-2022",
+        "nome": "Corolla Cross XRX Hybrid 1.8",
+        "ano": 2022
+      },
+      {
+        "id": 22538,
+        "idUrl": "corolla-cross-xrv-hybrid-18-2022",
+        "nome": "Corolla Cross XRV Hybrid 1.8",
+        "ano": 2022
+      },
+      {
+        "id": 22537,
+        "idUrl": "corolla-cross-xre-20-2022",
+        "nome": "Corolla Cross XRE 2.0",
+        "ano": 2022
+      },
+      {
+        "id": 22536,
+        "idUrl": "corolla-cross-xr-20-2022",
+        "nome": "Corolla Cross XR 2.0",
+        "ano": 2022
+      }
+    ]
+  }

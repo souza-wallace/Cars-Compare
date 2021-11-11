@@ -1,0 +1,100 @@
+[
+    {
+      "id": 565,
+      "idUrl": "defender",
+      "nome": "Defender",
+      "fotoDestaque": {
+        "id": 52402,
+        "largura": 209,
+        "altura": 139,
+        "nome": "carro/land-rover/defender/destaque",
+        "url": "//cdn.autopapo.com.br/carro/land-rover/defender/destaque-v2.png",
+        "mimeType": "image/png"
+      },
+      "emProducao": false
+    },
+    {
+      "id": 566,
+      "idUrl": "discovery",
+      "nome": "Discovery",
+      "fotoDestaque": {
+        "id": 21886,
+        "largura": 209,
+        "altura": 139,
+        "nome": "carro/land-rover/discovery/destaque",
+        "url": "//cdn.autopapo.com.br/carro/land-rover/discovery/destaque.png",
+        "mimeType": "image/png"
+      },
+      "emProducao": true
+    },
+    {
+      "id": 567,
+      "idUrl": "discovery-sport",
+      "nome": "Discovery Sport",
+      "fotoDestaque": {
+        "id": 52394,
+        "largura": 209,
+        "altura": 139,
+        "nome": "carro/land-rover/discovery-sport/destaque",
+        "url": "//cdn.autopapo.com.br/carro/land-rover/discovery-sport/destaque-v2.png",
+        "mimeType": "image/png"
+      },
+      "emProducao": true
+    },
+    {
+      "id": 568,
+      "idUrl": "freelander",
+      "nome": "Freelander",
+      "fotoDestaque": {
+        "id": 52404,
+        "largura": 209,
+        "altura": 139,
+        "nome": "carro/land-rover/freelander/destaque",
+        "url": "//cdn.autopapo.com.br/carro/land-rover/freelander/destaque-v2.png",
+        "mimeType": "image/png"
+      },
+      "emProducao": false
+    },
+    {
+      "id": 569,
+      "idUrl": "range-rover",
+      "nome": "Range Rover",
+      "fotoDestaque": {
+        "id": 52396,
+        "largura": 209,
+        "altura": 139,
+        "nome": "carro/land-rover/range-rover/destaque",
+        "url": "//cdn.autopapo.com.br/carro/land-rover/range-rover/destaque-v1.png",
+        "mimeType": "image/png"
+      },
+      "emProducao": true
+    },
+    {
+      "id": 570,
+      "idUrl": "range-rover-evoque",
+      "nome": "Range Rover Evoque",
+      "fotoDestaque": {
+        "id": 24042,
+        "largura": 209,
+        "altura": 139,
+        "nome": "carro/land-rover/range-rover-evoque/destaque",
+        "url": "//cdn.autopapo.com.br/carro/land-rover/range-rover-evoque/destaque-v1.png",
+        "mimeType": "image/png"
+      },
+      "emProducao": true
+    },
+    {
+      "id": 564,
+      "idUrl": "range-rover-sport",
+      "nome": "Range Rover Sport",
+      "fotoDestaque": {
+        "id": 52398,
+        "largura": 209,
+        "altura": 139,
+        "nome": "carro/land-rover/range-rover-sport/destaque",
+        "url": "//cdn.autopapo.com.br/carro/land-rover/range-rover-sport/destaque-v1.png",
+        "mimeType": "image/png"
+      },
+      "emProducao": true
+    }
+  ]

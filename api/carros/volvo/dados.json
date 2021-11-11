@@ -1,0 +1,254 @@
+[
+    {
+      "id": 943,
+      "idUrl": "440",
+      "nome": "440",
+      "fotoDestaque": {
+        "id": 58392,
+        "largura": 209,
+        "altura": 139,
+        "nome": "carro/volvo/440/destaque",
+        "url": "//cdn.autopapo.com.br/carro/volvo/440/destaque-v2.png",
+        "mimeType": "image/png"
+      },
+      "emProducao": false
+    },
+    {
+      "id": 942,
+      "idUrl": "460",
+      "nome": "460",
+      "fotoDestaque": {
+        "id": 58407,
+        "largura": 209,
+        "altura": 139,
+        "nome": "carro/volvo/460/destaque",
+        "url": "//cdn.autopapo.com.br/carro/volvo/460/destaque-v2.png",
+        "mimeType": "image/png"
+      },
+      "emProducao": false
+    },
+    {
+      "id": 936,
+      "idUrl": "850",
+      "nome": "850",
+      "fotoDestaque": {
+        "id": 58405,
+        "largura": 209,
+        "altura": 139,
+        "nome": "carro/volvo/850/destaque",
+        "url": "//cdn.autopapo.com.br/carro/volvo/850/destaque-v2.png",
+        "mimeType": "image/png"
+      },
+      "emProducao": false
+    },
+    {
+      "id": 940,
+      "idUrl": "940",
+      "nome": "940",
+      "fotoDestaque": {
+        "id": 58403,
+        "largura": 209,
+        "altura": 139,
+        "nome": "carro/volvo/940/destaque",
+        "url": "//cdn.autopapo.com.br/carro/volvo/940/destaque-v2.png",
+        "mimeType": "image/png"
+      },
+      "emProducao": false
+    },
+    {
+      "id": 938,
+      "idUrl": "960",
+      "nome": "960",
+      "fotoDestaque": {
+        "id": 58408,
+        "largura": 209,
+        "altura": 139,
+        "nome": "carro/volvo/960/destaque",
+        "url": "//cdn.autopapo.com.br/carro/volvo/960/destaque-v2.png",
+        "mimeType": "image/png"
+      },
+      "emProducao": false
+    },
+    {
+      "id": 937,
+      "idUrl": "c30",
+      "nome": "C30",
+      "fotoDestaque": {
+        "id": 58399,
+        "largura": 209,
+        "altura": 139,
+        "nome": "carro/volvo/c30/destaque",
+        "url": "//cdn.autopapo.com.br/carro/volvo/c30/destaque-v1.png",
+        "mimeType": "image/png"
+      },
+      "emProducao": false
+    },
+    {
+      "id": 945,
+      "idUrl": "c70",
+      "nome": "C70",
+      "fotoDestaque": {
+        "id": 58397,
+        "largura": 209,
+        "altura": 139,
+        "nome": "carro/volvo/c70/destaque",
+        "url": "//cdn.autopapo.com.br/carro/volvo/c70/destaque-v2.png",
+        "mimeType": "image/png"
+      },
+      "emProducao": false
+    },
+    {
+      "id": 935,
+      "idUrl": "s40",
+      "nome": "S40",
+      "fotoDestaque": {
+        "id": 58395,
+        "largura": 209,
+        "altura": 139,
+        "nome": "carro/volvo/s40/destaque",
+        "url": "//cdn.autopapo.com.br/carro/volvo/s40/destaque-v2.png",
+        "mimeType": "image/png"
+      },
+      "emProducao": false
+    },
+    {
+      "id": 928,
+      "idUrl": "s60",
+      "nome": "S60",
+      "fotoDestaque": {
+        "id": 58380,
+        "largura": 209,
+        "altura": 139,
+        "nome": "carro/volvo/s60/destaque",
+        "url": "//cdn.autopapo.com.br/carro/volvo/s60/destaque-v1.png",
+        "mimeType": "image/png"
+      },
+      "emProducao": true
+    },
+    {
+      "id": 934,
+      "idUrl": "s70",
+      "nome": "S70",
+      "fotoDestaque": {
+        "id": 58376,
+        "largura": 209,
+        "altura": 139,
+        "nome": "carro/volvo/s70/destaque",
+        "url": "//cdn.autopapo.com.br/carro/volvo/s70/destaque-v2.png",
+        "mimeType": "image/png"
+      },
+      "emProducao": false
+    },
+    {
+      "id": 933,
+      "idUrl": "s80",
+      "nome": "S80",
+      "fotoDestaque": {
+        "id": 58375,
+        "largura": 209,
+        "altura": 139,
+        "nome": "carro/volvo/s80/destaque",
+        "url": "//cdn.autopapo.com.br/carro/volvo/s80/destaque-v1.png",
+        "mimeType": "image/png"
+      },
+      "emProducao": false
+    },
+    {
+      "id": 932,
+      "idUrl": "v40",
+      "nome": "V40",
+      "fotoDestaque": {
+        "id": 58382,
+        "largura": 209,
+        "altura": 139,
+        "nome": "carro/volvo/v40/destaque",
+        "url": "//cdn.autopapo.com.br/carro/volvo/v40/destaque-v2.png",
+        "mimeType": "image/png"
+      },
+      "emProducao": true
+    },
+    {
+      "id": 931,
+      "idUrl": "v50",
+      "nome": "V50",
+      "fotoDestaque": {
+        "id": 58342,
+        "largura": 209,
+        "altura": 139,
+        "nome": "carro/volvo/v50/destaque",
+        "url": "//cdn.autopapo.com.br/carro/volvo/v50/destaque-v2.png",
+        "mimeType": "image/png"
+      },
+      "emProducao": false
+    },
+    {
+      "id": 930,
+      "idUrl": "v60",
+      "nome": "V60",
+      "fotoDestaque": {
+        "id": 58384,
+        "largura": 209,
+        "altura": 139,
+        "nome": "carro/volvo/v60/destaque",
+        "url": "//cdn.autopapo.com.br/carro/volvo/v60/destaque-v2.png",
+        "mimeType": "image/png"
+      },
+      "emProducao": true
+    },
+    {
+      "id": 1206,
+      "idUrl": "xc40",
+      "nome": "XC40",
+      "fotoDestaque": {
+        "id": 58386,
+        "largura": 209,
+        "altura": 139,
+        "nome": "carro/volvo/xc40/destaque",
+        "url": "//cdn.autopapo.com.br/carro/volvo/xc40/destaque-v1.png",
+        "mimeType": "image/png"
+      },
+      "emProducao": true
+    },
+    {
+      "id": 927,
+      "idUrl": "xc60",
+      "nome": "XC60",
+      "fotoDestaque": {
+        "id": 58388,
+        "largura": 209,
+        "altura": 139,
+        "nome": "carro/volvo/xc60/destaque",
+        "url": "//cdn.autopapo.com.br/carro/volvo/xc60/destaque-v1.png",
+        "mimeType": "image/png"
+      },
+      "emProducao": true
+    },
+    {
+      "id": 944,
+      "idUrl": "xc70",
+      "nome": "XC70",
+      "fotoDestaque": {
+        "id": 58344,
+        "largura": 209,
+        "altura": 139,
+        "nome": "carro/volvo/xc70/destaque",
+        "url": "//cdn.autopapo.com.br/carro/volvo/xc70/destaque-v1.png",
+        "mimeType": "image/png"
+      },
+      "emProducao": false
+    },
+    {
+      "id": 946,
+      "idUrl": "xc90",
+      "nome": "XC90",
+      "fotoDestaque": {
+        "id": 58390,
+        "largura": 209,
+        "altura": 139,
+        "nome": "carro/volvo/xc90/destaque",
+        "url": "//cdn.autopapo.com.br/carro/volvo/xc90/destaque-v1.png",
+        "mimeType": "image/png"
+      },
+      "emProducao": true
+    }
+  ]

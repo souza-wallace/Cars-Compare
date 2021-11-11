@@ -1,0 +1,658 @@
+{
+  "1997": [
+    {
+      "id": 15581,
+      "idUrl": "megane-sedan-rxe-20-8v-1997",
+      "nome": "Mégane Sedan RXE 2.0 8V",
+      "ano": 1997
+    }
+  ],
+  "1998": [
+    {
+      "id": 15582,
+      "idUrl": "megane-sedan-rxe-20-8v-1998",
+      "nome": "Mégane Sedan RXE 2.0 8V",
+      "ano": 1998
+    },
+    {
+      "id": 15222,
+      "idUrl": "megane-hatch-rxe-20-8v-1998",
+      "nome": "Mégane Hatch. RXE 2.0 8V",
+      "ano": 1998
+    },
+    {
+      "id": 15252,
+      "idUrl": "megane-hatch-rt-16-8v-1998",
+      "nome": "Mégane Hatch. RT 1.6 8V",
+      "ano": 1998
+    },
+    {
+      "id": 15576,
+      "idUrl": "megane-sedan-rt-20-8v-1998",
+      "nome": "Mégane Sedan RT 2.0 8V",
+      "ano": 1998
+    },
+    {
+      "id": 15247,
+      "idUrl": "megane-hatch-rn-16-8v-1998",
+      "nome": "Mégane Hatch. RN 1.6 8V",
+      "ano": 1998
+    }
+  ],
+  "1999": [
+    {
+      "id": 15583,
+      "idUrl": "megane-sedan-rxe-20-8v-1999",
+      "nome": "Mégane Sedan RXE 2.0 8V",
+      "ano": 1999
+    },
+    {
+      "id": 15193,
+      "idUrl": "megane-hatch-rxe-20-8v-1999",
+      "nome": "Mégane Hatch. RXE 2.0 8V",
+      "ano": 1999
+    },
+    {
+      "id": 15253,
+      "idUrl": "megane-hatch-rt-16-8v-1999",
+      "nome": "Mégane Hatch. RT 1.6 8V",
+      "ano": 1999
+    },
+    {
+      "id": 15248,
+      "idUrl": "megane-hatch-rn-16-8v-1999",
+      "nome": "Mégane Hatch. RN 1.6 8V",
+      "ano": 1999
+    },
+    {
+      "id": 15577,
+      "idUrl": "megane-sedan-rt-20-8v-1999",
+      "nome": "Mégane Sedan RT 2.0 8V",
+      "ano": 1999
+    }
+  ],
+  "2000": [
+    {
+      "id": 15584,
+      "idUrl": "megane-sedan-rxe-20-8v-2000",
+      "nome": "Mégane Sedan RXE 2.0 8V",
+      "ano": 2000
+    },
+    {
+      "id": 15572,
+      "idUrl": "megane-sedan-rt-16-16v-2000",
+      "nome": "Mégane Sedan RT 1.6 16V",
+      "ano": 2000
+    },
+    {
+      "id": 15250,
+      "idUrl": "megane-hatch-rt-16-16v-2000",
+      "nome": "Mégane Hatch. RT 1.6 16V",
+      "ano": 2000
+    },
+    {
+      "id": 15224,
+      "idUrl": "megane-hatch-rxe-20-8v-2000",
+      "nome": "Mégane Hatch. RXE 2.0 8V",
+      "ano": 2000
+    },
+    {
+      "id": 15225,
+      "idUrl": "megane-hatch-rxe-16-16v-2000",
+      "nome": "Mégane Hatch. RXE 1.6 16V",
+      "ano": 2000
+    },
+    {
+      "id": 15246,
+      "idUrl": "megane-hatch-rn-16-8v-2000",
+      "nome": "Mégane Hatch. RN 1.6 8V",
+      "ano": 2000
+    },
+    {
+      "id": 15574,
+      "idUrl": "megane-sedan-rt-20-8v-2000",
+      "nome": "Mégane Sedan RT 2.0 8V",
+      "ano": 2000
+    }
+  ],
+  "2001": [
+    {
+      "id": 15579,
+      "idUrl": "megane-sedan-rxe-20-16v-egeus-2001",
+      "nome": "Mégane Sedan RXE 2.0 16V Egeus",
+      "ano": 2001
+    },
+    {
+      "id": 15580,
+      "idUrl": "megane-sedan-rxe-20-8v-2001",
+      "nome": "Mégane Sedan RXE 2.0 8V",
+      "ano": 2001
+    },
+    {
+      "id": 15571,
+      "idUrl": "megane-sedan-rt-16-16v-2001",
+      "nome": "Mégane Sedan RT 1.6 16V",
+      "ano": 2001
+    },
+    {
+      "id": 15573,
+      "idUrl": "megane-sedan-rt-16-16v-alize-2001",
+      "nome": "Mégane Sedan RT 1.6 16V Alize",
+      "ano": 2001
+    },
+    {
+      "id": 15194,
+      "idUrl": "megane-rt-16-16v-alize-2001",
+      "nome": "Mégane RT 1.6 16V Alize",
+      "ano": 2001
+    },
+    {
+      "id": 15251,
+      "idUrl": "megane-hatch-rt-16-16v-2001",
+      "nome": "Mégane Hatch. RT 1.6 16V",
+      "ano": 2001
+    },
+    {
+      "id": 15254,
+      "idUrl": "megane-hatch-rxe-16-16v-2001",
+      "nome": "Mégane Hatch. RXE 1.6 16V",
+      "ano": 2001
+    },
+    {
+      "id": 15255,
+      "idUrl": "megane-hatch-rxe-16-16v-egeus-2001",
+      "nome": "Mégane Hatch. RXE 1.6 16V Egeus",
+      "ano": 2001
+    }
+  ],
+  "2003": [
+    {
+      "id": 15578,
+      "idUrl": "megane-sedan-rxe-20-16v-2003",
+      "nome": "Mégane Sedan RXE 2.0 16V",
+      "ano": 2003
+    },
+    {
+      "id": 15249,
+      "idUrl": "megane-hatch-rt-16-16v-2003",
+      "nome": "Mégane Hatch. RT 1.6 16V",
+      "ano": 2003
+    }
+  ],
+  "2004": [
+    {
+      "id": 15570,
+      "idUrl": "megane-sedan-privilege-20-16v-aut-2004",
+      "nome": "Mégane Sedan Privilége 2.0 16V (aut)",
+      "ano": 2004
+    },
+    {
+      "id": 15567,
+      "idUrl": "megane-sedan-privilege-20-16v-2004",
+      "nome": "Mégane Sedan Privilége 2.0 16V",
+      "ano": 2004
+    },
+    {
+      "id": 15245,
+      "idUrl": "megane-hatch-expression-16-16v-2004",
+      "nome": "Mégane Hatch. Expression 1.6 16V",
+      "ano": 2004
+    }
+  ],
+  "2005": [
+    {
+      "id": 15569,
+      "idUrl": "megane-sedan-privilege-20-16v-aut-2005",
+      "nome": "Mégane Sedan Privilége 2.0 16V (aut)",
+      "ano": 2005
+    },
+    {
+      "id": 15566,
+      "idUrl": "megane-sedan-privilege-20-16v-2005",
+      "nome": "Mégane Sedan Privilége 2.0 16V",
+      "ano": 2005
+    },
+    {
+      "id": 15244,
+      "idUrl": "megane-hatch-expression-16-16v-2005",
+      "nome": "Mégane Hatch. Expression 1.6 16V",
+      "ano": 2005
+    }
+  ],
+  "2006": [
+    {
+      "id": 15206,
+      "idUrl": "megane-sedan-dynamique-20-16v-aut-2006",
+      "nome": "Mégane Sedan Dynamique 2.0 16V (aut)",
+      "ano": 2006
+    },
+    {
+      "id": 15195,
+      "idUrl": "megane-sedan-dynamique-16-16v-flex-2006",
+      "nome": "Mégane Sedan Dynamique 1.6 16V (flex)",
+      "ano": 2006
+    },
+    {
+      "id": 15568,
+      "idUrl": "megane-sedan-privilege-20-16v-aut-2006",
+      "nome": "Mégane Sedan Privilége 2.0 16V (aut)",
+      "ano": 2006
+    },
+    {
+      "id": 15565,
+      "idUrl": "megane-sedan-privilege-20-16v-2006",
+      "nome": "Mégane Sedan Privilége 2.0 16V",
+      "ano": 2006
+    },
+    {
+      "id": 15201,
+      "idUrl": "megane-sedan-dynamique-20-16v-2006",
+      "nome": "Mégane Sedan Dynamique 2.0 16V",
+      "ano": 2006
+    },
+    {
+      "id": 15212,
+      "idUrl": "megane-sedan-expression-16-16v-flex-2006",
+      "nome": "Mégane Sedan Expression 1.6 16V (flex)",
+      "ano": 2006
+    }
+  ],
+  "2007": [
+    {
+      "id": 15226,
+      "idUrl": "megane-grand-tour-dynamique-20-16v-aut-2007",
+      "nome": "Mégane Grand Tour Dynamique 2.0 16V (aut)",
+      "ano": 2007
+    },
+    {
+      "id": 15157,
+      "idUrl": "megane-grand-tour-dynamique-20-16v-2007",
+      "nome": "Mégane Grand Tour Dynamique 2.0 16V",
+      "ano": 2007
+    },
+    {
+      "id": 15149,
+      "idUrl": "megane-grand-tour-dynamique-16-16v-flex-2007",
+      "nome": "Mégane Grand Tour Dynamique 1.6 16V (flex)",
+      "ano": 2007
+    },
+    {
+      "id": 15207,
+      "idUrl": "megane-sedan-dynamique-20-16v-aut-2007",
+      "nome": "Mégane Sedan Dynamique 2.0 16V (aut)",
+      "ano": 2007
+    },
+    {
+      "id": 15202,
+      "idUrl": "megane-sedan-dynamique-20-16v-2007",
+      "nome": "Mégane Sedan Dynamique 2.0 16V",
+      "ano": 2007
+    },
+    {
+      "id": 15231,
+      "idUrl": "megane-grand-tour-expression-16-16v-flex-2007",
+      "nome": "Mégane Grand Tour Expression 1.6 16V (flex)",
+      "ano": 2007
+    },
+    {
+      "id": 15196,
+      "idUrl": "megane-sedan-dynamique-16-16v-flex-2007",
+      "nome": "Mégane Sedan Dynamique 1.6 16V (flex)",
+      "ano": 2007
+    },
+    {
+      "id": 15213,
+      "idUrl": "megane-sedan-expression-16-16v-flex-2007",
+      "nome": "Mégane Sedan Expression 1.6 16V (flex)",
+      "ano": 2007
+    }
+  ],
+  "2008": [
+    {
+      "id": 15148,
+      "idUrl": "megane-coupe-cabriolet-dynamique-20-16v-aut-2008",
+      "nome": "Mégane Coupé Cabriolet Dynamique 2.0 16V (aut)",
+      "ano": 2008
+    },
+    {
+      "id": 15227,
+      "idUrl": "megane-grand-tour-dynamique-20-16v-aut-2008",
+      "nome": "Mégane Grand Tour Dynamique 2.0 16V (aut)",
+      "ano": 2008
+    },
+    {
+      "id": 15241,
+      "idUrl": "megane-grand-tour-privilege-20-16v-aut-2008",
+      "nome": "Mégane Grand Tour Privilège 2.0 16V (aut)",
+      "ano": 2008
+    },
+    {
+      "id": 15191,
+      "idUrl": "megane-grand-tour-dynamique-20-16v-2008",
+      "nome": "Mégane Grand Tour Dynamique 2.0 16V",
+      "ano": 2008
+    },
+    {
+      "id": 15150,
+      "idUrl": "megane-grand-tour-dynamique-16-16v-flex-2008",
+      "nome": "Mégane Grand Tour Dynamique 1.6 16V (flex)",
+      "ano": 2008
+    },
+    {
+      "id": 15197,
+      "idUrl": "megane-sedan-dynamique-16-16v-flex-2008",
+      "nome": "Mégane Sedan Dynamique 1.6 16V (flex)",
+      "ano": 2008
+    },
+    {
+      "id": 15208,
+      "idUrl": "megane-sedan-dynamique-20-16v-aut-2008",
+      "nome": "Mégane Sedan Dynamique 2.0 16V (aut)",
+      "ano": 2008
+    },
+    {
+      "id": 15221,
+      "idUrl": "megane-sedan-expression-20-16v-aut-2008",
+      "nome": "Mégane Sedan Expression 2.0 16V (aut)",
+      "ano": 2008
+    },
+    {
+      "id": 15218,
+      "idUrl": "megane-sedan-expression-20-16v-2008",
+      "nome": "Mégane Sedan Expression 2.0 16V",
+      "ano": 2008
+    },
+    {
+      "id": 15562,
+      "idUrl": "megane-sedan-privilege-20-16v-aut-2008",
+      "nome": "Mégane Sedan Privilège 2.0 16V (aut)",
+      "ano": 2008
+    },
+    {
+      "id": 15203,
+      "idUrl": "megane-sedan-dynamique-20-16v-2008",
+      "nome": "Mégane Sedan Dynamique 2.0 16V",
+      "ano": 2008
+    },
+    {
+      "id": 15214,
+      "idUrl": "megane-sedan-expression-16-16v-flex-2008",
+      "nome": "Mégane Sedan Expression 1.6 16V (flex)",
+      "ano": 2008
+    }
+  ],
+  "2009": [
+    {
+      "id": 15147,
+      "idUrl": "megane-coupe-cabriolet-dynamique-20-16v-aut-2009",
+      "nome": "Mégane Coupé Cabriolet Dynamique 2.0 16V (aut)",
+      "ano": 2009
+    },
+    {
+      "id": 15243,
+      "idUrl": "megane-grand-tour-privilege-20-16v-aut-2009",
+      "nome": "Mégane Grand Tour Privilège 2.0 16V (aut)",
+      "ano": 2009
+    },
+    {
+      "id": 15389,
+      "idUrl": "megane-sedan-expression-20-16v-aut-2009",
+      "nome": "Mégane Sedan Expression 2.0 16V (aut)",
+      "ano": 2009
+    },
+    {
+      "id": 15564,
+      "idUrl": "megane-sedan-privilege-20-16v-aut-2009",
+      "nome": "Mégane Sedan Privilège 2.0 16V (aut)",
+      "ano": 2009
+    },
+    {
+      "id": 15229,
+      "idUrl": "megane-grand-tour-dynamique-20-16v-aut-2009",
+      "nome": "Mégane Grand Tour Dynamique 2.0 16V (aut)",
+      "ano": 2009
+    },
+    {
+      "id": 15192,
+      "idUrl": "megane-grand-tour-dynamique-20-16v-2009",
+      "nome": "Mégane Grand Tour Dynamique 2.0 16V",
+      "ano": 2009
+    },
+    {
+      "id": 15238,
+      "idUrl": "megane-grand-tour-extreme-20-16v-2009",
+      "nome": "Mégane Grand Tour Extreme 2.0 16V",
+      "ano": 2009
+    },
+    {
+      "id": 15240,
+      "idUrl": "megane-grand-tour-extreme-20-16v-aut-2009",
+      "nome": "Mégane Grand Tour Extreme 2.0 16V (aut)",
+      "ano": 2009
+    },
+    {
+      "id": 15152,
+      "idUrl": "megane-grand-tour-dynamique-16-16v-flex-2009",
+      "nome": "Mégane Grand Tour Dynamique 1.6 16V (flex)",
+      "ano": 2009
+    },
+    {
+      "id": 15236,
+      "idUrl": "megane-grand-tour-extreme-16-16v-flex-2009",
+      "nome": "Mégane Grand Tour Extreme 1.6 16V (flex)",
+      "ano": 2009
+    },
+    {
+      "id": 15210,
+      "idUrl": "megane-sedan-dynamique-20-16v-aut-2009",
+      "nome": "Mégane Sedan Dynamique 2.0 16V (aut)",
+      "ano": 2009
+    },
+    {
+      "id": 15391,
+      "idUrl": "megane-sedan-extreme-16-16v-flex-2009",
+      "nome": "Mégane Sedan Extreme 1.6 16V (flex)",
+      "ano": 2009
+    },
+    {
+      "id": 15199,
+      "idUrl": "megane-sedan-dynamique-16-16v-flex-2009",
+      "nome": "Mégane Sedan Dynamique 1.6 16V (flex)",
+      "ano": 2009
+    },
+    {
+      "id": 15233,
+      "idUrl": "megane-grand-tour-expression-16-16v-flex-2009",
+      "nome": "Mégane Grand Tour Expression 1.6 16V (flex)",
+      "ano": 2009
+    },
+    {
+      "id": 15205,
+      "idUrl": "megane-sedan-dynamique-20-16v-2009",
+      "nome": "Mégane Sedan Dynamique 2.0 16V",
+      "ano": 2009
+    },
+    {
+      "id": 15216,
+      "idUrl": "megane-sedan-expression-16-16v-flex-2009",
+      "nome": "Mégane Sedan Expression 1.6 16V (flex)",
+      "ano": 2009
+    },
+    {
+      "id": 15220,
+      "idUrl": "megane-sedan-expression-20-16v-2009",
+      "nome": "Mégane Sedan Expression 2.0 16V",
+      "ano": 2009
+    },
+    {
+      "id": 15559,
+      "idUrl": "megane-sedan-extreme-20-16v-2009",
+      "nome": "Mégane Sedan Extreme 2.0 16V",
+      "ano": 2009
+    },
+    {
+      "id": 15561,
+      "idUrl": "megane-sedan-extreme-20-16v-aut-2009",
+      "nome": "Mégane Sedan Extreme 2.0 16V (aut)",
+      "ano": 2009
+    }
+  ],
+  "2010": [
+    {
+      "id": 15242,
+      "idUrl": "megane-grand-tour-privilege-20-16v-aut-2010",
+      "nome": "Mégane Grand Tour Privilège 2.0 16V (aut)",
+      "ano": 2010
+    },
+    {
+      "id": 15230,
+      "idUrl": "megane-grand-tour-dynamique-20-16v-aut-2010",
+      "nome": "Mégane Grand Tour Dynamique 2.0 16V (aut)",
+      "ano": 2010
+    },
+    {
+      "id": 15153,
+      "idUrl": "megane-grand-tour-dynamique-16-16v-flex-2010",
+      "nome": "Mégane Grand Tour Dynamique 1.6 16V (flex)",
+      "ano": 2010
+    },
+    {
+      "id": 15235,
+      "idUrl": "megane-grand-tour-extreme-16-16v-flex-2010",
+      "nome": "Mégane Grand Tour Extreme 1.6 16V (flex)",
+      "ano": 2010
+    },
+    {
+      "id": 15372,
+      "idUrl": "megane-sedan-expression-20-16v-aut-2010",
+      "nome": "Mégane Sedan Expression 2.0 16V (aut)",
+      "ano": 2010
+    },
+    {
+      "id": 15563,
+      "idUrl": "megane-sedan-privilege-20-16v-aut-2010",
+      "nome": "Mégane Sedan Privilège 2.0 16V (aut)",
+      "ano": 2010
+    },
+    {
+      "id": 15219,
+      "idUrl": "megane-sedan-expression-20-16v-2010",
+      "nome": "Mégane Sedan Expression 2.0 16V",
+      "ano": 2010
+    },
+    {
+      "id": 15558,
+      "idUrl": "megane-sedan-extreme-20-16v-2010",
+      "nome": "Mégane Sedan Extreme 2.0 16V",
+      "ano": 2010
+    },
+    {
+      "id": 15560,
+      "idUrl": "megane-sedan-extreme-20-16v-aut-2010",
+      "nome": "Mégane Sedan Extreme 2.0 16V (aut)",
+      "ano": 2010
+    },
+    {
+      "id": 15211,
+      "idUrl": "megane-sedan-dynamique-20-16v-aut-2010",
+      "nome": "Mégane Sedan Dynamique 2.0 16V (aut)",
+      "ano": 2010
+    },
+    {
+      "id": 15390,
+      "idUrl": "megane-sedan-extreme-16-16v-flex-2010",
+      "nome": "Mégane Sedan Extreme 1.6 16V (flex)",
+      "ano": 2010
+    },
+    {
+      "id": 15200,
+      "idUrl": "megane-sedan-dynamique-16-16v-flex-2010",
+      "nome": "Mégane Sedan Dynamique 1.6 16V (flex)",
+      "ano": 2010
+    },
+    {
+      "id": 15223,
+      "idUrl": "megane-grand-tour-dynamique-20-16v-2010",
+      "nome": "Mégane Grand Tour Dynamique 2.0 16V",
+      "ano": 2010
+    },
+    {
+      "id": 15237,
+      "idUrl": "megane-grand-tour-extreme-20-16v-2010",
+      "nome": "Mégane Grand Tour Extreme 2.0 16V",
+      "ano": 2010
+    },
+    {
+      "id": 15239,
+      "idUrl": "megane-grand-tour-extreme-20-16v-aut-2010",
+      "nome": "Mégane Grand Tour Extreme 2.0 16V (aut)",
+      "ano": 2010
+    },
+    {
+      "id": 15217,
+      "idUrl": "megane-sedan-expression-16-16v-flex-2010",
+      "nome": "Mégane Sedan Expression 1.6 16V (flex)",
+      "ano": 2010
+    },
+    {
+      "id": 15234,
+      "idUrl": "megane-grand-tour-expression-16-16v-flex-2010",
+      "nome": "Mégane Grand Tour Expression 1.6 16V (flex)",
+      "ano": 2010
+    }
+  ],
+  "2011": [
+    {
+      "id": 15228,
+      "idUrl": "megane-grand-tour-dynamique-20-16v-aut-2011",
+      "nome": "Mégane Grand Tour Dynamique 2.0 16V (aut)",
+      "ano": 2011
+    },
+    {
+      "id": 15151,
+      "idUrl": "megane-grand-tour-dynamique-16-16v-flex-2011",
+      "nome": "Mégane Grand Tour Dynamique 1.6 16V (flex)",
+      "ano": 2011
+    },
+    {
+      "id": 15232,
+      "idUrl": "megane-grand-tour-expression-16-16v-flex-2011",
+      "nome": "Mégane Grand Tour Expression 1.6 16V (flex)",
+      "ano": 2011
+    },
+    {
+      "id": 15198,
+      "idUrl": "megane-sedan-dynamique-16-16v-flex-2011",
+      "nome": "Mégane Sedan Dynamique 1.6 16V (flex)",
+      "ano": 2011
+    },
+    {
+      "id": 15209,
+      "idUrl": "megane-sedan-dynamique-20-16v-aut-2011",
+      "nome": "Mégane Sedan Dynamique 2.0 16V (aut)",
+      "ano": 2011
+    },
+    {
+      "id": 15215,
+      "idUrl": "megane-sedan-expression-16-16v-flex-2011",
+      "nome": "Mégane Sedan Expression 1.6 16V (flex)",
+      "ano": 2011
+    }
+  ],
+  "2012": [
+    {
+      "id": 15154,
+      "idUrl": "megane-grand-tour-dynamique-16-16v-flex-2012",
+      "nome": "Mégane Grand Tour Dynamique 1.6 16V (flex)",
+      "ano": 2012
+    }
+  ],
+  "2013": [
+    {
+      "id": 15155,
+      "idUrl": "megane-grand-tour-dynamique-16-16v-flex-2013",
+      "nome": "Mégane Grand Tour Dynamique 1.6 16V (flex)",
+      "ano": 2013
+    }
+  ]
+}

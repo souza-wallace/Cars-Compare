@@ -1,0 +1,980 @@
+{
+    "1985": [
+      {
+        "id": 18491,
+        "idUrl": "saveiro-s-16-1985",
+        "nome": "Saveiro S 1.6",
+        "ano": 1985
+      },
+      {
+        "id": 18531,
+        "idUrl": "saveiro-ls-16-1985",
+        "nome": "Saveiro LS 1.6",
+        "ano": 1985
+      }
+    ],
+    "1986": [
+      {
+        "id": 18582,
+        "idUrl": "saveiro-gl-16-1986",
+        "nome": "Saveiro GL 1.6",
+        "ano": 1986
+      }
+    ],
+    "1989": [
+      {
+        "id": 18581,
+        "idUrl": "saveiro-gl-18-1989",
+        "nome": "Saveiro GL 1.8",
+        "ano": 1989
+      }
+    ],
+    "1993": [
+      {
+        "id": 18477,
+        "idUrl": "saveiro-sunset-18-1993",
+        "nome": "Saveiro Sunset 1.8",
+        "ano": 1993
+      }
+    ],
+    "1995": [
+      {
+        "id": 18482,
+        "idUrl": "saveiro-summer-18-1995",
+        "nome": "Saveiro Summer 1.8",
+        "ano": 1995
+      }
+    ],
+    "1997": [
+      {
+        "id": 18481,
+        "idUrl": "saveiro-summer-18-mi-1997",
+        "nome": "Saveiro Summer 1.8 MI",
+        "ano": 1997
+      },
+      {
+        "id": 18551,
+        "idUrl": "saveiro-cl-18-mi-1997",
+        "nome": "Saveiro CL 1.8 MI",
+        "ano": 1997
+      },
+      {
+        "id": 18558,
+        "idUrl": "saveiro-cl-16-mi-1997",
+        "nome": "Saveiro CL 1.6 MI",
+        "ano": 1997
+      },
+      {
+        "id": 18580,
+        "idUrl": "saveiro-gl-18-mi-1997",
+        "nome": "Saveiro GL 1.8 MI",
+        "ano": 1997
+      }
+    ],
+    "1998": [
+      {
+        "id": 18524,
+        "idUrl": "saveiro-tsi-20-mi-1998",
+        "nome": "Saveiro TSi 2.0 MI",
+        "ano": 1998
+      },
+      {
+        "id": 18577,
+        "idUrl": "saveiro-gli-18-1998",
+        "nome": "Saveiro GLi 1.8",
+        "ano": 1998
+      },
+      {
+        "id": 18550,
+        "idUrl": "saveiro-cl-18-mi-1998",
+        "nome": "Saveiro CL 1.8 MI",
+        "ano": 1998
+      },
+      {
+        "id": 18548,
+        "idUrl": "saveiro-cli-16-mi-1998",
+        "nome": "Saveiro CLi 1.6 MI",
+        "ano": 1998
+      },
+      {
+        "id": 18556,
+        "idUrl": "saveiro-cl-16-mi-1998",
+        "nome": "Saveiro CL 1.6 MI",
+        "ano": 1998
+      }
+    ],
+    "1999": [
+      {
+        "id": 18538,
+        "idUrl": "saveiro-tsi-20-mi-1999",
+        "nome": "Saveiro TSi 2.0 MI",
+        "ano": 1999
+      },
+      {
+        "id": 18549,
+        "idUrl": "saveiro-cl-18-mi-1999",
+        "nome": "Saveiro CL 1.8 MI",
+        "ano": 1999
+      },
+      {
+        "id": 18578,
+        "idUrl": "saveiro-gli-18-1999",
+        "nome": "Saveiro GLi 1.8",
+        "ano": 1999
+      },
+      {
+        "id": 18555,
+        "idUrl": "saveiro-cl-16-mi-1999",
+        "nome": "Saveiro CL 1.6 MI",
+        "ano": 1999
+      }
+    ],
+    "2000": [
+      {
+        "id": 18487,
+        "idUrl": "saveiro-sportline-20-mi-2000",
+        "nome": "Saveiro Sportline 2.0 MI",
+        "ano": 2000
+      },
+      {
+        "id": 18563,
+        "idUrl": "saveiro-20-mi-g3-2000",
+        "nome": "Saveiro 2.0 MI G3",
+        "ano": 2000
+      },
+      {
+        "id": 18573,
+        "idUrl": "saveiro-cl-16-mi-2000",
+        "nome": "Saveiro CL 1.6 MI",
+        "ano": 2000
+      },
+      {
+        "id": 18565,
+        "idUrl": "saveiro-18-mi-g3-2000",
+        "nome": "Saveiro 1.8 MI G3",
+        "ano": 2000
+      },
+      {
+        "id": 18402,
+        "idUrl": "saveiro-16-mi-g3-2000",
+        "nome": "Saveiro 1.6 MI G3",
+        "ano": 2000
+      }
+    ],
+    "2001": [
+      {
+        "id": 18486,
+        "idUrl": "saveiro-sportline-20-mi-2001",
+        "nome": "Saveiro Sportline 2.0 MI",
+        "ano": 2001
+      },
+      {
+        "id": 18564,
+        "idUrl": "saveiro-20-mi-g3-2001",
+        "nome": "Saveiro 2.0 MI G3",
+        "ano": 2001
+      },
+      {
+        "id": 18478,
+        "idUrl": "saveiro-summer-18-mi-g3-2001",
+        "nome": "Saveiro Summer 1.8 MI G3",
+        "ano": 2001
+      },
+      {
+        "id": 18553,
+        "idUrl": "saveiro-cl-18-2001",
+        "nome": "Saveiro CL 1.8",
+        "ano": 2001
+      },
+      {
+        "id": 18501,
+        "idUrl": "saveiro-plus-18-mi-2001",
+        "nome": "Saveiro Plus 1.8 MI",
+        "ano": 2001
+      },
+      {
+        "id": 18568,
+        "idUrl": "saveiro-18-mi-g3-2001",
+        "nome": "Saveiro 1.8 MI G3",
+        "ano": 2001
+      },
+      {
+        "id": 18583,
+        "idUrl": "saveiro-fun-18-mi-2001",
+        "nome": "Saveiro Fun 1.8 MI",
+        "ano": 2001
+      },
+      {
+        "id": 18472,
+        "idUrl": "saveiro-16-mi-g3-2001",
+        "nome": "Saveiro 1.6 MI G3",
+        "ano": 2001
+      }
+    ],
+    "2002": [
+      {
+        "id": 18485,
+        "idUrl": "saveiro-sportline-20-mi-2002",
+        "nome": "Saveiro Sportline 2.0 MI",
+        "ano": 2002
+      },
+      {
+        "id": 18494,
+        "idUrl": "saveiro-plus-sportline-20-mi-2002",
+        "nome": "Saveiro Plus Sportline 2.0 MI",
+        "ano": 2002
+      },
+      {
+        "id": 18562,
+        "idUrl": "saveiro-20-mi-g3-2002",
+        "nome": "Saveiro 2.0 MI G3",
+        "ano": 2002
+      },
+      {
+        "id": 18480,
+        "idUrl": "saveiro-summer-18-mi-g3-2002",
+        "nome": "Saveiro Summer 1.8 MI G3",
+        "ano": 2002
+      },
+      {
+        "id": 18500,
+        "idUrl": "saveiro-plus-18-mi-2002",
+        "nome": "Saveiro Plus 1.8 MI",
+        "ano": 2002
+      },
+      {
+        "id": 18566,
+        "idUrl": "saveiro-18-mi-g3-2002",
+        "nome": "Saveiro 1.8 MI G3",
+        "ano": 2002
+      },
+      {
+        "id": 18488,
+        "idUrl": "saveiro-supersurf-16-mi-2002",
+        "nome": "Saveiro SuperSurf 1.6 MI",
+        "ano": 2002
+      },
+      {
+        "id": 18575,
+        "idUrl": "saveiro-city-16-mi-2002",
+        "nome": "Saveiro City 1.6 MI",
+        "ano": 2002
+      },
+      {
+        "id": 18540,
+        "idUrl": "saveiro-16-mi-g3-2002",
+        "nome": "Saveiro 1.6 MI G3",
+        "ano": 2002
+      },
+      {
+        "id": 18373,
+        "idUrl": "saveiro-16-mi-comercial-2002",
+        "nome": "Saveiro 1.6 MI (comercial)",
+        "ano": 2002
+      },
+      {
+        "id": 18380,
+        "idUrl": "saveiro-16-8v-alcool-2002",
+        "nome": "Saveiro 1.6 8V (Álcool)",
+        "ano": 2002
+      }
+    ],
+    "2003": [
+      {
+        "id": 18370,
+        "idUrl": "saveiro-16-mi-g3-2003",
+        "nome": "Saveiro 1.6 MI G3",
+        "ano": 2003
+      },
+      {
+        "id": 18374,
+        "idUrl": "saveiro-16-mi-comercial-2003",
+        "nome": "Saveiro 1.6 MI (comercial)",
+        "ano": 2003
+      },
+      {
+        "id": 18484,
+        "idUrl": "saveiro-sportline-20-mi-2003",
+        "nome": "Saveiro Sportline 2.0 MI",
+        "ano": 2003
+      },
+      {
+        "id": 18495,
+        "idUrl": "saveiro-plus-sportline-20-mi-2003",
+        "nome": "Saveiro Plus Sportline 2.0 MI",
+        "ano": 2003
+      },
+      {
+        "id": 18561,
+        "idUrl": "saveiro-20-mi-g3-2003",
+        "nome": "Saveiro 2.0 MI G3",
+        "ano": 2003
+      },
+      {
+        "id": 18525,
+        "idUrl": "saveiro-supersurf-16-mi-flex-2003",
+        "nome": "Saveiro SuperSurf 1.6 MI (Flex)",
+        "ano": 2003
+      },
+      {
+        "id": 18377,
+        "idUrl": "saveiro-16-mi-flex-2003",
+        "nome": "Saveiro 1.6 MI (Flex)",
+        "ano": 2003
+      },
+      {
+        "id": 18499,
+        "idUrl": "saveiro-plus-18-mi-2003",
+        "nome": "Saveiro Plus 1.8 MI",
+        "ano": 2003
+      },
+      {
+        "id": 18567,
+        "idUrl": "saveiro-18-mi-g3-2003",
+        "nome": "Saveiro 1.8 MI G3",
+        "ano": 2003
+      },
+      {
+        "id": 18505,
+        "idUrl": "saveiro-supersurf-16-mi-2003",
+        "nome": "Saveiro SuperSurf 1.6 MI",
+        "ano": 2003
+      },
+      {
+        "id": 18576,
+        "idUrl": "saveiro-city-16-mi-2003",
+        "nome": "Saveiro City 1.6 MI",
+        "ano": 2003
+      }
+    ],
+    "2004": [
+      {
+        "id": 18496,
+        "idUrl": "saveiro-plus-sportline-20-mi-2004",
+        "nome": "Saveiro Plus Sportline 2.0 MI",
+        "ano": 2004
+      },
+      {
+        "id": 18526,
+        "idUrl": "saveiro-supersurf-16-mi-flex-2004",
+        "nome": "Saveiro SuperSurf 1.6 MI (Flex)",
+        "ano": 2004
+      },
+      {
+        "id": 18546,
+        "idUrl": "saveiro-city-16-8v-flex-2004",
+        "nome": "Saveiro City 1.6 8V (Flex)",
+        "ano": 2004
+      },
+      {
+        "id": 18375,
+        "idUrl": "saveiro-16-mi-flex-2004",
+        "nome": "Saveiro 1.6 MI (Flex)",
+        "ano": 2004
+      },
+      {
+        "id": 18532,
+        "idUrl": "saveiro-supersurf-18-mi-2004",
+        "nome": "Saveiro SuperSurf 1.8 MI",
+        "ano": 2004
+      },
+      {
+        "id": 18502,
+        "idUrl": "saveiro-plus-18-mi-2004",
+        "nome": "Saveiro Plus 1.8 MI",
+        "ano": 2004
+      },
+      {
+        "id": 18474,
+        "idUrl": "saveiro-supersurf-16-mi-2004",
+        "nome": "Saveiro SuperSurf 1.6 MI",
+        "ano": 2004
+      },
+      {
+        "id": 18574,
+        "idUrl": "saveiro-city-16-mi-2004",
+        "nome": "Saveiro City 1.6 MI",
+        "ano": 2004
+      }
+    ],
+    "2005": [
+      {
+        "id": 18506,
+        "idUrl": "saveiro-supersurf-16-mi-flex-2005",
+        "nome": "Saveiro SuperSurf 1.6 MI (Flex)",
+        "ano": 2005
+      },
+      {
+        "id": 18529,
+        "idUrl": "saveiro-supersurf-18-mi-2005",
+        "nome": "Saveiro SuperSurf 1.8 MI",
+        "ano": 2005
+      },
+      {
+        "id": 18376,
+        "idUrl": "saveiro-16-mi-flex-2005",
+        "nome": "Saveiro 1.6 MI (Flex)",
+        "ano": 2005
+      },
+      {
+        "id": 18498,
+        "idUrl": "saveiro-plus-18-mi-2005",
+        "nome": "Saveiro Plus 1.8 MI",
+        "ano": 2005
+      },
+      {
+        "id": 18597,
+        "idUrl": "saveiro-city-18-mi-flex-2005",
+        "nome": "Saveiro City 1.8 MI (Flex)",
+        "ano": 2005
+      },
+      {
+        "id": 18586,
+        "idUrl": "saveiro-crossover-18-mi-2005",
+        "nome": "Saveiro Crossover 1.8 MI",
+        "ano": 2005
+      }
+    ],
+    "2006": [
+      {
+        "id": 18504,
+        "idUrl": "saveiro-sportline-18-g4-flex-2006",
+        "nome": "Saveiro Sportline 1.8 G4 (Flex)",
+        "ano": 2006
+      },
+      {
+        "id": 18490,
+        "idUrl": "saveiro-sportline-16-g4-flex-2006",
+        "nome": "Saveiro Sportline 1.6 G4 (Flex)",
+        "ano": 2006
+      },
+      {
+        "id": 18507,
+        "idUrl": "saveiro-supersurf-16-mi-flex-2006",
+        "nome": "Saveiro SuperSurf 1.6 MI (Flex)",
+        "ano": 2006
+      },
+      {
+        "id": 18539,
+        "idUrl": "saveiro-supersurf-18-mi-flex-2006",
+        "nome": "Saveiro SuperSurf 1.8 MI (Flex)",
+        "ano": 2006
+      },
+      {
+        "id": 18594,
+        "idUrl": "saveiro-city-18-g4-flex-2006",
+        "nome": "Saveiro City 1.8 G4 (Flex)",
+        "ano": 2006
+      },
+      {
+        "id": 18544,
+        "idUrl": "saveiro-city-16-g4-flex-2006",
+        "nome": "Saveiro City 1.6 G4 (Flex)",
+        "ano": 2006
+      },
+      {
+        "id": 18588,
+        "idUrl": "saveiro-crossover-18-g4-flex-2006",
+        "nome": "Saveiro Crossover 1.8 G4 (Flex)",
+        "ano": 2006
+      },
+      {
+        "id": 18590,
+        "idUrl": "saveiro-crossover-16-g4-flex-2006",
+        "nome": "Saveiro Crossover 1.6 G4 (Flex)",
+        "ano": 2006
+      }
+    ],
+    "2007": [
+      {
+        "id": 18527,
+        "idUrl": "saveiro-supersurf-18-g4-flex-2007",
+        "nome": "Saveiro SuperSurf 1.8 G4 (Flex)",
+        "ano": 2007
+      },
+      {
+        "id": 18476,
+        "idUrl": "saveiro-supersurf-16-g4-flex-2007",
+        "nome": "Saveiro SuperSurf 1.6 G4 (Flex)",
+        "ano": 2007
+      },
+      {
+        "id": 18595,
+        "idUrl": "saveiro-city-18-g4-flex-2007",
+        "nome": "Saveiro City 1.8 G4 (Flex)",
+        "ano": 2007
+      },
+      {
+        "id": 18543,
+        "idUrl": "saveiro-city-16-g4-flex-2007",
+        "nome": "Saveiro City 1.6 G4 (Flex)",
+        "ano": 2007
+      },
+      {
+        "id": 18587,
+        "idUrl": "saveiro-crossover-18-g4-flex-2007",
+        "nome": "Saveiro Crossover 1.8 G4 (Flex)",
+        "ano": 2007
+      },
+      {
+        "id": 18589,
+        "idUrl": "saveiro-crossover-16-g4-flex-2007",
+        "nome": "Saveiro Crossover 1.6 G4 (Flex)",
+        "ano": 2007
+      }
+    ],
+    "2008": [
+      {
+        "id": 18528,
+        "idUrl": "saveiro-supersurf-18-g4-flex-2008",
+        "nome": "Saveiro SuperSurf 1.8 G4 (Flex)",
+        "ano": 2008
+      },
+      {
+        "id": 18537,
+        "idUrl": "saveiro-surf-18-g4-flex-2008",
+        "nome": "Saveiro Surf 1.8 G4 (Flex)",
+        "ano": 2008
+      },
+      {
+        "id": 18534,
+        "idUrl": "saveiro-surf-16-g4-flex-2008",
+        "nome": "Saveiro Surf 1.6 G4 (Flex)",
+        "ano": 2008
+      },
+      {
+        "id": 18475,
+        "idUrl": "saveiro-supersurf-16-g4-flex-2008",
+        "nome": "Saveiro SuperSurf 1.6 G4 (Flex)",
+        "ano": 2008
+      },
+      {
+        "id": 18596,
+        "idUrl": "saveiro-city-18-g4-flex-2008",
+        "nome": "Saveiro City 1.8 G4 (Flex)",
+        "ano": 2008
+      },
+      {
+        "id": 18522,
+        "idUrl": "saveiro-titan-16-g4-flex-2008",
+        "nome": "Saveiro Titan 1.6 G4 (Flex)",
+        "ano": 2008
+      },
+      {
+        "id": 18557,
+        "idUrl": "saveiro-city-16-g4-flex-2008",
+        "nome": "Saveiro City 1.6 G4 (Flex)",
+        "ano": 2008
+      }
+    ],
+    "2009": [
+      {
+        "id": 18536,
+        "idUrl": "saveiro-surf-18-g4-flex-2009",
+        "nome": "Saveiro Surf 1.8 G4 (Flex)",
+        "ano": 2009
+      },
+      {
+        "id": 18535,
+        "idUrl": "saveiro-surf-16-g4-flex-2009",
+        "nome": "Saveiro Surf 1.6 G4 (Flex)",
+        "ano": 2009
+      },
+      {
+        "id": 18569,
+        "idUrl": "saveiro-18-g4-flex-2009",
+        "nome": "Saveiro 1.8 G4 (Flex)",
+        "ano": 2009
+      },
+      {
+        "id": 18379,
+        "idUrl": "saveiro-16-g4-flex-2009",
+        "nome": "Saveiro 1.6 G4 (Flex)",
+        "ano": 2009
+      },
+      {
+        "id": 18521,
+        "idUrl": "saveiro-titan-16-g4-flex-2009",
+        "nome": "Saveiro Titan 1.6 G4 (Flex)",
+        "ano": 2009
+      }
+    ],
+    "2010": [
+      {
+        "id": 18608,
+        "idUrl": "saveiro-cross-16-flex-cab-estendida-2010",
+        "nome": "Saveiro Cross 1.6 (Flex) (cab. estendida)",
+        "ano": 2010
+      },
+      {
+        "id": 18158,
+        "idUrl": "saveiro-trooper-16-flex-cab-estendida-2010",
+        "nome": "Saveiro Trooper 1.6 (Flex) (cab. estendida)",
+        "ano": 2010
+      },
+      {
+        "id": 18533,
+        "idUrl": "saveiro-surf-16-g4-flex-2010",
+        "nome": "Saveiro Surf 1.6 G4 (Flex)",
+        "ano": 2010
+      },
+      {
+        "id": 18335,
+        "idUrl": "saveiro-trooper-16-flex-2010",
+        "nome": "Saveiro Trooper 1.6 (Flex)",
+        "ano": 2010
+      },
+      {
+        "id": 18398,
+        "idUrl": "saveiro-16-flex-cab-estendida-2010",
+        "nome": "Saveiro 1.6  (Flex) (cab. estendida)",
+        "ano": 2010
+      },
+      {
+        "id": 18384,
+        "idUrl": "saveiro-16-flex-2010",
+        "nome": "Saveiro 1.6 (Flex)",
+        "ano": 2010
+      },
+      {
+        "id": 18378,
+        "idUrl": "saveiro-16-g4-flex-2010",
+        "nome": "Saveiro 1.6 G4 (Flex)",
+        "ano": 2010
+      },
+      {
+        "id": 18520,
+        "idUrl": "saveiro-titan-16-g4-flex-2010",
+        "nome": "Saveiro Titan 1.6 G4 (Flex)",
+        "ano": 2010
+      }
+    ],
+    "2011": [
+      {
+        "id": 18601,
+        "idUrl": "saveiro-cross-16-flex-cab-estendida-2011",
+        "nome": "Saveiro Cross 1.6 (Flex) (cab. estendida)",
+        "ano": 2011
+      },
+      {
+        "id": 18195,
+        "idUrl": "saveiro-trooper-16-flex-cab-estendida-2011",
+        "nome": "Saveiro Trooper 1.6 (Flex) (cab. estendida)",
+        "ano": 2011
+      },
+      {
+        "id": 18385,
+        "idUrl": "saveiro-16-flex-2011",
+        "nome": "Saveiro 1.6 (Flex)",
+        "ano": 2011
+      },
+      {
+        "id": 18397,
+        "idUrl": "saveiro-16-flex-cab-estendida-2011",
+        "nome": "Saveiro 1.6  (Flex) (cab. estendida)",
+        "ano": 2011
+      },
+      {
+        "id": 18508,
+        "idUrl": "saveiro-trooper-16-flex-2011",
+        "nome": "Saveiro Trooper 1.6 (Flex)",
+        "ano": 2011
+      }
+    ],
+    "2012": [
+      {
+        "id": 18602,
+        "idUrl": "saveiro-cross-16-flex-cab-estendida-2012",
+        "nome": "Saveiro Cross 1.6 (Flex) (cab. estendida)",
+        "ano": 2012
+      },
+      {
+        "id": 18157,
+        "idUrl": "saveiro-trooper-16-flex-cab-estendida-2012",
+        "nome": "Saveiro Trooper 1.6 (Flex) (cab. estendida)",
+        "ano": 2012
+      },
+      {
+        "id": 18383,
+        "idUrl": "saveiro-16-flex-2012",
+        "nome": "Saveiro 1.6 (Flex)",
+        "ano": 2012
+      },
+      {
+        "id": 18399,
+        "idUrl": "saveiro-16-flex-cab-estendida-2012",
+        "nome": "Saveiro 1.6  (Flex) (cab. estendida)",
+        "ano": 2012
+      },
+      {
+        "id": 18471,
+        "idUrl": "saveiro-trooper-16-flex-2012",
+        "nome": "Saveiro Trooper 1.6 (Flex)",
+        "ano": 2012
+      }
+    ],
+    "2013": [
+      {
+        "id": 18603,
+        "idUrl": "saveiro-cross-16-flex-cab-estendida-2013",
+        "nome": "Saveiro Cross 1.6 (Flex) (cab. estendida)",
+        "ano": 2013
+      },
+      {
+        "id": 18400,
+        "idUrl": "saveiro-16-flex-cab-estendida-2013",
+        "nome": "Saveiro 1.6  (Flex) (cab. estendida)",
+        "ano": 2013
+      },
+      {
+        "id": 18156,
+        "idUrl": "saveiro-trooper-16-flex-cab-estendida-2013",
+        "nome": "Saveiro Trooper 1.6 (Flex) (cab. estendida)",
+        "ano": 2013
+      },
+      {
+        "id": 18334,
+        "idUrl": "saveiro-trooper-16-flex-2013",
+        "nome": "Saveiro Trooper 1.6 (Flex)",
+        "ano": 2013
+      },
+      {
+        "id": 18382,
+        "idUrl": "saveiro-16-flex-2013",
+        "nome": "Saveiro 1.6 (Flex)",
+        "ano": 2013
+      }
+    ],
+    "2014": [
+      {
+        "id": 18604,
+        "idUrl": "saveiro-cross-16-flex-cab-estendida-2014",
+        "nome": "Saveiro Cross 1.6 (Flex) (cab. estendida)",
+        "ano": 2014
+      },
+      {
+        "id": 18155,
+        "idUrl": "saveiro-trooper-16-flex-cab-estendida-2014",
+        "nome": "Saveiro Trooper 1.6 (Flex) (cab. estendida)",
+        "ano": 2014
+      },
+      {
+        "id": 18386,
+        "idUrl": "saveiro-16-flex-cab-estendida-2014",
+        "nome": "Saveiro 1.6  (Flex) (cab. estendida)",
+        "ano": 2014
+      },
+      {
+        "id": 18381,
+        "idUrl": "saveiro-16-flex-2014",
+        "nome": "Saveiro 1.6 (Flex)",
+        "ano": 2014
+      }
+    ],
+    "2015": [
+      {
+        "id": 18605,
+        "idUrl": "saveiro-cross-16-16v-msi-cd-flex-2015",
+        "nome": "Saveiro Cross 1.6 16v MSI CD (Flex)",
+        "ano": 2015
+      },
+      {
+        "id": 18542,
+        "idUrl": "saveiro-highline-16-msi-cd-flex-2015",
+        "nome": "Saveiro Highline 1.6 MSI CD (Flex)",
+        "ano": 2015
+      },
+      {
+        "id": 18517,
+        "idUrl": "saveiro-trendline-16-msi-cd-flex-2015",
+        "nome": "Saveiro Trendline 1.6 MSI CD (Flex)",
+        "ano": 2015
+      },
+      {
+        "id": 18514,
+        "idUrl": "saveiro-trendline-16-msi-ce-flex-2015",
+        "nome": "Saveiro Trendline 1.6 MSI CE (Flex)",
+        "ano": 2015
+      },
+      {
+        "id": 18571,
+        "idUrl": "saveiro-16-surf-cs-flex-2015",
+        "nome": "Saveiro 1.6 Surf CS (Flex)",
+        "ano": 2015
+      },
+      {
+        "id": 18511,
+        "idUrl": "saveiro-trendline-16-msi-cs-flex-2015",
+        "nome": "Saveiro Trendline 1.6 MSI CS (Flex)",
+        "ano": 2015
+      },
+      {
+        "id": 18473,
+        "idUrl": "saveiro-16-startline-cs-flex-2015",
+        "nome": "Saveiro 1.6 Startline CS (Flex)",
+        "ano": 2015
+      }
+    ],
+    "2016": [
+      {
+        "id": 18606,
+        "idUrl": "saveiro-cross-16-16v-msi-cd-flex-2016",
+        "nome": "Saveiro Cross 1.6 16v MSI CD (Flex)",
+        "ano": 2016
+      },
+      {
+        "id": 18492,
+        "idUrl": "saveiro-rock-in-rio-16-msi-cd-flex-2016",
+        "nome": "Saveiro Rock in Rio 1.6 MSI CD (Flex)",
+        "ano": 2016
+      },
+      {
+        "id": 18592,
+        "idUrl": "saveiro-cross-16-16v-msi-ce-flex-2016",
+        "nome": "Saveiro Cross 1.6 16v MSI CE (Flex)",
+        "ano": 2016
+      },
+      {
+        "id": 18600,
+        "idUrl": "saveiro-highline-16-msi-cd-flex-2016",
+        "nome": "Saveiro Highline 1.6 MSI CD (Flex)",
+        "ano": 2016
+      },
+      {
+        "id": 18516,
+        "idUrl": "saveiro-trendline-16-msi-cd-flex-2016",
+        "nome": "Saveiro Trendline 1.6 MSI CD (Flex)",
+        "ano": 2016
+      },
+      {
+        "id": 18513,
+        "idUrl": "saveiro-trendline-16-msi-ce-flex-2016",
+        "nome": "Saveiro Trendline 1.6 MSI CE (Flex)",
+        "ano": 2016
+      },
+      {
+        "id": 18570,
+        "idUrl": "saveiro-16-surf-cs-flex-2016",
+        "nome": "Saveiro 1.6 Surf CS (Flex)",
+        "ano": 2016
+      },
+      {
+        "id": 18510,
+        "idUrl": "saveiro-trendline-16-msi-cs-flex-2016",
+        "nome": "Saveiro Trendline 1.6 MSI CS (Flex)",
+        "ano": 2016
+      },
+      {
+        "id": 18572,
+        "idUrl": "saveiro-16-startline-cs-flex-2016",
+        "nome": "Saveiro 1.6 Startline CS (Flex)",
+        "ano": 2016
+      }
+    ],
+    "2017": [
+      {
+        "id": 18607,
+        "idUrl": "saveiro-cross-16-16v-msi-cd-flex-2017",
+        "nome": "Saveiro Cross 1.6 16v MSI CD (Flex)",
+        "ano": 2017
+      },
+      {
+        "id": 18591,
+        "idUrl": "saveiro-cross-16-16v-msi-ce-flex-2017",
+        "nome": "Saveiro Cross 1.6 16v MSI CE (Flex)",
+        "ano": 2017
+      },
+      {
+        "id": 18541,
+        "idUrl": "saveiro-highline-16-msi-cd-flex-2017",
+        "nome": "Saveiro Highline 1.6 MSI CD (Flex)",
+        "ano": 2017
+      },
+      {
+        "id": 18515,
+        "idUrl": "saveiro-trendline-16-msi-cd-flex-2017",
+        "nome": "Saveiro Trendline 1.6 MSI CD (Flex)",
+        "ano": 2017
+      },
+      {
+        "id": 18512,
+        "idUrl": "saveiro-trendline-16-msi-ce-flex-2017",
+        "nome": "Saveiro Trendline 1.6 MSI CE (Flex)",
+        "ano": 2017
+      },
+      {
+        "id": 18509,
+        "idUrl": "saveiro-trendline-16-msi-cs-flex-2017",
+        "nome": "Saveiro Trendline 1.6 MSI CS (Flex)",
+        "ano": 2017
+      },
+      {
+        "id": 18493,
+        "idUrl": "saveiro-robust-16-msi-cs-flex-2017",
+        "nome": "Saveiro Robust 1.6 MSI CS (Flex)",
+        "ano": 2017
+      }
+    ],
+    "2018": [
+      {
+        "id": 21790,
+        "idUrl": "saveiro-cross-16-16v-msi-cd-flex-2018",
+        "nome": "Saveiro Cross 1.6 16v msi CD (Flex)",
+        "ano": 2018
+      },
+      {
+        "id": 21771,
+        "idUrl": "saveiro-cross-16-16v-msi-ce-flex-2018",
+        "nome": "Saveiro Cross 1.6 16v msi CE (Flex)",
+        "ano": 2018
+      },
+      {
+        "id": 21901,
+        "idUrl": "saveiro-pepper-16-cd-flex-2018",
+        "nome": "Saveiro Pepper 1.6 CD (Flex)",
+        "ano": 2018
+      },
+      {
+        "id": 21762,
+        "idUrl": "saveiro-highline-16-msi-cd-flex-2018",
+        "nome": "Saveiro Highline 1.6 msi CD (Flex)",
+        "ano": 2018
+      },
+      {
+        "id": 21902,
+        "idUrl": "saveiro-pepper-16-ce-flex-2018",
+        "nome": "Saveiro Pepper 1.6 CE (Flex)",
+        "ano": 2018
+      },
+      {
+        "id": 21756,
+        "idUrl": "saveiro-trendline-16-msi-cd-flex-2018",
+        "nome": "Saveiro Trendline 1.6 msi CD (Flex)",
+        "ano": 2018
+      },
+      {
+        "id": 21754,
+        "idUrl": "saveiro-robust-16-msi-cd-flex-2018",
+        "nome": "Saveiro Robust 1.6 msi CD (Flex)",
+        "ano": 2018
+      },
+      {
+        "id": 21900,
+        "idUrl": "saveiro-trendline-16-msi-ce-flex-2018",
+        "nome": "Saveiro Trendline 1.6 msi CE (Flex)",
+        "ano": 2018
+      },
+      {
+        "id": 21757,
+        "idUrl": "saveiro-trendline-16-msi-cs-flex-2018",
+        "nome": "Saveiro Trendline 1.6 msi CS (Flex)",
+        "ano": 2018
+      },
+      {
+        "id": 21755,
+        "idUrl": "saveiro-robust-16-msi-cs-flex-2018",
+        "nome": "Saveiro Robust 1.6 msi CS (Flex)",
+        "ano": 2018
+      }
+    ]
+  }

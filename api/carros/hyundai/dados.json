@@ -1,0 +1,240 @@
+[
+    {
+      "id": 515,
+      "idUrl": "accent",
+      "nome": "Accent",
+      "fotoDestaque": {
+        "id": 51494,
+        "largura": 209,
+        "altura": 139,
+        "nome": "carro/hyundai/accent/destaque",
+        "url": "//cdn.autopapo.com.br/carro/hyundai/accent/destaque-v1.png",
+        "mimeType": "image/png"
+      },
+      "emProducao": false
+    },
+    {
+      "id": 512,
+      "idUrl": "azera",
+      "nome": "Azera",
+      "fotoDestaque": {
+        "id": 51510,
+        "largura": 209,
+        "altura": 139,
+        "nome": "carro/hyundai/azera/destaque",
+        "url": "//cdn.autopapo.com.br/carro/hyundai/azera/destaque-v1.png",
+        "mimeType": "image/png"
+      },
+      "emProducao": true
+    },
+    {
+      "id": 511,
+      "idUrl": "creta",
+      "nome": "Creta",
+      "fotoDestaque": {
+        "id": 51512,
+        "largura": 209,
+        "altura": 139,
+        "nome": "carro/hyundai/creta/destaque",
+        "url": "//cdn.autopapo.com.br/carro/hyundai/creta/destaque-v3.png",
+        "mimeType": "image/png"
+      },
+      "emProducao": true
+    },
+    {
+      "id": 510,
+      "idUrl": "elantra",
+      "nome": "Elantra",
+      "fotoDestaque": {
+        "id": 51515,
+        "largura": 209,
+        "altura": 139,
+        "nome": "carro/hyundai/elantra/destaque",
+        "url": "//cdn.autopapo.com.br/carro/hyundai/elantra/destaque-v2.png",
+        "mimeType": "image/png"
+      },
+      "emProducao": true
+    },
+    {
+      "id": 508,
+      "idUrl": "equus",
+      "nome": "Equus",
+      "fotoDestaque": {
+        "id": 51488,
+        "largura": 209,
+        "altura": 139,
+        "nome": "carro/hyundai/equus/destaque",
+        "url": "//cdn.autopapo.com.br/carro/hyundai/equus/destaque-v2.png",
+        "mimeType": "image/png"
+      },
+      "emProducao": false
+    },
+    {
+      "id": 506,
+      "idUrl": "galloper",
+      "nome": "Galloper",
+      "fotoDestaque": {
+        "id": 51490,
+        "largura": 209,
+        "altura": 139,
+        "nome": "carro/hyundai/galloper/destaque",
+        "url": "//cdn.autopapo.com.br/carro/hyundai/galloper/destaque-v2.png",
+        "mimeType": "image/png"
+      },
+      "emProducao": false
+    },
+    {
+      "id": 505,
+      "idUrl": "genesis",
+      "nome": "Genesis",
+      "fotoDestaque": {
+        "id": 51492,
+        "largura": 209,
+        "altura": 139,
+        "nome": "carro/hyundai/genesis/destaque",
+        "url": "//cdn.autopapo.com.br/carro/hyundai/genesis/destaque-v1.png",
+        "mimeType": "image/png"
+      },
+      "emProducao": false
+    },
+    {
+      "id": 517,
+      "idUrl": "hb20",
+      "nome": "HB20",
+      "fotoDestaque": {
+        "id": 51516,
+        "largura": 209,
+        "altura": 139,
+        "nome": "carro/hyundai/hb20/destaque",
+        "url": "//cdn.autopapo.com.br/carro/hyundai/hb20/destaque-v1.png",
+        "mimeType": "image/png"
+      },
+      "emProducao": true
+    },
+    {
+      "id": 501,
+      "idUrl": "hb20s",
+      "nome": "HB20S",
+      "fotoDestaque": {
+        "id": 51518,
+        "largura": 209,
+        "altura": 139,
+        "nome": "carro/hyundai/hb20s/destaque",
+        "url": "//cdn.autopapo.com.br/carro/hyundai/hb20s/destaque-v2.png",
+        "mimeType": "image/png"
+      },
+      "emProducao": true
+    },
+    {
+      "id": 498,
+      "idUrl": "hb20x",
+      "nome": "HB20X",
+      "fotoDestaque": {
+        "id": 51520,
+        "largura": 209,
+        "altura": 139,
+        "nome": "carro/hyundai/hb20x/destaque",
+        "url": "//cdn.autopapo.com.br/carro/hyundai/hb20x/destaque-v1.png",
+        "mimeType": "image/png"
+      },
+      "emProducao": true
+    },
+    {
+      "id": 499,
+      "idUrl": "i30",
+      "nome": "i30",
+      "fotoDestaque": {
+        "id": 51495,
+        "largura": 209,
+        "altura": 139,
+        "nome": "carro/hyundai/i30/destaque",
+        "url": "//cdn.autopapo.com.br/carro/hyundai/i30/destaque-v1.png",
+        "mimeType": "image/png"
+      },
+      "emProducao": false
+    },
+    {
+      "id": 518,
+      "idUrl": "ix35",
+      "nome": "ix35",
+      "fotoDestaque": {
+        "id": 51522,
+        "largura": 209,
+        "altura": 139,
+        "nome": "carro/hyundai/ix35/destaque",
+        "url": "//cdn.autopapo.com.br/carro/hyundai/ix35/destaque-v2.png",
+        "mimeType": "image/png"
+      },
+      "emProducao": true
+    },
+    {
+      "id": 491,
+      "idUrl": "santa-fe",
+      "nome": "Santa Fe",
+      "fotoDestaque": {
+        "id": 51514,
+        "largura": 209,
+        "altura": 139,
+        "nome": "carro/hyundai/santa-fe/destaque",
+        "url": "//cdn.autopapo.com.br/carro/hyundai/santa-fe/destaque-v2.png",
+        "mimeType": "image/png"
+      },
+      "emProducao": true
+    },
+    {
+      "id": 493,
+      "idUrl": "sonata",
+      "nome": "Sonata",
+      "fotoDestaque": {
+        "id": 51496,
+        "largura": 209,
+        "altura": 139,
+        "nome": "carro/hyundai/sonata/destaque",
+        "url": "//cdn.autopapo.com.br/carro/hyundai/sonata/destaque-v1.png",
+        "mimeType": "image/png"
+      },
+      "emProducao": false
+    },
+    {
+      "id": 494,
+      "idUrl": "tucson",
+      "nome": "Tucson",
+      "fotoDestaque": {
+        "id": 21812,
+        "largura": 209,
+        "altura": 139,
+        "nome": "carro/hyundai/tucson/destaque",
+        "url": "//cdn.autopapo.com.br/carro/hyundai/tucson/destaque.png",
+        "mimeType": "image/png"
+      },
+      "emProducao": true
+    },
+    {
+      "id": 496,
+      "idUrl": "veloster",
+      "nome": "Veloster",
+      "fotoDestaque": {
+        "id": 51498,
+        "largura": 209,
+        "altura": 139,
+        "nome": "carro/hyundai/veloster/destaque",
+        "url": "//cdn.autopapo.com.br/carro/hyundai/veloster/destaque-v1.png",
+        "mimeType": "image/png"
+      },
+      "emProducao": false
+    },
+    {
+      "id": 497,
+      "idUrl": "veracruz",
+      "nome": "Veracruz",
+      "fotoDestaque": {
+        "id": 51500,
+        "largura": 209,
+        "altura": 139,
+        "nome": "carro/hyundai/veracruz/destaque",
+        "url": "//cdn.autopapo.com.br/carro/hyundai/veracruz/destaque-v1.png",
+        "mimeType": "image/png"
+      },
+      "emProducao": false
+    }
+  ]

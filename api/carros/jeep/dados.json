@@ -1,0 +1,86 @@
+[
+    {
+      "id": 534,
+      "idUrl": "cherokee",
+      "nome": "Cherokee",
+      "fotoDestaque": {
+        "id": 51912,
+        "largura": 209,
+        "altura": 139,
+        "nome": "carro/jeep/cherokee/destaque",
+        "url": "//cdn.autopapo.com.br/carro/jeep/cherokee/destaque-v1.png",
+        "mimeType": "image/png"
+      },
+      "emProducao": false
+    },
+    {
+      "id": 535,
+      "idUrl": "commander",
+      "nome": "Commander",
+      "fotoDestaque": {
+        "id": 51914,
+        "largura": 209,
+        "altura": 139,
+        "nome": "carro/jeep/commander/destaque",
+        "url": "//cdn.autopapo.com.br/carro/jeep/commander/destaque-v1.png",
+        "mimeType": "image/png"
+      },
+      "emProducao": true
+    },
+    {
+      "id": 536,
+      "idUrl": "compass",
+      "nome": "Compass",
+      "fotoDestaque": {
+        "id": 51904,
+        "largura": 209,
+        "altura": 139,
+        "nome": "carro/jeep/compass/destaque",
+        "url": "//cdn.autopapo.com.br/carro/jeep/compass/destaque-v3.png",
+        "mimeType": "image/png"
+      },
+      "emProducao": true
+    },
+    {
+      "id": 537,
+      "idUrl": "grand-cherokee",
+      "nome": "Grand Cherokee",
+      "fotoDestaque": {
+        "id": 51906,
+        "largura": 209,
+        "altura": 139,
+        "nome": "carro/jeep/grand-cherokee/destaque",
+        "url": "//cdn.autopapo.com.br/carro/jeep/grand-cherokee/destaque-v1.png",
+        "mimeType": "image/png"
+      },
+      "emProducao": true
+    },
+    {
+      "id": 533,
+      "idUrl": "renegade",
+      "nome": "Renegade",
+      "fotoDestaque": {
+        "id": 51908,
+        "largura": 209,
+        "altura": 139,
+        "nome": "carro/jeep/renegade/destaque",
+        "url": "//cdn.autopapo.com.br/carro/jeep/renegade/destaque-v1.png",
+        "mimeType": "image/png"
+      },
+      "emProducao": true
+    },
+    {
+      "id": 539,
+      "idUrl": "wrangler",
+      "nome": "Wrangler",
+      "fotoDestaque": {
+        "id": 51910,
+        "largura": 209,
+        "altura": 139,
+        "nome": "carro/jeep/wrangler/destaque",
+        "url": "//cdn.autopapo.com.br/carro/jeep/wrangler/destaque-v1.png",
+        "mimeType": "image/png"
+      },
+      "emProducao": true
+    }
+  ]

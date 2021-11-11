@@ -1,0 +1,84 @@
+{
+    "1986": [
+      {
+        "id": 18710,
+        "idUrl": "fusca-1600-chave-de-ouro-1986",
+        "nome": "Fusca 1600 Chave de Ouro",
+        "ano": 1986
+      }
+    ],
+    "1994": [
+      {
+        "id": 18886,
+        "idUrl": "fusca-1600-1994",
+        "nome": "Fusca 1600",
+        "ano": 1994
+      }
+    ],
+    "1995": [
+      {
+        "id": 18747,
+        "idUrl": "fusca-1600-1995",
+        "nome": "Fusca 1600",
+        "ano": 1995
+      }
+    ],
+    "1996": [
+      {
+        "id": 18709,
+        "idUrl": "fusca-1600-serie-ouro-1996",
+        "nome": "Fusca 1600 Série Ouro",
+        "ano": 1996
+      },
+      {
+        "id": 19060,
+        "idUrl": "fusca-1600-1996",
+        "nome": "Fusca 1600",
+        "ano": 1996
+      }
+    ],
+    "2013": [
+      {
+        "id": 18703,
+        "idUrl": "fusca-20-tsi-sport-dsg-2013",
+        "nome": "Fusca 2.0 TSi Sport DSG",
+        "ano": 2013
+      },
+      {
+        "id": 18706,
+        "idUrl": "fusca-20-tsi-sport-2013",
+        "nome": "Fusca 2.0 TSi Sport",
+        "ano": 2013
+      }
+    ],
+    "2014": [
+      {
+        "id": 18705,
+        "idUrl": "fusca-20-tsi-sport-2014",
+        "nome": "Fusca 2.0 TSi Sport",
+        "ano": 2014
+      },
+      {
+        "id": 18702,
+        "idUrl": "fusca-20-tsi-sport-dsg-2014",
+        "nome": "Fusca 2.0 TSi Sport DSG",
+        "ano": 2014
+      }
+    ],
+    "2015": [
+      {
+        "id": 18708,
+        "idUrl": "fusca-20-tsi-dsg-2015",
+        "nome": "Fusca 2.0 TSi DSG",
+        "ano": 2015
+      }
+    ],
+    "2016": [
+      {
+        "id": 18707,
+        "idUrl": "fusca-20-tsi-dsg-2016",
+        "nome": "Fusca 2.0 TSi DSG",
+        "ano": 2016
+      }
+    ]
+  }

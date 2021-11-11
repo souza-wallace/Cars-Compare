@@ -1,0 +1,48 @@
+{
+    "2017": [
+      {
+        "id": 13666,
+        "idUrl": "kicks-16-sl-cvt-flex-2017",
+        "nome": "Kicks 1.6 SL CVT (Flex)",
+        "ano": 2017
+      },
+      {
+        "id": 13667,
+        "idUrl": "kicks-16-rio-cvt-flex-2017",
+        "nome": "Kicks 1.6 Rio CVT (Flex)",
+        "ano": 2017
+      },
+      {
+        "id": 13665,
+        "idUrl": "kicks-16-sv-limited-cvt-flex-2017",
+        "nome": "Kicks 1.6 SV Limited CVT (Flex)",
+        "ano": 2017
+      }
+    ],
+    "2018": [
+      {
+        "id": 21886,
+        "idUrl": "kicks-16-sl-cvt-flex-2018",
+        "nome": "Kicks 1.6 SL CVT Flex",
+        "ano": 2018
+      },
+      {
+        "id": 21884,
+        "idUrl": "kicks-16-sv-cvt-flex-2018",
+        "nome": "Kicks 1.6 SV CVT Flex",
+        "ano": 2018
+      },
+      {
+        "id": 21887,
+        "idUrl": "kicks-16-s-cvt-flex-2018",
+        "nome": "Kicks 1.6 S CVT Flex",
+        "ano": 2018
+      },
+      {
+        "id": 21885,
+        "idUrl": "kicks-16-s-flex-2018",
+        "nome": "Kicks 1.6 S Flex",
+        "ano": 2018
+      }
+    ]
+  }

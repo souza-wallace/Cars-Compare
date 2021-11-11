@@ -1,0 +1,222 @@
+{
+    "1999": [
+      {
+        "id": 17125,
+        "idUrl": "rav4-4x4-20-16v-auto-1999",
+        "nome": "RAV4 4x4 2.0 16V (Auto)",
+        "ano": 1999
+      },
+      {
+        "id": 17143,
+        "idUrl": "rav4-4x4-20-16v-1999",
+        "nome": "RAV4 4x4 2.0 16V",
+        "ano": 1999
+      }
+    ],
+    "2000": [
+      {
+        "id": 17124,
+        "idUrl": "rav4-4x4-20-16v-auto-2000",
+        "nome": "RAV4 4x4 2.0 16V (Auto)",
+        "ano": 2000
+      },
+      {
+        "id": 17144,
+        "idUrl": "rav4-4x4-20-16v-2000",
+        "nome": "RAV4 4x4 2.0 16V",
+        "ano": 2000
+      }
+    ],
+    "2001": [
+      {
+        "id": 17113,
+        "idUrl": "rav4-4x4-20-16v-auto-2001",
+        "nome": "RAV4 4x4 2.0 16V (Auto)",
+        "ano": 2001
+      },
+      {
+        "id": 17145,
+        "idUrl": "rav4-4x4-20-16v-2001",
+        "nome": "RAV4 4x4 2.0 16V",
+        "ano": 2001
+      }
+    ],
+    "2002": [
+      {
+        "id": 17105,
+        "idUrl": "rav4-4x4-20-16v-auto-2002",
+        "nome": "RAV4 4x4 2.0 16V (Auto)",
+        "ano": 2002
+      },
+      {
+        "id": 17142,
+        "idUrl": "rav4-4x4-20-16v-2002",
+        "nome": "RAV4 4x4 2.0 16V",
+        "ano": 2002
+      }
+    ],
+    "2005": [
+      {
+        "id": 17126,
+        "idUrl": "rav4-4x4-20-16v-auto-2005",
+        "nome": "RAV4 4x4 2.0 16V (Auto)",
+        "ano": 2005
+      }
+    ],
+    "2006": [
+      {
+        "id": 17109,
+        "idUrl": "rav4-4x4-24-16v-auto-2006",
+        "nome": "RAV4 4x4 2.4 16V (Auto)",
+        "ano": 2006
+      }
+    ],
+    "2007": [
+      {
+        "id": 17111,
+        "idUrl": "rav4-4x4-24-16v-aut-2007",
+        "nome": "RAV4 4x4 2.4 16V (aut)",
+        "ano": 2007
+      }
+    ],
+    "2008": [
+      {
+        "id": 17112,
+        "idUrl": "rav4-4x4-24-16v-aut-2008",
+        "nome": "RAV4 4x4 2.4 16V (aut)",
+        "ano": 2008
+      }
+    ],
+    "2009": [
+      {
+        "id": 17114,
+        "idUrl": "rav4-4x4-24-16v-aut-2009",
+        "nome": "RAV4 4x4 2.4 16V (aut)",
+        "ano": 2009
+      }
+    ],
+    "2010": [
+      {
+        "id": 17123,
+        "idUrl": "rav4-4x4-24-16v-aut-2010",
+        "nome": "RAV4 4x4 2.4 16V (aut)",
+        "ano": 2010
+      }
+    ],
+    "2011": [
+      {
+        "id": 17115,
+        "idUrl": "rav4-4x4-24-16v-aut-2011",
+        "nome": "RAV4 4x4 2.4 16V (aut)",
+        "ano": 2011
+      },
+      {
+        "id": 17139,
+        "idUrl": "rav4-4x2-24-16v-aut-2011",
+        "nome": "RAV4 4x2 2.4 16V (aut)",
+        "ano": 2011
+      }
+    ],
+    "2012": [
+      {
+        "id": 17116,
+        "idUrl": "rav4-4x4-24-16v-aut-2012",
+        "nome": "RAV4 4x4 2.4 16V (aut)",
+        "ano": 2012
+      },
+      {
+        "id": 17140,
+        "idUrl": "rav4-4x2-24-16v-aut-2012",
+        "nome": "RAV4 4x2 2.4 16V (aut)",
+        "ano": 2012
+      }
+    ],
+    "2013": [
+      {
+        "id": 17118,
+        "idUrl": "rav4-4x4-25-aut-2013",
+        "nome": "RAV4 4x4 2.5 (Aut)",
+        "ano": 2013
+      },
+      {
+        "id": 17108,
+        "idUrl": "rav4-4x4-20-16v-aut-2013",
+        "nome": "RAV4 4x4 2.0 16V (aut)",
+        "ano": 2013
+      },
+      {
+        "id": 17138,
+        "idUrl": "rav4-4x2-20-16v-aut-2013",
+        "nome": "RAV4 4x2 2.0 16V (aut)",
+        "ano": 2013
+      }
+    ],
+    "2014": [
+      {
+        "id": 17136,
+        "idUrl": "rav4-25-16v-4x4-aut-2014",
+        "nome": "RAV4 2.5 16v 4x4 (Aut)",
+        "ano": 2014
+      },
+      {
+        "id": 17131,
+        "idUrl": "rav4-20-16v-4x4-cvt-4wd-2014",
+        "nome": "RAV4 2.0 16v 4x4 CVT 4wd",
+        "ano": 2014
+      },
+      {
+        "id": 17132,
+        "idUrl": "rav4-20-16v-cvt-2014",
+        "nome": "RAV4 2.0 16v CVT",
+        "ano": 2014
+      },
+      {
+        "id": 22346,
+        "idUrl": "rav4-20-4x2-16v-aut-2014",
+        "nome": "RAV4 2.0 4x2 16V (Aut)",
+        "ano": 2014
+      }
+    ],
+    "2015": [
+      {
+        "id": 17137,
+        "idUrl": "rav4-25-cvt-4x4-2015",
+        "nome": "RAV4 2.5 CVT 4X4",
+        "ano": 2015
+      },
+      {
+        "id": 17134,
+        "idUrl": "rav4-20-cvt-4x4-2015",
+        "nome": "RAV4 2.0 CVT 4X4",
+        "ano": 2015
+      },
+      {
+        "id": 17135,
+        "idUrl": "rav4-20-cvt-top-2015",
+        "nome": "RAV4 2.0 CVT TOP",
+        "ano": 2015
+      },
+      {
+        "id": 17133,
+        "idUrl": "rav4-20-cvt-2015",
+        "nome": "RAV4 2.0 CVT",
+        "ano": 2015
+      }
+    ],
+    "2017": [
+      {
+        "id": 21962,
+        "idUrl": "rav4-20-cvt-top-2017",
+        "nome": "RAV4 2.0 CVT TOP",
+        "ano": 2017
+      }
+    ],
+    "2018": [
+      {
+        "id": 22166,
+        "idUrl": "rav4-20-cvt-top-2018",
+        "nome": "RAV4 2.0 CVT TOP",
+        "ano": 2018
+      }
+    ]
+  }

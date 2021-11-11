@@ -1,0 +1,242 @@
+{
+    "2013": [
+      {
+        "id": 17344,
+        "idUrl": "etios-xs-13-flex-2013",
+        "nome": "Etios XS 1.3 (Flex)",
+        "ano": 2013
+      },
+      {
+        "id": 17335,
+        "idUrl": "etios-xls-15-flex-2013",
+        "nome": "Etios XLS 1.5 (Flex)",
+        "ano": 2013
+      },
+      {
+        "id": 17350,
+        "idUrl": "etios-x-13-flex-2013",
+        "nome": "Etios X 1.3 (Flex)",
+        "ano": 2013
+      },
+      {
+        "id": 17359,
+        "idUrl": "etios-13-flex-2013",
+        "nome": "Etios 1.3 (Flex)",
+        "ano": 2013
+      }
+    ],
+    "2014": [
+      {
+        "id": 17361,
+        "idUrl": "etios-cross-15-flex-2014",
+        "nome": "Etios Cross 1.5 (Flex)",
+        "ano": 2014
+      },
+      {
+        "id": 17342,
+        "idUrl": "etios-xls-platinum-15-flex-2014",
+        "nome": "Etios XLS platinum 1.5 (Flex)",
+        "ano": 2014
+      },
+      {
+        "id": 17336,
+        "idUrl": "etios-xls-15-flex-2014",
+        "nome": "Etios XLS 1.5 (Flex)",
+        "ano": 2014
+      },
+      {
+        "id": 17345,
+        "idUrl": "etios-xs-15-flex-2014",
+        "nome": "Etios XS 1.5 (Flex)",
+        "ano": 2014
+      },
+      {
+        "id": 17349,
+        "idUrl": "etios-x-13-flex-2014",
+        "nome": "Etios X 1.3 (Flex)",
+        "ano": 2014
+      },
+      {
+        "id": 17360,
+        "idUrl": "etios-13-flex-2014",
+        "nome": "Etios 1.3 (Flex)",
+        "ano": 2014
+      }
+    ],
+    "2015": [
+      {
+        "id": 17343,
+        "idUrl": "etios-xls-platinum-15-flex-2015",
+        "nome": "Etios XLS platinum 1.5 (Flex)",
+        "ano": 2015
+      },
+      {
+        "id": 17362,
+        "idUrl": "etios-cross-15-flex-2015",
+        "nome": "Etios Cross 1.5 (Flex)",
+        "ano": 2015
+      },
+      {
+        "id": 17337,
+        "idUrl": "etios-xls-15-flex-2015",
+        "nome": "Etios XLS 1.5 (Flex)",
+        "ano": 2015
+      },
+      {
+        "id": 17346,
+        "idUrl": "etios-xs-15-flex-2015",
+        "nome": "Etios XS 1.5 (Flex)",
+        "ano": 2015
+      },
+      {
+        "id": 17338,
+        "idUrl": "etios-x-13-flex-2015",
+        "nome": "Etios X 1.3 (Flex)",
+        "ano": 2015
+      }
+    ],
+    "2016": [
+      {
+        "id": 17363,
+        "idUrl": "etios-cross-15-flex-2016",
+        "nome": "Etios Cross 1.5 (Flex)",
+        "ano": 2016
+      },
+      {
+        "id": 17367,
+        "idUrl": "etios-platinum-15-flex-2016",
+        "nome": "Etios Platinum 1.5 (Flex)",
+        "ano": 2016
+      },
+      {
+        "id": 17339,
+        "idUrl": "etios-xls-15-flex-2016",
+        "nome": "Etios XLS 1.5 (Flex)",
+        "ano": 2016
+      },
+      {
+        "id": 17347,
+        "idUrl": "etios-xs-15-flex-2016",
+        "nome": "Etios XS 1.5 (Flex)",
+        "ano": 2016
+      },
+      {
+        "id": 17330,
+        "idUrl": "etios-x-13-flex-2016",
+        "nome": "Etios X 1.3 (Flex)",
+        "ano": 2016
+      }
+    ],
+    "2017": [
+      {
+        "id": 17368,
+        "idUrl": "etios-platinum-15-flex-aut-2017",
+        "nome": "Etios Platinum 1.5 (Flex) (Aut)",
+        "ano": 2017
+      },
+      {
+        "id": 17365,
+        "idUrl": "etios-cross-15-flex-aut-2017",
+        "nome": "Etios Cross 1.5 (Flex) (Aut)",
+        "ano": 2017
+      },
+      {
+        "id": 17364,
+        "idUrl": "etios-cross-15-flex-2017",
+        "nome": "Etios Cross 1.5 (Flex)",
+        "ano": 2017
+      },
+      {
+        "id": 17340,
+        "idUrl": "etios-xls-15-flex-aut-2017",
+        "nome": "Etios XLS 1.5 (Flex) (Aut)",
+        "ano": 2017
+      },
+      {
+        "id": 17370,
+        "idUrl": "etios-ready-15-aut-flex-2017",
+        "nome": "Etios Ready 1.5 (Aut) (Flex)",
+        "ano": 2017
+      },
+      {
+        "id": 17348,
+        "idUrl": "etios-xls-15-flex-2017",
+        "nome": "Etios XLS 1.5 (Flex)",
+        "ano": 2017
+      },
+      {
+        "id": 17416,
+        "idUrl": "etios-xs-15-flex-aut-2017",
+        "nome": "Etios XS 1.5 (Flex) (Aut)",
+        "ano": 2017
+      },
+      {
+        "id": 17333,
+        "idUrl": "etios-x-13-flex-aut-2017",
+        "nome": "Etios X 1.3 (Flex) (Aut)",
+        "ano": 2017
+      },
+      {
+        "id": 17371,
+        "idUrl": "etios-xs-15-flex-2017",
+        "nome": "Etios XS 1.5 (Flex)",
+        "ano": 2017
+      },
+      {
+        "id": 17331,
+        "idUrl": "etios-x-13-flex-2017",
+        "nome": "Etios X 1.3 (Flex)",
+        "ano": 2017
+      }
+    ],
+    "2018": [
+      {
+        "id": 17366,
+        "idUrl": "etios-cross-15-flex-aut-2018",
+        "nome": "Etios Cross 1.5 (Flex) (Aut)",
+        "ano": 2018
+      },
+      {
+        "id": 17369,
+        "idUrl": "etios-platinum-15-flex-aut-2018",
+        "nome": "Etios Platinum 1.5 (Flex) (Aut)",
+        "ano": 2018
+      },
+      {
+        "id": 17341,
+        "idUrl": "etios-xls-15-flex-aut-2018",
+        "nome": "Etios XLS 1.5 (Flex) (Aut)",
+        "ano": 2018
+      },
+      {
+        "id": 17351,
+        "idUrl": "etios-ready-15-flex-aut-2018",
+        "nome": "Etios Ready 1.5 (Flex) (Aut)",
+        "ano": 2018
+      },
+      {
+        "id": 17374,
+        "idUrl": "etios-xs-15-flex-aut-2018",
+        "nome": "Etios XS 1.5 (Flex) (Aut)",
+        "ano": 2018
+      },
+      {
+        "id": 17334,
+        "idUrl": "etios-x-13-flex-aut-2018",
+        "nome": "Etios X 1.3 (Flex) (Aut)",
+        "ano": 2018
+      },
+      {
+        "id": 17373,
+        "idUrl": "etios-xs-15-flex-2018",
+        "nome": "Etios XS 1.5 (Flex)",
+        "ano": 2018
+      },
+      {
+        "id": 17332,
+        "idUrl": "etios-x-13-flex-2018",
+        "nome": "Etios X 1.3 (Flex)",
+        "ano": 2018
+      }
+    ]
+  }

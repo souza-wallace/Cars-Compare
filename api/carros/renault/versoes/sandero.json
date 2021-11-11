@@ -1,0 +1,684 @@
+{
+    "2008": [
+      {
+        "id": 15642,
+        "idUrl": "sandero-privilege-16-8v-hitorque-flex-2008",
+        "nome": "Sandero Privilège 1.6 8V Hi-Torque (flex)",
+        "ano": 2008
+      },
+      {
+        "id": 15639,
+        "idUrl": "sandero-privilege-16-16v-flex-2008",
+        "nome": "Sandero Privilège 1.6 16V (flex)",
+        "ano": 2008
+      },
+      {
+        "id": 15648,
+        "idUrl": "sandero-privilege-nokia-16-16v-flex-2008",
+        "nome": "Sandero Privilège Nokia 1.6 16V (flex)",
+        "ano": 2008
+      },
+      {
+        "id": 15553,
+        "idUrl": "sandero-expression-16-8v-flex-2008",
+        "nome": "Sandero Expression 1.6 8V (flex)",
+        "ano": 2008
+      },
+      {
+        "id": 15530,
+        "idUrl": "sandero-authentique-16-8v-hitorque-flex-2008",
+        "nome": "Sandero Authentique 1.6 8V Hi-Torque (flex)",
+        "ano": 2008
+      },
+      {
+        "id": 15543,
+        "idUrl": "sandero-expression-10-16v-flex-2008",
+        "nome": "Sandero Expression 1.0 16V (flex)",
+        "ano": 2008
+      },
+      {
+        "id": 15556,
+        "idUrl": "sandero-authentique-10-16v-flex-2008",
+        "nome": "Sandero Authentique 1.0 16V (flex)",
+        "ano": 2008
+      }
+    ],
+    "2009": [
+      {
+        "id": 15591,
+        "idUrl": "sandero-stepway-16-16v-flex-2009",
+        "nome": "Sandero Stepway 1.6 16V (Flex)",
+        "ano": 2009
+      },
+      {
+        "id": 15649,
+        "idUrl": "sandero-privilege-nokia-16-16v-flex-2009",
+        "nome": "Sandero Privilège Nokia 1.6 16V (flex)",
+        "ano": 2009
+      },
+      {
+        "id": 15644,
+        "idUrl": "sandero-privilege-16-8v-hitorque-flex-2009",
+        "nome": "Sandero Privilège 1.6 8V Hi-Torque (flex)",
+        "ano": 2009
+      },
+      {
+        "id": 15654,
+        "idUrl": "sandero-privilege-16-16v-flex-2009",
+        "nome": "Sandero Privilège 1.6 16V (flex)",
+        "ano": 2009
+      },
+      {
+        "id": 15588,
+        "idUrl": "sandero-expression-16-8v-flex-2009",
+        "nome": "Sandero Expression 1.6 8V (flex)",
+        "ano": 2009
+      },
+      {
+        "id": 15545,
+        "idUrl": "sandero-expression-10-16v-flex-2009",
+        "nome": "Sandero Expression 1.0 16V (flex)",
+        "ano": 2009
+      },
+      {
+        "id": 15532,
+        "idUrl": "sandero-authentique-16-8v-hitorque-flex-2009",
+        "nome": "Sandero Authentique 1.6 8V Hi-Torque (flex)",
+        "ano": 2009
+      },
+      {
+        "id": 15525,
+        "idUrl": "sandero-authentique-10-16v-flex-2009",
+        "nome": "Sandero Authentique 1.0 16V (flex)",
+        "ano": 2009
+      }
+    ],
+    "2010": [
+      {
+        "id": 15592,
+        "idUrl": "sandero-stepway-16-16v-flex-2010",
+        "nome": "Sandero Stepway 1.6 16V (Flex)",
+        "ano": 2010
+      },
+      {
+        "id": 15623,
+        "idUrl": "sandero-vibe-16-8v-hitorque-flex-2010",
+        "nome": "Sandero Vibe 1.6 8V Hi-Torque (flex)",
+        "ano": 2010
+      },
+      {
+        "id": 15640,
+        "idUrl": "sandero-privilege-16-16v-flex-2010",
+        "nome": "Sandero Privilège 1.6 16V (flex)",
+        "ano": 2010
+      },
+      {
+        "id": 15643,
+        "idUrl": "sandero-privilege-16-8v-hitorque-flex-2010",
+        "nome": "Sandero Privilège 1.6 8V Hi-Torque (flex)",
+        "ano": 2010
+      },
+      {
+        "id": 15589,
+        "idUrl": "sandero-expression-16-8v-flex-2010",
+        "nome": "Sandero Expression 1.6 8V (flex)",
+        "ano": 2010
+      },
+      {
+        "id": 15531,
+        "idUrl": "sandero-authentique-16-8v-hitorque-flex-2010",
+        "nome": "Sandero Authentique 1.6 8V Hi-Torque (flex)",
+        "ano": 2010
+      },
+      {
+        "id": 15546,
+        "idUrl": "sandero-expression-10-16v-flex-2010",
+        "nome": "Sandero Expression 1.0 16V (flex)",
+        "ano": 2010
+      },
+      {
+        "id": 15526,
+        "idUrl": "sandero-authentique-10-16v-flex-2010",
+        "nome": "Sandero Authentique 1.0 16V (flex)",
+        "ano": 2010
+      }
+    ],
+    "2011": [
+      {
+        "id": 15621,
+        "idUrl": "sandero-stepway-16-16v-flex-2011",
+        "nome": "Sandero Stepway 1.6 16V (Flex)",
+        "ano": 2011
+      },
+      {
+        "id": 15645,
+        "idUrl": "sandero-privilege-16-8v-hitorque-flex-2011",
+        "nome": "Sandero Privilège 1.6 8V Hi-Torque (flex)",
+        "ano": 2011
+      },
+      {
+        "id": 15555,
+        "idUrl": "sandero-expression-16-8v-flex-2011",
+        "nome": "Sandero Expression 1.6 8V (flex)",
+        "ano": 2011
+      },
+      {
+        "id": 15544,
+        "idUrl": "sandero-expression-10-16v-flex-2011",
+        "nome": "Sandero Expression 1.0 16V (flex)",
+        "ano": 2011
+      },
+      {
+        "id": 15631,
+        "idUrl": "sandero-gt-line-16-16v-flex-2011",
+        "nome": "Sandero GT Line 1.6 16V (Flex)",
+        "ano": 2011
+      },
+      {
+        "id": 15554,
+        "idUrl": "sandero-authentique-10-16v-flex-2011",
+        "nome": "Sandero Authentique 1.0 16V (flex)",
+        "ano": 2011
+      }
+    ],
+    "2012": [
+      {
+        "id": 15593,
+        "idUrl": "sandero-stepway-16-16v-hiflex-aut-2012",
+        "nome": "Sandero Stepway 1.6 16V Hi-Flex (aut)",
+        "ano": 2012
+      },
+      {
+        "id": 15620,
+        "idUrl": "sandero-stepway-16-16v-flex-2012",
+        "nome": "Sandero Stepway 1.6 16V (Flex)",
+        "ano": 2012
+      },
+      {
+        "id": 15604,
+        "idUrl": "sandero-stepway-rip-curl-16-16v-flex-2012",
+        "nome": "Sandero Stepway Rip Curl 1.6 16V (Flex)",
+        "ano": 2012
+      },
+      {
+        "id": 15635,
+        "idUrl": "sandero-privilege-16-16v-flexaut-2012",
+        "nome": "Sandero Privilege 1.6 16V (Flex)(aut)",
+        "ano": 2012
+      },
+      {
+        "id": 15646,
+        "idUrl": "sandero-privilege-16-8v-hitorque-flex-2012",
+        "nome": "Sandero Privilège 1.6 8V Hi-Torque (flex)",
+        "ano": 2012
+      },
+      {
+        "id": 15590,
+        "idUrl": "sandero-expression-16-8v-flex-2012",
+        "nome": "Sandero Expression 1.6 8V (flex)",
+        "ano": 2012
+      },
+      {
+        "id": 15547,
+        "idUrl": "sandero-expression-10-16v-flex-2012",
+        "nome": "Sandero Expression 1.0 16V (flex)",
+        "ano": 2012
+      },
+      {
+        "id": 15527,
+        "idUrl": "sandero-authentique-10-16v-flex-2012",
+        "nome": "Sandero Authentique 1.0 16V (flex)",
+        "ano": 2012
+      }
+    ],
+    "2013": [
+      {
+        "id": 15594,
+        "idUrl": "sandero-stepway-16-16v-hiflex-aut-2013",
+        "nome": "Sandero Stepway 1.6 16V Hi-Flex (aut)",
+        "ano": 2013
+      },
+      {
+        "id": 15605,
+        "idUrl": "sandero-stepway-rip-curl-16-16v-flex-2013",
+        "nome": "Sandero Stepway Rip Curl 1.6 16V (Flex)",
+        "ano": 2013
+      },
+      {
+        "id": 15599,
+        "idUrl": "sandero-stepway-16-8v-flex-2013",
+        "nome": "Sandero Stepway 1.6 8V (Flex)",
+        "ano": 2013
+      },
+      {
+        "id": 15636,
+        "idUrl": "sandero-privilege-16-16v-flexaut-2013",
+        "nome": "Sandero Privilege 1.6 16V (Flex)(aut)",
+        "ano": 2013
+      },
+      {
+        "id": 15647,
+        "idUrl": "sandero-privilege-16-8v-hitorque-flex-2013",
+        "nome": "Sandero Privilège 1.6 8V Hi-Torque (flex)",
+        "ano": 2013
+      },
+      {
+        "id": 15633,
+        "idUrl": "sandero-gt-line-16-8v-flex-2013",
+        "nome": "Sandero GT Line 1.6 8V (Flex)",
+        "ano": 2013
+      },
+      {
+        "id": 15624,
+        "idUrl": "sandero-expression-16-8v-flex-2013",
+        "nome": "Sandero Expression 1.6 8V (flex)",
+        "ano": 2013
+      },
+      {
+        "id": 15548,
+        "idUrl": "sandero-expression-10-16v-flex-2013",
+        "nome": "Sandero Expression 1.0 16V (flex)",
+        "ano": 2013
+      },
+      {
+        "id": 15528,
+        "idUrl": "sandero-authentique-10-16v-flex-2013",
+        "nome": "Sandero Authentique 1.0 16V (flex)",
+        "ano": 2013
+      }
+    ],
+    "2014": [
+      {
+        "id": 15611,
+        "idUrl": "sandero-stepway-tweed-16-8v-flex-2014",
+        "nome": "Sandero Stepway Tweed 1.6 8V (Flex)",
+        "ano": 2014
+      },
+      {
+        "id": 15595,
+        "idUrl": "sandero-stepway-16-16v-hiflex-aut-2014",
+        "nome": "Sandero Stepway 1.6 16V Hi-Flex (aut)",
+        "ano": 2014
+      },
+      {
+        "id": 15610,
+        "idUrl": "sandero-stepway-tweed-16-16v-flex-aut-2014",
+        "nome": "Sandero Stepway Tweed 1.6 16V (Flex) (Aut)",
+        "ano": 2014
+      },
+      {
+        "id": 15601,
+        "idUrl": "sandero-stepway-16-8v-flex-2014",
+        "nome": "Sandero Stepway 1.6 8V (flex)",
+        "ano": 2014
+      },
+      {
+        "id": 15637,
+        "idUrl": "sandero-privilege-16-16v-flexaut-2014",
+        "nome": "Sandero Privilege 1.6 16V (Flex)(aut)",
+        "ano": 2014
+      },
+      {
+        "id": 15641,
+        "idUrl": "sandero-privilege-16-8v-flex-2014",
+        "nome": "Sandero Privilège 1.6 8V (flex)",
+        "ano": 2014
+      },
+      {
+        "id": 15634,
+        "idUrl": "sandero-gt-line-16-8v-flex-2014",
+        "nome": "Sandero GT Line 1.6 8V (Flex)",
+        "ano": 2014
+      },
+      {
+        "id": 15625,
+        "idUrl": "sandero-expression-16-8v-flex-2014",
+        "nome": "Sandero Expression 1.6 8V (flex)",
+        "ano": 2014
+      },
+      {
+        "id": 15652,
+        "idUrl": "sandero-tech-run-10-16v-flex-2014",
+        "nome": "Sandero Tech Run 1.0 16V (Flex)",
+        "ano": 2014
+      },
+      {
+        "id": 15549,
+        "idUrl": "sandero-expression-10-16v-flex-2014",
+        "nome": "Sandero Expression 1.0 16V (flex)",
+        "ano": 2014
+      },
+      {
+        "id": 15529,
+        "idUrl": "sandero-authentique-10-16v-flex-2014",
+        "nome": "Sandero Authentique 1.0 16V (flex)",
+        "ano": 2014
+      }
+    ],
+    "2015": [
+      {
+        "id": 15602,
+        "idUrl": "sandero-stepway-16-8v-easyr-flex-2015",
+        "nome": "Sandero Stepway 1.6 8V Easy-r (Flex)",
+        "ano": 2015
+      },
+      {
+        "id": 15598,
+        "idUrl": "sandero-stepway-16-8v-2015",
+        "nome": "Sandero Stepway 1.6 8V",
+        "ano": 2015
+      },
+      {
+        "id": 15535,
+        "idUrl": "sandero-dynamique-16-8v-2015",
+        "nome": "Sandero Dynamique 1.6 8V",
+        "ano": 2015
+      },
+      {
+        "id": 15537,
+        "idUrl": "sandero-dynamique-16-8v-easyr-flex-2015",
+        "nome": "Sandero Dynamique 1.6 8V Easy-r (Flex)",
+        "ano": 2015
+      },
+      {
+        "id": 15627,
+        "idUrl": "sandero-expression-easyr-16-8v-flex-2015",
+        "nome": "Sandero Expression Easy-r 1.6 8V (Flex)",
+        "ano": 2015
+      },
+      {
+        "id": 15551,
+        "idUrl": "sandero-expression-16-8v-2015",
+        "nome": "Sandero Expression 1.6 8V",
+        "ano": 2015
+      },
+      {
+        "id": 15541,
+        "idUrl": "sandero-expression-10-16v-flex-2015",
+        "nome": "Sandero Expression 1.0 16V (Flex)",
+        "ano": 2015
+      },
+      {
+        "id": 15557,
+        "idUrl": "sandero-authentique-10-16v-flex-2015",
+        "nome": "Sandero Authentique 1.0 16V (Flex)",
+        "ano": 2015
+      }
+    ],
+    "2016": [
+      {
+        "id": 15650,
+        "idUrl": "sandero-rs-20-16v-flex-2016",
+        "nome": "Sandero RS 2.0 16V (Flex)",
+        "ano": 2016
+      },
+      {
+        "id": 15606,
+        "idUrl": "sandero-stepway-rip-curl-16-8v-flex-2016",
+        "nome": "Sandero Stepway Rip Curl 1.6 8V (Flex)",
+        "ano": 2016
+      },
+      {
+        "id": 15603,
+        "idUrl": "sandero-stepway-16-8v-easyr-flex-2016",
+        "nome": "Sandero Stepway 1.6 8V Easy-r (Flex)",
+        "ano": 2016
+      },
+      {
+        "id": 15600,
+        "idUrl": "sandero-stepway-16-8v-flex-2016",
+        "nome": "Sandero Stepway 1.6 8V (Flex)",
+        "ano": 2016
+      },
+      {
+        "id": 15630,
+        "idUrl": "sandero-gt-line-16-8v-flex-2016",
+        "nome": "Sandero GT Line  1.6 8V (Flex)",
+        "ano": 2016
+      },
+      {
+        "id": 15536,
+        "idUrl": "sandero-dynamique-16-8v-flex-2016",
+        "nome": "Sandero Dynamique 1.6 8V (Flex)",
+        "ano": 2016
+      },
+      {
+        "id": 15538,
+        "idUrl": "sandero-dynamique-16-8v-easyr-flex-2016",
+        "nome": "Sandero Dynamique 1.6 8V Easy-r (Flex)",
+        "ano": 2016
+      },
+      {
+        "id": 15609,
+        "idUrl": "sandero-stepway-rip-curl-easyr-16-8v-flex-2016",
+        "nome": "Sandero Stepway Rip Curl Easy-R 1.6 8V (Flex)",
+        "ano": 2016
+      },
+      {
+        "id": 15628,
+        "idUrl": "sandero-expression-easyr-16-8v-flex-2016",
+        "nome": "Sandero Expression Easy-r 1.6 8V (Flex)",
+        "ano": 2016
+      },
+      {
+        "id": 15552,
+        "idUrl": "sandero-expression-16-8v-flex-2016",
+        "nome": "Sandero Expression 1.6 8V (Flex)",
+        "ano": 2016
+      },
+      {
+        "id": 15542,
+        "idUrl": "sandero-expression-10-16v-flex-2016",
+        "nome": "Sandero Expression 1.0 16V (Flex)",
+        "ano": 2016
+      },
+      {
+        "id": 15533,
+        "idUrl": "sandero-authentique-plus-10-16v-flex-2016",
+        "nome": "Sandero Authentique Plus 1.0 16V (Flex)",
+        "ano": 2016
+      },
+      {
+        "id": 15587,
+        "idUrl": "sandero-authentique-10-16v-flex-2016",
+        "nome": "Sandero Authentique 1.0 16V (Flex)",
+        "ano": 2016
+      }
+    ],
+    "2017": [
+      {
+        "id": 15651,
+        "idUrl": "sandero-rs-20-16v-flex-2017",
+        "nome": "Sandero RS 2.0 16V (Flex)",
+        "ano": 2017
+      },
+      {
+        "id": 15597,
+        "idUrl": "sandero-stepway-16-16v-sce-easyr-flex-2017",
+        "nome": "Sandero Stepway 1.6 16V SCe Easy-r (Flex)",
+        "ano": 2017
+      },
+      {
+        "id": 15596,
+        "idUrl": "sandero-stepway-16-16v-sce-flex-2017",
+        "nome": "Sandero Stepway 1.6 16V SCe (Flex)",
+        "ano": 2017
+      },
+      {
+        "id": 15607,
+        "idUrl": "sandero-stepway-rip-curl-16-8v-flex-2017",
+        "nome": "Sandero Stepway Rip Curl 1.6 8V (Flex)",
+        "ano": 2017
+      },
+      {
+        "id": 15608,
+        "idUrl": "sandero-stepway-rip-curl-16-8v-easyr-flex-2017",
+        "nome": "Sandero Stepway Rip Curl 1.6 8V Easy-r (Flex)",
+        "ano": 2017
+      },
+      {
+        "id": 15632,
+        "idUrl": "sandero-gt-line-16-16v-sce-flex-2017",
+        "nome": "Sandero GT Line 1.6 16V SCe (Flex)",
+        "ano": 2017
+      },
+      {
+        "id": 15629,
+        "idUrl": "sandero-expression-pack-avantage-16-8v-hipower-2017",
+        "nome": "Sandero Expression Pack Avantage 1.6 8V Hi-Power",
+        "ano": 2017
+      },
+      {
+        "id": 15534,
+        "idUrl": "sandero-dynamique-16-16v-sce-flex-2017",
+        "nome": "Sandero Dynamique 1.6 16V SCe (Flex)",
+        "ano": 2017
+      },
+      {
+        "id": 21706,
+        "idUrl": "sandero-dynamique-16-8v-flex-2017",
+        "nome": "Sandero Dynamique 1.6 8V (Flex)",
+        "ano": 2017
+      },
+      {
+        "id": 15539,
+        "idUrl": "sandero-dynamique-easyr-16-16v-sce-flex-2017",
+        "nome": "Sandero Dynamique Easy-r 1.6 16V SCe (Flex)",
+        "ano": 2017
+      },
+      {
+        "id": 21707,
+        "idUrl": "sandero-dynamique-16-8v-easyr-flex-2017",
+        "nome": "Sandero Dynamique 1.6 8V Easy-r (Flex)",
+        "ano": 2017
+      },
+      {
+        "id": 15550,
+        "idUrl": "sandero-expression-16-16v-sce-flex-2017",
+        "nome": "Sandero Expression 1.6 16V SCe (Flex)",
+        "ano": 2017
+      },
+      {
+        "id": 21712,
+        "idUrl": "sandero-expression-16-8v-flex-2017",
+        "nome": "Sandero Expression 1.6 8V (Flex)",
+        "ano": 2017
+      },
+      {
+        "id": 15626,
+        "idUrl": "sandero-expression-easyr-16-16v-sce-flex-2017",
+        "nome": "Sandero Expression Easy-r 1.6 16V SCe (Flex)",
+        "ano": 2017
+      },
+      {
+        "id": 21714,
+        "idUrl": "sandero-expression-easyr-16-8v-flex-2017",
+        "nome": "Sandero Expression Easy-r 1.6 8V (Flex)",
+        "ano": 2017
+      },
+      {
+        "id": 15653,
+        "idUrl": "sandero-vibe-10-12v-sce-flex-2017",
+        "nome": "Sandero Vibe 1.0 12V SCe (Flex)",
+        "ano": 2017
+      },
+      {
+        "id": 15540,
+        "idUrl": "sandero-expression-10-12v-sce-flex-2017",
+        "nome": "Sandero Expression 1.0 12V SCe (Flex)",
+        "ano": 2017
+      },
+      {
+        "id": 15586,
+        "idUrl": "sandero-authentique-10-12v-sce-flex-2017",
+        "nome": "Sandero Authentique 1.0 12V SCe (Flex)",
+        "ano": 2017
+      },
+      {
+        "id": 21719,
+        "idUrl": "sandero-expression-10-16v-flex-2017",
+        "nome": "Sandero Expression 1.0 16V (Flex)",
+        "ano": 2017
+      }
+    ],
+    "2018": [
+      {
+        "id": 21717,
+        "idUrl": "sandero-rs-20-16v-racing-spirit-flex-2018",
+        "nome": "Sandero RS 2.0 16V Racing Spirit Flex",
+        "ano": 2018
+      },
+      {
+        "id": 21716,
+        "idUrl": "sandero-rs-20-16v-flex-2018",
+        "nome": "Sandero RS 2.0 16V Flex",
+        "ano": 2018
+      },
+      {
+        "id": 21951,
+        "idUrl": "sandero-stepway-dynamique-16-16v-sce-easyr-flex-2018",
+        "nome": "Sandero Stepway Dynamique 1.6 16V SCe Easy-r Flex",
+        "ano": 2018
+      },
+      {
+        "id": 21952,
+        "idUrl": "sandero-stepway-dynamique-16-16v-sce-flex-2018",
+        "nome": "Sandero Stepway Dynamique 1.6 16V SCe Flex",
+        "ano": 2018
+      },
+      {
+        "id": 21715,
+        "idUrl": "sandero-gt-line-16-16v-sce-flex-2018",
+        "nome": "Sandero GT Line 1.6 16V SCe Flex",
+        "ano": 2018
+      },
+      {
+        "id": 21953,
+        "idUrl": "sandero-stepway-expression-16-16v-sce-flex-2018",
+        "nome": "Sandero Stepway Expression 1.6 16V SCe Flex",
+        "ano": 2018
+      },
+      {
+        "id": 21708,
+        "idUrl": "sandero-dynamique-easyr-16-16v-sce-flex-2018",
+        "nome": "Sandero Dynamique Easy-r 1.6 16V SCe Flex",
+        "ano": 2018
+      },
+      {
+        "id": 21710,
+        "idUrl": "sandero-expression-easyr-16-16v-sce-flex-2018",
+        "nome": "Sandero Expression Easy-r 1.6 16V SCe Flex",
+        "ano": 2018
+      },
+      {
+        "id": 21705,
+        "idUrl": "sandero-dynamique-16-16v-sce-flex-2018",
+        "nome": "Sandero Dynamique 1.6 16V SCe Flex",
+        "ano": 2018
+      },
+      {
+        "id": 21711,
+        "idUrl": "sandero-expression-16-16v-sce-flex-2018",
+        "nome": "Sandero Expression 1.6 16V SCe Flex",
+        "ano": 2018
+      },
+      {
+        "id": 21718,
+        "idUrl": "sandero-vibe-10-12v-sce-flex-2018",
+        "nome": "Sandero Vibe 1.0 12V SCe Flex",
+        "ano": 2018
+      },
+      {
+        "id": 21709,
+        "idUrl": "sandero-expression-10-12v-sce-flex-2018",
+        "nome": "Sandero Expression 1.0 12V SCe Flex",
+        "ano": 2018
+      },
+      {
+        "id": 21703,
+        "idUrl": "sandero-authentique-10-12v-sce-flex-2018",
+        "nome": "Sandero Authentique 1.0 12V SCe Flex",
+        "ano": 2018
+      }
+    ]
+  }

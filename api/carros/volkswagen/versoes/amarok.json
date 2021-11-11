@@ -1,0 +1,350 @@
+{
+    "2011": [
+      {
+        "id": 18990,
+        "idUrl": "amarok-20-tdi-awd-highline-2011",
+        "nome": "Amarok 2.0 TDi AWD Highline",
+        "ano": 2011
+      },
+      {
+        "id": 19010,
+        "idUrl": "amarok-20-tdi-awd-trendline-2011",
+        "nome": "Amarok 2.0 TDi AWD Trendline",
+        "ano": 2011
+      },
+      {
+        "id": 19006,
+        "idUrl": "amarok-se-20-tdi-awd-2011",
+        "nome": "Amarok SE 2.0 TDi AWD",
+        "ano": 2011
+      },
+      {
+        "id": 18988,
+        "idUrl": "amarok-20-tdi-awd-2011",
+        "nome": "Amarok 2.0 TDi AWD",
+        "ano": 2011
+      },
+      {
+        "id": 18959,
+        "idUrl": "amarok-20-tdi-2011",
+        "nome": "Amarok 2.0 TDi",
+        "ano": 2011
+      }
+    ],
+    "2012": [
+      {
+        "id": 19022,
+        "idUrl": "amarok-20-tdi-cd-4x4-highline-aut-2012",
+        "nome": "Amarok 2.0 TDi CD 4x4 Highline (Aut)",
+        "ano": 2012
+      },
+      {
+        "id": 19008,
+        "idUrl": "amarok-20-tdi-awd-highline-2012",
+        "nome": "Amarok 2.0 TDi AWD Highline",
+        "ano": 2012
+      },
+      {
+        "id": 19011,
+        "idUrl": "amarok-20-tdi-awd-trendline-2012",
+        "nome": "Amarok 2.0 TDi AWD Trendline",
+        "ano": 2012
+      },
+      {
+        "id": 18989,
+        "idUrl": "amarok-20-tdi-awd-2012",
+        "nome": "Amarok 2.0 TDi AWD",
+        "ano": 2012
+      },
+      {
+        "id": 18958,
+        "idUrl": "amarok-20-tdi-2012",
+        "nome": "Amarok 2.0 TDi",
+        "ano": 2012
+      },
+      {
+        "id": 19005,
+        "idUrl": "amarok-se-20-tdi-awd-2012",
+        "nome": "Amarok SE 2.0 TDi AWD",
+        "ano": 2012
+      },
+      {
+        "id": 18957,
+        "idUrl": "amarok-20-tdi-4x2-cab-simples-2012",
+        "nome": "Amarok 2.0 TDi 4x2 (Cab Simples)",
+        "ano": 2012
+      },
+      {
+        "id": 18971,
+        "idUrl": "amarok-20-tdi-4x4-cab-simples-2012",
+        "nome": "Amarok 2.0 TDi 4x4 (Cab Simples)",
+        "ano": 2012
+      }
+    ],
+    "2013": [
+      {
+        "id": 19016,
+        "idUrl": "amarok-20-tdi-cd-4x4-highline-aut-2013",
+        "nome": "Amarok 2.0 TDi CD 4x4 Highline (Aut)",
+        "ano": 2013
+      },
+      {
+        "id": 19013,
+        "idUrl": "amarok-20-tdi-awd-trendline-aut-2013",
+        "nome": "Amarok 2.0 TDi AWD Trendline (Aut)",
+        "ano": 2013
+      },
+      {
+        "id": 19009,
+        "idUrl": "amarok-20-tdi-awd-highline-2013",
+        "nome": "Amarok 2.0 TDi AWD Highline",
+        "ano": 2013
+      },
+      {
+        "id": 19012,
+        "idUrl": "amarok-20-tdi-awd-trendline-2013",
+        "nome": "Amarok 2.0 TDi AWD Trendline",
+        "ano": 2013
+      },
+      {
+        "id": 18977,
+        "idUrl": "amarok-20-s-4x2-tdi-cab-dupla-2013",
+        "nome": "Amarok 2.0 S 4x2 TDi (Cab Dupla)",
+        "ano": 2013
+      },
+      {
+        "id": 18964,
+        "idUrl": "amarok-20-se-4x4-tdi-cab-dupla-2013",
+        "nome": "Amarok 2.0 SE 4x4 TDi (Cab Dupla)",
+        "ano": 2013
+      },
+      {
+        "id": 18969,
+        "idUrl": "amarok-20-s-4x4-tdi-cab-simples-2013",
+        "nome": "Amarok 2.0 S 4x4 TDi (Cab Simples)",
+        "ano": 2013
+      },
+      {
+        "id": 19020,
+        "idUrl": "amarok-20-tdi-cs-4x2-s-2013",
+        "nome": "Amarok 2.0 TDi CS 4x2 S",
+        "ano": 2013
+      }
+    ],
+    "2014": [
+      {
+        "id": 19017,
+        "idUrl": "amarok-20-tdi-cd-4x4-highline-aut-2014",
+        "nome": "Amarok 2.0 TDi CD 4x4 Highline (Aut)",
+        "ano": 2014
+      },
+      {
+        "id": 19015,
+        "idUrl": "amarok-20-tdi-cd-4x4-highline-2014",
+        "nome": "Amarok 2.0 TDi CD 4x4 Highline",
+        "ano": 2014
+      },
+      {
+        "id": 19019,
+        "idUrl": "amarok-20-tdi-cd-4x4-trendline-aut-2014",
+        "nome": "Amarok 2.0 TDi CD 4x4 Trendline (Aut)",
+        "ano": 2014
+      },
+      {
+        "id": 19018,
+        "idUrl": "amarok-20-tdi-cd-4x4-trendline-2014",
+        "nome": "Amarok 2.0 TDi CD 4x4 Trendline",
+        "ano": 2014
+      },
+      {
+        "id": 18960,
+        "idUrl": "amarok-20-se-4x4-tdi-cab-dupla-2014",
+        "nome": "Amarok 2.0 SE 4x4 TDi (Cab dupla)",
+        "ano": 2014
+      },
+      {
+        "id": 18973,
+        "idUrl": "amarok-20-s-4x4-tdi-cab-dupla-2014",
+        "nome": "Amarok 2.0 S 4x4 TDi (Cab Dupla)",
+        "ano": 2014
+      },
+      {
+        "id": 18968,
+        "idUrl": "amarok-20-s-4x4-tdi-cab-simples-2014",
+        "nome": "Amarok 2.0 S 4x4 TDi (Cab Simples)",
+        "ano": 2014
+      },
+      {
+        "id": 18975,
+        "idUrl": "amarok-20-s-4x2-tdi-cab-simples-2014",
+        "nome": "Amarok 2.0 S 4x2 TDi (Cab Simples)",
+        "ano": 2014
+      }
+    ],
+    "2015": [
+      {
+        "id": 18985,
+        "idUrl": "amarok-20-cd-4x4-tdi-highline-aut-2015",
+        "nome": "Amarok 2.0 CD 4x4 TDi Highline (Aut)",
+        "ano": 2015
+      },
+      {
+        "id": 18980,
+        "idUrl": "amarok-20-cd-4x4-tdi-trendline-2015",
+        "nome": "Amarok 2.0 CD 4x4 TDi Trendline",
+        "ano": 2015
+      },
+      {
+        "id": 18963,
+        "idUrl": "amarok-20-se-4x4-tdi-cab-dupla-2015",
+        "nome": "Amarok 2.0 SE 4x4 TDi (Cab Dupla)",
+        "ano": 2015
+      },
+      {
+        "id": 18987,
+        "idUrl": "amarok-20-s-4x4-tdi-cab-dupla-2015",
+        "nome": "Amarok 2.0 S 4x4 TDi (Cab Dupla)",
+        "ano": 2015
+      },
+      {
+        "id": 18967,
+        "idUrl": "amarok-20-s-4x4-tdi-cab-simples-2015",
+        "nome": "Amarok 2.0 S 4x4 TDi (Cab Simples)",
+        "ano": 2015
+      }
+    ],
+    "2016": [
+      {
+        "id": 18982,
+        "idUrl": "amarok-20-cd-4x4-tdi-highline-ultimate-aut-2016",
+        "nome": "Amarok 2.0 CD 4x4 TDi Highline Ultimate (Aut)",
+        "ano": 2016
+      },
+      {
+        "id": 18979,
+        "idUrl": "amarok-20-cd-4x4-tdi-trendline-aut-2016",
+        "nome": "Amarok 2.0 CD 4x4 TDi Trendline (Aut)",
+        "ano": 2016
+      },
+      {
+        "id": 18962,
+        "idUrl": "amarok-20-se-4x4-tdi-cab-dupla-2016",
+        "nome": "Amarok 2.0 SE 4x4 TDi (Cab Dupla)",
+        "ano": 2016
+      },
+      {
+        "id": 18972,
+        "idUrl": "amarok-20-s-4x4-tdi-cab-dupla-2016",
+        "nome": "Amarok 2.0 S 4x4 TDi (Cab Dupla)",
+        "ano": 2016
+      }
+    ],
+    "2017": [
+      {
+        "id": 18978,
+        "idUrl": "amarok-20-cd-4x4-tdi-trendline-aut-2017",
+        "nome": "Amarok 2.0 CD 4x4 TDi Trendline (Aut)",
+        "ano": 2017
+      },
+      {
+        "id": 18961,
+        "idUrl": "amarok-20-se-4x4-tdi-cab-dupla-2017",
+        "nome": "Amarok 2.0 SE 4x4 TDi (Cab Dupla)",
+        "ano": 2017
+      },
+      {
+        "id": 18970,
+        "idUrl": "amarok-20-s-4x4-tdi-cab-dupla-2017",
+        "nome": "Amarok 2.0 S 4X4 TDi Cab Dupla",
+        "ano": 2017
+      },
+      {
+        "id": 18965,
+        "idUrl": "amarok-20-s-4x4-tdi-cab-simples-2017",
+        "nome": "Amarok 2.0 S 4x4 TDi (Cab Simples)",
+        "ano": 2017
+      }
+    ],
+    "2018": [
+      {
+        "id": 21995,
+        "idUrl": "amarok-20-cd-4x4-tdi-extreme-aut-2018",
+        "nome": "Amarok 2.0 CD 4X4 TDi Extreme Aut",
+        "ano": 2018
+      },
+      {
+        "id": 22110,
+        "idUrl": "amarok-v6-2018",
+        "nome": "Amarok V6",
+        "ano": 2018
+      },
+      {
+        "id": 21996,
+        "idUrl": "amarok-20-cd-4x4-tdi-highline-aut-2018",
+        "nome": "Amarok 2.0 CD 4X4 TDi Highline Aut",
+        "ano": 2018
+      },
+      {
+        "id": 21998,
+        "idUrl": "amarok-30-cd-high-165-tdi-4x4-2018",
+        "nome": "Amarok 3.0 CD High 165 TDi 4X4",
+        "ano": 2018
+      },
+      {
+        "id": 21997,
+        "idUrl": "amarok-20-cd-4x4-tdi-trendline-aut-2018",
+        "nome": "Amarok 2.0 CD 4X4 TDi Trendline Aut",
+        "ano": 2018
+      },
+      {
+        "id": 21994,
+        "idUrl": "amarok-20-se-4x4-tdi-cabine-dupla-2018",
+        "nome": "Amarok 2.0 SE 4X4 TDi Cabine Dupla",
+        "ano": 2018
+      },
+      {
+        "id": 21993,
+        "idUrl": "amarok-20-s-4x4-tdi-cabine-dupla-2018",
+        "nome": "Amarok 2.0 S 4X4 TDi Cabine Dupla",
+        "ano": 2018
+      },
+      {
+        "id": 21992,
+        "idUrl": "amarok-20-s-4x4-tdi-cabine-simples-2018",
+        "nome": "Amarok 2.0 S 4X4 TDi Cabine Simples",
+        "ano": 2018
+      }
+    ],
+    "2019": [
+      {
+        "id": 22269,
+        "idUrl": "amarok-30-highline-v6-4x4-at-cd-2019",
+        "nome": "Amarok 3.0 Highline V6 4x4 AT CD",
+        "ano": 2019
+      },
+      {
+        "id": 22268,
+        "idUrl": "amarok-20-highline-4x4-aut-cd-2019",
+        "nome": "Amarok 2.0 Highline 4x4 AUT CD",
+        "ano": 2019
+      },
+      {
+        "id": 22262,
+        "idUrl": "amarok-20-comfortline-4x4-aut-cd-2019",
+        "nome": "Amarok 2.0 Comfortline 4x4 AUT CD",
+        "ano": 2019
+      },
+      {
+        "id": 22271,
+        "idUrl": "amarok-20-se-4x4-cd-2019",
+        "nome": "Amarok 2.0 SE 4x4 CD",
+        "ano": 2019
+      },
+      {
+        "id": 22260,
+        "idUrl": "amarok-30-extreme-v6-4x4-aut-cd-2019",
+        "nome": "Amarok 3.0 Extreme V6 4x4 AUT CD",
+        "ano": 2019
+      }
+    ]
+  }

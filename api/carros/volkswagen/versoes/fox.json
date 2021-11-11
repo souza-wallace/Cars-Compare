@@ -1,0 +1,944 @@
+{
+    "2004": [
+      {
+        "id": 19076,
+        "idUrl": "fox-sportline-16-8v-2004",
+        "nome": "Fox Sportline 1.6 8V",
+        "ano": 2004
+      },
+      {
+        "id": 19042,
+        "idUrl": "fox-plus-16-8v-2004",
+        "nome": "Fox Plus 1.6 8V",
+        "ano": 2004
+      },
+      {
+        "id": 19070,
+        "idUrl": "fox-sportline-16-8v-flex-2p-2004",
+        "nome": "Fox Sportline 1.6 8V (Flex) 2p",
+        "ano": 2004
+      },
+      {
+        "id": 19073,
+        "idUrl": "fox-sportline-16-8v-flex-2004",
+        "nome": "Fox Sportline 1.6 8V (Flex)",
+        "ano": 2004
+      },
+      {
+        "id": 19029,
+        "idUrl": "fox-plus-16-8v-flex-2p-2004",
+        "nome": "Fox Plus 1.6 8V (Flex) 2p",
+        "ano": 2004
+      },
+      {
+        "id": 19037,
+        "idUrl": "fox-plus-16-8v-flex-2004",
+        "nome": "Fox Plus 1.6 8V (Flex)",
+        "ano": 2004
+      },
+      {
+        "id": 19083,
+        "idUrl": "fox-plus-10-8v-flex-2004",
+        "nome": "Fox Plus 1.0 8V (Flex)",
+        "ano": 2004
+      },
+      {
+        "id": 19157,
+        "idUrl": "fox-city-10-8v-flex-2004",
+        "nome": "Fox City 1.0 8V (Flex)",
+        "ano": 2004
+      },
+      {
+        "id": 19086,
+        "idUrl": "fox-sportline-10-8v-flex-2004",
+        "nome": "Fox Sportline 1.0 8V (Flex)",
+        "ano": 2004
+      },
+      {
+        "id": 19090,
+        "idUrl": "fox-sportline-10-8v-flex-2p-2004",
+        "nome": "Fox Sportline 1.0 8V (Flex) 2p",
+        "ano": 2004
+      },
+      {
+        "id": 19043,
+        "idUrl": "fox-plus-10-8v-2p-2004",
+        "nome": "Fox Plus 1.0 8V 2p",
+        "ano": 2004
+      },
+      {
+        "id": 19044,
+        "idUrl": "fox-plus-10-8v-flex-2p-2004",
+        "nome": "Fox Plus 1.0 8V (Flex) 2p",
+        "ano": 2004
+      },
+      {
+        "id": 19138,
+        "idUrl": "fox-city-10-8v-2p-2004",
+        "nome": "Fox City 1.0 8V 2p",
+        "ano": 2004
+      },
+      {
+        "id": 19156,
+        "idUrl": "fox-city-10-flex-2p-2004",
+        "nome": "Fox City 1.0 (Flex) 2p",
+        "ano": 2004
+      }
+    ],
+    "2005": [
+      {
+        "id": 19036,
+        "idUrl": "fox-plus-16-8v-flex-2005",
+        "nome": "Fox Plus 1.6 8V (Flex)",
+        "ano": 2005
+      },
+      {
+        "id": 19071,
+        "idUrl": "fox-sportline-16-8v-flex-2p-2005",
+        "nome": "Fox Sportline 1.6 8V (Flex) 2p",
+        "ano": 2005
+      },
+      {
+        "id": 19075,
+        "idUrl": "fox-sportline-16-8v-flex-2005",
+        "nome": "Fox Sportline 1.6 8V (Flex)",
+        "ano": 2005
+      },
+      {
+        "id": 19033,
+        "idUrl": "fox-plus-16-8v-flex-2p-2005",
+        "nome": "Fox Plus 1.6 8V (Flex) 2p",
+        "ano": 2005
+      },
+      {
+        "id": 19093,
+        "idUrl": "fox-plus-10-8v-2005",
+        "nome": "Fox Plus 1.0 8V",
+        "ano": 2005
+      },
+      {
+        "id": 19143,
+        "idUrl": "fox-city-10-8v-flex-2005",
+        "nome": "Fox City 1.0 8V (Flex)",
+        "ano": 2005
+      },
+      {
+        "id": 19088,
+        "idUrl": "fox-sportline-10-8v-flex-2005",
+        "nome": "Fox Sportline 1.0 8V (Flex)",
+        "ano": 2005
+      },
+      {
+        "id": 18952,
+        "idUrl": "fox-10-8v-flex-2005",
+        "nome": "Fox 1.0 8V (Flex)",
+        "ano": 2005
+      },
+      {
+        "id": 19048,
+        "idUrl": "fox-plus-10-8v-flex-2p-2005",
+        "nome": "Fox Plus 1.0 8V (Flex) 2p",
+        "ano": 2005
+      },
+      {
+        "id": 19155,
+        "idUrl": "fox-city-10-flex-2p-2005",
+        "nome": "Fox City 1.0 (Flex) 2p",
+        "ano": 2005
+      }
+    ],
+    "2006": [
+      {
+        "id": 19056,
+        "idUrl": "fox-plus-16-8v-flex-2006",
+        "nome": "Fox Plus 1.6 8V (Flex)",
+        "ano": 2006
+      },
+      {
+        "id": 19034,
+        "idUrl": "fox-plus-16-8v-flex-2p-2006",
+        "nome": "Fox Plus 1.6 8V (Flex) 2p",
+        "ano": 2006
+      },
+      {
+        "id": 19051,
+        "idUrl": "fox-plus-10-8v-flex-2006",
+        "nome": "Fox Plus 1.0 8V (Flex)",
+        "ano": 2006
+      },
+      {
+        "id": 19144,
+        "idUrl": "fox-city-10-8v-flex-2006",
+        "nome": "Fox City 1.0 8V (Flex)",
+        "ano": 2006
+      },
+      {
+        "id": 19049,
+        "idUrl": "fox-plus-10-8v-flex-2p-2006",
+        "nome": "Fox Plus 1.0 8V (Flex) 2p",
+        "ano": 2006
+      },
+      {
+        "id": 19140,
+        "idUrl": "fox-city-10-8v-flex-2p-2006",
+        "nome": "Fox City 1.0 8V (Flex) 2p",
+        "ano": 2006
+      }
+    ],
+    "2007": [
+      {
+        "id": 19041,
+        "idUrl": "fox-plus-16-8v-flex-2007",
+        "nome": "Fox Plus 1.6 8V (Flex)",
+        "ano": 2007
+      },
+      {
+        "id": 19030,
+        "idUrl": "fox-plus-16-8v-flex-2p-2007",
+        "nome": "Fox Plus 1.6 8V (Flex) 2p",
+        "ano": 2007
+      },
+      {
+        "id": 19072,
+        "idUrl": "fox-sportline-16-8v-flex-2p-2007",
+        "nome": "Fox Sportline 1.6 8V (Flex) 2p",
+        "ano": 2007
+      },
+      {
+        "id": 19074,
+        "idUrl": "fox-sportline-16-8v-flex-2007",
+        "nome": "Fox Sportline 1.6 8V (Flex)",
+        "ano": 2007
+      },
+      {
+        "id": 19087,
+        "idUrl": "fox-sportline-10-8v-flex-2007",
+        "nome": "Fox Sportline 1.0 8V (Flex)",
+        "ano": 2007
+      },
+      {
+        "id": 19089,
+        "idUrl": "fox-sportline-10-8v-flex-2p-2007",
+        "nome": "Fox Sportline 1.0 8V (Flex) 2p",
+        "ano": 2007
+      },
+      {
+        "id": 19055,
+        "idUrl": "fox-plus-10-8v-flex-2007",
+        "nome": "Fox Plus 1.0 8V (Flex)",
+        "ano": 2007
+      },
+      {
+        "id": 19145,
+        "idUrl": "fox-city-10-8v-flex-2007",
+        "nome": "Fox City 1.0 8V (Flex)",
+        "ano": 2007
+      },
+      {
+        "id": 19045,
+        "idUrl": "fox-plus-10-8v-flex-2p-2007",
+        "nome": "Fox Plus 1.0 8V (Flex) 2p",
+        "ano": 2007
+      },
+      {
+        "id": 19142,
+        "idUrl": "fox-city-10-8v-flex-2p-2007",
+        "nome": "Fox City 1.0 8V (Flex) 2p",
+        "ano": 2007
+      }
+    ],
+    "2008": [
+      {
+        "id": 19080,
+        "idUrl": "fox-route-16-8v-flex-2008",
+        "nome": "Fox Route 1.6 8V (Flex)",
+        "ano": 2008
+      },
+      {
+        "id": 19085,
+        "idUrl": "fox-route-16-8v-flex-2p-2008",
+        "nome": "Fox Route 1.6 8V (Flex) 2p",
+        "ano": 2008
+      },
+      {
+        "id": 19039,
+        "idUrl": "fox-plus-16-8v-flex-2008",
+        "nome": "Fox Plus 1.6 8V (Flex)",
+        "ano": 2008
+      },
+      {
+        "id": 19031,
+        "idUrl": "fox-plus-16-8v-flex-2p-2008",
+        "nome": "Fox Plus 1.6 8V (Flex) 2p",
+        "ano": 2008
+      },
+      {
+        "id": 19054,
+        "idUrl": "fox-plus-10-8v-flex-2008",
+        "nome": "Fox Plus 1.0 8V (Flex)",
+        "ano": 2008
+      },
+      {
+        "id": 19159,
+        "idUrl": "fox-city-10-8v-flex-2008",
+        "nome": "Fox City 1.0 8V (Flex)",
+        "ano": 2008
+      },
+      {
+        "id": 19057,
+        "idUrl": "fox-route-10-8v-flex-2008",
+        "nome": "Fox Route 1.0 8V (Flex)",
+        "ano": 2008
+      },
+      {
+        "id": 19078,
+        "idUrl": "fox-route-10-8v-flex-2p-2008",
+        "nome": "Fox Route 1.0 8V (Flex) 2p",
+        "ano": 2008
+      },
+      {
+        "id": 18951,
+        "idUrl": "fox-10-8v-flex-2008",
+        "nome": "Fox 1.0 8V (Flex)",
+        "ano": 2008
+      },
+      {
+        "id": 19046,
+        "idUrl": "fox-plus-10-8v-flex-2p-2008",
+        "nome": "Fox Plus 1.0 8V (Flex) 2p",
+        "ano": 2008
+      },
+      {
+        "id": 19141,
+        "idUrl": "fox-city-10-8v-flex-2p-2008",
+        "nome": "Fox City 1.0 8V (Flex) 2p",
+        "ano": 2008
+      }
+    ],
+    "2009": [
+      {
+        "id": 19038,
+        "idUrl": "fox-plus-16-8v-flex-2009",
+        "nome": "Fox Plus 1.6 8V (Flex)",
+        "ano": 2009
+      },
+      {
+        "id": 19081,
+        "idUrl": "fox-route-16-8v-flex-2009",
+        "nome": "Fox Route 1.6 8V (Flex)",
+        "ano": 2009
+      },
+      {
+        "id": 19091,
+        "idUrl": "fox-route-16-8v-flex-2p-2009",
+        "nome": "Fox Route 1.6 8V (Flex) 2p",
+        "ano": 2009
+      },
+      {
+        "id": 19032,
+        "idUrl": "fox-plus-16-8v-flex-2p-2009",
+        "nome": "Fox Plus 1.6 8V (Flex) 2p",
+        "ano": 2009
+      },
+      {
+        "id": 19133,
+        "idUrl": "fox-extreme-16-8v-flex-2p-2009",
+        "nome": "Fox Extreme 1.6 8V (Flex) 2p",
+        "ano": 2009
+      },
+      {
+        "id": 19134,
+        "idUrl": "fox-extreme-16-8v-flex-2009",
+        "nome": "Fox Extreme 1.6 8V (Flex)",
+        "ano": 2009
+      },
+      {
+        "id": 19053,
+        "idUrl": "fox-plus-10-8v-flex-2009",
+        "nome": "Fox Plus 1.0 8V (Flex)",
+        "ano": 2009
+      },
+      {
+        "id": 19158,
+        "idUrl": "fox-city-10-8v-flex-2009",
+        "nome": "Fox City 1.0 8V (Flex)",
+        "ano": 2009
+      },
+      {
+        "id": 19058,
+        "idUrl": "fox-route-10-8v-flex-2009",
+        "nome": "Fox Route 1.0 8V (Flex)",
+        "ano": 2009
+      },
+      {
+        "id": 19077,
+        "idUrl": "fox-route-10-8v-flex-2p-2009",
+        "nome": "Fox Route 1.0 8V (Flex) 2p",
+        "ano": 2009
+      },
+      {
+        "id": 19047,
+        "idUrl": "fox-plus-10-8v-flex-2p-2009",
+        "nome": "Fox Plus 1.0 8V (Flex) 2p",
+        "ano": 2009
+      },
+      {
+        "id": 19069,
+        "idUrl": "fox-sunrise-10-8v-flex-2009",
+        "nome": "Fox Sunrise 1.0 8V (Flex)",
+        "ano": 2009
+      },
+      {
+        "id": 19139,
+        "idUrl": "fox-city-10-8v-flex-2p-2009",
+        "nome": "Fox City 1.0 8V (Flex) 2p",
+        "ano": 2009
+      }
+    ],
+    "2010": [
+      {
+        "id": 19026,
+        "idUrl": "fox-prime-16-8v-imotion-flex-2010",
+        "nome": "Fox Prime 1.6 8V I-Motion (Flex)",
+        "ano": 2010
+      },
+      {
+        "id": 19028,
+        "idUrl": "fox-prime-16-8v-flex-2010",
+        "nome": "Fox Prime 1.6 8V (Flex)",
+        "ano": 2010
+      },
+      {
+        "id": 19111,
+        "idUrl": "fox-16-8v-imotion-flex-2010",
+        "nome": "Fox 1.6 8V I-Motion (Flex)",
+        "ano": 2010
+      },
+      {
+        "id": 19131,
+        "idUrl": "fox-extreme-16-8v-flex-4p-2010",
+        "nome": "Fox Extreme 1.6 8V (Flex) 4p",
+        "ano": 2010
+      },
+      {
+        "id": 19132,
+        "idUrl": "fox-extreme-16-8v-flex-2p-2010",
+        "nome": "Fox Extreme 1.6 8V (Flex) 2p",
+        "ano": 2010
+      },
+      {
+        "id": 19084,
+        "idUrl": "fox-route-16-8v-flex-2010",
+        "nome": "Fox Route 1.6 8V (Flex)",
+        "ano": 2010
+      },
+      {
+        "id": 19035,
+        "idUrl": "fox-plus-16-8v-flex-2p-2010",
+        "nome": "Fox Plus 1.6 8V (Flex) 2p",
+        "ano": 2010
+      },
+      {
+        "id": 19113,
+        "idUrl": "fox-16-8v-flex-2010",
+        "nome": "Fox 1.6 8V (Flex)",
+        "ano": 2010
+      },
+      {
+        "id": 19052,
+        "idUrl": "fox-plus-10-8v-flex-2010",
+        "nome": "Fox Plus 1.0 8V (Flex)",
+        "ano": 2010
+      },
+      {
+        "id": 18936,
+        "idUrl": "fox-10-8v-flex-4p-2010",
+        "nome": "Fox 1.0 8V (Flex) 4p",
+        "ano": 2010
+      },
+      {
+        "id": 19050,
+        "idUrl": "fox-plus-10-8v-flex-2p-2010",
+        "nome": "Fox Plus 1.0 8V (Flex) 2p",
+        "ano": 2010
+      },
+      {
+        "id": 19068,
+        "idUrl": "fox-sunrise-10-8v-flex-2010",
+        "nome": "Fox Sunrise 1.0 8V (Flex)",
+        "ano": 2010
+      },
+      {
+        "id": 18938,
+        "idUrl": "fox-10-8v-flex-2p-2010",
+        "nome": "Fox 1.0 8V (Flex) 2p",
+        "ano": 2010
+      },
+      {
+        "id": 19059,
+        "idUrl": "fox-route-10-8v-flex-2010",
+        "nome": "Fox Route 1.0 8V (Flex)",
+        "ano": 2010
+      },
+      {
+        "id": 19079,
+        "idUrl": "fox-route-10-8v-flex-4p-2010",
+        "nome": "Fox Route 1.0 8V (Flex) 4p",
+        "ano": 2010
+      }
+    ],
+    "2011": [
+      {
+        "id": 19125,
+        "idUrl": "fox-16-8v-imotion-flex-2011",
+        "nome": "Fox 1.6 8V I-Motion (Flex)",
+        "ano": 2011
+      },
+      {
+        "id": 19040,
+        "idUrl": "fox-prime-16-8v-imotion-flex-2011",
+        "nome": "Fox Prime 1.6 8V I-Motion (Flex)",
+        "ano": 2011
+      }
+    ],
+    "2012": [
+      {
+        "id": 19149,
+        "idUrl": "fox-16-vht-rock-in-rio-flex-2012",
+        "nome": "Fox 1.6 VHT Rock in Rio (Flex)",
+        "ano": 2012
+      },
+      {
+        "id": 19147,
+        "idUrl": "fox-16-vht-prime-imotion-flex-2012",
+        "nome": "Fox 1.6 VHT Prime I-Motion (Flex)",
+        "ano": 2012
+      },
+      {
+        "id": 19128,
+        "idUrl": "fox-16-vht-prime-flex-2012",
+        "nome": "Fox 1.6 VHT Prime (Flex)",
+        "ano": 2012
+      },
+      {
+        "id": 19109,
+        "idUrl": "fox-16-vht-imotion-flex-2012",
+        "nome": "Fox 1.6 VHT I-Motion (Flex)",
+        "ano": 2012
+      },
+      {
+        "id": 19101,
+        "idUrl": "fox-16-vht-flex-2012",
+        "nome": "Fox 1.6 VHT (Flex)",
+        "ano": 2012
+      }
+    ],
+    "2013": [
+      {
+        "id": 19097,
+        "idUrl": "fox-16-vht-bluemotion-flex-4p-2013",
+        "nome": "Fox 1.6 VHT BlueMotion (Flex) 4p",
+        "ano": 2013
+      },
+      {
+        "id": 19126,
+        "idUrl": "fox-16-vht-imotion-flex-2013",
+        "nome": "Fox 1.6 VHT I-Motion (Flex)",
+        "ano": 2013
+      },
+      {
+        "id": 19148,
+        "idUrl": "fox-16-vht-prime-imotion-flex-2013",
+        "nome": "Fox 1.6 VHT Prime I-Motion (Flex)",
+        "ano": 2013
+      },
+      {
+        "id": 19146,
+        "idUrl": "fox-16-vht-prime-flex-2013",
+        "nome": "Fox 1.6 VHT Prime (Flex)",
+        "ano": 2013
+      },
+      {
+        "id": 19100,
+        "idUrl": "fox-16-vht-flex-2013",
+        "nome": "Fox 1.6 VHT (Flex)",
+        "ano": 2013
+      },
+      {
+        "id": 19098,
+        "idUrl": "fox-16-vht-bluemotion-flex-2p-2013",
+        "nome": "Fox 1.6 VHT BlueMotion (Flex) 2p",
+        "ano": 2013
+      },
+      {
+        "id": 19122,
+        "idUrl": "fox-10-vht-flex-4p-2013",
+        "nome": "Fox 1.0 VHT (Flex) 4p",
+        "ano": 2013
+      },
+      {
+        "id": 18922,
+        "idUrl": "fox-10-tec-flex-4p-2013",
+        "nome": "Fox 1.0 TEC (Flex) 4p",
+        "ano": 2013
+      },
+      {
+        "id": 19124,
+        "idUrl": "fox-10-vht-flex-2p-2013",
+        "nome": "Fox 1.0 VHT (Flex) 2p",
+        "ano": 2013
+      },
+      {
+        "id": 18924,
+        "idUrl": "fox-10-tec-flex-2p-2013",
+        "nome": "Fox 1.0 TEC (Flex) 2p",
+        "ano": 2013
+      }
+    ],
+    "2014": [
+      {
+        "id": 19095,
+        "idUrl": "fox-16-vht-highline-imotion-aut-flex-2014",
+        "nome": "Fox 1.6 VHT Highline I-Motion (Aut) (Flex)",
+        "ano": 2014
+      },
+      {
+        "id": 19096,
+        "idUrl": "fox-16-vht-highline-flex-2014",
+        "nome": "Fox 1.6 VHT Highline (Flex)",
+        "ano": 2014
+      },
+      {
+        "id": 19151,
+        "idUrl": "fox-16-vht-selecao-flex-2014",
+        "nome": "Fox 1.6 VHT Seleção (Flex)",
+        "ano": 2014
+      },
+      {
+        "id": 19150,
+        "idUrl": "fox-16-vht-rock-in-rio-flex-2014",
+        "nome": "Fox 1.6 VHT Rock in Rio (Flex)",
+        "ano": 2014
+      },
+      {
+        "id": 18954,
+        "idUrl": "fox-10-tec-bluemotion-flex-4p-2014",
+        "nome": "Fox 1.0 TEC BlueMotion (Flex) 4p",
+        "ano": 2014
+      },
+      {
+        "id": 18926,
+        "idUrl": "fox-10-tec-bluemotion-flex-2p-2014",
+        "nome": "Fox 1.0 TEC  BlueMotion (Flex) 2p",
+        "ano": 2014
+      },
+      {
+        "id": 19127,
+        "idUrl": "fox-16-vht-imotion-flex-2014",
+        "nome": "Fox 1.6 VHT I-Motion (Flex)",
+        "ano": 2014
+      },
+      {
+        "id": 19099,
+        "idUrl": "fox-16-vht-flex-2014",
+        "nome": "Fox 1.6 VHT (Flex)",
+        "ano": 2014
+      },
+      {
+        "id": 19092,
+        "idUrl": "fox-10-tec-selecao-flex-2014",
+        "nome": "Fox 1.0 TEC Seleção (Flex)",
+        "ano": 2014
+      },
+      {
+        "id": 18923,
+        "idUrl": "fox-10-tec-flex-4p-2014",
+        "nome": "Fox 1.0 TEC (Flex) 4p",
+        "ano": 2014
+      },
+      {
+        "id": 18925,
+        "idUrl": "fox-10-tec-flex-2p-2014",
+        "nome": "Fox 1.0 TEC (Flex) 2p",
+        "ano": 2014
+      },
+      {
+        "id": 19153,
+        "idUrl": "fox-16-vht-selecao-imotion-flex-2014",
+        "nome": "Fox 1.6 VHT Seleção I-Motion (Flex)",
+        "ano": 2014
+      }
+    ],
+    "2015": [
+      {
+        "id": 19094,
+        "idUrl": "fox-pepper-16-16v-msi-2015",
+        "nome": "Fox Pepper 1.6 16v MSI",
+        "ano": 2015
+      },
+      {
+        "id": 19130,
+        "idUrl": "fox-highline-16-16v-msi-flex-2015",
+        "nome": "Fox Highline 1.6 16v MSI (Flex)",
+        "ano": 2015
+      },
+      {
+        "id": 19152,
+        "idUrl": "fox-pepper-imotion-16-16v-msi-flex-2015",
+        "nome": "Fox Pepper I-Motion 1.6 16v MSI (Flex)",
+        "ano": 2015
+      },
+      {
+        "id": 19129,
+        "idUrl": "fox-highline-imotion-16-16v-msi-flex-2015",
+        "nome": "Fox Highline I-Motion 1.6 16v MSI (Flex)",
+        "ano": 2015
+      },
+      {
+        "id": 19136,
+        "idUrl": "fox-comfortline-16-msi-flex-2015",
+        "nome": "Fox Comfortline 1.6 MSI (Flex)",
+        "ano": 2015
+      },
+      {
+        "id": 19135,
+        "idUrl": "fox-comfortline-imotion-16-msi-flex-2015",
+        "nome": "Fox Comfortline I-Motion 1.6 MSI (Flex)",
+        "ano": 2015
+      },
+      {
+        "id": 19065,
+        "idUrl": "fox-trendline-16-msi-flex-2015",
+        "nome": "Fox Trendline 1.6 MSI (Flex)",
+        "ano": 2015
+      },
+      {
+        "id": 19154,
+        "idUrl": "fox-bluemotion-10-mpi-flex-2015",
+        "nome": "Fox BlueMotion 1.0 MPI (Flex)",
+        "ano": 2015
+      },
+      {
+        "id": 22341,
+        "idUrl": "fox-comfortline-10-8v-flex-5p-2015",
+        "nome": "Fox Comfortline 1.0 8v Flex 5p",
+        "ano": 2015
+      },
+      {
+        "id": 19066,
+        "idUrl": "fox-trendline-10-tec-flex-2015",
+        "nome": "Fox Trendline 1.0 TEC (Flex)",
+        "ano": 2015
+      }
+    ],
+    "2016": [
+      {
+        "id": 19117,
+        "idUrl": "fox-16-16v-msi-pepper-flex-2016",
+        "nome": "Fox 1.6 16v MSI Pepper (Flex)",
+        "ano": 2016
+      },
+      {
+        "id": 19121,
+        "idUrl": "fox-16-16v-msi-highline-flex-2016",
+        "nome": "Fox 1.6 16v MSI Highline (Flex)",
+        "ano": 2016
+      },
+      {
+        "id": 19115,
+        "idUrl": "fox-16-16v-msi-pepper-imotion-flex-2016",
+        "nome": "Fox 1.6 16v MSI Pepper I-Motion (Flex)",
+        "ano": 2016
+      },
+      {
+        "id": 19105,
+        "idUrl": "fox-16-msi-rock-in-rio-flex-2016",
+        "nome": "Fox 1.6 MSI Rock in Rio (Flex)",
+        "ano": 2016
+      },
+      {
+        "id": 19110,
+        "idUrl": "fox-16-msi-comfortline-flex-2016",
+        "nome": "Fox 1.6 MSI Comfortline (Flex)",
+        "ano": 2016
+      },
+      {
+        "id": 19119,
+        "idUrl": "fox-16-16v-msi-highline-imotion-flex-2016",
+        "nome": "Fox 1.6 16v MSI Highline I-Motion (Flex)",
+        "ano": 2016
+      },
+      {
+        "id": 18930,
+        "idUrl": "fox-10-mpi-track-flex-2016",
+        "nome": "Fox 1.0 MPI Track (Flex)",
+        "ano": 2016
+      },
+      {
+        "id": 19024,
+        "idUrl": "fox-10-tec-comfortline-flex-2016",
+        "nome": "Fox 1.0 TEC Comfortline (Flex)",
+        "ano": 2016
+      },
+      {
+        "id": 18932,
+        "idUrl": "fox-10-mpi-comfortline-flex-2016",
+        "nome": "Fox 1.0 MPI Comfortline (Flex)",
+        "ano": 2016
+      },
+      {
+        "id": 19103,
+        "idUrl": "fox-16-msi-trendline-flex-2016",
+        "nome": "Fox 1.6 MSI Trendline (Flex)",
+        "ano": 2016
+      },
+      {
+        "id": 19107,
+        "idUrl": "fox-16-msi-comfortline-imotion-flex-2016",
+        "nome": "Fox 1.6 MSI Comfortline I-Motion (Flex)",
+        "ano": 2016
+      },
+      {
+        "id": 18928,
+        "idUrl": "fox-10-mpi-trendline-flex-2016",
+        "nome": "Fox 1.0 MPI Trendline (Flex)",
+        "ano": 2016
+      },
+      {
+        "id": 18934,
+        "idUrl": "fox-10-mpi-bluemotion-flex-2016",
+        "nome": "Fox 1.0 MPI BlueMotion (Flex)",
+        "ano": 2016
+      }
+    ],
+    "2017": [
+      {
+        "id": 19114,
+        "idUrl": "fox-16-16v-msi-pepper-imotion-flex-2017",
+        "nome": "Fox 1.6 16v MSI Pepper I-Motion (Flex)",
+        "ano": 2017
+      },
+      {
+        "id": 19118,
+        "idUrl": "fox-16-16v-msi-highline-imotion-flex-2017",
+        "nome": "Fox 1.6 16v MSI Highline I-Motion (Flex)",
+        "ano": 2017
+      },
+      {
+        "id": 19116,
+        "idUrl": "fox-16-16v-msi-pepper-flex-2017",
+        "nome": "Fox 1.6 16v MSI Pepper (Flex)",
+        "ano": 2017
+      },
+      {
+        "id": 19120,
+        "idUrl": "fox-16-16v-msi-highline-flex-2017",
+        "nome": "Fox 1.6 16v MSI Highline (Flex)",
+        "ano": 2017
+      },
+      {
+        "id": 19104,
+        "idUrl": "fox-16-msi-run-flex-2017",
+        "nome": "Fox 1.6 MSI Run (Flex)",
+        "ano": 2017
+      },
+      {
+        "id": 19108,
+        "idUrl": "fox-16-msi-comfortline-flex-2017",
+        "nome": "Fox 1.6 MSI Comfortline (Flex)",
+        "ano": 2017
+      },
+      {
+        "id": 18929,
+        "idUrl": "fox-10-mpi-track-flex-2017",
+        "nome": "Fox 1.0 MPI Track (Flex)",
+        "ano": 2017
+      },
+      {
+        "id": 18933,
+        "idUrl": "fox-10-mpi-bluemotion-flex-2017",
+        "nome": "Fox 1.0 MPI BlueMotion (Flex)",
+        "ano": 2017
+      },
+      {
+        "id": 18931,
+        "idUrl": "fox-10-mpi-comfortline-flex-2017",
+        "nome": "Fox 1.0 MPI Comfortline (Flex)",
+        "ano": 2017
+      },
+      {
+        "id": 19106,
+        "idUrl": "fox-16-msi-comfortline-imotion-flex-2017",
+        "nome": "Fox 1.6 MSI Comfortline I-Motion (Flex)",
+        "ano": 2017
+      },
+      {
+        "id": 19102,
+        "idUrl": "fox-16-msi-trendline-flex-2017",
+        "nome": "Fox 1.6 MSI Trendline (Flex)",
+        "ano": 2017
+      },
+      {
+        "id": 18927,
+        "idUrl": "fox-10-mpi-trendline-flex-2017",
+        "nome": "Fox 1.0 MPI Trendline (Flex)",
+        "ano": 2017
+      }
+    ],
+    "2018": [
+      {
+        "id": 21781,
+        "idUrl": "fox-16-16v-msi-pepper-imotion-flex-2018",
+        "nome": "Fox 1.6 16v MSI Pepper I-Motion (Flex)",
+        "ano": 2018
+      },
+      {
+        "id": 21779,
+        "idUrl": "fox-16-16v-msi-highline-imotion-flex-2018",
+        "nome": "Fox 1.6 16v MSI Highline I-Motion (Flex)",
+        "ano": 2018
+      },
+      {
+        "id": 21780,
+        "idUrl": "fox-16-16v-msi-pepper-flex-2018",
+        "nome": "Fox 16 16v MSI Pepper Flex",
+        "ano": 2018
+      },
+      {
+        "id": 21778,
+        "idUrl": "fox-16-16v-msi-highline-flex-2018",
+        "nome": "Fox 16 16v MSI Highline Flex",
+        "ano": 2018
+      },
+      {
+        "id": 21776,
+        "idUrl": "fox-10-mpi-track-flex-2018",
+        "nome": "Fox 10 MPI Track Flex",
+        "ano": 2018
+      },
+      {
+        "id": 21783,
+        "idUrl": "fox-16-msi-comfortline-imotion-flex-2018",
+        "nome": "Fox 1.6 MSI Comfortline I-Motion (Flex)",
+        "ano": 2018
+      },
+      {
+        "id": 21782,
+        "idUrl": "fox-16-msi-comfortline-flex-2018",
+        "nome": "Fox 1.6 MSI Comfortline (Flex)",
+        "ano": 2018
+      },
+      {
+        "id": 21784,
+        "idUrl": "fox-16-msi-trendline-flex-2018",
+        "nome": "Fox 1.6 MSI Trendline Flex",
+        "ano": 2018
+      },
+      {
+        "id": 21777,
+        "idUrl": "fox-10-mpi-trendline-flex-2018",
+        "nome": "Fox 10 MPI Trendline Flex",
+        "ano": 2018
+      }
+    ]
+  }

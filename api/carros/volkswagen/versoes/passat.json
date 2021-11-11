@@ -1,0 +1,462 @@
+{
+    "1985": [
+      {
+        "id": 17712,
+        "idUrl": "passat-ls-village-16-1985",
+        "nome": "Passat LS Village 1.6",
+        "ano": 1985
+      },
+      {
+        "id": 17598,
+        "idUrl": "passat-special-16-1985",
+        "nome": "Passat Special 1.6",
+        "ano": 1985
+      },
+      {
+        "id": 17603,
+        "idUrl": "passat-plus-16-1985",
+        "nome": "Passat Plus 1.6",
+        "ano": 1985
+      },
+      {
+        "id": 17604,
+        "idUrl": "passat-lse-paddock-16-1985",
+        "nome": "Passat LSE Paddock 1.6",
+        "ano": 1985
+      },
+      {
+        "id": 17606,
+        "idUrl": "passat-lse-16-1985",
+        "nome": "Passat LSE 1.6",
+        "ano": 1985
+      }
+    ],
+    "1986": [
+      {
+        "id": 17961,
+        "idUrl": "passat-gl-village-16-1986",
+        "nome": "Passat GL Village 1.6",
+        "ano": 1986
+      }
+    ],
+    "1987": [
+      {
+        "id": 17964,
+        "idUrl": "passat-flash-18-1987",
+        "nome": "Passat Flash 1.8",
+        "ano": 1987
+      }
+    ],
+    "1991": [
+      {
+        "id": 17960,
+        "idUrl": "passat-glx-vr6-28-1991",
+        "nome": "Passat GLX VR6 2.8",
+        "ano": 1991
+      },
+      {
+        "id": 17962,
+        "idUrl": "passat-gl-20-i-1991",
+        "nome": "Passat GL 2.0 i",
+        "ano": 1991
+      }
+    ],
+    "1995": [
+      {
+        "id": 17965,
+        "idUrl": "passat-exclusive-28-vr6-1995",
+        "nome": "Passat Exclusive 2.8 VR6",
+        "ano": 1995
+      }
+    ],
+    "1997": [
+      {
+        "id": 17948,
+        "idUrl": "passat-18-20v-1997",
+        "nome": "Passat 1.8 20V",
+        "ano": 1997
+      }
+    ],
+    "1998": [
+      {
+        "id": 17937,
+        "idUrl": "passat-18-turbo-20v-tiptronic-1998",
+        "nome": "Passat 1.8 Turbo 20V (Tiptronic)",
+        "ano": 1998
+      },
+      {
+        "id": 17974,
+        "idUrl": "passat-28-v6-30v-tiptronic-1998",
+        "nome": "Passat 2.8 V6 30V (Tiptronic)",
+        "ano": 1998
+      },
+      {
+        "id": 17954,
+        "idUrl": "passat-28-v6-30v-1998",
+        "nome": "Passat 2.8 V6 30V",
+        "ano": 1998
+      },
+      {
+        "id": 17982,
+        "idUrl": "passat-28-vr6-1998",
+        "nome": "Passat 2.8 VR6",
+        "ano": 1998
+      },
+      {
+        "id": 17947,
+        "idUrl": "passat-18-20v-1998",
+        "nome": "Passat 1.8 20V",
+        "ano": 1998
+      },
+      {
+        "id": 17944,
+        "idUrl": "passat-18-turbo-20v-1998",
+        "nome": "Passat 1.8 Turbo 20V",
+        "ano": 1998
+      }
+    ],
+    "1999": [
+      {
+        "id": 17975,
+        "idUrl": "passat-28-v6-30v-tiptronic-1999",
+        "nome": "Passat 2.8 V6 30V (Tiptronic)",
+        "ano": 1999
+      },
+      {
+        "id": 17935,
+        "idUrl": "passat-18-turbo-20v-tiptronic-1999",
+        "nome": "Passat 1.8 Turbo 20V (Tiptronic)",
+        "ano": 1999
+      },
+      {
+        "id": 17955,
+        "idUrl": "passat-28-v6-30v-1999",
+        "nome": "Passat 2.8 V6 30V",
+        "ano": 1999
+      },
+      {
+        "id": 17983,
+        "idUrl": "passat-28-vr6-1999",
+        "nome": "Passat 2.8 VR6",
+        "ano": 1999
+      },
+      {
+        "id": 17943,
+        "idUrl": "passat-18-turbo-20v-1999",
+        "nome": "Passat 1.8 Turbo 20V",
+        "ano": 1999
+      },
+      {
+        "id": 17946,
+        "idUrl": "passat-18-20v-1999",
+        "nome": "Passat 1.8 20V",
+        "ano": 1999
+      }
+    ],
+    "2000": [
+      {
+        "id": 17976,
+        "idUrl": "passat-28-v6-30v-tiptronic-2000",
+        "nome": "Passat 2.8 V6 30V (Tiptronic)",
+        "ano": 2000
+      },
+      {
+        "id": 17952,
+        "idUrl": "passat-18-turbo-20v-tiptronic-2000",
+        "nome": "Passat 1.8 Turbo 20V (Tiptronic)",
+        "ano": 2000
+      },
+      {
+        "id": 17942,
+        "idUrl": "passat-18-turbo-20v-2000",
+        "nome": "Passat 1.8 Turbo 20V",
+        "ano": 2000
+      },
+      {
+        "id": 17953,
+        "idUrl": "passat-28-v6-30v-2000",
+        "nome": "Passat 2.8 V6 30V",
+        "ano": 2000
+      },
+      {
+        "id": 17950,
+        "idUrl": "passat-18-aut-2000",
+        "nome": "Passat 1.8 (Aut)",
+        "ano": 2000
+      },
+      {
+        "id": 17949,
+        "idUrl": "passat-18-20v-2000",
+        "nome": "Passat 1.8 20V",
+        "ano": 2000
+      }
+    ],
+    "2001": [
+      {
+        "id": 17977,
+        "idUrl": "passat-28-v6-30v-tiptronic-2001",
+        "nome": "Passat 2.8 V6 30V (Tiptronic)",
+        "ano": 2001
+      },
+      {
+        "id": 17928,
+        "idUrl": "passat-20-aut-2001",
+        "nome": "Passat 2.0 (Aut)",
+        "ano": 2001
+      },
+      {
+        "id": 17929,
+        "idUrl": "passat-20-2001",
+        "nome": "Passat 2.0",
+        "ano": 2001
+      },
+      {
+        "id": 17934,
+        "idUrl": "passat-18-turbo-20v-tiptronic-2001",
+        "nome": "Passat 1.8 Turbo 20V (Tiptronic)",
+        "ano": 2001
+      },
+      {
+        "id": 17941,
+        "idUrl": "passat-18-turbo-20v-2001",
+        "nome": "Passat 1.8 Turbo 20V",
+        "ano": 2001
+      }
+    ],
+    "2002": [
+      {
+        "id": 17978,
+        "idUrl": "passat-28-v6-30v-tiptronic-2002",
+        "nome": "Passat 2.8 V6 30V (Tiptronic)",
+        "ano": 2002
+      },
+      {
+        "id": 17933,
+        "idUrl": "passat-18-turbo-20v-tiptronic-2002",
+        "nome": "Passat 1.8 Turbo 20V (Tiptronic)",
+        "ano": 2002
+      },
+      {
+        "id": 17940,
+        "idUrl": "passat-18-turbo-20v-2002",
+        "nome": "Passat 1.8 Turbo 20V",
+        "ano": 2002
+      }
+    ],
+    "2003": [
+      {
+        "id": 17980,
+        "idUrl": "passat-28-v6-30v-tiptronic-2003",
+        "nome": "Passat 2.8 V6 30V (Tiptronic)",
+        "ano": 2003
+      },
+      {
+        "id": 17600,
+        "idUrl": "passat-protection-28-v6-30v-tiptronic-2003",
+        "nome": "Passat Protection 2.8 V6 30V (Tiptronic)",
+        "ano": 2003
+      },
+      {
+        "id": 17932,
+        "idUrl": "passat-18-turbo-20v-tiptronic-2003",
+        "nome": "Passat 1.8 Turbo 20V (Tiptronic)",
+        "ano": 2003
+      },
+      {
+        "id": 17939,
+        "idUrl": "passat-18-turbo-20v-2003",
+        "nome": "Passat 1.8 Turbo 20V",
+        "ano": 2003
+      }
+    ],
+    "2004": [
+      {
+        "id": 17599,
+        "idUrl": "passat-protection-28-v6-30v-tiptronic-2004",
+        "nome": "Passat Protection 2.8 V6 30V (Tiptronic)",
+        "ano": 2004
+      },
+      {
+        "id": 17987,
+        "idUrl": "passat-28-v6-30v-tiptronic-2004",
+        "nome": "Passat 2.8 V6 30V (Tiptronic)",
+        "ano": 2004
+      },
+      {
+        "id": 17931,
+        "idUrl": "passat-18-turbo-20v-tiptronic-2004",
+        "nome": "Passat 1.8 Turbo 20V (Tiptronic)",
+        "ano": 2004
+      },
+      {
+        "id": 17938,
+        "idUrl": "passat-18-turbo-20v-2004",
+        "nome": "Passat 1.8 Turbo 20V",
+        "ano": 2004
+      }
+    ],
+    "2005": [
+      {
+        "id": 17602,
+        "idUrl": "passat-protection-28-v6-30v-tiptronic-2005",
+        "nome": "Passat Protection 2.8 V6 30V (Tiptronic)",
+        "ano": 2005
+      },
+      {
+        "id": 17973,
+        "idUrl": "passat-28-v6-30v-tiptronic-2005",
+        "nome": "Passat 2.8 V6 30V (Tiptronic)",
+        "ano": 2005
+      },
+      {
+        "id": 17930,
+        "idUrl": "passat-18-turbo-20v-tiptronic-2005",
+        "nome": "Passat 1.8 Turbo 20V (Tiptronic)",
+        "ano": 2005
+      },
+      {
+        "id": 17945,
+        "idUrl": "passat-18-turbo-20v-2005",
+        "nome": "Passat 1.8 Turbo 20V",
+        "ano": 2005
+      }
+    ],
+    "2006": [
+      {
+        "id": 17925,
+        "idUrl": "passat-20-fsi-tiptronic-2006",
+        "nome": "Passat 2.0 FSI (Tiptronic)",
+        "ano": 2006
+      }
+    ],
+    "2007": [
+      {
+        "id": 17985,
+        "idUrl": "passat-32-v6-fsi-2007",
+        "nome": "Passat 3.2 V6 FSI",
+        "ano": 2007
+      },
+      {
+        "id": 17956,
+        "idUrl": "passat-highline-20-fsi-turbo-2007",
+        "nome": "Passat Highline 2.0 FSI Turbo",
+        "ano": 2007
+      },
+      {
+        "id": 17971,
+        "idUrl": "passat-comfortline-20-fsi-turbo-2007",
+        "nome": "Passat Comfortline 2.0 FSI Turbo",
+        "ano": 2007
+      },
+      {
+        "id": 17926,
+        "idUrl": "passat-20-fsi-tiptronic-2007",
+        "nome": "Passat 2.0 FSI (Tiptronic)",
+        "ano": 2007
+      }
+    ],
+    "2008": [
+      {
+        "id": 17986,
+        "idUrl": "passat-32-v6-fsi-2008",
+        "nome": "Passat 3.2 V6 FSI",
+        "ano": 2008
+      },
+      {
+        "id": 17957,
+        "idUrl": "passat-highline-20-fsi-turbo-2008",
+        "nome": "Passat Highline 2.0 FSI Turbo",
+        "ano": 2008
+      },
+      {
+        "id": 17969,
+        "idUrl": "passat-comfortline-20-fsi-turbo-2008",
+        "nome": "Passat Comfortline 2.0 FSI Turbo",
+        "ano": 2008
+      }
+    ],
+    "2009": [
+      {
+        "id": 17984,
+        "idUrl": "passat-32-v6-fsi-2009",
+        "nome": "Passat 3.2 V6 FSI",
+        "ano": 2009
+      },
+      {
+        "id": 17968,
+        "idUrl": "passat-comfortline-20-fsi-turbo-2009",
+        "nome": "Passat Comfortline 2.0 FSI Turbo",
+        "ano": 2009
+      }
+    ],
+    "2010": [
+      {
+        "id": 17970,
+        "idUrl": "passat-comfortline-20-fsi-turbo-2010",
+        "nome": "Passat Comfortline 2.0 FSI Turbo",
+        "ano": 2010
+      }
+    ],
+    "2011": [
+      {
+        "id": 17924,
+        "idUrl": "passat-20-tsi-dsg-2011",
+        "nome": "Passat 2.0 TSI DSG",
+        "ano": 2011
+      }
+    ],
+    "2013": [
+      {
+        "id": 17923,
+        "idUrl": "passat-20-tsi-dsg-2013",
+        "nome": "Passat 2.0 TSI DSG",
+        "ano": 2013
+      }
+    ],
+    "2014": [
+      {
+        "id": 17922,
+        "idUrl": "passat-20-tsi-dsg-2014",
+        "nome": "Passat 2.0 TSI DSG",
+        "ano": 2014
+      }
+    ],
+    "2015": [
+      {
+        "id": 17936,
+        "idUrl": "passat-20-tsi-dsg-2015",
+        "nome": "Passat 2.0 TSI DSG",
+        "ano": 2015
+      }
+    ],
+    "2016": [
+      {
+        "id": 17783,
+        "idUrl": "passat-highline-20-tsi-dsg-2016",
+        "nome": "Passat Highline 2.0 TSI DSG",
+        "ano": 2016
+      },
+      {
+        "id": 17967,
+        "idUrl": "passat-comfortline-dsg-20-tsi-2016",
+        "nome": "Passat Comfortline DSG 2.0 TSI",
+        "ano": 2016
+      }
+    ],
+    "2017": [
+      {
+        "id": 17782,
+        "idUrl": "passat-highline-20-tsi-dsg-2017",
+        "nome": "Passat Highline 2.0 TSI DSG",
+        "ano": 2017
+      }
+    ],
+    "2018": [
+      {
+        "id": 22172,
+        "idUrl": "passat-highline-20-tsi-dsg-2018",
+        "nome": "Passat Highline 2.0 TSI DSG",
+        "ano": 2018
+      }
+    ]
+  }

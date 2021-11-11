@@ -1,0 +1,154 @@
+{
+    "2012": [
+      {
+        "id": 13914,
+        "idUrl": "308-allure-20-16v-flex-2012",
+        "nome": "308 Allure 2.0 16v (Flex)",
+        "ano": 2012
+      },
+      {
+        "id": 13913,
+        "idUrl": "308-allure-16-16v-flex-2012",
+        "nome": "308 Allure 1.6 16v (Flex)",
+        "ano": 2012
+      }
+    ],
+    "2013": [
+      {
+        "id": 13861,
+        "idUrl": "308-feline-16-thp-aut-2013",
+        "nome": "308 Feline 1.6 THP (Aut)",
+        "ano": 2013
+      },
+      {
+        "id": 13863,
+        "idUrl": "308-griffe-16-thp-aut-2013",
+        "nome": "308 Griffe 1.6 THP (Aut)",
+        "ano": 2013
+      },
+      {
+        "id": 13862,
+        "idUrl": "308-feline-20-16v-flex-aut-2013",
+        "nome": "308 Feline 2.0 16v (Flex) (Aut)",
+        "ano": 2013
+      },
+      {
+        "id": 13888,
+        "idUrl": "308-allure-20-16v-flex-aut-2013",
+        "nome": "308 Allure 2.0 16v (Flex) (Aut)",
+        "ano": 2013
+      },
+      {
+        "id": 13910,
+        "idUrl": "308-active-16-16v-flex-2013",
+        "nome": "308 Active 1.6 16v (Flex)",
+        "ano": 2013
+      }
+    ],
+    "2014": [
+      {
+        "id": 13866,
+        "idUrl": "308-roland-garros-16-thp-aut-2014",
+        "nome": "308 Roland Garros 1.6 THP (Aut)",
+        "ano": 2014
+      },
+      {
+        "id": 13887,
+        "idUrl": "308-allure-20-16v-flex-aut-2014",
+        "nome": "308 Allure 2.0 16v (Flex) (Aut)",
+        "ano": 2014
+      },
+      {
+        "id": 13915,
+        "idUrl": "308-allure-20-16v-flex-2014",
+        "nome": "308 Allure 2.0 16v (Flex)",
+        "ano": 2014
+      },
+      {
+        "id": 13911,
+        "idUrl": "308-active-16-16v-flex-2014",
+        "nome": "308 Active 1.6 16v (Flex)",
+        "ano": 2014
+      }
+    ],
+    "2015": [
+      {
+        "id": 13867,
+        "idUrl": "308-roland-garros-16-thp-aut-2015",
+        "nome": "308 Roland Garros 1.6 THP (Aut)",
+        "ano": 2015
+      },
+      {
+        "id": 13864,
+        "idUrl": "308-griffe-16-thp-aut-2015",
+        "nome": "308 Griffe 1.6 THP (Aut)",
+        "ano": 2015
+      },
+      {
+        "id": 13886,
+        "idUrl": "308-allure-20-16v-flex-aut-2015",
+        "nome": "308 Allure 2.0 16v (Flex) (Aut)",
+        "ano": 2015
+      },
+      {
+        "id": 13865,
+        "idUrl": "308-quiksilver-16-16v-2015",
+        "nome": "308 Quiksilver 1.6 16v",
+        "ano": 2015
+      },
+      {
+        "id": 13912,
+        "idUrl": "308-active-16-16v-flex-2015",
+        "nome": "308 Active 1.6 16v (Flex)",
+        "ano": 2015
+      },
+      {
+        "id": 13889,
+        "idUrl": "308-allure-20-16v-flex-2015",
+        "nome": "308 Allure 2.0 16v (Flex)",
+        "ano": 2015
+      }
+    ],
+    "2016": [
+      {
+        "id": 13907,
+        "idUrl": "308-16-thp-griffe-flex-aut-2016",
+        "nome": "308 1.6 THP Griffe (Flex) (Aut)",
+        "ano": 2016
+      },
+      {
+        "id": 13909,
+        "idUrl": "308-20-16v-allure-flex-aut-2016",
+        "nome": "308 2.0 16v Allure (Flex) (Aut)",
+        "ano": 2016
+      },
+      {
+        "id": 13904,
+        "idUrl": "308-16-16v-allure-flex-2016",
+        "nome": "308 1.6 16v Allure (Flex)",
+        "ano": 2016
+      }
+    ],
+    "2017": [
+      {
+        "id": 13908,
+        "idUrl": "308-16-thp-griffe-flex-aut-2017",
+        "nome": "308 1.6 THP Griffe (Flex) (Aut)",
+        "ano": 2017
+      },
+      {
+        "id": 13905,
+        "idUrl": "308-16-thp-allure-flex-aut-2017",
+        "nome": "308 1.6 THP Allure (Flex) (Aut)",
+        "ano": 2017
+      }
+    ],
+    "2018": [
+      {
+        "id": 22134,
+        "idUrl": "peugeot-308-griffe-16-turbo-at-2018",
+        "nome": "Peugeot 308 Griffe 1.6 Turbo AT",
+        "ano": 2018
+      }
+    ]
+  }
